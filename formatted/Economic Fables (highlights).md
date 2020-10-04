@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Ariel Rubinstein](<Ariel Rubinstein.md>)
+- **[Full Title](<Full Title.md>):** Economic Fables
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51al%2Bp0Nt0L._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - Parcels for the evening ([Location 142](https://readwise.io/to_kindle?action=open&asin=B00804MR7M&location=142))

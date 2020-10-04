@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Napoleon A. Chagnon](<Napoleon A. Chagnon.md>)
+- **[Full Title](<Full Title.md>):** Noble Savages
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51CkUN0UkeL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - three months at a time. A few trips were just a couple of weeks or so. I visited and lived among them during all months ([Location 116](https://readwise.io/to_kindle?action=open&asin=B006VJN2FE&location=116))

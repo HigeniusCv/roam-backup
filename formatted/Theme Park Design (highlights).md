@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Steve Alcorn](<Steve Alcorn.md>)
+- **[Full Title](<Full Title.md>):** Theme Park Design
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51D%2BhTR5xlL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - are rarely ([Location 1315](https://readwise.io/to_kindle?action=open&asin=B004IZLJL2&location=1315))
+        - **Tags**: #[blue](<blue.md>)

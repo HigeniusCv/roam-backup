@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Lionel Shriver](<Lionel Shriver.md>)
+- **[Full Title](<Full Title.md>):** The Mandibles
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41TfxCynvCL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - Duh. Willing seemed so subdued and unassuming at school, but behind closed doors that kid could get a bit full of himself. “By the way, I’ve arranged to talk to my sister after dinner,” she told Esteban as he reached for a cold beer. “So I hope you don’t mind doing the dishes.” “Let me use real water, I’ll do the dishes every night.” “The gray is real enough, just not especially clear.” She didn’t want to have this battle every evening, and was relieved that he changed the subject as the pork sizzled. “Met this afternoon ([Location 470](https://readwise.io/to_kindle?action=open&asin=B01824RDKK&location=470))
+        - **Tags**: #[pink](<pink.md>)

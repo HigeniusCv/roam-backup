@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Antonio Garcia Martinez](<Antonio Garcia Martinez.md>)
+- **[Full Title](<Full Title.md>):** Chaos Monkeys
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51FAKHDS4WL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - from the Internet ecosystem, off on some island under its own complete control. Via two different technical mechanisms—one roughly ([Location 400](https://readwise.io/to_kindle?action=open&asin=B019MMUAAQ&location=400))

@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Dan Lyons](<Dan Lyons.md>)
+- **[Full Title](<Full Title.md>):** Disrupted
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51q2mafSTkL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - happy hour ([Location 109](https://readwise.io/to_kindle?action=open&asin=B013CATZIC&location=109))

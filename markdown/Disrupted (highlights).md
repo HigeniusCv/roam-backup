@@ -1,0 +1,6 @@
+- Author:: [[Dan Lyons]]
+- Full Title:: Disrupted
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51q2mafSTkL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - happy hour ([Location 109](https://readwise.io/to_kindle?action=open&asin=B013CATZIC&location=109))

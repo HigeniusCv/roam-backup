@@ -1,0 +1,15 @@
+- Author:: [[Elizabeth Grace Saunders]]
+- Full Title:: How to Invest Your Time Like Money
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41zOzd9WEiL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - resource, and unless it is managed nothing ([Location 24](https://readwise.io/to_kindle?action=open&asin=B00RZZA64I&location=24))
+        - **Tags**: #[[blue]]
+    - gratifying? Most time management methodologies fail to give ([Location 30](https://readwise.io/to_kindle?action=open&asin=B00RZZA64I&location=30))
+        - **Tags**: #[[blue]]
+    - time ([Location 36](https://readwise.io/to_kindle?action=open&asin=B00RZZA64I&location=36))
+        - **Tags**: #[[blue]]
+    - chapters, I’m going to reveal the time investment strategies that have transformed thousands of people’s lives. ([Location 59](https://readwise.io/to_kindle?action=open&asin=B00RZZA64I&location=59))
+        - **Tags**: #[[blue]]
+    - change in your life that we both want to witness, we first need to tackle three common subconscious barriers ([Location 60](https://readwise.io/to_kindle?action=open&asin=B00RZZA64I&location=60))
+        - **Tags**: #[[blue]]

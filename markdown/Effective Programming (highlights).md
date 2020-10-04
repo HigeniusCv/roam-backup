@@ -1,0 +1,7 @@
+- Author:: [[Jeff Atwood (Coding Horror)]]
+- Full Title:: Effective Programming
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51RB0YekufL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - ideas. By persuading other people, they get leverage. By ([Location 224](https://readwise.io/to_kindle?action=open&asin=B008HUMTO0&location=224))
+    - the course of the past 5 months all the answers I’ve been writing have been more and more refined in terms of the quality. If I don’t end up as the top answer I look at the answer that did and study what they did differently and where I faltered. Was I too verbose or was I too terse? ([Location 245](https://readwise.io/to_kindle?action=open&asin=B008HUMTO0&location=245))

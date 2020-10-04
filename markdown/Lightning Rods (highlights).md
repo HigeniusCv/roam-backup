@@ -1,0 +1,6 @@
+- Author:: [[Helen DeWitt]]
+- Full Title:: Lightning Rods
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51yqFdB0ftL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - office. Geographically speaking, it ([Location 35](https://readwise.io/to_kindle?action=open&asin=B005SH4M5Y&location=35))

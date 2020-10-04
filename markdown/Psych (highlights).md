@@ -1,0 +1,6 @@
+- Author:: [[Judd Biasiotto]]
+- Full Title:: Psych
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41kNVXEcqjL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - I’m not going to do this, for the simple ([Location 123](https://readwise.io/to_kindle?action=open&asin=B00AEGSUQQ&location=123))

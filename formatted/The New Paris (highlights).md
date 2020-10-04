@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Lindsey Tramuta and Charissa Fay](<Lindsey Tramuta and Charissa Fay.md>)
+- **[Full Title](<Full Title.md>):** The New Paris
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/61nOLGV8yOL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - cooking should ([Location 211](https://readwise.io/to_kindle?action=open&asin=B01MEFM9PW&location=211))
+        - **Tags**: #[orange](<orange.md>)

@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Russ Harris and Steven Hayes](<Russ Harris and Steven Hayes.md>)
+- **[Full Title](<Full Title.md>):** The Happiness Trap
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41BgFQraPtL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - feeling good can be a very unhappy pursuit. It is not by accident that drug users call their methods of doing so a “fix”—because they are chemically trying to hold something in place. Like a butterfly pinned to a table, however, happiness dies unless it is held lightly. Drug abusers are not the only ones. In the name of producing an emotional result we call happiness, most of us tend to engage in behavior that is the exact opposite and then feel awful and inadequate ([Location 124](https://readwise.io/to_kindle?action=open&asin=B004XI12O8&location=124))

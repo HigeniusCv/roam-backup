@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Marc Eliot and Mike Appel](<Marc Eliot and Mike Appel.md>)
+- **[Full Title](<Full Title.md>):** Down Thunder Road
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/5118Eub4cnL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - predecessors. Springsteen combined Presley’s ([Location 181](https://readwise.io/to_kindle?action=open&asin=B00FE6P32K&location=181))
+    - New York. The Diplomat Hotel. I don’t think there was an occasion at the time. We ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00FE6P32K&location=318))

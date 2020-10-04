@@ -1,0 +1,6 @@
+- Author:: [[Marc Spitz]]
+- Full Title:: Poseur
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51nvN1iE%2BdL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - world ever gets what they want and that is beautiful. Everybody dies frustrated and sad and that is beautiful.” ([Location 30](https://readwise.io/to_kindle?action=open&asin=B00B77AF00&location=30))

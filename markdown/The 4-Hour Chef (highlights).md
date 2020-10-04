@@ -1,0 +1,77 @@
+- Author:: [[Timothy Ferriss]]
+- Full Title:: The 4-Hour Chef
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51pPn2LkI8L._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - asked her to bring out a small amount, even a single leaf, of any unfamiliar ingredients, to taste alone before having them in complete dishes. This is what she brought: ([Location 951](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=951))
+        - **Tags**: #[[blue]]
+    - They like people who care. Deconstructing in this fashion was like pressing fast-forward on developing a palate. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=975))
+        - **Tags**: #[[blue]]
+    - “Not all taste buds are located on the tongue. Some are found on the roof of the mouth and in the throat. ([Location 989](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=989))
+        - **Tags**: #[[blue]]
+    - Capsaicin is fat-soluble. ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=1034))
+        - **Tags**: #[[blue]]
+    - play with foodpairing.be, which is based on the Volatile Compounds in Food (VCF) database. ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=1035))
+        - **Tags**: #[[blue]]
+    - mango alone.” (Delicious.) “Shake on some cayenne powder and try again.” (Wow, even more delicious.) “Now put on some sea salt.” (Incredible and by far the best.) ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=1048))
+        - **Tags**: #[[blue]]
+    - Braising, as our first example, typically involves the following steps: 1. Brown the outside of the meat, then remove. 2. Sauté mirepoix (carrots, onions, celery) in the same pan. 3. Return meat to pan. 4. Add enough liquid to cover ⅓–⅔ of the meat. Much like Toyota removed steps to make “lean manufacturing ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=1166))
+        - **Tags**: #[[blue]]
+    - can eliminate steps one and two. ([Location 1174](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=1174))
+        - **Tags**: #[[blue]]
+    - years of behavioral psychology in two words, it would be: “logic fails. ([Location 1359](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=1359))
+        - **Tags**: #[[blue]]
+    - EVOO doesn’t play well with light, so ixnay on clear glass or plastic containers. ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2412))
+        - **Tags**: #[[blue]]
+    - Clarified means the milk solids have been removed, making ghee slow-carb, rich, ([Location 2427](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2427))
+        - **Tags**: #[[blue]]
+    - Tamari has little or no wheat, and is therefore slow-carb-compliant soy sauce. We ([Location 2463](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2463))
+        - **Tags**: #[[blue]]
+    - “I use lemon like I use salt. ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2466))
+        - **Tags**: #[[blue]]
+    - Buy peppercorns in bulk bags so you can smell them. If they’re musty like corked wine, don’t buy ’em. Marcella Hazan, the godmother of Italian cooking, favors the Tellicherry ([Location 2469](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2469))
+        - **Tags**: #[[blue]]
+    - SHERRY VINEGAR + CHAMPAGNE VINEGAR Since most “balsamic” vinegars are impostors, I suggest switching to this dynamic duo. ([Location 2472](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2472))
+        - **Tags**: #[[blue]]
+    - Eating any five of the below 12 will give you a liver-spanking 14 pesticides. ([Location 2483](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2483))
+        - **Tags**: #[[blue]]
+    - 90%. ([Location 2502](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2502))
+        - **Tags**: #[[blue]]
+    - Since tomatoes go bad quickly, I buy San Marzano canned tomatoes, ideally diced, 2 ([Location 2540](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2540))
+        - **Tags**: #[[blue]]
+    - all gear, visit fourhourchef.com/gear ([Location 2629](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2629))
+        - **Tags**: #[[blue]]
+    - TOWELS Lint-Free Surgical Huck Towels ([Location 2632](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2632))
+        - **Tags**: #[[blue]]
+    - $12/dozen ($1 each) $57/100 ($.57 each) Forget about oven mitts and pot holders. The pros use folded towels for just about everything, and using them will teach you a lot. ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2633))
+        - **Tags**: #[[blue]]
+    - PanSaver EZ Clean Cooking Bags/Liners $11 for 25 ([Location 2668](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2668))
+        - **Tags**: #[[blue]]
+    - Rada Cutlery Chef’s Dicer $7 ([Location 2671](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2671))
+        - **Tags**: #[[blue]]
+    - OXO Good Grips Locking Tongs, 12" $10 ([Location 2769](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2769))
+        - **Tags**: #[[blue]]
+    - Stainless-Steel Mixing Bowls $10 ([Location 2782](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2782))
+        - **Tags**: #[[blue]]
+    - ThermoWorks The Original Cooking Thermometer/Timer $19 ([Location 2806](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2806))
+        - **Tags**: #[[blue]]
+    - model with a 2–3 cup “chopper” attachment, you have a mini food processor that’s easier to clean than full-size processors! ([Location 2819](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2819))
+    - Professional Aluminum Stockpot $35 (lid sold separately) ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2824))
+        - **Tags**: #[[blue]]
+    - Grapefruit Seed Extract $8 (2 oz) ([Location 2847](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2847))
+        - **Tags**: #[[blue]]
+    - Unicorn Magnum Pepper Mill $35 I never thought this mill could live up to its hype. ([Location 2860](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2860))
+        - **Tags**: #[[blue]]
+    - Anchor Purity Wrap $13 Plastic wrap, such ([Location 2876](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2876))
+        - **Tags**: #[[blue]]
+    - Whitmor Supreme Cart $37 (3-tier) ([Location 2881](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2881))
+        - **Tags**: #[[blue]]
+    - a few S-hooks to the sides (pot rack hooks are even better), from which I can hang pans, towels, and ([Location 2887](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2887))
+        - **Tags**: #[[blue]]
+    - iSi Silicone Scraper Spatula ([Location 2900](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2900))
+        - **Tags**: #[[blue]]
+    - Zoo Med Laboratories Stainless-Steel Feeding Tongs (10") $8 Ever seen ([Location 2915](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2915))
+        - **Tags**: #[[blue]]
+    - Weber Smokey Mountain Cooker 18 ½ " Smoker $300 The highest-rated cooker ([Location 2986](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=2986))
+        - **Tags**: #[[blue]]
+    - refer to books like La Varenne Pratique), but rather to fill a few important gaps in your repertoire. To that end, we’ll start where thousands of dishes start: soffritto. The Classics LESSON ([Location 9899](https://readwise.io/to_kindle?action=open&asin=B005NJU8PA&location=9899))

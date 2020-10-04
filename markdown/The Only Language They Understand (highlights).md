@@ -1,0 +1,9 @@
+- Author:: [[Nathan Thrall]]
+- Full Title:: The Only Language They Understand
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51s8sQUCXQL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - wrote of Jordan’s King Hussein ([Location 115](https://readwise.io/to_kindle?action=open&asin=B01KFWXADG&location=115))
+        - **Tags**: #[[pink]]
+    - Weizman, a combat pilot and former deputy ([Location 166](https://readwise.io/to_kindle?action=open&asin=B01KFWXADG&location=166))
+        - **Tags**: #[[pink]]

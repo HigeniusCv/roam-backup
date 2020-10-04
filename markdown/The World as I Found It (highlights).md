@@ -1,0 +1,7 @@
+- Author:: [[Bruce Duffy and David Leavitt]]
+- Full Title:: The World as I Found It
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51Ky3xLp3jL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - Hapsburg ([Location 554](https://readwise.io/to_kindle?action=open&asin=B005UF5NJI&location=554))
+    - in outlook, ([Location 556](https://readwise.io/to_kindle?action=open&asin=B005UF5NJI&location=556))

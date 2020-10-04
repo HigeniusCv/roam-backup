@@ -1,0 +1,7 @@
+- Author:: [[David Sacks, Peter Thiel, and Elizabeth Fox-Genovese]]
+- Full Title:: Diversity Myth
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51hxDy8OrfL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - multicultural community would serve ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00SQLF352&location=454))
+        - **Tags**: #[[orange]]

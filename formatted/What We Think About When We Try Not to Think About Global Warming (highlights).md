@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Per Espen Stoknes and Jorgen Randers](<Per Espen Stoknes and Jorgen Randers.md>)
+- **[Full Title](<Full Title.md>):** What We Think About When We Try Not to Think About Global Warming
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/519uy79z64L._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - information onto ([Location 117](https://readwise.io/to_kindle?action=open&asin=B00UK3CBFE&location=117))

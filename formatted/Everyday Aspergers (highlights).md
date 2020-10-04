@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Samantha Craft](<Samantha Craft.md>)
+- **[Full Title](<Full Title.md>):** Everyday Aspergers
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41yK4zxVXzL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - tell the truth, be there when needed, and won’t backstab you or let you down intentionally. That’s one of the qualities I think is super fabulous about me. I’m not only super trusting but you can trust me. It works both ways, you know? I’m still learning the whole thingamajig (Hey, that’s a real word and I ([Location 365](https://readwise.io/to_kindle?action=open&asin=B01IGE6ZBE&location=365))

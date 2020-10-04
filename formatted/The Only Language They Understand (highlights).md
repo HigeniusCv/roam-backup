@@ -1,0 +1,9 @@
+- **[Author](<Author.md>):** [Nathan Thrall](<Nathan Thrall.md>)
+- **[Full Title](<Full Title.md>):** The Only Language They Understand
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51s8sQUCXQL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - wrote of Jordan’s King Hussein ([Location 115](https://readwise.io/to_kindle?action=open&asin=B01KFWXADG&location=115))
+        - **Tags**: #[pink](<pink.md>)
+    - Weizman, a combat pilot and former deputy ([Location 166](https://readwise.io/to_kindle?action=open&asin=B01KFWXADG&location=166))
+        - **Tags**: #[pink](<pink.md>)

@@ -1,0 +1,6 @@
+- Author:: [[Ariel Rubinstein]]
+- Full Title:: Economic Fables
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51al%2Bp0Nt0L._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - Parcels for the evening ([Location 142](https://readwise.io/to_kindle?action=open&asin=B00804MR7M&location=142))

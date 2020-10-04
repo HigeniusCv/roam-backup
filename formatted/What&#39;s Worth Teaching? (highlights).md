@@ -1,0 +1,8 @@
+- **[Author](<Author.md>):** [Allan Collins](<Allan Collins.md>)
+- **[Full Title](<Full Title.md>):** What&[39](<39.md>);s Worth Teaching?
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51%2BvhGqfaBL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - rethinking ([Location 146](https://readwise.io/to_kindle?action=open&asin=B0722KSRVF&location=146))
+    - learn about ([Location 259](https://readwise.io/to_kindle?action=open&asin=B0722KSRVF&location=259))
+    - the standard ([Location 273](https://readwise.io/to_kindle?action=open&asin=B0722KSRVF&location=273))

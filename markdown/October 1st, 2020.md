@@ -1,0 +1,81 @@
+- Biz
+    - Move off squarespace
+        - killed zummercamp, built an alternate wix
+            - need to get re-direct, perhaps update FB
+        - HiGeni.us 
+        - Motivation Engineers
+            - Add portfolio link
+    - No code exercises & experiments
+        - GuidedTrack
+            - Learn to run experiments
+            - Plug into MTurk
+        - ROAM - ramp up to proficiency
+    - Coursera R studio - beginner
+        - learn from Uri & Ryan Ritter
+    - Yak Collective
+        - {{[[TODO]]}} [[QTiny]] design fiction
+        - Governance 
+        - Seek developer and design collaborators
+    - Deepen collabor with DF
+    - Mentoring 
+        - via uxr-design list
+        - elsewhere
+    - Conference presentations 
+        - low-bar webinars
+        - translate decks into youtube talks
+        - Write blogs
+    - Light management for zoom
+    - Sound management & recording 
+        - 
+- Experiments to explore
+    - MTurk solo
+    - Replicate Delmore
+    - Validate Flow metric on real experiences
+    - Develop bespoke studies to get consulting
+        - SalesForce
+        - Miracle Gro e.g.
+        - Grammarly
+    - Examine Nir's blog for empirical testing
+- Writing topics [[blog]] Build an inventory 
+    - Notes pumped in 
+        - From Kindle - premium pump
+        - From audiobooks - Libby?
+    - Translate Tapeworm squibs
+    - Shapa Unboxed for Behavior Engineering
+    - Post to uxr and twitter to prioritize
+- Self-development
+    - More camping - state parks near & far
+    - Bike repair
+        - Calibrate derailleurs
+        - Align brakes
+        - Install panniers
+        - Sell fixed up bikes
+    - Drawing practice - 5 mins 3X/week
+    - Learn handyman fixit skills on YT
+        - Plumbing
+        - Electrical
+        - Housepainting
+        - Knots - learn more
+    - Cooking skills - vegetarian
+    - Improv classes and trooping
+    - Magic trick with kids
+- Money pare down
+    - Borrow 50K from 401k - 
+    - Reduce burn rate to 4k
+        - {{[[TODO]]}} Cancel Sapphire card by Oct 6 
+        - mortgage & other fixed costs
+        - dumpster dive to replace food
+        - get government cheese
+- House projects
+    - Refresh paint indoors
+    - Muffle sound 
+        - Add more drywall before painting
+        - textiles to put over doors that can be draped
+    - Outdoor house paint - couples counsel
+        - Hire a color consultant
+    - Fix broken branch
+    - Update electricity in house & shack
+    - Transform grotto
+        - Look into Youtube first to scope
+    - Partition home into more distinct rooms
+- 

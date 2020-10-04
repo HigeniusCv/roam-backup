@@ -1,0 +1,7 @@
+- Author:: [[Marc Eliot and Mike Appel]]
+- Full Title:: Down Thunder Road
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/5118Eub4cnL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - predecessors. Springsteen combined Presley’s ([Location 181](https://readwise.io/to_kindle?action=open&asin=B00FE6P32K&location=181))
+    - New York. The Diplomat Hotel. I don’t think there was an occasion at the time. We ([Location 318](https://readwise.io/to_kindle?action=open&asin=B00FE6P32K&location=318))

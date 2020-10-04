@@ -1,0 +1,7 @@
+- Author:: [[Gregory Berns]]
+- Full Title:: How Dogs Love Us
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51O0mODVKEL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - Their large heads, with pushed-in noses and bulbous eyes, were almost human—a sort of baby substitute. We named our new puppy Newton. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B00CLIK6NA&location=126))
+    - What I really would have liked to know was whether he truly returned my feelings toward him. But I would have needed some sort of canine brain ([Location 159](https://readwise.io/to_kindle?action=open&asin=B00CLIK6NA&location=159))

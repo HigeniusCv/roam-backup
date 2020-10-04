@@ -1,0 +1,13 @@
+- Author:: [[Vladimir Bukovsky and Michael Scammell]]
+- Full Title:: To Build a Castle
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51uGU0nl%2BbL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - hearth and ([Location 435](https://readwise.io/to_kindle?action=open&asin=B06XDSCM3B&location=435))
+    - steel ourselves ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B06XDSCM3B&location=1014))
+    - not my ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B06XDSCM3B&location=1098))
+    - nothing I can do to change it. ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B06XDSCM3B&location=1098))
+    - “ ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B06XDSCM3B&location=1291))
+    - all ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B06XDSCM3B&location=1297))
+    - have called this ([Location 1624](https://readwise.io/to_kindle?action=open&asin=B06XDSCM3B&location=1624))
+        - **Tags**: #[[orange]]

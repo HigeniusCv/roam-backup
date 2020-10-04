@@ -1,0 +1,7 @@
+- Author:: [[Ken Binmore]]
+- Full Title:: Rational Decisions
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51kmj2W2dOL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - Equally irrational is the kind of optimism that Voltaire was mocking ([Location 191](https://readwise.io/to_kindle?action=open&asin=B004VN7JKQ&location=191))
+    - precisely the ([Location 226](https://readwise.io/to_kindle?action=open&asin=B004VN7JKQ&location=226))

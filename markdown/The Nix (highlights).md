@@ -1,0 +1,7 @@
+- Author:: [[Nathan Hill]]
+- Full Title:: The Nix
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51NJaQLLYUL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - an elephant. To some of the blind men he presented the head of the elephant, to some the ear, to others a tusk, the trunk, ([Location 167](https://readwise.io/to_kindle?action=open&asin=B01A4B1PEE&location=167))
+    - jar.” Those who had been shown the ear replied, “An elephant is just ([Location 171](https://readwise.io/to_kindle?action=open&asin=B01A4B1PEE&location=171))

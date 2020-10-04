@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Shulem Deen ](<Shulem Deen .md>)
+- **[Full Title](<Full Title.md>):** All Who Go Do Not Return
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51K%2BA-HrUGL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - I ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00LRWK334&location=270))

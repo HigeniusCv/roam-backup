@@ -1,0 +1,8 @@
+- Author:: [[Allan Collins]]
+- Full Title:: What&#39;s Worth Teaching?
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51%2BvhGqfaBL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - rethinking ([Location 146](https://readwise.io/to_kindle?action=open&asin=B0722KSRVF&location=146))
+    - learn about ([Location 259](https://readwise.io/to_kindle?action=open&asin=B0722KSRVF&location=259))
+    - the standard ([Location 273](https://readwise.io/to_kindle?action=open&asin=B0722KSRVF&location=273))

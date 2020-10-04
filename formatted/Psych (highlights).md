@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Judd Biasiotto](<Judd Biasiotto.md>)
+- **[Full Title](<Full Title.md>):** Psych
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41kNVXEcqjL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - I’m not going to do this, for the simple ([Location 123](https://readwise.io/to_kindle?action=open&asin=B00AEGSUQQ&location=123))

@@ -1,0 +1,6 @@
+- Author:: [[Wayne D. Cottrell]]
+- Full Title:: Best Bike Rides San Francisco
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/512AAb6cD5L._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - layer of clothing than ([Location 173](https://readwise.io/to_kindle?action=open&asin=B00PC0B38Q&location=173))

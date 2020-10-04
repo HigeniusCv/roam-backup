@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Adrienne M. Harrison](<Adrienne M. Harrison.md>)
+- **[Full Title](<Full Title.md>):** A Powerful Mind
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/5130YIbc5tL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - abilities as a scholar and educator were greatly ([Location 118](https://readwise.io/to_kindle?action=open&asin=B015GLKAK2&location=118))

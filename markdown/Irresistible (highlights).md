@@ -1,0 +1,7 @@
+- Author:: [[Adam Alter]]
+- Full Title:: Irresistible
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41gW5ttHucL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - But he refused to let his kids use the device. ([Location 67](https://readwise.io/to_kindle?action=open&asin=B01HNJIK70&location=67))
+    - never allowed to use screens in their bedrooms. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B01HNJIK70&location=72))

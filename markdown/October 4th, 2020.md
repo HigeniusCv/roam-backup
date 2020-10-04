@@ -1,0 +1,25 @@
+- Topics for blogs
+    - Zelig or Forrest Gump - my life as a fameball
+        - Bystander to the Silivalley Renaissance
+- Lessons from combining BEcon + UXR
+- Portfolio Wins
+    - Control the sequence of obligatory tasks
+    - Click through Retirement - someone like you
+    - Misattributed Mistakes as Motivator to complete form
+    - 
+    - 
+- Physical Intelligence & What a body can do
+- How emotions are made
+    - Anxiety equivalence as a stress releasor
+- Volitional management at Yak C
+- Anger Men & Shit testing
+- Epicurean vs Stoic Dads
+- Channel factors for Higenius
+- GPT-3 style IQs
+- Singular religions
+- Biophilia indoors & out
+- Shapa BEngineering
+- Do the Durgs Work
+- Intermittently IFasting
+    - invalid 12-8 study
+- Scouts, Soldiers, and Salesmen

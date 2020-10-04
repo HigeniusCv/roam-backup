@@ -1,0 +1,6 @@
+- Author:: [[Per Espen Stoknes and Jorgen Randers]]
+- Full Title:: What We Think About When We Try Not to Think About Global Warming
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/519uy79z64L._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - information onto ([Location 117](https://readwise.io/to_kindle?action=open&asin=B00UK3CBFE&location=117))

@@ -1,0 +1,8 @@
+- **[Author](<Author.md>):** [John D. (John Davison) Rockefeller](<John D. (John Davison) Rockefeller.md>)
+- **[Full Title](<Full Title.md>):** Random Reminiscences of Men and Events
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51hW%2BTKJyoL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - upon in an emergency—was ([Location 334](https://readwise.io/to_kindle?action=open&asin=B004UJNMFW&location=334))
+    - and its ([Location 760](https://readwise.io/to_kindle?action=open&asin=B004UJNMFW&location=760))
+    - exchange; and ([Location 764](https://readwise.io/to_kindle?action=open&asin=B004UJNMFW&location=764))

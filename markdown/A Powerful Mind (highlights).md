@@ -1,0 +1,6 @@
+- Author:: [[Adrienne M. Harrison]]
+- Full Title:: A Powerful Mind
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/5130YIbc5tL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - abilities as a scholar and educator were greatly ([Location 118](https://readwise.io/to_kindle?action=open&asin=B015GLKAK2&location=118))

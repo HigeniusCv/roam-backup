@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Bruce Duffy and David Leavitt](<Bruce Duffy and David Leavitt.md>)
+- **[Full Title](<Full Title.md>):** The World as I Found It
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51Ky3xLp3jL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - Hapsburg ([Location 554](https://readwise.io/to_kindle?action=open&asin=B005UF5NJI&location=554))
+    - in outlook, ([Location 556](https://readwise.io/to_kindle?action=open&asin=B005UF5NJI&location=556))

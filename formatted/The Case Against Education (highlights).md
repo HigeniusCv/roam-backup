@@ -1,0 +1,9 @@
+- **[Author](<Author.md>):** [Bryan Caplan](<Bryan Caplan.md>)
+- **[Full Title](<Full Title.md>):** The Case Against Education
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51o9uSnv%2BZL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - autodidacts who have lent me their insight, especially John Alcorn, Joseph Altonji, Omar Al-Ubaydli, Chris Andrew, Kartik Athreya, Michael Bailey, David Balan, Patrick Bayer, Jere Behrman, Truman Bewley, David Bills, Pete ([Location 149](https://readwise.io/to_kindle?action=open&asin=B076ZY8S8J&location=149))
+        - **Tags**: #[blue](<blue.md>)
+    - education funding “investment in people” without hinting that education might be anything else. We see human capital purism whenever social scientists measure the effect of education on earnings, then call it “the effect of education on skill.” We see human capital purism whenever teachers or parents end an educational sermon with, “Schools teach kids what they need to know when they grow up.” At this point, one could object, “Though education teaches few practical skills, that hardly makes it wasteful. By your own admission, education serves a vital function: certifying the quality of labor. That’s useful, isn’t it?” Indeed. However, ([Location 232](https://readwise.io/to_kindle?action=open&asin=B076ZY8S8J&location=232))
+        - **Tags**: #[blue](<blue.md>)

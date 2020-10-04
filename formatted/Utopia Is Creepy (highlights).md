@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Nicholas Carr](<Nicholas Carr.md>)
+- **[Full Title](<Full Title.md>):** Utopia Is Creepy
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51jNeiKX%2BwL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - of 2005, Web 2.0 arrived. ([Location 123](https://readwise.io/to_kindle?action=open&asin=B01BX7S1DG&location=123))
+    - hungry. Sites like MySpace, Flickr, LinkedIn, ([Location 124](https://readwise.io/to_kindle?action=open&asin=B01BX7S1DG&location=124))

@@ -1,0 +1,6 @@
+- Author:: [[Holly George-Warren ]]
+- Full Title:: A Man Called Destruction
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51k7UIQNZRL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[September 3rd, 2020]]
+    - don’t, really, and now I don’t wish ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00DMCUZ08&location=216))

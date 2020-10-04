@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Jocko Willink](<Jocko Willink.md>)
+- **[Full Title](<Full Title.md>):** Way of the Warrior Kid
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/512WeIf7n7L._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - we?” “Yes, ([Location 236](https://readwise.io/to_kindle?action=open&asin=B01MR6ZCK0&location=236))
+        - **Tags**: #[pink](<pink.md>)

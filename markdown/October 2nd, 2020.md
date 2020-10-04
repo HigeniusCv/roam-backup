@@ -1,0 +1,112 @@
+- Just learning about how to use this as a dumping ground for all my thoughts. I've typically been practicing morning journaling 4/7 of days. so here's the first time I'm going to try ROAM rather than free hand
+    - Last night, Mir and I had a productive, relatievley un-contentious conversation while the kids were watching the last of the NFL game.
+    - Topic: Musical beds, and how I want to respond to the feeling I have that I'm exiled to the [[2d best bed]]
+        - We've had conflicts when
+            - I tried to go to bed at nearly the same hour as her on Monday, since she shared how hysteresis and history made it impossible for her to relax as she went through her going down routine
+            - Weds night, at 12;30, Y was already in my space. I tried to get him to wake enough to move him to the 2d best bed. As he resisted, Mir awoke and said she preferred he stay.
+                - As I went away, my feelings were so turbulent that I couldn't go to sleep
+                - After ruminating a few minutes, I went back and turned on the overhead light, fully waking her, to remind her that we said we would address this problem. I disrupted her sleep because I felt that otherwise, the conflict avoidance over this would end up never responding
+                - I can't recall her response, but our interaction was brief, as all I wanted to accomplish was insisting this not be ignored, and I said we must talk about this when we were both rested
+    - The conversation last night built on the phone call initiated by Mir at 10:40am
+        - During that exchange, I read my journal from Thurs morning. Key points
+            - Our history is on me, and if I've not fully repaired her trust in me, it's not emotionally intelligent or productive to use that as a trigger for ire
+            - Her sensitivity can detect circumstances where I'm holding my tongue, gritting my teeth, restraining my irritation
+                - Unless and until I can be calm enough to converse smoothly on difficult topics, without some subterranean resentment, the idea that I'm being unfairly excluded is arrogant
+            - Reading the journal entry took more than the allotment of 3 minutes share, but she listened to the whole thing (5 mins)
+    - In the evening, it felt that we were ready to explore practical responses
+        - The discussion had followed the end of the Anger Man session, and the opening for us had been that we had a flare up in the monkey house
+        - When it came to our family, I repeated some of the points about not being given a pass if I repress anger. 
+        - My ask: I don't like going up to sleep and finding my spot already occupied. If we explain to the kids that they can't come up to sleep in "our" bed before I have gotten a chance to fall asleep, they should be turned away.
+            - The boys seem to recognize some of the subtleties here, that I am fighting to be granted some space of my own. There's a comic dimension they see, but also the denigration of my status is a recurrent theme.
+            - Their own bedding situation is not adequate to their growning bodies. They still usually bed down together in the bottom bunk, and that may amplify the likelihood of their coming up
+            - When I was going down last night at 11;30, Yair had just gotten up to pee, and he didn't object to being turned away from running upstairs. 
+    - Last night, my sleep was pretty good. Yair did wake up again around an hour later, and then, I swapped out to the 2BB. My sleep tracker indicates that I woke again at 3;30, when B must have come up to cuddle with me.
+- [[GTD]] and [[Rationality]] coaching session today at 2pm with Lynette Bye
+    - Set this up after WaPo article on EA https://www.washingtonpost.com/magazine/2020/09/23/effective-altruism-charity/?arc404=true
+        - The actions we take really shape how we see ourselves,” he says. “Forty years of inaction goes by and you no longer see yourself as that idealistic version of yourself.”
+        - It aims to bring rationality to what people choose to care about
+        - This is the linkage: “our most likely executioner is artificial intelligence”
+        - Here’s a house that could be your study topic: Lynette Bye lives in a house of them in Berkeley, Calif. The 27-year-old works as a productivity coach for effective altruists Her housemates have included a few in artificial intelligence safety and two software engineers earning money so that they can donate it
+    - I've a bunch of post-its that were motivated by preparing for this session
+    - My A1 is making money now, and getting a job before my burn rate crosses the zero line
+    - [[BASB]] [[Building a Second Brain]] has loomed over this, as it's integrated with ROAM, and is a feeder into David Perell's [[Write of Passage]] - these courses are significant time & money investments. Given the BASB is over $1K, that bounds how much I could pay Lynette Bye to coach me without exceeding the original stake.
+    - Meeting with Lynette Bye 
+        - Overarching Goal:
+            -  Prioritize work that will get me clients or full-time job
+        - # {{[[TODO]]}} Before the call on 10/9 
+        - How did your action items from our last call 10/2 go?
+        - __If you didn’t complete some, why not? __
+        - What do you want to get out of this call?
+        - __What would you like to talk about today? What would most increase your productivity this week?__
+        - (Optional) Are there any important takeaways from the last call that you want to remember?
+        - __Or habits that worked particularly well?__
+        - ____________________________________________________________________________
+        - **10/2**
+        - **Discussion notes**
+        - __Notes are to be added during the call by both the coach and the coachee.__
+            - Goal setting cascade?
+            - GTD system to manage?
+            - Financial penalties?
+            - Stickk for weekly planning?
+        - **Goals**
+        - __Plans for what we will work on together. These are to be added during the call by both the coach and the coachee.__
+            - Set clear goals with deadlines for the next quarter
+            - Set weekly planning habits
+            - Set up commitment devices to keep you on track
+        - **Action items**
+        - __Plans for what you will do after the call. These are to be added during the call by both the coach and the coachee.__
+            - {{[[TODO]]}} Create a list of people you’re connected to through Linkedin
+            - {{[[TODO]]}} Get better at Roam: keep daily notes in Roam, import all your previous notes to Roam, create blocks of presentations you can reuse
+            - {{[[TODO]]}} Create an assessment of flow for Salesforce, use as a calling card
+            - {{[[TODO]]}} Sandbox small studies within Mturk account, learn how to use it: Run ten hits with a simple flow metric
+            - {{[[TODO]]}} Create a list of topics to write about
+            - {{[[TODO]]}} Write for 2 hours per day
+        - Prior to 10/2 call **What is your current situation?**
+        - __What is your background and what are you doing now?__
+        - I’ve never had great productivity skills. Last year I learned that working closely with a team in the same office was maximally motivating. (That’s obsolete today)
+        - I’ve a career as a consultant in the user-experience side of tech. I trained in experimental psychology at Stanford (‘00). During 2020, I’ve only had 2 small clients, after a full 2019. Taking interviews now for a full-time job if there’s a fit.
+        - Fairly healthy habits: Waking Up meditating for ~2 years; 7 hours sleep/avg; exercise some; happily parenting twin boys (aged 13) with my wife, who teaches at Cal; regularly practice CBT/DBT skills (ie, modern stoicism)
+        - __What areas might you want to work on? __
+            - GTD - I’ll bring a brain dump of the projects I’m engaged with (incl someday maybe’s)
+                - URL gardening
+                - Working with guided track
+                - Doing a coursera R class
+                - Mentoring
+                - Doing webinars
+            - My highest priority is earning more income
+                - Breaking tasks down into chunks you can execute on
+                - Found a few promising venues, e.g. job hunting (looking at the right sites, networking, updating portfolio), consulting (finding collaborators, getting better at roam), contracting mobilizing ideas responding to Covid crisis (e.g. running experiments).
+                - In the past month: send cover letters/resumes to 5-8 places, pitching consulting gig to a client, working inside the yak collective discord to stay in touch with a project there
+                - Uncertainties
+                    - Job hunting: not that many high level positions where you would be the right fit for. Need to craft your own role, since this isn’t a standard job recruiters already know
+                        - Create a list of people you’re connected to through Linkedin
+                    - Consulting
+                        - Getting better at Roam would help with executing experiments
+                        - Create an assessment of flow for Salesforce, use as a calling card
+                    - Experiments
+                        - Sandbox small studies within Mturk account, learn how to use it: Run ten hits with a simple flow metric
+            - Longer range, the highest priority is to develop a practice of writing regularly. I’m considering doing David Perell’s Write of Passage course in the winter, but don’t see any reason to wait until then to begin practice.
+        - **Have you been diagnosed with depression, anxiety, ADHD, or another mental health disorder, or do you think you may have one? **
+        - I’m probably typical for ADHD; I’ve never taken drugs for this, since it’s always seemed more helpful to create structures that channel my attention.__ __
+        - **How can I help?**
+        - __What could I do as a coach to support you best? What kind of coaching do you think would work best for you?  __
+            - **Making plans and setting goals**
+            - **Prioritizing**
+            - Setting a bigger picture vision
+            - Learning specific productivity skills
+            - Accountability
+        - **What are your goals for the next month to year?**
+            - Get paying work
+            - Begin regular practice of publishing at least one blog post a week
+        - **Imagine you’ve reached the end of coaching and it went really well. What would an awesome result look like?**
+        - __If the problem magically went away overnight, what would you notice was different in the morning? __
+            - I’d know what to spend my time on. While engaged in that activity, I would not be anxious and despondent about my lack of efficacy
+        - **If relevant, what options have you considered so far? **
+        - __How you tried them? If so, how did they work for you? __
+        - **In a week, approximately how many focused hours do you spend working?**
+            - 5-12
+            - It’s not clear what work you should do, can work like 30 focused hours when you clearly know what to do
+        - **What is your current plan to change the world?**
+            - Harvest my info-voracious consumption into concise, actionable writing & product development
+        - **How did you hear about EA Coaching?**
+            - WaPo article on EA

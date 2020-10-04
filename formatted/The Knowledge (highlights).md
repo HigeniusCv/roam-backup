@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Lewis Dartnell](<Lewis Dartnell.md>)
+- **[Full Title](<Full Title.md>):** The Knowledge
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51tMiFS3ihL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [September 3rd, 2020](<September 3rd, 2020.md>)
+    - environment, people with special skills, such as doctors ([Location 371](https://readwise.io/to_kindle?action=open&asin=B00DMCV5YS&location=371))

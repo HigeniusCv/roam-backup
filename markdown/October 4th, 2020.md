@@ -1,166 +1,180 @@
 - [[Topics for blogs]]
     - Zelig or Forrest Gump - my life as a fameball
+        - Crashing as a scenius
         - Bystander to the Silivalley Renaissance
-    - The interval between thought & expression
+        - The interval between thought & expression
+        - Enjoying my life lived backwards
+        - The Feeling of Feeling Smart
+    - Crushing the Weak & Cherubs at NU
+    - Jesuitical education innoculated me from belief
+    - Learning from the Whole Earth Catalog
+        - Appropriate tech
+        - Cybernetics
+        - Ivan Illich
+        - Space satellites & solar energy
+        - Intentional communities 
+    - The catastrophe of theorizing with math (my igon-problem)
+    - Self-organization
+    - Liar's paradox
+    - Insulting Hunter Thompson
+    - Big black terrors
+    - Yoga Commune at $300/mo 
+        - Chelsea Hotel
+        - Read every plaque
+        - Nancy Spungen's room
+        - Madonna's Sex Room
+    - Factory worker for Clay Christensen
+    - Laser Designed low resolution with the Source
+        - The zine scene at the dawn of DTP
+        - First encounters with Photoshop 1.0
+            - Hypocritical pleasure (Buñuel vs Almodovar)
+    - Full Catastrophe classwork
+    - Singular extropy cult
+    - Jonathan Richman gave me some of my best lines
+    - The halls of William James 
+        - Roger Shepard's tonal
+        - Ellen Langer's illusions
+        - Roger Brownian movements
+        - Howard Gardner's 7 Dwarves
+        - Jerome Kagan's hilltop reactivity
+            - CS Pierce
+            - Wallace Shawn at Harvard
+        - Houghton Library
+        - Hilaire Pootnam's reincarnations - several Hilary's ago
+        - Nozick on the outs inside Emerson Hall
+        - Kripke's Body-Mind problem
+        - Bugging out with EO Wilson
+    - Deconstructing Seymour's seminar
+    - Marvin Minsky as Mephistopheles
+    - Singular religions
+        - From Ayn Rand to EA
     - Think tanks I've thought through
-        - PARC 
         - BBN
+            - Cognitive apprenticing with Allan Collins
+            - 25th DARPA anniversary
+        - PARC 
+            - When books were read (JSB and Latour)
         - Interval visit
         - DIG at Intuit
-    - Singular extropy cult
+    - Schank shafting his colleagues
+    - Impossible profession of Educators
+    - Esalen Principle - knowing but never acting
+    - The stacking of the pun- Jordan Hall from Personality to Fish Brains
+        - Irr-Raskin-ability & Don Norman & Nielsen
+        - Winograd for the Win
+        - Zimbardo's Prison at Stanford
+        - Amos the intimidator 
+        - Paul-athon Slovic memorial 
+        - Psychologists p'ing on hacks in statistical shenanigans
+        - Sheena's artful choices
+        - Jim March's Garbage Can
+        - Claude's coterie
+        - Stanford Center for Conflict & Negotiation
+            - Game Theory at the GSB
+        - Rumelhart's last darts
+        - FMRI sausage factory of Gabrieli
+        - Gordon Bower, Flavell, and Herb Clark
+        - John McCarthy's precisely vague intuitions
+        - Larry Page as Labmate in CS147
+        - Arrogance of Captological cynicism
+        - Riding my bike past Steve Jobs in my mind
+        - Emotion research jingle-jangling
+        - Rosenhan & Lee Ross - Ellsworth Toohey's?
+            - There are two novels that can change a bookish fourteen-year old's life: __The Lord of the Rings__ and __Atlas Shrugged__. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.  https://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html
+    - Tooby & Cosmides HBES
+        - Geoffrey Miller's 2 volumes
+        - Pinker at HBES
+        - Chagnon's Nap in the Amazon
+    - 7 ways of looking at complexity science at SFI
+    - Thunderbolts from Albert Ellis
+    - IDEO-logy and Not Invented Here
+    - Tyler Cowen's team building
+        - Robin Hanson's elephantine ingestion
+        - Peter Thiel as teacher
+    - Decalcomania - sticker obsessions
+    - Mediating models that blew up UBLabs
+    - Couples counseling as war by other means
+        - "Making" someone happy besides one's self
+    - Judith Butler's 'strategy' for Foucault's 25th
+    - Jeff Daddy & the great grab for efficiency
+    - "Reading" other's lips
     - GPT-3 style IQ - williams syndrome
-    - 
-- Marvin Minsky as Mephistopheles
-- Winograd for the Win
-- Zimbardo's Prison at Stanford
-- Amos the intimidator 
-- Paul-athon Slovic memorial 
-- Psychologists p'ing on hacks in statistical shenanigans
-- Ellen Langer's illusions
-- Roger Brownian movements
-- Sheena's artful choices
-- Jim March's Garbage Can
-- Nozick on the outs inside Emerson Hall
-- Schank shafting his colleagues
-- Claude's coterie
-- Howard Gardner's 7 Dwarves
-- Chagnon's Nap in the Amazon
-- The stacking of the pun- Jordan Hall from Personality to Fish Brains
-- Pinker at HBES
-- Geoffrey Miller's 2 volumes
-- Roger Shepard's tonal
-- Kripke's Body-Mind problem
-- IDEO-logy and Not Invented Here
-- Irr-Raskin-ability & Don Norman & Nielsen
-- Jeff Daddy & the great grab for efficiency
-- Robin Hanson's elephantine ingestion
-- Tyler Cowen's team building
-- Peter Thiel as teacher
-- Jerome Kagan's hilltop reactivity
-- Cognitive apprenticing with Allan Collins
-- Laser Designed low resolution with the Source
-    - The zine scene at the dawn of DTP
-    - First encounters with Photoshop 1.0
-- When books were read (JSB and Latour)
-- Deconstructing Seymour's seminar
-- Arrogance of Captological cynicism
-- Mediating models that blew up UBLabs
-- 7 ways of looking at complexity science at SFI
-- From Ayn Rand to EA
-- Chelsea Hotel
-- Yoga Commune at $300/mo 
-- Houghton Library
-- CS Pierce
-- Full Catastrophe classwork
-- Game Theory at the GSB
-- Wallace Shawn at Harvard
-- Crushing the Weak & Cherubs at NU
-- Crashing as a scenius
-- Rumelhart's last darts
-- FMRI sausage factory of Gabrieli
-- Gordon Bower, Flavell, and Herb Clark
-- John McCarthy's precisely vague intuitions
-- Larry Page as Labmate in CS147
-- Riding my bike past Steve Jobs in my mind
-- Judith Butler's 'strategy' for Foucault's 25th
-- The Feeling of Feeling Smart
-- Esalen Principle - knowing but never acting
-- Bugging out with EO Wilson
-- Insulting Hunter Thompson
-- The catastrophe of theorizing with math (my igon-problem)
-- Self-organization
-- Liar's paradox
-- Jonathan Richman gave me some of my best lines
-- Jesuitical education innoculated me from belief
-- Decalcomania - sticker obsessions
-- Enjoying my life lived backwards
-- Couples counseling as war by other means
-- "Making" someone happy besides one's self
-- Factory worker for Clay Christensen
-- Big black terrors
-- literary teachers: 
-    - Barth's end of the road
-    - Donald Barthelme
-    - Solzhenitsyn
-    - Svevo
-    - Beckett
-    - Oyeyemi
-    - Lionel Shriver
-    - Quentin Crisp
-    - Garcia Marquez
-    - Henry James
-    - James Joyce
-    - Proust
-    - Updike 
-    - Roth
-    - Nietzsche & Schopenhauer
-    - Borges & I
-    - Lewis Carroll
-    - Pirsig
-    - Lipsyte
-    - Bellow
-    - Nicholson Baker
-    - Calvino
-    - Chinua Achebe
-    - DFW
-    - Karr's Liar's Club
-    - Plutarch
-    - Plato
-    - Sartre
-    - Kierkegaard
-    - Samuel Johnson
-    - Milton
-    - Pynchon
-- Hilaire Pootnam's reincarnations - several Hilary's ago
-- The halls of William James 
-- Phenomenology without Waking Up
-- "Reading" other's lips
-- Conversational scurvy
-- Pretentious? Moi - pretending to care about my closest continuer
-- David Goines' History of the FSM
-- Hypocritical pleasure (Buñuel)
-- Emotion research jingle-jangling
-- Impossible profession of Educators
-- Thunderbolts from Albert Ellis
-- Rosenhan & Lee Ross - Ellsworth Toohey's?
-    - There are two novels that can change a bookish fourteen-year old's life: __The Lord of the Rings__ and __Atlas Shrugged__. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.  https://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html
-- Lessons from combining BEcon + UXR
-- Portfolio Wins
-    - Control the sequence of obligatory tasks
-    - Click through Retirement - someone like you
-    - Misattributed Mistakes as Motivator to complete form
-    - Automatic opt-in with freemium products
-    - Sorry seems to be the wrong word
-    - Minimum Viable Experiments
-    - UXR as copy-editing (copy is a product)
-- Workshopping as a retreat from work
-- Knowing isn't doing
-- Sticking to tiny steps
-- Inside Quantified Self's navel
-- Is there ever a V2 version?
-- Learning from Seinfeld's Drive to Be Kind
-- Rick & Morty as a Many worlds outro
-- Harmon ourselves in Community and RAM
-- Paris from 1183-2018
-- Jan Chipchase's workshop in Paris
-- Last visit to the Mushroom Dome
-- Brazilian Ju Jitsu in one free lesson
-- Waking up to Psychedelics
-- The opposite of ludic is Butterfield (Flickr and Slack) not Glitch
-- DBT is more than CBT or Stoicism
-- Learning from Dan Ariely
-    - Shapa unboxing
-    - Shapa BEngineering
-- Physical Intelligence & What a body can do
-- How emotions are made
-    - Anxiety equivalence as a stress releasor
-- Volitional management at Yak C
-- Anger Men & Shit testing
-- Epicurean vs Stoic Dads
-- Channel factors for Higenius
-- Singular religions
-- Biophilia indoors & out
-- Do the Drugs Work
-- Intermittently IFasting
-    - invalid 12-8 study
-- Scouts, Soldiers, and Salesmen
+    - literary teachers: 
+        - Barth's end of the road
+        - Donald Barthelme
+        - Solzhenitsyn
+        - Svevo
+        - Beckett
+        - Oyeyemi
+        - Lionel Shriver
+        - Quentin Crisp
+        - Garcia Marquez
+        - Henry James
+        - James Joyce
+        - Proust
+        - Updike 
+        - Roth
+        - Nietzsche & Schopenhauer
+        - Borges & I
+        - Lewis Carroll
+        - Pirsig
+        - Lipsyte
+        - Bellow
+        - Nicholson Baker
+        - Calvino
+        - Chinua Achebe
+        - DFW
+        - Karr's Liar's Club
+        - Plutarch
+        - Plato
+        - Sartre
+        - Kierkegaard
+        - Samuel Johnson
+        - Milton
+        - Pynchon
+    - Pretentious? Moi - pretending to care about my closest continuer
+    - Conversational scurvy
+    - Phenomenology without Waking Up
+    - David Goines' History of the FSM
+    - Inside Quantified Self's navel
+    - Lessons from combining BEcon + UXR
+    - Portfolio Wins
+        - Control the sequence of obligatory tasks
+        - Click through Retirement - someone like you
+        - Misattributed Mistakes as Motivator to complete form
+        - Automatic opt-in with freemium products
+        - Sorry seems to be the wrong word
+        - Minimum Viable Experiments
+        - UXR as copy-editing (copy is a product)
+            - Is there ever a V2 version?
+        - Workshopping as a retreat from work
+        - problematic personas
+    - Knowing isn't doing
+    - Sticking to tiny steps
+    - Learning from Dan Ariely
+        - Shapa unboxing
+        - Shapa BEngineering
+    - Learning from Seinfeld's Drive to Be Kind
+    - Harmon ourselves in Community and RAM
+        - Rick & Morty as a Many worlds outro
+    - Paris from 1183-2018
+    - Jan Chipchase's workshop in Paris
+    - Brazilian Ju Jitsu in one free lesson
+    - Last visit to the Mushroom Dome
+    - Waking up 
+        - Awareness of lack of substantive continuity
+        - Through to Psychedelics
+    - The opposite of ludic is Butterfield (Flickr and Slack) not Glitch
+    - DBT is more than CBT or Stoicism
+    - Physical Intelligence & What a body can do
+    - How emotions are made
+        - Anxiety equivalence as a stress releasor
+    - Volitional management at Yak C
+    - Anger Men & Shit testing
+    - Epicurean vs Stoic Dads
+    - Channel factors for Higenius
+    - Biophilia indoors & out
+    - Do the Drugs Work
+    - Intermittently IFasting
+        - invalid 12-8 study
+    - Scouts, Soldiers, and Salesmen

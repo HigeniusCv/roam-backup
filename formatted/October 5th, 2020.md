@@ -4,15 +4,16 @@
     - Organized quasi-chronologically
 - [ ] begin list of potential [pitches](<pitches.md>)
 - [ ] apply to OKEX
+- [ ] apply to Mach49
 - [ ] search linkedin and job sites - bookmark and routinize
 - [x] water garden at break
-- [ ] bike to top of Cedar before 1pm
+- [x] bike to top of Cedar before 1pm
 - [ ] look at Roam Slack & Sandbox
 - [ ] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
-- [journal](<journal.md>){{[POMO](<POMO.md>): 15}}
+- [journal](<journal.md>)[October 5th, 2020](<October 5th, 2020.md>){{[POMO](<POMO.md>): 15}}
     - Sleep last night pretty fitful
         - Early bedtime, felt tired
         - Woke at 4pm, worried for a long while
@@ -40,6 +41,8 @@
 # Backlinks
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
+
+- [journal](<journal.md>)[October 5th, 2020](<October 5th, 2020.md>){
 
 ## [Sandbox](<Sandbox.md>)
 - [ ] Create 3 TODOs with the 3 different techniques belonging to 3 different domains (e.g., [school](<school.md>) [reading](<reading.md>) [lol](<lol.md>)) [October 5th, 2020](<October 5th, 2020.md>)

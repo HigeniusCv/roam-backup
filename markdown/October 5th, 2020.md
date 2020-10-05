@@ -4,15 +4,16 @@
     - Organized quasi-chronologically
 - {{[[TODO]]}} begin list of potential [[pitches]]
 - {{[[TODO]]}} apply to OKEX
+- {{[[TODO]]}} apply to Mach49
 - {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
 - {{[[DONE]]}} water garden at break
-- {{[[TODO]]}} bike to top of Cedar before 1pm
+- {{[[DONE]]}} bike to top of Cedar before 1pm
 - {{[[TODO]]}} look at Roam Slack & Sandbox
 - {{[[TODO]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x[[October 5th, 2020]]
-- [[journal]]{{[[POMO]]: 15}}
+- [[journal]][[October 5th, 2020]]{{[[POMO]]: 15}}
     - Sleep last night pretty fitful
         - Early bedtime, felt tired
         - Woke at 4pm, worried for a long while

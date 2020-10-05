@@ -9027,6 +9027,14 @@
       },
       {
         "create-email": "psas@motivationengineers.com",
+        "create-time": 1601930651309,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601930655812,
+        "string": "{{[[TODO]]}} apply to Mach49",
+        "uid": "5QzTwhl6q"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
         "create-time": 1601920904183,
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1601920927155,
@@ -9045,8 +9053,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601920938401,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601920956562,
-        "string": "{{[[TODO]]}} bike to top of Cedar before 1pm",
+        "edit-time": 1601930385168,
+        "string": "{{[[DONE]]}} bike to top of Cedar before 1pm",
         "uid": "CstpTe7Ex"
       },
       {
@@ -9291,11 +9299,11 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601921183570,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601921196491,
+        "edit-time": 1601930407707,
         "props": {
           "POMO": 1601921200884
         },
-        "string": "[[journal]]{{[[POMO]]: 15}}",
+        "string": "[[journal]][[October 5th, 2020]]{{[[POMO]]: 15}}",
         "uid": "Y2DeaLQ-m"
       }
     ],

@@ -20,6 +20,27 @@
 
 - {{[TODO](<TODO.md>)}
 
+## [October 5th, 2020](<October 5th, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [Sandbox](<Sandbox.md>)
 - {{[TODO](<TODO.md>)}
 

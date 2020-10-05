@@ -1,10 +1,10 @@
 - {{[[DONE]]}} [[journal]] 15 minutes
 - {{[[DONE]]}} schedule 2 focusmate sessions
-- {{[[TODO]]}} list of [[Topics for blogs]] - translate to promote 3 for this week
+- {{[[DONE]]}} list of [[Topics for blogs]] - translate to promote 3 for this week
     - Organized quasi-chronologically
 - {{[[TODO]]}} begin list of potential [[pitches]]
 - {{[[TODO]]}} apply to OKEX
-- {{[[TODO]]}} apply to Mach49
+- {{[[DONE]]}} apply to Mach49
 - {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
 - {{[[DONE]]}} water garden at break
 - {{[[DONE]]}} bike to top of Cedar before 1pm
@@ -36,4 +36,4 @@
     - Being [[smober]] since [[September 7th, 2020]] continues to pay a lot of benefits - better dinners, better conversation, less solitary mooning about, more focused output
     - Desire to fix the bathroom sink trap creates a tangential 
         - {{[[DONE]]}}  get a bigger wrench and find the trap
-        - Amazon will ship by [[October 8th, 2020]]
+            - Amazon will ship by [[October 8th, 2020]]

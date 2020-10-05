@@ -1,10 +1,10 @@
 - [x] [journal](<journal.md>) 15 minutes
 - [x] schedule 2 focusmate sessions
-- [ ] list of [Topics for blogs](<Topics for blogs.md>) - translate to promote 3 for this week
+- [x] list of [Topics for blogs](<Topics for blogs.md>) - translate to promote 3 for this week
     - Organized quasi-chronologically
 - [ ] begin list of potential [pitches](<pitches.md>)
 - [ ] apply to OKEX
-- [ ] apply to Mach49
+- [x] apply to Mach49
 - [ ] search linkedin and job sites - bookmark and routinize
 - [x] water garden at break
 - [x] bike to top of Cedar before 1pm
@@ -36,7 +36,7 @@
     - Being [smober](<smober.md>) since [September 7th, 2020](<September 7th, 2020.md>) continues to pay a lot of benefits - better dinners, better conversation, less solitary mooning about, more focused output
     - Desire to fix the bathroom sink trap creates a tangential 
         - [x] get a bigger wrench and find the trap
-        - Amazon will ship by [October 8th, 2020](<October 8th, 2020.md>)
+            - Amazon will ship by [October 8th, 2020](<October 8th, 2020.md>)
 
 # Backlinks
 ## [October 5th, 2020](<October 5th, 2020.md>)

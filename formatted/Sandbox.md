@@ -19,7 +19,7 @@
     - In the location, you want to reference a block, type **(( **, then search for it by writing keywords from that block
     - Hold **fn/option **on your keyboard as you drag the block you want to reference in another location and a block reference will automatically be created. This option also applies to all the children of the original block.
     - **Challenge III**
-    - Look back at your [Morning pages](<Morning pages.md>) practice. Try to see a pattern for the questions you want to ask yourself every morning: write them down as separate blocks in your [Morning pages](<Morning pages.md>). Now pin your [Morning pages](<Morning pages.md>) to your left sidebar and open it every morning on the right with **shift+click.** Copy the block references of those questions in your Daily Note to streamline and positively reinforce your journaling practice!
+    - Look back at your [journal](<journal.md>) practice. Try to see a pattern for the questions you want to ask yourself every morning: write them down as separate blocks in your [journal](<journal.md>). Now pin your [journal](<journal.md>) to your left sidebar and open it every morning on the right with **shift+click.** Copy the block references of those questions in your Daily Note to streamline and positively reinforce your journaling practice!
     - **A few more tips**
         - Use the right sidebar (**shift+click** on a page link) to have a page handy when you want to copy block references from it: then just drag the blocks holding **alt/option**
         - Click on the block reference to trigger a multi-option menu and play with the various useful options (like replacing the reference with an alias or applying its children)

@@ -3,3 +3,9 @@
 ## [Sandbox](<Sandbox.md>)
 - Start a daily journal practice of writing [journal](<journal.md>)
 
+- Look back at your [journal](<journal.md>)
+
+- Look back at your [journal](<journal.md>) practice. Try to see a pattern for the questions you want to ask yourself every morning: write them down as separate blocks in your [journal](<journal.md>).
+
+- Look back at your [journal](<journal.md>) practice. Try to see a pattern for the questions you want to ask yourself every morning: write them down as separate blocks in your [journal](<journal.md>). Now pin your [journal](<journal.md>)
+

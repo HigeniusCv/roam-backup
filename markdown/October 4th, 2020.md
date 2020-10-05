@@ -6,7 +6,36 @@
     - Control the sequence of obligatory tasks
     - Click through Retirement - someone like you
     - Misattributed Mistakes as Motivator to complete form
-    - 
+    - Automatic opt-in with freemium products
+    - Sorry seems to be the wrong word
+    - Minimum Viable Experiments
+    - UXR as copy-editing (copy is a product)
+- Workshopping as a retreat from work
+- Knowing isn't doing
+- Sticking to tiny steps
+- Inside Quantified Self's navel
+- Is there ever a V2 version?
+- Rick & Morty as a Many worlds outro
+- Harmon ourselves in Community and RAM
+- Jan Chipchase's workshop in Paris
+- Last visit to the Mushroom Dome
+- Brazilian Ju Jitsu in one free lesson
+- Waking up to Psychedelics
+- Think tanks I've thought through
+    - PARC 
+    - BBN
+    - Interval visit
+    - DIG at Intuit
+- The interval between thought & expression
+- The opposite of ludic is Butterfield (Flickr and Slack) not Glitch
+- Marvin Minsky as Mephistopheles
+- Winograd for the Win
+- Zimbardo's Prison at Stanford
+- Rosenhan & Lee Ross - Ellsworth Toohey's?
+    - There are two novels that can change a bookish fourteen-year old's life: __The Lord of the Rings__ and __Atlas Shrugged__. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.  https://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html
+- DBT is more than CBT or Stoicism
+- Learning from Dan Ariely
+    - Shapa unboxing
     - 
 - Physical Intelligence & What a body can do
 - How emotions are made

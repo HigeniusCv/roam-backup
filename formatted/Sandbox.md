@@ -1,0 +1,26 @@
+- **Challenge I**
+- Start a daily journal practice of writing [journal](<journal.md>) (or any other tag) in your Daily Notes.
+    - **A few more tips**
+        - Create pages by typing the name of the page in the search bar
+        - Press **shift+click **on a link to open a page in the right sidebar
+        - Explore formatting the blocks (i.e., the piece of information per bullet) by right-clicking on the bullet
+        - Explore time-stamping your written thoughts by choosing the Current Time command from the dropdown menu (trigger it with /)20:36
+        - 
+- **Challenge II**
+    - [ ] Create 3 TODOs with the 3 different techniques belonging to 3 different domains (e.g., [school](<school.md>) [reading](<reading.md>) [lol](<lol.md>)) [October 5th, 2020](<October 5th, 2020.md>)
+    - **A few more tips**[["Pin the TODO page in the left sidebar by opening it and clicking the star icon in the top right corner to add to shortcuts (that's how you can make" " " "__any__" " " "page readily available)"] 
+    - ["Filter out all completed TODOs by clicking the funnel icon in the top right corner, and then by hitting" " " "**shift+click**" " " "on DONE (try filtering by other tags!)"]]
+        - Insert a nearby date by typing **/**__  __then selecting Yesterday, Today or Tomorrow from the dropdown menu. Your date will be inserted in the page format! [October 3rd, 2020](<October 3rd, 2020.md>) [October 5th, 2020](<October 5th, 2020.md>)
+
+- The referenced block only "lives'' in one place: its other instantiations (block references) reflect the very process of thinking by recalling, embedding, abstracting, or remixing the original thought.
+- **Ways to reference blocks**
+    - Right-click on the bullet of the block, then click **Copy block ref **from the dropdown menu. Paste it in another location (even inline another block!) "**Challenge II**"
+    - "Hold **fn/option **on your keyboard as you drag the block you want to reference in another location and a block reference will automatically be created. This option also applies to all the children of the original block."
+    - In the location, you want to reference a block, type **(( **, then search for it by writing keywords from that block
+    - Hold **fn/option **on your keyboard as you drag the block you want to reference in another location and a block reference will automatically be created. This option also applies to all the children of the original block.
+    - **Challenge III**
+    - Look back at your [Morning pages](<Morning pages.md>) practice. Try to see a pattern for the questions you want to ask yourself every morning: write them down as separate blocks in your [Morning pages](<Morning pages.md>). Now pin your [Morning pages](<Morning pages.md>) to your left sidebar and open it every morning on the right with **shift+click.** Copy the block references of those questions in your Daily Note to streamline and positively reinforce your journaling practice!
+    - **A few more tips**
+        - Use the right sidebar (**shift+click** on a page link) to have a page handy when you want to copy block references from it: then just drag the blocks holding **alt/option**
+        - Click on the block reference to trigger a multi-option menu and play with the various useful options (like replacing the reference with an alias or applying its children)
+        - Use block references as inputs for the Inline Calculator (choose from the dropdown menu triggered by /). Roam will automatically recognize the quantitative data and use it to compute the output. Moreover, changes to the original blocks will result in changes to your outputs!

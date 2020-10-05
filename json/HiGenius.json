@@ -7495,14 +7495,1006 @@
             "edit-time": 1601830742527,
             "string": "Zelig or Forrest Gump - my life as a fameball",
             "uid": "HBLUM5lSo"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601853993412,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601869026456,
+            "string": "The interval between thought & expression",
+            "uid": "X3snNs0Yv"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1601853967374,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601869026456,
+                "string": "PARC ",
+                "uid": "j-PYs0qW5"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1601853970057,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601869026456,
+                "string": "BBN",
+                "uid": "5idQdeHOf"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1601853974407,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601869026456,
+                "string": "Interval visit",
+                "uid": "d4yGqTrs1"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1601853977168,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601869026457,
+                "string": "DIG at Intuit",
+                "uid": "7bNe4t-Yd"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601853959601,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601869026457,
+            "string": "Think tanks I've thought through",
+            "uid": "UMwzQpaEm"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601869163522,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601869174259,
+            "string": "Singular extropy cult",
+            "uid": "KrKy6Xtho"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601869174255,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601869197145,
+            "string": "GPT-3 style IQ - williams syndrome",
+            "uid": "6jiQhLXAL"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601871277179,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871285919,
+            "string": "",
+            "uid": "DAF1gUP49"
           }
         ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601830518759,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601830550230,
-        "string": "Topics for blogs",
+        "edit-time": 1601868866258,
+        "string": "[[Topics for blogs]]",
         "uid": "5vWddOcp1"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601854041892,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869052252,
+        "string": "Marvin Minsky as Mephistopheles",
+        "uid": "LNFXKzzdS"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601854054231,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869052252,
+        "string": "Winograd for the Win",
+        "uid": "B1-pMhoUx"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601854067583,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869052252,
+        "string": "Zimbardo's Prison at Stanford",
+        "uid": "vFieIHoAT"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869272404,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869277719,
+        "string": "Amos the intimidator ",
+        "uid": "U519T_7cQ"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869278349,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869294761,
+        "string": "Paul-athon Slovic memorial ",
+        "uid": "u2QcfwUEB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869308169,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869332325,
+        "string": "Psychologists p'ing on hacks in statistical shenanigans",
+        "uid": "EjmFcjtbE"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869332317,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869344654,
+        "string": "Ellen Langer's illusions",
+        "uid": "ZW_P6Sph2"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869344644,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869354991,
+        "string": "Roger Brownian movements",
+        "uid": "oDGhuC-uN"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869354984,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869363680,
+        "string": "Sheena's artful choices",
+        "uid": "eNMHF3lnW"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869363673,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869374624,
+        "string": "Jim March's Garbage Can",
+        "uid": "4RUD7CPwZ"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869374618,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869389491,
+        "string": "Nozick on the outs inside Emerson Hall",
+        "uid": "0MEaJZ3D0"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869389482,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869401320,
+        "string": "Schank shafting his colleagues",
+        "uid": "uOjhZ4sYw"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869401313,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869411672,
+        "string": "Claude's coterie",
+        "uid": "uITBCTBIZ"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869523981,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869534271,
+        "string": "Howard Gardner's 7 Dwarves",
+        "uid": "5LgREgovH"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869534263,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869545751,
+        "string": "Chagnon's Nap in the Amazon",
+        "uid": "pEfFRDXWs"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869545745,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869570777,
+        "string": "The stacking of the pun- Jordan Hall from Personality to Fish Brains",
+        "uid": "IqRVJOtk1"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869570760,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869579078,
+        "string": "Pinker at HBES",
+        "uid": "ARa_MQnB_"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869579071,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869590442,
+        "string": "Geoffrey Miller's 2 volumes",
+        "uid": "3_tHh2BaM"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869591717,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869600958,
+        "string": "Roger Shepard's tonal",
+        "uid": "c4qjLUo1M"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869604037,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869612825,
+        "string": "Kripke's Body-Mind problem",
+        "uid": "oaywSllAr"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869612817,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869624554,
+        "string": "IDEO-logy and Not Invented Here",
+        "uid": "gy4UqKibh"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869626222,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869646591,
+        "string": "Irr-Raskin-ability & Don Norman & Nielsen",
+        "uid": "bRhlhrE1r"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869646585,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869690828,
+        "string": "Jeff Daddy & the great grab for efficiency",
+        "uid": "bw9VoSidJ"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869690821,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869706617,
+        "string": "Robin Hanson's elephantine ingestion",
+        "uid": "Ycbr2r1e4"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869706609,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869715117,
+        "string": "Tyler Cowen's team building",
+        "uid": "CBcBGlN2r"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869715288,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869723245,
+        "string": "Peter Thiel as teacher",
+        "uid": "fLSx7FxhB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869723238,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869739981,
+        "string": "Jerome Kagan's hilltop reactivity",
+        "uid": "ISLD3_s3x"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869739973,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869751175,
+        "string": "Cognitive apprenticing with Allan Collins",
+        "uid": "fDpWaXeMH"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601869920529,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601869929661,
+            "string": "The zine scene at the dawn of DTP",
+            "uid": "iQ4FSul_5"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601869929657,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601869946232,
+            "string": "First encounters with Photoshop 1.0",
+            "uid": "Q4PE5Nplz"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869751167,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869774368,
+        "string": "Laser Designed low resolution with the Source",
+        "uid": "jzloqlcT4"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869946229,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869964732,
+        "string": "When books were read (JSB and Latour)",
+        "uid": "3deeQ_ttw"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869966237,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869988733,
+        "string": "Deconstructing Seymour's seminar",
+        "uid": "faDUBzKpf"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869988793,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870022418,
+        "string": "Arrogance of Captological cynicism",
+        "uid": "GTNmKL1th"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870022412,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870043171,
+        "string": "Mediating models that blew up UBLabs",
+        "uid": "luhHPmj5A"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870043165,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870059722,
+        "string": "7 ways of looking at complexity science at SFI",
+        "uid": "E7WjUcZmT"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870059715,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870076312,
+        "string": "From Ayn Rand to EA",
+        "uid": "ohxTfhbif"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870076302,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870082706,
+        "string": "Chelsea Hotel",
+        "uid": "ChSh9D_76"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870083955,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870093450,
+        "string": "Yoga Commune at $300/mo ",
+        "uid": "DDB6niwy3"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870093443,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870099959,
+        "string": "Houghton Library",
+        "uid": "XJp0KmSGj"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870100255,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870104295,
+        "string": "CS Pierce",
+        "uid": "xNqvWwY8g"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870104290,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870116061,
+        "string": "Full Catastrophe classwork",
+        "uid": "Z2AtpiAiF"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870116050,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870122731,
+        "string": "Game Theory at the GSB",
+        "uid": "OBHa1bJPu"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870122723,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870131627,
+        "string": "Wallace Shawn at Harvard",
+        "uid": "6FyNAi98g"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870131619,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870142323,
+        "string": "Crushing the Weak & Cherubs at NU",
+        "uid": "YZdqrgjId"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870142311,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870155907,
+        "string": "Crashing as a scenius",
+        "uid": "RZn3MNBKz"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870155901,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870164364,
+        "string": "Rumelhart's last darts",
+        "uid": "vUdiBx8Ha"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870164356,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870185115,
+        "string": "FMRI sausage factory of Gabrieli",
+        "uid": "zsoI7JD_M"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870185097,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870205958,
+        "string": "Gordon Bower, Flavell, and Herb Clark",
+        "uid": "YsJlbu4VB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870205950,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870219975,
+        "string": "John McCarthy's precisely vague intuitions",
+        "uid": "K4arFhuYj"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870219968,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870248062,
+        "string": "Larry Page as Labmate in CS147",
+        "uid": "_JO04lP5V"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870250965,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870272083,
+        "string": "Riding my bike past Steve Jobs in my mind",
+        "uid": "3JLe96Z7G"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870272071,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870292163,
+        "string": "Judith Butler's 'strategy' for Foucault's 25th",
+        "uid": "DfTI6zmwE"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870292156,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870300552,
+        "string": "The Feeling of Feeling Smart",
+        "uid": "1r23xyXDN"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870307666,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870319773,
+        "string": "Esalen Principle - knowing but never acting",
+        "uid": "TVIJ5NgV0"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870319765,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870328028,
+        "string": "Bugging out with EO Wilson",
+        "uid": "vg8c-Ktch"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870328020,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870336219,
+        "string": "Insulting Hunter Thompson",
+        "uid": "GkApmuF5h"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870336207,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870357253,
+        "string": "The catastrophe of theorizing with math (my igon-problem)",
+        "uid": "FQrOTf70S"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870373690,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870392913,
+        "string": "Self-organization",
+        "uid": "gEVlQmY1w"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870392905,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870397106,
+        "string": "Liar's paradox",
+        "uid": "5SG8cPoNZ"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870397098,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870409898,
+        "string": "Jonathan Richman gave me some of my best lines",
+        "uid": "r20u7sTfS"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870409891,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870423865,
+        "string": "Jesuitical education innoculated me from belief",
+        "uid": "w5cA__-Gr"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870425487,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870448546,
+        "string": "Decalcomania - sticker obsessions",
+        "uid": "elkQV_mJX"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870448540,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870461201,
+        "string": "Enjoying my life lived backwards",
+        "uid": "PebcKZXYB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870461191,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870472999,
+        "string": "Couples counseling as war by other means",
+        "uid": "kULk5ohfB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870472990,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870489764,
+        "string": "\"Making\" someone happy besides one's self",
+        "uid": "S_vL5CHR5"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870489753,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870501226,
+        "string": "Factory worker for Clay Christensen",
+        "uid": "bJvJR7X-A"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870501221,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870508382,
+        "string": "Big black terrors",
+        "uid": "MzeIbrRWV"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870530630,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870530630,
+            "string": "Barth's end of the road",
+            "uid": "Ft0GA8CMi"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870537749,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870537749,
+            "string": "Donald Barthelme",
+            "uid": "RXGKRUEtI"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870544864,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870544864,
+            "string": "Solzhenitsyn",
+            "uid": "yRjfBEf7m"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870548715,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870548715,
+            "string": "Svevo",
+            "uid": "ObOQUwlsV"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870551207,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870551206,
+            "string": "Beckett",
+            "uid": "0LAZlxAmv"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870557110,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870557110,
+            "string": "Oyeyemi",
+            "uid": "gtnQWOX3n"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870561607,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870561607,
+            "string": "Lionel Shriver",
+            "uid": "LWyGAagQt"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870566384,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870566384,
+            "string": "Quentin Crisp",
+            "uid": "NcoUpQy41"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870574609,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870574609,
+            "string": "Garcia Marquez",
+            "uid": "wSdrjK5-m"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870583353,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870583353,
+            "string": "Henry James",
+            "uid": "CAro1XXbm"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870588366,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870588366,
+            "string": "James Joyce",
+            "uid": "hqcE0EmD3"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870601146,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870601146,
+            "string": "Proust",
+            "uid": "-jS5WgHcO"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870607367,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870607367,
+            "string": "Updike ",
+            "uid": "mEAqMqhRq"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870608597,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870608597,
+            "string": "Roth",
+            "uid": "Qbow4-HSS"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870621787,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870621787,
+            "string": "Nietzsche & Schopenhauer",
+            "uid": "gpRY6qpd6"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870628477,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870628477,
+            "string": "Borges & I",
+            "uid": "CN3y-0iRv"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870635197,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870635197,
+            "string": "Lewis Carroll",
+            "uid": "Ed2wDrFoU"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870639074,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870639074,
+            "string": "Pirsig",
+            "uid": "ujdtlOCH0"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870641569,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870641569,
+            "string": "Lipsyte",
+            "uid": "7z-pxn7sC"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870645118,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870645118,
+            "string": "Bellow",
+            "uid": "GAjAJbXNY"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870648781,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870648781,
+            "string": "Nicholson Baker",
+            "uid": "cTeRAqfmG"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870652675,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870652675,
+            "string": "Calvino",
+            "uid": "z7kSmzC6o"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870658202,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870658202,
+            "string": "Chinua Achebe",
+            "uid": "jqW83z8F9"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870663509,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870663509,
+            "string": "DFW",
+            "uid": "NNglSUVHY"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870510899,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870690009,
+            "string": "Karr's Liar's Club",
+            "uid": "Qy4vS6EMO"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870690004,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870697377,
+            "string": "Plutarch",
+            "uid": "tkQ7_gqLs"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870697370,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870699295,
+            "string": "Plato",
+            "uid": "1NZatBGX7"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870699291,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870707760,
+            "string": "Sartre",
+            "uid": "NzlTXaQk4"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870707754,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870713674,
+            "string": "Kierkegaard",
+            "uid": "bQ3KpAj71"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870713670,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870719163,
+            "string": "Samuel Johnson",
+            "uid": "LNa3lKcx1"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870719159,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870721245,
+            "string": "Milton",
+            "uid": "yUh-ndYk3"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601870721241,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601870724941,
+            "string": "Pynchon",
+            "uid": "DdzNKhQqE"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601870527768,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870527768,
+        "string": "literary teachers: ",
+        "uid": "eG5X4d0tF"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869774361,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870233574,
+        "string": "Hilaire Pootnam's reincarnations - several Hilary's ago",
+        "uid": "UzW1c2_F0"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869787036,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869796169,
+        "string": "The halls of William James ",
+        "uid": "o1wWrpTTe"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869798282,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869806960,
+        "string": "Phenomenology without Waking Up",
+        "uid": "ythcdwPyP"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869806953,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869826010,
+        "string": "\"Reading\" other's lips",
+        "uid": "BKBSY31Yi"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869826003,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869834145,
+        "string": "Conversational scurvy",
+        "uid": "lXj3fbHgH"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869834136,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869855593,
+        "string": "Pretentious? Moi - pretending to care about my closest continuer",
+        "uid": "vLT86vQ2o"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869855586,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869895247,
+        "string": "David Goines' History of the FSM",
+        "uid": "m-haruU8Z"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869895238,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601870752871,
+        "string": "Hypocritical pleasure (Bu\u00f1uel)",
+        "uid": "8izQ_JOPl"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869411666,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869422920,
+        "string": "Emotion research jingle-jangling",
+        "uid": "_tlFR5FAO"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869422914,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869435064,
+        "string": "Impossible profession of Educators",
+        "uid": "le3sZ0w4z"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869435053,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869446481,
+        "string": "Thunderbolts from Albert Ellis",
+        "uid": "oqmSgrg5t"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601854237634,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601869052252,
+            "string": "There are two novels that can change a bookish fourteen-year old's life:\u00a0__The Lord of the Rings__\u00a0and\u00a0__Atlas Shrugged__. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.  https://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html",
+            "uid": "3-xfGsat4"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601854078398,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869052252,
+        "string": "Rosenhan & Lee Ross - Ellsworth Toohey's?",
+        "uid": "Pl-4J-6CC"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7620,6 +8612,14 @@
       },
       {
         "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869446467,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869459670,
+        "string": "Learning from Seinfeld's Drive to Be Kind",
+        "uid": "tv_zfhaC8"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
         "create-time": 1601853874261,
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1601853890108,
@@ -7633,6 +8633,14 @@
         "edit-time": 1601853908519,
         "string": "Harmon ourselves in Community and RAM",
         "uid": "-rmK0dr3V"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1601869492885,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601869870665,
+        "string": "Paris from 1183-2018",
+        "uid": "mbxRz-yBG"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7667,104 +8675,12 @@
         "uid": "F401Ly6BV"
       },
       {
-        "children": [
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1601853967374,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601853970060,
-            "string": "PARC ",
-            "uid": "j-PYs0qW5"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1601853970057,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601853971922,
-            "string": "BBN",
-            "uid": "5idQdeHOf"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1601853974407,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601853985019,
-            "string": "Interval visit",
-            "uid": "d4yGqTrs1"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1601853977168,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601853993418,
-            "string": "DIG at Intuit",
-            "uid": "7bNe4t-Yd"
-          }
-        ],
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1601853959601,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601853967381,
-        "string": "Think tanks I've thought through",
-        "uid": "UMwzQpaEm"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1601853993412,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601854013382,
-        "string": "The interval between thought & expression",
-        "uid": "X3snNs0Yv"
-      },
-      {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601854013377,
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1601854041898,
         "string": "The opposite of ludic is Butterfield (Flickr and Slack) not Glitch",
         "uid": "OonBdEDeC"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1601854041892,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601854061492,
-        "string": "Marvin Minsky as Mephistopheles",
-        "uid": "LNFXKzzdS"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1601854054231,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601854067589,
-        "string": "Winograd for the Win",
-        "uid": "B1-pMhoUx"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1601854067583,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601854078405,
-        "string": "Zimbardo's Prison at Stanford",
-        "uid": "vFieIHoAT"
-      },
-      {
-        "children": [
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1601854237634,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601854260683,
-            "string": "There are two novels that can change a bookish fourteen-year old's life:\u00a0__The Lord of the Rings__\u00a0and\u00a0__Atlas Shrugged__. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.  https://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html",
-            "uid": "3-xfGsat4"
-          }
-        ],
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1601854078398,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601854480681,
-        "string": "Rosenhan & Lee Ross - Ellsworth Toohey's?",
-        "uid": "Pl-4J-6CC"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7780,17 +8696,17 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1601853816297,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601853825095,
+            "edit-time": 1601869062656,
             "string": "Shapa unboxing",
             "uid": "oLkIYNchV"
           },
           {
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1601853825089,
+            "create-time": 1601830682964,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601853825089,
-            "string": "",
-            "uid": "2blhC-z75"
+            "edit-time": 1601830691779,
+            "string": "Shapa BEngineering",
+            "uid": "citIgeh-R"
           }
         ],
         "create-email": "psas@motivationengineers.com",
@@ -7854,17 +8770,9 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601830652165,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601830660599,
+        "edit-time": 1601869229323,
         "string": "Channel factors for Higenius",
         "uid": "Hkc1t-IvW"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1601830660594,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601830668262,
-        "string": "GPT-3 style IQs",
-        "uid": "V2Jb0qmOr"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7884,18 +8792,10 @@
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1601830682964,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601830691779,
-        "string": "Shapa BEngineering",
-        "uid": "citIgeh-R"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
         "create-time": 1601830691775,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601830697654,
-        "string": "Do the Durgs Work",
+        "edit-time": 1601869085580,
+        "string": "Do the Drugs Work",
         "uid": "eTR6UM9JO"
       },
       {
@@ -7931,7 +8831,229 @@
   },
   {
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1601859344326,
+    "edit-time": 1601871078740,
     "title": "October 5th, 2020"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1601868866260,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601868866263,
+    "title": "Topics for blogs"
+  },
+  {
+    "children": [
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601868922057,
+        "string": "**Challenge I**",
+        "uid": "qaA1g5z1J"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601868922057,
+                "string": "Create pages by typing the name of the page in the search bar",
+                "uid": "bA-Bj-6Mi"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601868922057,
+                "string": "Press\u00a0**shift+click\u00a0**on a link to open a page in the right sidebar",
+                "uid": "3Au3kfe4O"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601868922057,
+                "string": "Explore formatting the blocks (i.e., the piece of information per bullet) by right-clicking on the bullet",
+                "uid": "eAE8BNnCc"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601868989377,
+                "string": "Explore time-stamping your written thoughts by choosing the Current Time command from the dropdown menu (trigger it with /)20:36",
+                "uid": "-kD3_qagA"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1601870952965,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601870952965,
+                "string": "",
+                "uid": "VfJ49Pr6O"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601868922057,
+            "string": "**A few more tips**",
+            "uid": "GKB2J9Mma"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601868940876,
+        "string": "Start a daily journal practice of writing [[journal]] (or any other tag) in your Daily Notes.",
+        "uid": "9SvpQ-_tg"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871083774,
+            "string": "{{[[TODO]]}} Create 3 TODOs with the 3 different techniques belonging to 3 different domains (e.g., #school #reading #lol) [[October 5th, 2020]]",
+            "uid": "Cxk7JVPi1"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601871122274,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871122263,
+            "string": "**A few more tips**[[\"Pin the TODO page in the left sidebar by opening it and clicking the star icon in the top right corner to add to shortcuts (that's how you can make\" \"\u00a0\" \"__any__\" \"\u00a0\" \"page readily available)\"] ",
+            "uid": "wLT4nnNac"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601871396353,
+                "string": "Insert a nearby date by typing\u00a0**/**__\u00a0\u00a0__then selecting Yesterday, Today or Tomorrow from the dropdown menu. Your date will be inserted in the page format! [[October 3rd, 2020]] [[October 5th, 2020]]\n",
+                "uid": "xQF-tJw-e"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871122279,
+            "string": "[\"Filter out all completed TODOs by clicking the funnel icon in the top right corner, and then by hitting\" \"\u00a0\" \"**shift+click**\" \"\u00a0\" \"on DONE (try filtering by other tags!)\"]]",
+            "uid": "4BgbKG2HV"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601871388471,
+        "string": "**Challenge II**",
+        "uid": "dcd2lCDVf"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601871401673,
+        "string": "The referenced block only \"lives'' in one place: its other instantiations (block references) reflect the very process of thinking by recalling, embedding, abstracting, or remixing the original thought.",
+        "uid": "0fEdDYPDB"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871452518,
+            "string": "Right-click on the bullet of the block, then click\u00a0**Copy block ref\u00a0**from the dropdown menu. Paste it in another location (even inline another block!) ((dcd2lCDVf))",
+            "uid": "oWLI2Xpqr"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871545167,
+            "string": "((8dABu0a6s))",
+            "uid": "duSmoI6ap"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871401673,
+            "string": "In the location, you want to reference a block, type\u00a0**((\u00a0**, then search for it by writing keywords from that block",
+            "uid": "_9-fp20lu"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871572308,
+            "string": "Hold\u00a0**fn/option\u00a0**on your keyboard as you drag the block you want to reference in another location and a block reference will automatically be created. This option also applies to all the children of the original block.",
+            "uid": "8dABu0a6s"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871695549,
+            "string": "**Challenge III**",
+            "uid": "JASEKo0jO"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871695549,
+            "string": "Look back at your [[Morning pages]] practice. Try to see a pattern for the questions you want to ask yourself every morning: write them down as separate blocks in your [[Morning pages]]. Now pin your [[Morning pages]] to your left sidebar and open it every morning on the right with\u00a0**shift+click.**\u00a0Copy the block references of those questions in your Daily Note to streamline and positively reinforce your journaling practice!",
+            "uid": "naAJcmvGr"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601871695549,
+                "string": "Use the right sidebar (**shift+click**\u00a0on a page link) to have a page handy when you want to copy block references from it: then just drag the blocks holding\u00a0**alt/option**",
+                "uid": "z_8LqDohu"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601871695549,
+                "string": "Click on the block reference to trigger a multi-option menu and play with the various useful options (like replacing the reference with an alias or applying its children)",
+                "uid": "ro_PI7qUm"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1601871695549,
+                "string": "Use block references as inputs for the Inline Calculator (choose from the dropdown menu triggered by /). Roam will automatically recognize the quantitative data and use it to compute the output. Moreover, changes to the original blocks will result in changes to your outputs!",
+                "uid": "GU7WnyU0j"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1601871695549,
+            "string": "**A few more tips**",
+            "uid": "IYNUeB5WZ"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1601871401673,
+        "string": "**Ways to reference blocks**",
+        "uid": "MTbEbryao"
+      }
+    ],
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601868897487,
+    "title": "Sandbox"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1601868940881,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601868940884,
+    "title": "journal"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1601870917905,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601870917918,
+    "title": "school"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1601870917905,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601870917918,
+    "title": "reading"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1601870917905,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601870917918,
+    "title": "lol"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1601871165065,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601871165065,
+    "title": "October 3rd, 2020"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1601871695544,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1601871695549,
+    "title": "Morning pages"
   }
 ]

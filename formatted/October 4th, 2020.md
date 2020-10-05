@@ -1,6 +1,129 @@
-- Topics for blogs
+- [Topics for blogs](<Topics for blogs.md>)
     - Zelig or Forrest Gump - my life as a fameball
         - Bystander to the Silivalley Renaissance
+    - The interval between thought & expression
+    - Think tanks I've thought through
+        - PARC 
+        - BBN
+        - Interval visit
+        - DIG at Intuit
+    - Singular extropy cult
+    - GPT-3 style IQ - williams syndrome
+    - 
+- Marvin Minsky as Mephistopheles
+- Winograd for the Win
+- Zimbardo's Prison at Stanford
+- Amos the intimidator 
+- Paul-athon Slovic memorial 
+- Psychologists p'ing on hacks in statistical shenanigans
+- Ellen Langer's illusions
+- Roger Brownian movements
+- Sheena's artful choices
+- Jim March's Garbage Can
+- Nozick on the outs inside Emerson Hall
+- Schank shafting his colleagues
+- Claude's coterie
+- Howard Gardner's 7 Dwarves
+- Chagnon's Nap in the Amazon
+- The stacking of the pun- Jordan Hall from Personality to Fish Brains
+- Pinker at HBES
+- Geoffrey Miller's 2 volumes
+- Roger Shepard's tonal
+- Kripke's Body-Mind problem
+- IDEO-logy and Not Invented Here
+- Irr-Raskin-ability & Don Norman & Nielsen
+- Jeff Daddy & the great grab for efficiency
+- Robin Hanson's elephantine ingestion
+- Tyler Cowen's team building
+- Peter Thiel as teacher
+- Jerome Kagan's hilltop reactivity
+- Cognitive apprenticing with Allan Collins
+- Laser Designed low resolution with the Source
+    - The zine scene at the dawn of DTP
+    - First encounters with Photoshop 1.0
+- When books were read (JSB and Latour)
+- Deconstructing Seymour's seminar
+- Arrogance of Captological cynicism
+- Mediating models that blew up UBLabs
+- 7 ways of looking at complexity science at SFI
+- From Ayn Rand to EA
+- Chelsea Hotel
+- Yoga Commune at $300/mo 
+- Houghton Library
+- CS Pierce
+- Full Catastrophe classwork
+- Game Theory at the GSB
+- Wallace Shawn at Harvard
+- Crushing the Weak & Cherubs at NU
+- Crashing as a scenius
+- Rumelhart's last darts
+- FMRI sausage factory of Gabrieli
+- Gordon Bower, Flavell, and Herb Clark
+- John McCarthy's precisely vague intuitions
+- Larry Page as Labmate in CS147
+- Riding my bike past Steve Jobs in my mind
+- Judith Butler's 'strategy' for Foucault's 25th
+- The Feeling of Feeling Smart
+- Esalen Principle - knowing but never acting
+- Bugging out with EO Wilson
+- Insulting Hunter Thompson
+- The catastrophe of theorizing with math (my igon-problem)
+- Self-organization
+- Liar's paradox
+- Jonathan Richman gave me some of my best lines
+- Jesuitical education innoculated me from belief
+- Decalcomania - sticker obsessions
+- Enjoying my life lived backwards
+- Couples counseling as war by other means
+- "Making" someone happy besides one's self
+- Factory worker for Clay Christensen
+- Big black terrors
+- literary teachers: 
+    - Barth's end of the road
+    - Donald Barthelme
+    - Solzhenitsyn
+    - Svevo
+    - Beckett
+    - Oyeyemi
+    - Lionel Shriver
+    - Quentin Crisp
+    - Garcia Marquez
+    - Henry James
+    - James Joyce
+    - Proust
+    - Updike 
+    - Roth
+    - Nietzsche & Schopenhauer
+    - Borges & I
+    - Lewis Carroll
+    - Pirsig
+    - Lipsyte
+    - Bellow
+    - Nicholson Baker
+    - Calvino
+    - Chinua Achebe
+    - DFW
+    - Karr's Liar's Club
+    - Plutarch
+    - Plato
+    - Sartre
+    - Kierkegaard
+    - Samuel Johnson
+    - Milton
+    - Pynchon
+- Hilaire Pootnam's reincarnations - several Hilary's ago
+- The halls of William James 
+- Phenomenology without Waking Up
+- "Reading" other's lips
+- Conversational scurvy
+- Pretentious? Moi - pretending to care about my closest continuer
+- David Goines' History of the FSM
+- Hypocritical pleasure (Buñuel)
+- Emotion research jingle-jangling
+- Impossible profession of Educators
+- Thunderbolts from Albert Ellis
+- Rosenhan & Lee Ross - Ellsworth Toohey's?
+    - There are two novels that can change a bookish fourteen-year old's life: __The Lord of the Rings__ and __Atlas Shrugged__. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.  https://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html
 - Lessons from combining BEcon + UXR
 - Portfolio Wins
     - Control the sequence of obligatory tasks
@@ -15,28 +138,19 @@
 - Sticking to tiny steps
 - Inside Quantified Self's navel
 - Is there ever a V2 version?
+- Learning from Seinfeld's Drive to Be Kind
 - Rick & Morty as a Many worlds outro
 - Harmon ourselves in Community and RAM
+- Paris from 1183-2018
 - Jan Chipchase's workshop in Paris
 - Last visit to the Mushroom Dome
 - Brazilian Ju Jitsu in one free lesson
 - Waking up to Psychedelics
-- Think tanks I've thought through
-    - PARC 
-    - BBN
-    - Interval visit
-    - DIG at Intuit
-- The interval between thought & expression
 - The opposite of ludic is Butterfield (Flickr and Slack) not Glitch
-- Marvin Minsky as Mephistopheles
-- Winograd for the Win
-- Zimbardo's Prison at Stanford
-- Rosenhan & Lee Ross - Ellsworth Toohey's?
-    - There are two novels that can change a bookish fourteen-year old's life: __The Lord of the Rings__ and __Atlas Shrugged__. One is a childish fantasy that often engenders a lifelong obsession with its unbelievable heroes, leading to an emotionally stunted, socially crippled adulthood, unable to deal with the real world. The other, of course, involves orcs.  https://kfmonkey.blogspot.com/2009/03/ephemera-2009-7.html
 - DBT is more than CBT or Stoicism
 - Learning from Dan Ariely
     - Shapa unboxing
-    - 
+    - Shapa BEngineering
 - Physical Intelligence & What a body can do
 - How emotions are made
     - Anxiety equivalence as a stress releasor
@@ -44,11 +158,9 @@
 - Anger Men & Shit testing
 - Epicurean vs Stoic Dads
 - Channel factors for Higenius
-- GPT-3 style IQs
 - Singular religions
 - Biophilia indoors & out
-- Shapa BEngineering
-- Do the Durgs Work
+- Do the Drugs Work
 - Intermittently IFasting
     - invalid 12-8 study
 - Scouts, Soldiers, and Salesmen

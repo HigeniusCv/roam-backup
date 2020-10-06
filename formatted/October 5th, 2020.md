@@ -9,7 +9,7 @@
 - [x] water garden at break
 - [x] bike to top of Cedar before 1pm
 - [ ] look at Roam Slack & Sandbox
-- [ ] [Surf the urge](<Surf the urge.md>) but 
+- [x] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)

@@ -18,5 +18,5 @@
     - The invisible hand that brought the customer and company together hinges on self-interest. 
     - The motivation of potential profit drives a company to deliver value, yet it's implausible that such a connection should be mistaken for friendship.
     - While the transactional nature is not nakedly broadcast, there's moments where corporate communications will reveal the trade as a business exchange.
-    - Economists call words of apology offered without further backing 'cheap talk."
+    - Economists call apologies offered without further backing 'cheap talk."
     - Since both parties realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. "On time or free" was once used by Domino's to push pizza-deliveries, so it's worth exploring 

@@ -1,11 +1,13 @@
 - [x] [journal](<journal.md>) 15 minutes {{[POMO](<POMO.md>): 10}}
 - [x] [network](<network.md>) Call Matt Wallaert at 8am
+    - send him resources on [experiments](<experiments.md>) https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0
 - [ ] 2 focusmate sessions
     - 12:15
     - 2:30
 - [ ] Topic today - Apologies
 - [ ] begin list of potential [pitches](<pitches.md>)
-- [ ] apply to OKEX
+- [x] apply to OKEX
+- [x] map past applications
 - [ ] search linkedin and job sites - bookmark and routinize
 - [ ] water garden at break
 - [ ] bike to top of Cedar before 1pm

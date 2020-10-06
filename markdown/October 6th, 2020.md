@@ -1,11 +1,13 @@
 - {{[[DONE]]}} [[journal]] 15 minutes {{[[POMO]]: 10}}
 - {{[[DONE]]}} [[network]] Call Matt Wallaert at 8am
+    - send him resources on [[experiments]] https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0
 - {{[[TODO]]}} 2 focusmate sessions
     - 12:15
     - 2:30
 - {{[[TODO]]}} Topic today - Apologies
 - {{[[TODO]]}} begin list of potential [[pitches]]
-- {{[[TODO]]}} apply to OKEX
+- {{[[DONE]]}} apply to OKEX
+- {{[[DONE]]}} map past applications
 - {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
 - {{[[TODO]]}} water garden at break
 - {{[[TODO]]}} bike to top of Cedar before 1pm

@@ -9736,6 +9736,16 @@
         "uid": "luBjiUAxP"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602008113475,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602008131213,
+            "string": "send him resources on [[experiments]] https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0",
+            "uid": "ZoeL6Hca5"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602002722641,
         "edit-email": "psas@motivationengineers.com",
@@ -9781,9 +9791,17 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002625436,
-        "string": "{{[[TODO]]}} apply to OKEX",
+        "edit-time": 1602005603692,
+        "string": "{{[[DONE]]}} apply to OKEX",
         "uid": "fPMyfXb3y"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602005608758,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602007594287,
+        "string": "{{[[DONE]]}} map past applications",
+        "uid": "ERubNTcFa"
       },
       {
         "edit-email": "psas@motivationengineers.com",

@@ -10,7 +10,7 @@
 - [x] map past applications
 - [ ] search linkedin and job sites - bookmark and routinize
 - [ ] water garden at break
-- [ ] bike to top of Cedar before 1pm
+- [x] bike to top of Cedar before 1pm
 - [ ] look at Roam Slack & Sandbox
 - [ ] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm

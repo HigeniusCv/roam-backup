@@ -9817,8 +9817,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002631551,
-        "string": "{{[[TODO]]}} bike to top of Cedar before 1pm",
+        "edit-time": 1602015351060,
+        "string": "{{[[DONE]]}} bike to top of Cedar before 1pm",
         "uid": "r_eW2ww0K"
       },
       {
@@ -9928,5 +9928,100 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1602003596240,
     "title": "setting goals"
+  },
+  {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602012120004,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602012410824,
+        "string": "Does it help to say sorry?",
+        "uid": "AzUd3gM7G"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602012702100,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602014960892,
+        "string": "When I accidentally harm another person, it's almost inconceivable that I'll let it pass without acknowledging my responsibility. Formally, a legitimate apology seems to require a) owning responsibility, by saying what I did to cause harm; b) recognition of the impact upon the person to whom I owe an apology; and ideally, c) a commitment to repair that, either immediately or when a similar situation recurs in the future.",
+        "uid": "bpcimWH-W"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602012735522,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602015324749,
+        "string": "\u201cEven\u00a0a\u00a0dog\u00a0knows the\u00a0difference between being kicked\u00a0and\u00a0being stumbled\u00a0over.\u201d Oliver Wendell Holmes",
+        "uid": "I8ncivouB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602012410801,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602012907584,
+        "string": "Infamously, the non-apology apology takes the form of \"I'm sorry that YOUR action made X bad.\" The other gets the blame, either for misinterpretation, over-reaction, or somehow making faultless behavior __seem__ misfortunate.",
+        "uid": "ZiQtqOBoi"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602012907577,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602013080842,
+        "string": "While apologies play an essential role in lubricating social intercourse, there are interpersonal situations where they cause more harm. Some people may be serial apologizers, the most notorious being Harvey Weinstein's custom of blowing up and then sending flowers to paper over the damage. ",
+        "uid": "qr69fm3B-"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602013087019,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602013223927,
+        "string": "There's other occasions where apologies may only make things worse. If the emotional damage is difficult for the victim to acknowledge publicly, then finding an artful way to repair the harm may not entail directly and explicitly verbalizing an apology.",
+        "uid": "wTWyd66_0"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602013223922,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602013324738,
+        "string": "But what about when the damage is done by a company, and their customer suffers some disappointing breakdown in the brand promise? By analogy with interpersonal dynamics of repair, the intuition that an apology ought to be issued. ",
+        "uid": "LNBCgn3c1"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602013616462,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602014216554,
+        "string": "In my work with tech firms, scale collides with the vagaries of technical bugs, enough that disappointment's inevitable at least some of the time. ",
+        "uid": "gz_vmjjLs"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602013711146,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602014703445,
+        "string": "Transportation and delivery companies have to choose to tell customers a specific prediction on when atoms will arrive, even though the vicissitudes of the physical world are inherently difficult to fully anticipate. Ride-hailing apps must choose the granularity and degree of accuracy that they choose to surface. UberX gives a point estimate for when the car will arrive; when carpooling was offered, variability was implied by showing a range of times. The range was bounded by two probabilities - the lower estimate would be met 50% of the time (p50), while the upper bound was expected to cover 95% of driver arrivals (p95). I'll leave it as a homework problem for experienced users to intuit what probability-v",
+        "uid": "QhC9MebRw"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602014218986,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602014640742,
+        "string": "Five percent of customers are, by definition, going to get an experience that's worse than the top 95% will experience. Bounding the variance can keep the frequency of a truly bad event to a smaller fraction of the population, but how many companies deliver the mythical 5 nines uptime?https://searchnetworking.techtarget.com/feature/The-Holy-Grail-of-five-nines-reliability",
+        "uid": "10_dbeNtf"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602013325320,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602013950367,
+        "string": "Twitter's first years involved a lot of fail whale moments, enough so that it became part of the expected user experience. \"some of our users feel very connected to it\" https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/",
+        "uid": "xViTlHE_R"
+      }
+    ],
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602012117981,
+    "title": "Apologies"
   }
 ]

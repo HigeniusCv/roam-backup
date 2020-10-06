@@ -10,7 +10,7 @@
 - {{[[DONE]]}} map past applications
 - {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
 - {{[[TODO]]}} water garden at break
-- {{[[TODO]]}} bike to top of Cedar before 1pm
+- {{[[DONE]]}} bike to top of Cedar before 1pm
 - {{[[TODO]]}} look at Roam Slack & Sandbox
 - {{[[TODO]]}} [[Surf the urge]] but 
     - don't read news until 5pm

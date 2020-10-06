@@ -5,6 +5,11 @@
 
 - [journal](<journal.md>)[
 
+## [October 6th, 2020](<October 6th, 2020.md>)
+- [x] [journal](<journal.md>)
+
+- [journal](<journal.md>)
+
 ## [Sandbox](<Sandbox.md>)
 - Start a daily journal practice of writing [journal](<journal.md>)
 

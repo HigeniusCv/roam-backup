@@ -1,0 +1,22 @@
+- {{[[DONE]]}} [[journal]] 15 minutes {{[[POMO]]: 10}}
+- {{[[DONE]]}} [[network]] Call Matt Wallaert at 8am
+- {{[[TODO]]}} 2 focusmate sessions
+    - 12:15
+    - 2:30
+- {{[[TODO]]}} Topic today - Apologies
+- {{[[TODO]]}} begin list of potential [[pitches]]
+- {{[[TODO]]}} apply to OKEX
+- {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
+- {{[[TODO]]}} water garden at break
+- {{[[TODO]]}} bike to top of Cedar before 1pm
+- {{[[TODO]]}} look at Roam Slack & Sandbox
+- {{[[TODO]]}} [[Surf the urge]] but 
+    - don't read news until 5pm
+    - avoid feedly until same time
+    - Check email only 3x[[October 5th, 2020]]
+- [[journal]] Motivated!
+    - Process of setting and checking off todos was a success. Got work done
+    - Especially enjoyed the autobio navel cleaning. I can now save those little niblets for when I hit a wall writing public stuff
+    - Spoke to an ex CBO this am, and learned more about how Clover tried apologizing by bring a plant to patients
+    - Fell into my browser during this journal, but I don't feel i need to drop a lot in today, since work is capturing my attention
+    - One thing about [[Delmore]] that only now have I realized! Just because [[setting goals]] is hard, it's not true that I shouldn't set them.  It only took 20 years to connect these 2 dots

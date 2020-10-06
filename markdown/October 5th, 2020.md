@@ -12,7 +12,7 @@
 - {{[[DONE]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - avoid feedly until same time
-    - Check email only 3x[[October 5th, 2020]]
+    - Check email only 3x 
 - [[journal]][[October 5th, 2020]]{{[[POMO]]: 15}}
     - Sleep last night pretty fitful
         - Early bedtime, felt tired

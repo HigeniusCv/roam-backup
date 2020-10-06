@@ -1,0 +1,22 @@
+- [x] [journal](<journal.md>) 15 minutes {{[POMO](<POMO.md>): 10}}
+- [x] [network](<network.md>) Call Matt Wallaert at 8am
+- [ ] 2 focusmate sessions
+    - 12:15
+    - 2:30
+- [ ] Topic today - Apologies
+- [ ] begin list of potential [pitches](<pitches.md>)
+- [ ] apply to OKEX
+- [ ] search linkedin and job sites - bookmark and routinize
+- [ ] water garden at break
+- [ ] bike to top of Cedar before 1pm
+- [ ] look at Roam Slack & Sandbox
+- [ ] [Surf the urge](<Surf the urge.md>) but 
+    - don't read news until 5pm
+    - avoid feedly until same time
+    - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
+- [journal](<journal.md>) Motivated!
+    - Process of setting and checking off todos was a success. Got work done
+    - Especially enjoyed the autobio navel cleaning. I can now save those little niblets for when I hit a wall writing public stuff
+    - Spoke to an ex CBO this am, and learned more about how Clover tried apologizing by bring a plant to patients
+    - Fell into my browser during this journal, but I don't feel i need to drop a lot in today, since work is capturing my attention
+    - One thing about [Delmore](<Delmore.md>) that only now have I realized! Just because [setting goals](<setting goals.md>) is hard, it's not true that I shouldn't set them.  It only took 20 years to connect these 2 dots

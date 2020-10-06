@@ -12,7 +12,7 @@
 - [x] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
-    - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
+    - Check email only 3x 
 - [journal](<journal.md>)[October 5th, 2020](<October 5th, 2020.md>){{[POMO](<POMO.md>): 15}}
     - Sleep last night pretty fitful
         - Early bedtime, felt tired
@@ -40,9 +40,10 @@
 
 # Backlinks
 ## [October 5th, 2020](<October 5th, 2020.md>)
-- Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
-
 - [journal](<journal.md>)[October 5th, 2020](<October 5th, 2020.md>){
+
+## [October 6th, 2020](<October 6th, 2020.md>)
+- Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
 
 ## [Sandbox](<Sandbox.md>)
 - [ ] Create 3 TODOs with the 3 different techniques belonging to 3 different domains (e.g., [school](<school.md>) [reading](<reading.md>) [lol](<lol.md>)) [October 5th, 2020](<October 5th, 2020.md>)

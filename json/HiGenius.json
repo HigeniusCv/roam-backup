@@ -9087,8 +9087,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1601921106181,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601921123835,
-            "string": "Check email only 3x[[October 5th, 2020]]",
+            "edit-time": 1602002659008,
+            "string": "Check email only 3x ",
             "uid": "ud8P_G4SN"
           }
         ],
@@ -9725,8 +9725,190 @@
     "title": "Autobio 0 Draft"
   },
   {
+    "children": [
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602003643781,
+        "props": {
+          "POMO": 1602002997815
+        },
+        "string": "{{[[DONE]]}} [[journal]] 15 minutes {{[[POMO]]: 10}}",
+        "uid": "luBjiUAxP"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602002722641,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002740240,
+        "string": "{{[[DONE]]}} [[network]] Call Matt Wallaert at 8am",
+        "uid": "l8DgcMiLx"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602002683112,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602002687133,
+            "string": "12:15",
+            "uid": "AQYcBz_7u"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602002687124,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602002696901,
+            "string": "2:30",
+            "uid": "HzP5tXRpj"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002683118,
+        "string": "{{[[TODO]]}} 2 focusmate sessions",
+        "uid": "Y7bFq9mU0"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002704819,
+        "string": "{{[[TODO]]}} Topic today - Apologies",
+        "uid": "jS1-ZYziE"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002568798,
+        "string": "{{[[TODO]]}} begin list of potential [[pitches]]",
+        "uid": "49FpF2sZs"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002625436,
+        "string": "{{[[TODO]]}} apply to OKEX",
+        "uid": "fPMyfXb3y"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002568798,
+        "string": "{{[[TODO]]}} search linkedin and job sites - bookmark and routinize",
+        "uid": "rbNupQPt1"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002629430,
+        "string": "{{[[TODO]]}} water garden at break",
+        "uid": "JD3aDBM3i"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002631551,
+        "string": "{{[[TODO]]}} bike to top of Cedar before 1pm",
+        "uid": "r_eW2ww0K"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002568799,
+        "string": "{{[[TODO]]}} look at Roam Slack & Sandbox",
+        "uid": "W0AR-nocw"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602002568799,
+            "string": "don't read news until 5pm",
+            "uid": "6fpSD8qhg"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602002568799,
+            "string": "avoid feedly until same time",
+            "uid": "dM9Hxbvvr"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602002568799,
+            "string": "Check email only 3x[[October 5th, 2020]]",
+            "uid": "nLeD9DjJI"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002637950,
+        "string": "{{[[TODO]]}} [[Surf the urge]] but ",
+        "uid": "jW2sCSzD0"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602002764661,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602003011072,
+            "string": "Process of setting and checking off todos was a success. Got work done",
+            "uid": "mRi43w_xn"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602003011064,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602003231408,
+            "string": "Especially enjoyed the autobio navel cleaning. I can now save those little niblets for when I hit a wall writing public stuff",
+            "uid": "JHb7RwldE"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602003041035,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602003236167,
+            "string": "Spoke to an ex CBO this am, and learned more about how Clover tried apologizing by bring a plant to patients",
+            "uid": "FcqYUqqxK"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602003236541,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602003565822,
+            "string": "Fell into my browser during this journal, but I don't feel i need to drop a lot in today, since work is capturing my attention",
+            "uid": "Vyrtb_nOj"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602003565817,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602003640908,
+            "string": "One thing about [[Delmore]] that only now have I realized! Just because [[setting goals]] is hard, it's not true that I shouldn't set them.  It only took 20 years to connect these 2 dots",
+            "uid": "kkQss_TWa"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602002750687,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602002764667,
+        "string": "[[journal]] Motivated!",
+        "uid": "DEGyVCreB"
+      }
+    ],
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1601945700122,
     "title": "October 6th, 2020"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602002736314,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602002736315,
+    "title": "network"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602003575603,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602003575605,
+    "title": "Delmore"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602003596238,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602003596240,
+    "title": "setting goals"
   }
 ]

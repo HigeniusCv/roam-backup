@@ -9981,14 +9981,6 @@
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602013223922,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602013324738,
-        "string": "But what about when the damage is done by a company, and their customer suffers some disappointing breakdown in the brand promise? By analogy with interpersonal dynamics of repair, the intuition that an apology ought to be issued. ",
-        "uid": "LNBCgn3c1"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
         "create-time": 1602013616462,
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602014216554,
@@ -9997,27 +9989,129 @@
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602013711146,
+        "create-time": 1602013223922,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602014703445,
-        "string": "Transportation and delivery companies have to choose to tell customers a specific prediction on when atoms will arrive, even though the vicissitudes of the physical world are inherently difficult to fully anticipate. Ride-hailing apps must choose the granularity and degree of accuracy that they choose to surface. UberX gives a point estimate for when the car will arrive; when carpooling was offered, variability was implied by showing a range of times. The range was bounded by two probabilities - the lower estimate would be met 50% of the time (p50), while the upper bound was expected to cover 95% of driver arrivals (p95). I'll leave it as a homework problem for experienced users to intuit what probability-v",
-        "uid": "QhC9MebRw"
+        "edit-time": 1602020450006,
+        "string": "So what should a company do when a customer suffers some breakdown in the brand promise? The gut feeling, by analogy with our interpersonal dynamics, suggests that some form an apology is owed.",
+        "uid": "LNBCgn3c1"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602013711146,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602020756508,
+            "string": "Uber & Lyft show a point estimate for when the car will arrive; for carpooling, variability was implied by showing a time range. This was bounded by two probabilities - the lower estimate is hit 50% of the time (\"p50\"), while the upper bound was expected to cover 95% of driver arrivals (\"p95\"). As a homework problem for experienced riders, what intuitive probability do you expect to be shown when you hail a ride? In other words, how frequently do you find that a car arrives later than the quoted arrival time?",
+            "uid": "QhC9MebRw"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602020566732,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602020566732,
+        "string": "Let's get concrete. Transportation and delivery companies must quote a prediction, even though the vicissitudes of the physical world are vulnerable to unforeseen problems. Ride-hailing apps choose a granularity and degree of accuracy to surface. ",
+        "uid": "GoRj55N19"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602014218986,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602020275005,
+            "string": "Bounding the variance can keep the frequency of a truly bad event to a smaller fraction of the population, but how many companies deliver the mythical 5 nines uptime?https://searchnetworking.techtarget.com/feature/The-Holy-Grail-of-five-nines-reliability",
+            "uid": "10_dbeNtf"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602013325320,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602013950367,
+            "string": "Twitter's first years involved a lot of fail whale moments, enough so that it became part of the expected user experience. \"some of our users feel very connected to it\" https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/",
+            "uid": "xViTlHE_R"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602020274998,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602020274998,
+        "string": "Five percent of customers are, by definition, going to get an experience that's worse than the best 95% of cases. ",
+        "uid": "_QGEsZZ2j"
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602014218986,
+        "create-time": 1602020071870,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602014640742,
-        "string": "Five percent of customers are, by definition, going to get an experience that's worse than the top 95% will experience. Bounding the variance can keep the frequency of a truly bad event to a smaller fraction of the population, but how many companies deliver the mythical 5 nines uptime?https://searchnetworking.techtarget.com/feature/The-Holy-Grail-of-five-nines-reliability",
-        "uid": "10_dbeNtf"
+        "edit-time": 1602021000212,
+        "string": "How should a company manage the worst outcomes? Does an acknowledgement help repair the harm done? Should the firm spiff the customer something valuable to offset the letdown? What if they explicitly promise to do better, or perhaps tell the customer specifically how they intend to \"learn from\" the mistake?",
+        "uid": "ejb3pUAnx"
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602013325320,
+        "create-time": 1602021057543,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602013950367,
-        "string": "Twitter's first years involved a lot of fail whale moments, enough so that it became part of the expected user experience. \"some of our users feel very connected to it\" https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/",
-        "uid": "xViTlHE_R"
+        "edit-time": 1602021216077,
+        "string": "Since each of these steps leverage elements of an effective interpersonal apology, many companies have incorporated them in some fashion. As a matter of empirical record, there's enough data on these trials to support a very specific apology strategy. In a nutshell, the strategy that experiments recommend is: Don't bother.",
+        "uid": "Sb2sh8B9l"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602021687418,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602022158708,
+            "string": "Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO becomes as famous as a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.",
+            "uid": "v6vYfBbhE"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602021921387,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602021984349,
+            "string": "The invisible hand that brought the customer and company together hinges on self-interest. ",
+            "uid": "rQsdICb4X"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602022103630,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602022103630,
+            "string": "The motivation of potential profit drives a company to deliver value, yet it's implausible that such a connection should be mistaken for friendship.",
+            "uid": "9xmt_VKsb"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602022005303,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602022310839,
+            "string": "While the transactional nature is not nakedly broadcast, there's moments where corporate communications will reveal the trade as a business exchange.",
+            "uid": "CDmpEmfV-"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602022312258,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602022794935,
+            "string": "Economists call words of apology offered without further backing 'cheap talk.\"",
+            "uid": "LfLflwymp"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602022385163,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602022731460,
+            "string": "Since both parties realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. \"On time or free\" was once used by Domino's to push pizza-deliveries, so it's worth exploring ",
+            "uid": "yg6xeTSAn"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602021220973,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602021378255,
+        "string": "Let's unpack this, since it runs counter to what's best for maintaining good interpersonal relationships. The first and most important thing to recognize that interactions with a brand differ in important dimensions from person-to-person contact.",
+        "uid": "1G9TNh6KI"
       }
     ],
     "edit-email": "psas@motivationengineers.com",

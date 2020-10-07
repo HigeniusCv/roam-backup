@@ -5,7 +5,7 @@
     - 12:15
     - 2:30
 - [ ] Topic today - Apologies2
-- [ ] sign & mail docs to DCW
+- [x] sign & mail docs to DCW
 - [ ] begin list of potential [pitches](<pitches.md>)
 - [ ] search linkedin and job sites - bookmark and routinize
 - [ ] water garden at break

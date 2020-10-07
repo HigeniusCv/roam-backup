@@ -5,7 +5,7 @@
     - 12:15
     - 2:30
 - {{[[TODO]]}} Topic today - Apologies2
-- {{[[TODO]]}} sign & mail docs to DCW
+- {{[[DONE]]}} sign & mail docs to DCW
 - {{[[TODO]]}} begin list of potential [[pitches]]
 - {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
 - {{[[TODO]]}} water garden at break

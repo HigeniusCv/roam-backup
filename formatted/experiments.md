@@ -4,5 +4,5 @@
 - Run[experiments](<experiments.md>)
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
-- send him resources on [experiments](<experiments.md>)
+- sent him resources on [experiments](<experiments.md>)
 

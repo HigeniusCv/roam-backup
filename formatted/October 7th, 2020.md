@@ -1,21 +1,21 @@
 - Still haven't figured out how to have a reusable block of todos; yesterday I just copied the prior, and manually edited DONE out
-- {{[[DONE]]}} journal first
+- [x] journal first
     - Morning routine - 64 pushups before decafs cascade
-- {{[[TODO]]}} 2 focusmate sessions
+- [ ] 2 focusmate sessions
     - 12:15
     - 2:30
-- {{[[TODO]]}} Topic today - Apologies2
-- {{[[TODO]]}} sign & mail docs to DCW
-- {{[[TODO]]}} begin list of potential [[pitches]]
-- {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
-- {{[[TODO]]}} water garden at break
-    - {{[[TODO]]}} text MJ about plant picking
-- {{[[TODO]]}} look at Roam Slack & Sandbox
-- {{[[TODO]]}} [[Surf the urge]] but 
+- [ ] Topic today - Apologies2
+- [ ] sign & mail docs to DCW
+- [ ] begin list of potential [pitches](<pitches.md>)
+- [ ] search linkedin and job sites - bookmark and routinize
+- [ ] water garden at break
+    - [ ] text MJ about plant picking
+- [ ] look at Roam Slack & Sandbox
+- [ ] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
-    - Check email only 3x[[October 5th, 2020]]
-- [[journal]][[October 7th, 2020]]{{[[POMO]]: 15}}
+    - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
+- [journal](<journal.md>)[October 7th, 2020](<October 7th, 2020.md>){{[POMO](<POMO.md>): 15}}
     - woke around 8, felt tired but not exhausted on both ends, midnight and 7ish
         - didn't leave bed for the first hour, so perhaps I slept more, since no distinct thoughts recalled
     - fiddled from 8 to 9 before exhorting B to wake up 
@@ -28,6 +28,11 @@
         - truly the worst-est is still ahead
     - i tweeted this AM about the paperclip factory
     - Now that ROAM is my repository, I want to ingest all my tweets, old notes, etc
-    - in my [[Autobio 0 Draft]], I'm tempted to drop into my Harvard notes, and scan pages and even offer to digitize audio if an audience is created
+    - in my [Autobio 0 Draft](<Autobio 0 Draft.md>), I'm tempted to drop into my Harvard notes, and scan pages and even offer to digitize audio if an audience is created
         - I'm going to do a little more once my tomato bings
     - Per my senescent awakening, again chastened by the belated but useful power of finally setting clear goals
+
+# Backlinks
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [journal](<journal.md>)[October 7th, 2020](<October 7th, 2020.md>){
+

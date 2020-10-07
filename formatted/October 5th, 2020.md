@@ -3,12 +3,12 @@
 - [x] list of [Topics for blogs](<Topics for blogs.md>) - translate to promote 3 for this week
     - Organized quasi-chronologically
 - [ ] begin list of potential [pitches](<pitches.md>)
-- [ ] apply to OKEX
+- [x] apply to OKEX
 - [x] apply to Mach49
-- [ ] search linkedin and job sites - bookmark and routinize
+- [x] search linkedin and job sites - bookmark and routinize
 - [x] water garden at break
 - [x] bike to top of Cedar before 1pm
-- [ ] look at Roam Slack & Sandbox
+- [x] look at Roam Slack & Sandbox
 - [x] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
@@ -43,6 +43,9 @@
 - [journal](<journal.md>)[October 5th, 2020](<October 5th, 2020.md>){
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
+- Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
+
+## [October 7th, 2020](<October 7th, 2020.md>)
 - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
 
 ## [Sandbox](<Sandbox.md>)

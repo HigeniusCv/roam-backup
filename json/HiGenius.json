@@ -9021,8 +9021,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601920885463,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601920903904,
-        "string": "{{[[TODO]]}} apply to OKEX",
+        "edit-time": 1602088806771,
+        "string": "{{[[DONE]]}} apply to OKEX",
         "uid": "-sBxoBHDd"
       },
       {
@@ -9037,8 +9037,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601920904183,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601920927155,
-        "string": "{{[[TODO]]}} search linkedin and job sites - bookmark and routinize",
+        "edit-time": 1602088809685,
+        "string": "{{[[DONE]]}} search linkedin and job sites - bookmark and routinize",
         "uid": "TUYjzHB0i"
       },
       {
@@ -9061,8 +9061,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601920972353,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601921026202,
-        "string": "{{[[TODO]]}} look at Roam Slack & Sandbox",
+        "edit-time": 1602088814235,
+        "string": "{{[[DONE]]}} look at Roam Slack & Sandbox",
         "uid": "mDU1hHsj_"
       },
       {
@@ -9616,6 +9616,24 @@
         "uid": "nhJO9-h98"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602090060209,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602090165798,
+            "string": "Lee Ross (best left anonymized in initial ref, just one of my professors) so blatantly exhibited this need that I could see it in myself. In almost every talk, I was certain to jump to the mike, even though many people likely had quite similar variations on the question I'd raise.",
+            "uid": "D1VPJaqlS"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602089868487,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602091127814,
+        "string": "The clear symptom of my status hunger isn't even the name dripping. It's not even how urgently I craved meeting all these academics and artists. More privately, I knew my place was to play beta to omega with these achievers. The thrill of proximity mirrored the subordinate sucking up, the intent to pepper the air with my good student question (ooh, ooh, Mr Kotter) https://www.youtube.com/watch?v=ju-lptJweTc",
+        "uid": "xYj29mdYc"
+      },
+      {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601933841925,
         "edit-email": "psas@motivationengineers.com",
@@ -9632,27 +9650,37 @@
         "uid": "Y8aNVf2vs"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601934345222,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602090196087,
+            "string": "It was a mistake to be impressed by their achievement, to only view their ideas when fully-baked, and to have believed that engagement with ideas was a job for fans and spectators. ",
+            "uid": "8jPRQoVIx"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1601934345222,
+        "create-time": 1602090196081,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601942678646,
-        "string": "When I moved to Boston (more precisely, Somerville, the working-class town abutting Cambridge), it was in pursuit of the feeling of feeling smart. Belatedly, it's clear what a handicap that posed to developing my own native talent. The ease of snooping on the output of luminaries, who've won every prize in their field, undercuts the crucial process of starting with inchoate thoughts. It was a mistake to be impressed by their achievement, to only view their ideas when fully-baked, and to have believed that engagement with ideas was a job for fans and spectators. ",
-        "uid": "8jPRQoVIx"
+        "edit-time": 1602090196081,
+        "string": "When I moved to Boston (more precisely, Somerville, the working-class town abutting Cambridge), it was in pursuit of the feeling of feeling smart. Belatedly, it's clear what a handicap that posed to developing my own native talent. The ease of snooping on the output of luminaries, who'd won every prize in their field, undercut the crucial process of starting with inchoate thoughts. ",
+        "uid": "31QuU4aLd"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601940792374,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601942466649,
-        "string": "Moving between different campuses in Boston spotlighted how each school groomed their students for a distinct role in society. Harvard's classrooms could resemble little board rooms. MIT's Thistle, their alternative newspaper, once greeted the new freshman with the headline \"Welcome to Hell\".",
+        "edit-time": 1602090231313,
+        "string": "Moving between different campuses in Boston spotlighted how each school groomed their students for a distinct role in society. Harvard's classrooms could resemble little board rooms. MIT's alternative newspaper, The Thistle, once opened the Sept session with the headline \"Welcome to Hell\".",
         "uid": "kxQv1MCfw"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601933998702,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601942533317,
-        "string": "In my last 2 years, I ended up paying for a Master's at the Harvard Ed School, before going on to complete the 23rd grade at Stanford (for a PhD in experimental psychology).",
+        "edit-time": 1602090253747,
+        "string": "In the end, I paid for a Master's at the Harvard Ed School, before going on to complete the 23rd grade at Stanford (for a PhD in experimental psychology).",
         "uid": "_hCNq07-G"
       },
       {
@@ -9664,36 +9692,66 @@
         "uid": "h_1z7ezmj"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601934254603,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602090325051,
+            "string": "Even at the height of academic participation, during grad school at Stanford, readers will see that in the big leagues, I was a backup player mostly cheering from the bench. ",
+            "uid": "cIUq9XBgh"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1601934254603,
+        "create-time": 1602090288503,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601943251397,
-        "string": "Many thinkers who excited me as an undergrad (most significantly, Kahneman & Tversky, who rocked my world when Heuristics & Biases was first published in '83) continued to hold my interest even after I got a chance to suit up. Even at the height of academic participation, during grad school at Stanford, readers will see me that I was a backup player in the big leagues, who mostly cheered from the bench. ",
-        "uid": "cIUq9XBgh"
+        "edit-time": 1602090289392,
+        "string": "Many thinkers who excited me as an undergrad (most significantly, Kahneman & Tversky, who rocked my world when Heuristics & Biases was first published in '83) continued to hold my interest even after I got a chance to suit up. ",
+        "uid": "d2zmYYr_B"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601936592572,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601936592572,
-        "string": "My particular anxiety didn't superficially manifest as the classic Impostor Syndrome. My conscious self-presentation adopted the Scarecrow's bluster, upon receiving a sheepskin from the Wizard of Oz. ",
+        "edit-time": 1602090384539,
+        "string": "My particular anxiety didn't superficially manifest as the classic Impostor Syndrome. My self-presentation adopted the Scarecrow's bluster, upon receiving a sheepskin from the Wizard of Oz, overly dependent on my voluminous reading as a handy way to sound like I had been thinking. ",
         "uid": "HZqZrz7Fn"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601936101769,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602090928534,
+            "string": "I thought I recognized myself in DeLillo's description of the denizens of little Italy: \"They said, Who's better than me? ... They knew how to sit there and say that and feel happy.\" https://www.google.com/books/edition/Underworld/Ug3ArDMHLnQC?hl=en&gbpv=1&dq=who's+better+than+me+intitle:Underworld+inauthor:Don+inauthor:DeLillo&pg=PA207&printsec=frontcover",
+            "uid": "jxXjV5gbp"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1601936101769,
+        "create-time": 1602090924017,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601936605367,
-        "string": "Herb Simon, one of the remarkable minds I met, wrote in his autobiography that an intellectual was somebody who thought that their professors were normal people. My hyper-verbal intellect deflected my insecurity using the words of one of Don DeLillo's characters:  my subliminal thought was that nobody was any better than me. ",
-        "uid": "jxXjV5gbp"
+        "edit-time": 1602090924017,
+        "string": "Herb Simon, one of the remarkable minds I met, wrote in his autobiography that an intellectual was somebody who thought that their professors were normal people. My hyper-verbal intellect deflected my insecurity. ",
+        "uid": "LZRdtt57k"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1601936217646,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602091061677,
+            "string": "My most recurrent self-insult was to label myself a \"high IQ moron.\" Or that I was a verbose example of Williams Syndrome. Now that GPT-3's spieling paragraphs informed by its billion-parameter model, that has become the go-to deprecation for my trains of thought.",
+            "uid": "JF8CBOwVA"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1601936217646,
+        "create-time": 1602090976120,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601936217646,
-        "string": "Only recently have I realized that my particular form of the Impostor Syndrome arrived in the quietest hours, during the dark of night, as I struggled to put my big ideas on paper. Paralyzed by knowing so much, having read almost everything that wasn't on the syllabus, made me unable to see what possible contribution needed to be added. My most recurrent self-insult was to label myself a \"high IQ moron.\"",
-        "uid": "JF8CBOwVA"
+        "edit-time": 1602090976120,
+        "string": "Only recently have I realized that my particular form of the Impostor Syndrome arrived in the quietest hours, during the dark of night, as I struggled to put my big ideas on paper. Paralyzed by knowing so much, having read almost everything that wasn't on the syllabus, I felt unable to see what possible contribution needed to be added. ",
+        "uid": "cgoCSXqP8"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -9741,8 +9799,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602008113475,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602008131213,
-            "string": "send him resources on [[experiments]] https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0",
+            "edit-time": 1602089333272,
+            "string": "sent him resources on [[experiments]] https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0",
             "uid": "ZoeL6Hca5"
           }
         ],
@@ -10119,6 +10177,269 @@
     "title": "Apologies"
   },
   {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602088638449,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088671183,
+        "string": "Still haven't figured out how to have a reusable block of todos; yesterday I just copied the prior, and manually edited DONE out",
+        "uid": "ZADdzsPZz"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089809784,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089834025,
+            "string": "Morning routine - 64 pushups before decafs cascade",
+            "uid": "Pm2qecNBb"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602089800617,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602089835976,
+        "string": "{{[[DONE]]}} journal first",
+        "uid": "tEaWYRbL2"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602088779051,
+            "string": "12:15",
+            "uid": "xl2Vv_kuP"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602088779051,
+            "string": "2:30",
+            "uid": "7Uz5UKenz"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088779051,
+        "string": "{{[[TODO]]}} 2 focusmate sessions",
+        "uid": "rjtiPQAfm"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088787390,
+        "string": "{{[[TODO]]}} Topic today - Apologies2",
+        "uid": "dHUdJbRxM"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602089308019,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602089319019,
+        "string": "{{[[TODO]]}} sign & mail docs to DCW",
+        "uid": "g8zCsJcKX"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088779051,
+        "string": "{{[[TODO]]}} begin list of potential [[pitches]]",
+        "uid": "pVY371DZc"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088779051,
+        "string": "{{[[TODO]]}} search linkedin and job sites - bookmark and routinize",
+        "uid": "W8eTmtPyo"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089196757,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089207606,
+            "string": "{{[[TODO]]}} text MJ about plant picking",
+            "uid": "kO3Fx0cOY"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088779051,
+        "string": "{{[[TODO]]}} water garden at break",
+        "uid": "x2Kuh1yBL"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088779051,
+        "string": "{{[[TODO]]}} look at Roam Slack & Sandbox",
+        "uid": "soEIawC9Z"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602088779051,
+            "string": "don't read news until 5pm",
+            "uid": "FxNGhZWh7"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602088779051,
+            "string": "avoid feedly until same time",
+            "uid": "uKrkuFU3q"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602088779051,
+            "string": "Check email only 3x[[October 5th, 2020]]",
+            "uid": "c1GsCiRVx"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088779051,
+        "string": "{{[[TODO]]}} [[Surf the urge]] but ",
+        "uid": "j7SefMrPo"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602088897484,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602088923520,
+                "string": "didn't leave bed for the first hour, so perhaps I slept more, since no distinct thoughts recalled",
+                "uid": "Zt7di-Zf4"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602088867436,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602088896991,
+            "string": "woke around 8, felt tired but not exhausted on both ends, midnight and 7ish",
+            "uid": "h4gdJiwfh"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602089355110,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602089375954,
+                "string": "he won the Rip van Winkle prize in his advisory",
+                "uid": "Q4EqFQUfH"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602088923511,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089355115,
+            "string": "fiddled from 8 to 9 before exhorting B to wake up ",
+            "uid": "iDcccIZXg"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089375950,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089427862,
+            "string": "ordered a $225 bubble head mask, in order to be able to fly someday",
+            "uid": "GzZQB5jAx"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089427856,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089456966,
+            "string": "not at all restrained in my eating habits - t-bone for lunch, and mid-afternoon ice cream pint",
+            "uid": "kT9wF3U6i"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089458742,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089479737,
+            "string": "writing has been happening, although not the full 2 hours",
+            "uid": "I-0e355g7"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602089556531,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602089626356,
+                "string": "insanity - refusal to wear the mask has almost completely shut down the executive branch, the guy is on a roid rage that amps our collective danger, and for the debates, both he & VP are weaponized vectors who demand that the Dem show up without prudent protection",
+                "uid": "PNLxK-lx-"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602089626339,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602089648575,
+                "string": "truly the worst-est is still ahead",
+                "uid": "_ZrZiX6FY"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089479732,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089556535,
+            "string": "by around 4pm, i'd run out of clear todos, and went shopping, as well as dipping into my feed bag - may have even invented a pretext with Y to check whether IT in White House was dead",
+            "uid": "OYjcSXNil"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089649321,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089661708,
+            "string": "i tweeted this AM about the paperclip factory",
+            "uid": "w71QIQyyq"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089661703,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089687744,
+            "string": "Now that ROAM is my repository, I want to ingest all my tweets, old notes, etc",
+            "uid": "NFZu6rOtT"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602089737841,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602089752659,
+                "string": "I'm going to do a little more once my tomato bings",
+                "uid": "Ml726pJrd"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089687739,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089737053,
+            "string": "in my [[Autobio 0 Draft]], I'm tempted to drop into my Harvard notes, and scan pages and even offer to digitize audio if an audience is created",
+            "uid": "D5zyPlymb"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602089752655,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602089793312,
+            "string": "Per my senescent awakening, again chastened by the belated but useful power of finally setting clear goals",
+            "uid": "I6lE4iGK2"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602088829966,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602088859646,
+        "props": {
+          "POMO": 1602088864090
+        },
+        "string": "[[journal]][[October 7th, 2020]]{{[[POMO]]: 15}}",
+        "uid": "CTIc1RtQZ"
+      }
+    ],
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1602032148969,
     "title": "October 7th, 2020"

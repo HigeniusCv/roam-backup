@@ -3,12 +3,12 @@
 - {{[[DONE]]}} list of [[Topics for blogs]] - translate to promote 3 for this week
     - Organized quasi-chronologically
 - {{[[TODO]]}} begin list of potential [[pitches]]
-- {{[[TODO]]}} apply to OKEX
+- {{[[DONE]]}} apply to OKEX
 - {{[[DONE]]}} apply to Mach49
-- {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
+- {{[[DONE]]}} search linkedin and job sites - bookmark and routinize
 - {{[[DONE]]}} water garden at break
 - {{[[DONE]]}} bike to top of Cedar before 1pm
-- {{[[TODO]]}} look at Roam Slack & Sandbox
+- {{[[DONE]]}} look at Roam Slack & Sandbox
 - {{[[DONE]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - avoid feedly until same time

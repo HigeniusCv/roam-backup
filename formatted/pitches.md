@@ -6,3 +6,6 @@
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - [ ] begin list of potential [pitches](<pitches.md>)
 
+## [October 7th, 2020](<October 7th, 2020.md>)
+- [ ] begin list of potential [pitches](<pitches.md>)
+

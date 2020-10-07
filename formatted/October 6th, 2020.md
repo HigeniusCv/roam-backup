@@ -1,6 +1,6 @@
 - [x] [journal](<journal.md>) 15 minutes {{[POMO](<POMO.md>): 10}}
 - [x] [network](<network.md>) Call Matt Wallaert at 8am
-    - send him resources on [experiments](<experiments.md>) https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0
+    - sent him resources on [experiments](<experiments.md>) https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0
 - [ ] 2 focusmate sessions
     - 12:15
     - 2:30

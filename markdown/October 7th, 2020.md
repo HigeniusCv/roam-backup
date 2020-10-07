@@ -8,7 +8,7 @@
 - {{[[DONE]]}} sign & mail docs to DCW
 - {{[[TODO]]}} begin list of potential [[pitches]]
 - {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
-- {{[[TODO]]}} water garden at break
+- {{[[DONE]]}} water garden at break
     - {{[[TODO]]}} text MJ about plant picking
 - {{[[TODO]]}} look at Roam Slack & Sandbox
 - {{[[TODO]]}} [[Surf the urge]] but 

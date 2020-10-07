@@ -8,7 +8,7 @@
 - [x] sign & mail docs to DCW
 - [ ] begin list of potential [pitches](<pitches.md>)
 - [ ] search linkedin and job sites - bookmark and routinize
-- [ ] water garden at break
+- [x] water garden at break
     - [ ] text MJ about plant picking
 - [ ] look at Roam Slack & Sandbox
 - [ ] [Surf the urge](<Surf the urge.md>) but 

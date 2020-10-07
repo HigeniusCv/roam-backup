@@ -9390,8 +9390,8 @@
         "children": [
           {
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601871083774,
-            "string": "{{[[TODO]]}} Create 3 TODOs with the 3 different techniques belonging to 3 different domains (e.g., #school #reading #lol) [[October 5th, 2020]]",
+            "edit-time": 1602105579687,
+            "string": "{{[[DONE]]}} Create 3 TODOs with the 3 different techniques belonging to 3 different domains (e.g., #school #reading #lol) [[October 5th, 2020]]",
             "uid": "Cxk7JVPi1"
           },
           {
@@ -10299,6 +10299,16 @@
         "uid": "rjtiPQAfm"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602105552833,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602105557950,
+            "string": "word count ",
+            "uid": "BTrPMYNKH"
+          }
+        ],
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602100018523,
         "string": "{{[[TODO]]}} Topic today - [[Apologies]]",

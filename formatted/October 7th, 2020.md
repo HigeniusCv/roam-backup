@@ -3,8 +3,9 @@
     - Morning routine - 64 pushups before decafs cascade
 - [ ] 2 focusmate sessions
     - 12:15 - LATE
-    - 2:30
+    - 3pm 
 - [ ] Topic today - [Apologies](<Apologies.md>)
+    - word count 
 - [x] sign & mail docs to DCW
 - [ ] begin list of potential [pitches](<pitches.md>)
 - [x] search linkedin and job sites - bookmark and routinize

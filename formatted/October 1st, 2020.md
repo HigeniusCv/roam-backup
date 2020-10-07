@@ -62,7 +62,7 @@
 - Money pare down
     - Borrow 50K from 401k - 
     - Reduce burn rate to 4k
-        - [ ] Cancel Sapphire card by Oct 6 
+        - [x] Cancel Sapphire card by Oct 6 
         - mortgage & other fixed costs
         - dumpster dive to replace food
         - get government cheese

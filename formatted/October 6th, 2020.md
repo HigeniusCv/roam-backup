@@ -4,7 +4,7 @@
 - [ ] 2 focusmate sessions
     - 12:15
     - 2:30
-- [ ] Topic today - Apologies
+- [ ] Topic today - [Apologies](<Apologies.md>)
 - [ ] begin list of potential [pitches](<pitches.md>)
 - [x] apply to OKEX
 - [x] map past applications

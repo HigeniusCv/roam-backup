@@ -6452,8 +6452,8 @@
                 "create-email": "psas@motivationengineers.com",
                 "create-time": 1601662590879,
                 "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1601662613646,
-                "string": "{{[[TODO]]}} Cancel Sapphire card by Oct 6 ",
+                "edit-time": 1602105502647,
+                "string": "{{[[DONE]]}} Cancel Sapphire card by Oct 6 ",
                 "uid": "KilRdly3W"
               },
               {
@@ -7052,8 +7052,8 @@
                   },
                   {
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1601675949506,
-                    "string": "{{[[TODO]]}} Create a list of topics to write about",
+                    "edit-time": 1602105499839,
+                    "string": "{{[[DONE]]}} Create a list of topics to write about",
                     "uid": "liBR0SrU-"
                   },
                   {
@@ -9837,8 +9837,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002704819,
-        "string": "{{[[TODO]]}} Topic today - Apologies",
+        "edit-time": 1602105522622,
+        "string": "{{[[TODO]]}} Topic today - [[Apologies]]",
         "uid": "jS1-ZYziE"
       },
       {
@@ -10117,11 +10117,11 @@
         "children": [
           {
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602021687418,
+            "create-time": 1602100176492,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602022158708,
-            "string": "Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO becomes as famous as a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.",
-            "uid": "v6vYfBbhE"
+            "edit-time": 1602100386675,
+            "string": "In human relationships, one's reputational value stakes some skin in the game. Even for one-time interactions (such as tipping at an airport you'll never visit again), our self-image can be undermined if we see ourselves as too selfish to care about social norms toward others.",
+            "uid": "fFvZ6TlX8"
           },
           {
             "create-email": "psas@motivationengineers.com",
@@ -10133,6 +10133,14 @@
           },
           {
             "create-email": "psas@motivationengineers.com",
+            "create-time": 1602022005303,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602100148303,
+            "string": "Even though the transactional nature is not nakedly broadcast, there's moments where the experience will reveal that the business exchange involves efficiency rather than intimacy.",
+            "uid": "CDmpEmfV-"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
             "create-time": 1602022103630,
             "edit-email": "psas@motivationengineers.com",
             "edit-time": 1602022103630,
@@ -10141,13 +10149,23 @@
           },
           {
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602022005303,
+            "create-time": 1602021687418,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602022310839,
-            "string": "While the transactional nature is not nakedly broadcast, there's moments where corporate communications will reveal the trade as a business exchange.",
-            "uid": "CDmpEmfV-"
+            "edit-time": 1602022158708,
+            "string": "Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO becomes as famous as a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.",
+            "uid": "v6vYfBbhE"
           },
           {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602022385163,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602100724604,
+                "string": "Both parties realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. \"On time or free\" was once used to push pizza-deliveries, but even Domino's seems to no longer commit to that",
+                "uid": "yg6xeTSAn"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602022312258,
             "edit-email": "psas@motivationengineers.com",
@@ -10156,19 +10174,75 @@
             "uid": "LfLflwymp"
           },
           {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602022385163,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602022731460,
-            "string": "Since both parties realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. \"On time or free\" was once used by Domino's to push pizza-deliveries, so it's worth exploring ",
-            "uid": "yg6xeTSAn"
+            "edit-time": 1602100746117,
+            "string": "Different Uber teams have at tried to roll out refunds, hoping to repair a defect with an apology.\nTo back up the \u201ccheap talk,\u201d Uber teams have tried out $1 to $5 refunds for late rides. Net return on apology treatment is often quite negative. The main impact of a refund appears to be heightened memorability of the bad experience.",
+            "uid": "SPw1dRaqB"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602100814638,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602100814663,
+            "string": "Intuitively, cultural norms strongly suggest that when something goes wrong, acknowledging the defect contributes to repair a relationship.",
+            "uid": "-GhNWqg1N"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602100916018,
+                "string": "Medical apologies direct attention toward error \"An apology may alert the patient to malpractice she would not otherwise have discovered.\" (\u201cSorry\u201d Is Never Enough, 2019, Stanford Law Review) https://www.stanfordlawreview.org/print/article/sorry-is-never-enough/",
+                "uid": "EghNlXsiF"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602100814638,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602100818784,
+            "string": "Explicit apologies are reputed to help doctors reduce their malpractice risk.",
+            "uid": "mbPjV3ydN"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602100814638,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602100927164,
+            "string": "There is very little evidence that apologies result in a repaired relationship.",
+            "uid": "0_NQV9rTl"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602100814638,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602100941817,
+                "string": "Repeated experiments (internal & external to Uber) demonstrate there may be no magic wording that significantly outperforms silence.",
+                "uid": "cuku9Tbdk"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602100814638,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602100833782,
+            "string": "Intuitions (based on interpersonal experience) are so strong that many Uber teams simply assume that \u201call the previous apologies were not correctly phrased/delivered/explained\u201d",
+            "uid": "7RgkseirA"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602100814638,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602100845147,
+            "string": "Uber should NOT be spending resources to apologize.",
+            "uid": "lksRYtq-y"
           }
         ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602021220973,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602021378255,
-        "string": "Let's unpack this, since it runs counter to what's best for maintaining good interpersonal relationships. The first and most important thing to recognize that interactions with a brand differ in important dimensions from person-to-person contact.",
+        "edit-time": 1602100052615,
+        "string": "Let's unpack this, since it runs counter to what's best for maintaining good interpersonal relationships. The first and most important thing to recognize is that interactions with a brand differ in important dimensions from person-to-person contact.",
         "uid": "1G9TNh6KI"
       }
     ],
@@ -10208,26 +10282,26 @@
         "children": [
           {
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602088779051,
-            "string": "12:15",
+            "edit-time": 1602105540443,
+            "string": "12:15 - LATE",
             "uid": "xl2Vv_kuP"
           },
           {
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602088779051,
-            "string": "2:30",
+            "edit-time": 1602105545505,
+            "string": "3pm ",
             "uid": "7Uz5UKenz"
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602088779051,
+        "edit-time": 1602105532906,
         "string": "{{[[TODO]]}} 2 focusmate sessions",
         "uid": "rjtiPQAfm"
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602088787390,
-        "string": "{{[[TODO]]}} Topic today - Apologies2",
+        "edit-time": 1602100018523,
+        "string": "{{[[TODO]]}} Topic today - [[Apologies]]",
         "uid": "dHUdJbRxM"
       },
       {
@@ -10246,8 +10320,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602088779051,
-        "string": "{{[[TODO]]}} search linkedin and job sites - bookmark and routinize",
+        "edit-time": 1602099995162,
+        "string": "{{[[DONE]]}} search linkedin and job sites - bookmark and routinize",
         "uid": "W8eTmtPyo"
       },
       {
@@ -10256,8 +10330,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602089196757,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602089207606,
-            "string": "{{[[TODO]]}} text MJ about plant picking",
+            "edit-time": 1602099997014,
+            "string": "{{[[DONE]]}} text MJ about plant picking",
             "uid": "kO3Fx0cOY"
           }
         ],
@@ -10268,8 +10342,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602088779051,
-        "string": "{{[[TODO]]}} look at Roam Slack & Sandbox",
+        "edit-time": 1602099998241,
+        "string": "{{[[DONE]]}} look at Roam Slack & Sandbox",
         "uid": "soEIawC9Z"
       },
       {

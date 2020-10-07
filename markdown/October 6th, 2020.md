@@ -4,7 +4,7 @@
 - {{[[TODO]]}} 2 focusmate sessions
     - 12:15
     - 2:30
-- {{[[TODO]]}} Topic today - Apologies
+- {{[[TODO]]}} Topic today - [[Apologies]]
 - {{[[TODO]]}} begin list of potential [[pitches]]
 - {{[[DONE]]}} apply to OKEX
 - {{[[DONE]]}} map past applications

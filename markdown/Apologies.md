@@ -13,10 +13,20 @@
     - Twitter's first years involved a lot of fail whale moments, enough so that it became part of the expected user experience. "some of our users feel very connected to it" https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/
 - How should a company manage the worst outcomes? Does an acknowledgement help repair the harm done? Should the firm spiff the customer something valuable to offset the letdown? What if they explicitly promise to do better, or perhaps tell the customer specifically how they intend to "learn from" the mistake?
 - Since each of these steps leverage elements of an effective interpersonal apology, many companies have incorporated them in some fashion. As a matter of empirical record, there's enough data on these trials to support a very specific apology strategy. In a nutshell, the strategy that experiments recommend is: Don't bother.
-- Let's unpack this, since it runs counter to what's best for maintaining good interpersonal relationships. The first and most important thing to recognize that interactions with a brand differ in important dimensions from person-to-person contact.
-    - Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO becomes as famous as a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.
+- Let's unpack this, since it runs counter to what's best for maintaining good interpersonal relationships. The first and most important thing to recognize is that interactions with a brand differ in important dimensions from person-to-person contact.
+    - In human relationships, one's reputational value stakes some skin in the game. Even for one-time interactions (such as tipping at an airport you'll never visit again), our self-image can be undermined if we see ourselves as too selfish to care about social norms toward others.
     - The invisible hand that brought the customer and company together hinges on self-interest. 
+    - Even though the transactional nature is not nakedly broadcast, there's moments where the experience will reveal that the business exchange involves efficiency rather than intimacy.
     - The motivation of potential profit drives a company to deliver value, yet it's implausible that such a connection should be mistaken for friendship.
-    - While the transactional nature is not nakedly broadcast, there's moments where corporate communications will reveal the trade as a business exchange.
+    - Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO becomes as famous as a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.
     - Economists call apologies offered without further backing 'cheap talk."
-    - Since both parties realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. "On time or free" was once used by Domino's to push pizza-deliveries, so it's worth exploring 
+        - Both parties realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. "On time or free" was once used to push pizza-deliveries, but even Domino's seems to no longer commit to that
+    - Different Uber teams have at tried to roll out refunds, hoping to repair a defect with an apology.
+To back up the “cheap talk,” Uber teams have tried out $1 to $5 refunds for late rides. Net return on apology treatment is often quite negative. The main impact of a refund appears to be heightened memorability of the bad experience.
+    - Intuitively, cultural norms strongly suggest that when something goes wrong, acknowledging the defect contributes to repair a relationship.
+    - Explicit apologies are reputed to help doctors reduce their malpractice risk.
+        - Medical apologies direct attention toward error "An apology may alert the patient to malpractice she would not otherwise have discovered." (“Sorry” Is Never Enough, 2019, Stanford Law Review) https://www.stanfordlawreview.org/print/article/sorry-is-never-enough/
+    - There is very little evidence that apologies result in a repaired relationship.
+    - Intuitions (based on interpersonal experience) are so strong that many Uber teams simply assume that “all the previous apologies were not correctly phrased/delivered/explained”
+        - Repeated experiments (internal & external to Uber) demonstrate there may be no magic wording that significantly outperforms silence.
+    - Uber should NOT be spending resources to apologize.

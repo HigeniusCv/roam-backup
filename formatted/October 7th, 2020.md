@@ -2,15 +2,15 @@
 - [x] journal first
     - Morning routine - 64 pushups before decafs cascade
 - [ ] 2 focusmate sessions
-    - 12:15
+    - 12:15 - LATE
     - 2:30
-- [ ] Topic today - Apologies2
+- [ ] Topic today - [Apologies](<Apologies.md>)
 - [x] sign & mail docs to DCW
 - [ ] begin list of potential [pitches](<pitches.md>)
-- [ ] search linkedin and job sites - bookmark and routinize
+- [x] search linkedin and job sites - bookmark and routinize
 - [x] water garden at break
-    - [ ] text MJ about plant picking
-- [ ] look at Roam Slack & Sandbox
+    - [x] text MJ about plant picking
+- [x] look at Roam Slack & Sandbox
 - [ ] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time

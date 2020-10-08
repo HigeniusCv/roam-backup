@@ -38,3 +38,6 @@ To back up the “cheap talk,” Uber teams have tried out $1 to $5 refunds for 
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - [ ] Topic today - [Apologies](<Apologies.md>)
 
+## [October 8th, 2020](<October 8th, 2020.md>)
+- [ ] Publish [Apologies](<Apologies.md>)
+

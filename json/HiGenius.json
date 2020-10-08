@@ -9664,30 +9664,38 @@
         "uid": "5Erpn5bzJ"
       },
       {
-        "children": [
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602171998996,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602172005894,
-            "string": "Watch YT on how to use",
-            "uid": "d4WExvJ7B"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602172005887,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602172015529,
-            "string": "Apply to back teeth",
-            "uid": "EO0QSDq1i"
-          }
-        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602179974117,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602179983362,
+        "string": "{{[[TODO]]}} chat with Maytal at 1pm",
+        "uid": "6nYo5NDS-"
+      },
+      {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602171980245,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602171998564,
-        "string": "{{[[TODO]]}} locate dental silver ",
+        "edit-time": 1602181060832,
+        "string": "{{[[DONE]]}} locate dental silver",
         "uid": "0agCbXQOH"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602181053971,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602181071453,
+            "string": "apply",
+            "uid": "wsal7YA0K"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602171998996,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602181060320,
+        "string": "{{[[TODO]]}} Watch YT on how to use",
+        "uid": "d4WExvJ7B"
       },
       {
         "children": [

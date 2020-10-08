@@ -8,9 +8,10 @@
 - {{[[TODO]]}} Apply to 7 linkedin and job sites
 - {{[[TODO]]}} water garden at break
 - {{[[TODO]]}} look at Roam Slack & Sandbox to understand templates
-- {{[[TODO]]}} locate dental silver 
-    - Watch YT on how to use
-    - Apply to back teeth
+- {{[[TODO]]}} chat with Maytal at 1pm
+- {{[[DONE]]}} locate dental silver
+- {{[[TODO]]}} Watch YT on how to use
+    - apply
 - {{[[TODO]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - avoid feedly until same time

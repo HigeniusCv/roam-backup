@@ -3,15 +3,15 @@
 - Interpersonal norms / [[Politeness Theory]]
     - When I accidentally harm another person, it's almost inconceivable that I'll let it pass without acknowledging my responsibility. Formally, a legitimate apology seems to require a) owning responsibility, by saying what I did to cause harm; b) recognition of the impact upon the person to whom I owe an apology; and ideally, c) a commitment to repair that, either immediately or when a similar situation recurs in the future.
     - “Even a dog knows the difference between being kicked and being stumbled over.” Oliver Wendell Holmes
-    - Infamously, the non-apology apology takes the form of "I'm sorry that YOUR action made X worse than I intended." The other gets the blame, either for misinterpretation, over-reaction, or somehow making faultless behavior __seem__ misfortunate.
-    - While apologies play an essential role in lubricating social intercourse, there are interpersonal situations where they cause more harm. Serial apologizers include the notorious being Harvey Weinstein, who habitually treated people miserably and then sent flowers to paper over the damage. 
-        - Even if all the boxes of a legitimate apology get checked, an apology may be distorted by selfish motivation.
-        - Repairing one's self-image, rather than assuaging the damage done to the other, is always present. When healthy, it motivates reflection and public admission. 
-    - Apologies may only make things worse. If the emotional damage is awkward of difficult for the victim to acknowledge publicly, that argues against explicit verbalization.
+    - The non-apology apology takes the form of "I'm sorry that YOUR action made X worse than I intended." The blame sticks to you, either for misinterpretation, over-reaction, or making my faultless behavior __seem__ hurtful.
+    - While apologies play an essential role in society, there are interpersonal situations where they only add damage. Serial apologizers, such as the notorious Harvey Weinstein, may habitually treat people miserably and then send flowers to paper over the damage. 
+        - Even if all the boxes of a legitimate apology get checked, an apology may be undermined by selfishness.
+        - Repairing one's self-image, rather than assuaging the damage done to the other, is one factor in any apology. Self-regard can be a healthy motive when it spurs reflection and public admission of responsibility. Responsibility is not truly owned if an apology seeks primarily to whitewash one's reputation.
+    - Apologies may in some cases only make things worse. If the emotional damage is awkward or difficult for the victim to acknowledge, that argues against explicit verbalization.
         - Owing another person an apology does not create an obligation for the other to allow you to communicate it to them.
         - Restorative justice?
-- Should companies behave like people?
-- What should a company do when a customer suffers some breakdown in the brand promise? The gut feeling, by analogy with our interpersonal dynamics, suggests that some form an apology is owed. Cultural norms strongly suggest that when something goes wrong, acknowledging the defect contributes to repair a relationship.
+- **Should companies behave like people?**
+- What should a company do when a breakdown in the brand promise causes some misfortune to a customer? The analogy with interpersonal dynamics intuitively suggests that some form an apology is owed. Cultural norms require acknowledging the harm as a step to repairing a relationship.
 - Tech firms's scale generates inevitable software bugs. The logic of minimally viable products means disappointments occur for some portion of the captured market
 - Let's get concrete. 
     - Transportation and delivery companies must quote a prediction, even though the vicissitudes of the physical world are vulnerable to unforeseen problems. Ride-hailing apps choose a granularity and degree of accuracy to surface. 
@@ -29,21 +29,25 @@
         - {{[[TODO]]}} Loewenstein's lab on this 
     - The invisible hand that brought the customer and company together hinges on self-interest. 
     - The motivation of potential profit drives a company to deliver value, yet it's implausible that such a connection should be mistaken for friendship.
-    - Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO becomes as famous as a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.
-    - Even though the transactional nature is not nakedly broadcast, there's moments where the experience will reveal that the business exchange involves efficiency rather than intimacy. qv Tyler Cowen
+    - Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO is a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.
+    - The transactional nature of business is not nakedly broadcast. At some points, the experience will reveal that the business exchange involves efficiency rather than intimacy. qv Tyler Cowen
     - Economists call apologies offered without further backing 'cheap talk."
         - Both parties may realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. 
-        - "On time or free" was once used to push pizza-deliveries, but even Domino's seems to no longer commit to that
+        - "On time or free" may push pizza-deliveries, but even Domino's seems to no longer commit to that.
+        - The cheapest apologies seem to waft from serial privacy abuser Mark Zuckerberg https://www.cnbc.com/2018/12/19/facebook-ceo-mark-zuckerberg-privacy-apologies.html 
+            - Facebook's corporate apologies mirror Weinstein's interpersonal shenanigans. Trotted out so frequently, the company's reckless behavior leans into them as a drunkard might insist on only driving cars with airbags. 
+            - Harrods, the premier luxury retailer in London, once had a full-time employee whose sole responsibility was to be sacked to appease particularly irate customers. https://henrytapper.com/2010/01/09/an-employee-whose-job-was-to-be-sacked/ 
     - Different Uber teams tried to roll out refunds, hoping to repair a defect with an apology. (John List 2017)
 
-    - To back up the “cheap talk,” Uber teams gave $1 to $5 refunds for late rides. Net return on apology treatment was negative. The main impact of a refund appears to be heightened memorability of the bad experience.
+    - To back up the “cheap talk,” Uber teams gave $5 refunds for late rides. Net return on apology treatment was negative. The main impact of a refund appears to be heightened memorability of the bad experience.
     - "Breaking into Jail" is jargon for calling explicit attention to a mistake you've made
-        - Disclosures are required in SEC prospectuses, but those are sufficiently formulaic that only the most acute analysts seem to give them credence
-        - Because they're pre-emptive, rather than in response to a specific experience, they fail to dispel the confirmation bias of already enthusiastic investors. 
-        - Public admissions of being paid by an interested party have negligible impact on evaluation of a journal article (Ariely)
-    - Explicit apologies are reputed to help doctors reduce their malpractice risk.
-        - Medical apologies direct attention toward error "An apology may alert the patient to malpractice she would not otherwise have discovered." (“Sorry” Is Never Enough, 2019, Stanford Law Review) https://www.stanfordlawreview.org/print/article/sorry-is-never-enough/
+        - Disclosures are required in SEC prospectuses, but only the most acute analysts seem to attend to the risks they mention.
+        - Being pre-emptive, rather than following a specific experience, they're no match for the confirmation bias of excited investors. 
+            - Public admissions of being paid by an interested party have negligible impact on evaluation of a journal article (Ariely)
+    - Explicit apologies by medical professionals were thought to reduce malpractice suits, so much that insurance industry successfully lobbied to change the law. A medical professional's apology could not be used as evidence in court, and the hope was that doctor's would then be free to admit to making mistakes without costly litigation. 
+        - Extensive empirical data showed that medical apologies only serve to direct attention toward error. "An apology may alert the patient to malpractice she would not otherwise have discovered." (“Sorry” Is Never Enough, 2019, Stanford Law Review) https://www.stanfordlawreview.org/print/article/sorry-is-never-enough/
     - There is very little evidence that apologies result in a repaired relationship.
     - Intuitions (based on interpersonal experience) are so strong that many Uber teams simply assume that “all the previous apologies were not correctly phrased/delivered/explained”
-        - Repeated experiments (internal & external to Uber) demonstrate there may be no magic wording that significantly outperforms silence.
-    - Uber should NOT be spending resources to apologize.
+        - Repeated experiments (internal & external to Uber) demonstrate there may be no magic wording that significantly outperforms silence
+    - I feel sorry for Robin Hanson after I read his apology: http://mason.gmu.edu/~rhanson/JuneteenthApology.html
+    - 

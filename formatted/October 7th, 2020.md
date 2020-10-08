@@ -1,7 +1,7 @@
 - Still haven't figured out how to have a reusable block of todos; yesterday I just copied the prior, and manually edited DONE out
 - [x] journal first
     - Morning routine - 64 pushups before decafs cascade
-- [ ] 2 focusmate sessions
+- [x] 2 focusmate sessions
     - 12:15 - LATE
     - 3pm 
 - [ ] Topic today - [Apologies](<Apologies.md>)
@@ -12,7 +12,7 @@
 - [x] water garden at break
     - [x] text MJ about plant picking
 - [x] look at Roam Slack & Sandbox
-- [ ] [Surf the urge](<Surf the urge.md>) but 
+- [x] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)

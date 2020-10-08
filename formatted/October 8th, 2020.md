@@ -1,5 +1,6 @@
 - [journal](<journal.md>)[October 8th, 2020](<October 8th, 2020.md>){{[POMO](<POMO.md>): 15}}
 - [ ] Set 2 focusmate sessions
+    - 10am extra credit
     - 11:15
     - 2:30
 - [ ] Publish [Apologies](<Apologies.md>) eod [October 8th, 2020](<October 8th, 2020.md>)

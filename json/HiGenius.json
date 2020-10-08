@@ -9608,6 +9608,14 @@
       {
         "children": [
           {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602174587982,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602174595263,
+            "string": "10am extra credit",
+            "uid": "5dzBwW2gt"
+          },
+          {
             "edit-email": "psas@motivationengineers.com",
             "edit-time": 1602171893958,
             "string": "11:15",
@@ -10435,138 +10443,246 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602175216518,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602175231440,
+            "string": "Don't bother.  Just keep getting better",
+            "uid": "sjKb8U7Ox"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602012120004,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602012410824,
-        "string": "Does it help to say sorry?",
+        "edit-time": 1602175214267,
+        "string": "Does it help to say sorry? ",
         "uid": "AzUd3gM7G"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602012702100,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602014960892,
+            "string": "When I accidentally harm another person, it's almost inconceivable that I'll let it pass without acknowledging my responsibility. Formally, a legitimate apology seems to require a) owning responsibility, by saying what I did to cause harm; b) recognition of the impact upon the person to whom I owe an apology; and ideally, c) a commitment to repair that, either immediately or when a similar situation recurs in the future.",
+            "uid": "bpcimWH-W"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602012735522,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602015324749,
+            "string": "\u201cEven\u00a0a\u00a0dog\u00a0knows the\u00a0difference between being kicked\u00a0and\u00a0being stumbled\u00a0over.\u201d Oliver Wendell Holmes",
+            "uid": "I8ncivouB"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602012410801,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602174691471,
+            "string": "Infamously, the non-apology apology takes the form of \"I'm sorry that YOUR action made X worse than I intended.\" The other gets the blame, either for misinterpretation, over-reaction, or somehow making faultless behavior __seem__ misfortunate.",
+            "uid": "ZiQtqOBoi"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602176064352,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602176132375,
+                "string": "Even if all the boxes of a legitimate apology get checked, an apology may be distorted by selfish motivation.",
+                "uid": "wZh8p37qY"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602176132369,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602176199451,
+                "string": "Repairing one's self-image, rather than assuaging the damage done to the other, is always present. When healthy, it motivates reflection and public admission. ",
+                "uid": "QiTaROC71"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602012907577,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602176125401,
+            "string": "While apologies play an essential role in lubricating social intercourse, there are interpersonal situations where they cause more harm. Serial apologizers include the notorious being Harvey Weinstein, who habitually treated people miserably and then sent flowers to paper over the damage. ",
+            "uid": "qr69fm3B-"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602174719634,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602176295937,
+                "string": "Owing another person an apology does not create an obligation for the other to allow you to communicate it to them.",
+                "uid": "07HzI3sai"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602174757468,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602174763025,
+                "string": "Restorative justice?",
+                "uid": "zpGXw1YyB"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602013087019,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602176254688,
+            "string": "Apologies may only make things worse. If the emotional damage is awkward of difficult for the victim to acknowledge publicly, that argues against explicit verbalization.",
+            "uid": "wTWyd66_0"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602012702100,
+        "create-time": 1602174635923,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602014960892,
-        "string": "When I accidentally harm another person, it's almost inconceivable that I'll let it pass without acknowledging my responsibility. Formally, a legitimate apology seems to require a) owning responsibility, by saying what I did to cause harm; b) recognition of the impact upon the person to whom I owe an apology; and ideally, c) a commitment to repair that, either immediately or when a similar situation recurs in the future.",
-        "uid": "bpcimWH-W"
+        "edit-time": 1602174671905,
+        "string": "Interpersonal norms / [[Politeness Theory]]",
+        "uid": "8J2gGB_XT"
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602012735522,
+        "create-time": 1602174867371,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602015324749,
-        "string": "\u201cEven\u00a0a\u00a0dog\u00a0knows the\u00a0difference between being kicked\u00a0and\u00a0being stumbled\u00a0over.\u201d Oliver Wendell Holmes",
-        "uid": "I8ncivouB"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602012410801,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602012907584,
-        "string": "Infamously, the non-apology apology takes the form of \"I'm sorry that YOUR action made X bad.\" The other gets the blame, either for misinterpretation, over-reaction, or somehow making faultless behavior __seem__ misfortunate.",
-        "uid": "ZiQtqOBoi"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602012907577,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602013080842,
-        "string": "While apologies play an essential role in lubricating social intercourse, there are interpersonal situations where they cause more harm. Some people may be serial apologizers, the most notorious being Harvey Weinstein's custom of blowing up and then sending flowers to paper over the damage. ",
-        "uid": "qr69fm3B-"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602013087019,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602013223927,
-        "string": "There's other occasions where apologies may only make things worse. If the emotional damage is difficult for the victim to acknowledge publicly, then finding an artful way to repair the harm may not entail directly and explicitly verbalizing an apology.",
-        "uid": "wTWyd66_0"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602013616462,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602014216554,
-        "string": "In my work with tech firms, scale collides with the vagaries of technical bugs, enough that disappointment's inevitable at least some of the time. ",
-        "uid": "gz_vmjjLs"
+        "edit-time": 1602174881200,
+        "string": "Should companies behave like people?",
+        "uid": "mpNqL_UE8"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602013223922,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602020450006,
-        "string": "So what should a company do when a customer suffers some breakdown in the brand promise? The gut feeling, by analogy with our interpersonal dynamics, suggests that some form an apology is owed.",
+        "edit-time": 1602175836592,
+        "string": "What should a company do when a customer suffers some breakdown in the brand promise? The gut feeling, by analogy with our interpersonal dynamics, suggests that some form an apology is owed. Cultural norms strongly suggest that when something goes wrong, acknowledging the defect contributes to repair a relationship.",
         "uid": "LNBCgn3c1"
       },
       {
-        "children": [
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602013711146,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602020756508,
-            "string": "Uber & Lyft show a point estimate for when the car will arrive; for carpooling, variability was implied by showing a time range. This was bounded by two probabilities - the lower estimate is hit 50% of the time (\"p50\"), while the upper bound was expected to cover 95% of driver arrivals (\"p95\"). As a homework problem for experienced riders, what intuitive probability do you expect to be shown when you hail a ride? In other words, how frequently do you find that a car arrives later than the quoted arrival time?",
-            "uid": "QhC9MebRw"
-          }
-        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602020566732,
+        "create-time": 1602013616462,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602020566732,
-        "string": "Let's get concrete. Transportation and delivery companies must quote a prediction, even though the vicissitudes of the physical world are vulnerable to unforeseen problems. Ride-hailing apps choose a granularity and degree of accuracy to surface. ",
-        "uid": "GoRj55N19"
+        "edit-time": 1602174854322,
+        "string": "Tech firms's scale generates inevitable software bugs. The logic of minimally viable products means disappointments occur for some portion of the captured market",
+        "uid": "gz_vmjjLs"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602013711146,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602174969764,
+                "string": "Uber & Lyft show a point estimate for when the car will arrive; for carpooling, variability was implied by showing a time range. This was bounded by two probabilities - the lower estimate is hit 50% of the time (\"p50\"), while the upper bound was expected to cover 95% of driver arrivals (\"p95\"). As a homework problem for those who've repeat experience, what probability do you intuit when you hail a ride? In other words, how frequently do you expect that a car arrives later than the quoted arrival time?",
+                "uid": "QhC9MebRw"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602014218986,
+            "create-time": 1602020566732,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602020275005,
-            "string": "Bounding the variance can keep the frequency of a truly bad event to a smaller fraction of the population, but how many companies deliver the mythical 5 nines uptime?https://searchnetworking.techtarget.com/feature/The-Holy-Grail-of-five-nines-reliability",
-            "uid": "10_dbeNtf"
+            "edit-time": 1602174901118,
+            "string": "Transportation and delivery companies must quote a prediction, even though the vicissitudes of the physical world are vulnerable to unforeseen problems. Ride-hailing apps choose a granularity and degree of accuracy to surface. ",
+            "uid": "GoRj55N19"
           },
           {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602014218986,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602020275005,
+                "string": "Bounding the variance can keep the frequency of a truly bad event to a smaller fraction of the population, but how many companies deliver the mythical 5 nines uptime?https://searchnetworking.techtarget.com/feature/The-Holy-Grail-of-five-nines-reliability",
+                "uid": "10_dbeNtf"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602013325320,
+            "create-time": 1602020274998,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602013950367,
-            "string": "Twitter's first years involved a lot of fail whale moments, enough so that it became part of the expected user experience. \"some of our users feel very connected to it\" https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/",
-            "uid": "xViTlHE_R"
+            "edit-time": 1602020274998,
+            "string": "Five percent of customers are, by definition, going to get an experience that's worse than the best 95% of cases. ",
+            "uid": "_QGEsZZ2j"
           }
         ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602020274998,
+        "create-time": 1602174901115,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602020274998,
-        "string": "Five percent of customers are, by definition, going to get an experience that's worse than the best 95% of cases. ",
-        "uid": "_QGEsZZ2j"
+        "edit-time": 1602174901115,
+        "string": "Let's get concrete. ",
+        "uid": "XunEPFU5b"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602013325320,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602013950367,
+        "string": "Twitter's first years involved a lot of fail whale moments, enough so that it became part of the expected user experience. \"some of our users feel very connected to it\" https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/",
+        "uid": "xViTlHE_R"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602175026606,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602175026606,
+        "string": "Does an acknowledgement help repair the harm done? ",
+        "uid": "fOO6edoTp"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602175037638,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602175243050,
+        "string": "What if a firm explicitly promise to do better, or perhaps tell the customer specifically how they intend to \"learn from\" the mistake?",
+        "uid": "SxVOJO0F0"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602020071870,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602021000212,
-        "string": "How should a company manage the worst outcomes? Does an acknowledgement help repair the harm done? Should the firm spiff the customer something valuable to offset the letdown? What if they explicitly promise to do better, or perhaps tell the customer specifically how they intend to \"learn from\" the mistake?",
+        "edit-time": 1602175036249,
+        "string": "Should the firm spiff the customer something valuable to offset the letdown? ",
         "uid": "ejb3pUAnx"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602021057543,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602021216077,
-        "string": "Since each of these steps leverage elements of an effective interpersonal apology, many companies have incorporated them in some fashion. As a matter of empirical record, there's enough data on these trials to support a very specific apology strategy. In a nutshell, the strategy that experiments recommend is: Don't bother.",
+        "edit-time": 1602175070849,
+        "string": "As a matter of empirical record, there's enough data on these trials to support a very specific apology strategy. In a nutshell, the strategy that multiple experiments recommend is: Don't bother.",
         "uid": "Sb2sh8B9l"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602100176492,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602175109378,
+                "string": "Even for one-time interactions (such as tipping at an airport you'll never visit again), our self-image can be undermined if we see ourselves as too selfish to care about social norms toward others.",
+                "uid": "fFvZ6TlX8"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602175111711,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602175139618,
+                "string": "{{[[TODO]]}} Loewenstein's lab on this ",
+                "uid": "_MVJPXOxL"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602100176492,
+            "create-time": 1602175109361,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602100386675,
-            "string": "In human relationships, one's reputational value stakes some skin in the game. Even for one-time interactions (such as tipping at an airport you'll never visit again), our self-image can be undermined if we see ourselves as too selfish to care about social norms toward others.",
-            "uid": "fFvZ6TlX8"
+            "edit-time": 1602175109361,
+            "string": "In human relationships, one's reputational value inherently has skin in the game. ",
+            "uid": "ly9PpPegl"
           },
           {
             "create-email": "psas@motivationengineers.com",
@@ -10575,14 +10691,6 @@
             "edit-time": 1602021984349,
             "string": "The invisible hand that brought the customer and company together hinges on self-interest. ",
             "uid": "rQsdICb4X"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602022005303,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602100148303,
-            "string": "Even though the transactional nature is not nakedly broadcast, there's moments where the experience will reveal that the business exchange involves efficiency rather than intimacy.",
-            "uid": "CDmpEmfV-"
           },
           {
             "create-email": "psas@motivationengineers.com",
@@ -10601,13 +10709,29 @@
             "uid": "v6vYfBbhE"
           },
           {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602022005303,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602175507561,
+            "string": "Even though the transactional nature is not nakedly broadcast, there's moments where the experience will reveal that the business exchange involves efficiency rather than intimacy. qv Tyler Cowen",
+            "uid": "CDmpEmfV-"
+          },
+          {
             "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602175192798,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602175486720,
+                "string": "Both parties may realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. ",
+                "uid": "uK5JdM7sK"
+              },
               {
                 "create-email": "psas@motivationengineers.com",
                 "create-time": 1602022385163,
                 "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1602100724604,
-                "string": "Both parties realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. \"On time or free\" was once used to push pizza-deliveries, but even Domino's seems to no longer commit to that",
+                "edit-time": 1602175192807,
+                "string": "\"On time or free\" was once used to push pizza-deliveries, but even Domino's seems to no longer commit to that",
                 "uid": "yg6xeTSAn"
               }
             ],
@@ -10619,18 +10743,52 @@
             "uid": "LfLflwymp"
           },
           {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602175327260,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602100746117,
-            "string": "Different Uber teams have at tried to roll out refunds, hoping to repair a defect with an apology.\nTo back up the \u201ccheap talk,\u201d Uber teams have tried out $1 to $5 refunds for late rides. Net return on apology treatment is often quite negative. The main impact of a refund appears to be heightened memorability of the bad experience.",
+            "edit-time": 1602175327260,
+            "string": "Different Uber teams tried to roll out refunds, hoping to repair a defect with an apology. (John List 2017)\n",
+            "uid": "w2fCQoe7U"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602175327268,
+            "string": "To back up the \u201ccheap talk,\u201d Uber teams gave $1 to $5 refunds for late rides. Net return on apology treatment was negative. The main impact of a refund appears to be heightened memorability of the bad experience.",
             "uid": "SPw1dRaqB"
           },
           {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602175550900,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602175630834,
+                "string": "Disclosures are required in SEC prospectuses, but those are sufficiently formulaic that only the most acute analysts seem to give them credence",
+                "uid": "E7Ni_7WPe"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602175634788,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602175713562,
+                "string": "Because they're pre-emptive, rather than in response to a specific experience, they fail to dispel the confirmation bias of already enthusiastic investors. ",
+                "uid": "LJy_yNn4F"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602175713977,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602175763440,
+                "string": "Public admissions of being paid by an interested party have negligible impact on evaluation of a journal article (Ariely)",
+                "uid": "m2Y_9O-FB"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602100814638,
+            "create-time": 1602175330824,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602100814663,
-            "string": "Intuitively, cultural norms strongly suggest that when something goes wrong, acknowledging the defect contributes to repair a relationship.",
-            "uid": "-GhNWqg1N"
+            "edit-time": 1602175372691,
+            "string": "\"Breaking into Jail\" is jargon for calling explicit attention to a mistake you've made",
+            "uid": "_y6YIznqg"
           },
           {
             "children": [
@@ -10993,5 +11151,12 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1602173774076,
     "title": "Yak-kitty Yack"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602174671906,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602174671919,
+    "title": "Politeness Theory"
   }
 ]

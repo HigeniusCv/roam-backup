@@ -1,5 +1,6 @@
 - [[journal]][[October 8th, 2020]]{{[[POMO]]: 15}}
 - {{[[TODO]]}} Set 2 focusmate sessions
+    - 10am extra credit
     - 11:15
     - 2:30
 - {{[[TODO]]}} Publish [[Apologies]] eod [[October 8th, 2020]]

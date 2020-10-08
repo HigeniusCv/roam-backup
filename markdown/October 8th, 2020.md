@@ -1,15 +1,16 @@
 - [[journal]][[October 8th, 2020]]{{[[POMO]]: 15}}
-- {{[[TODO]]}} Set 2 focusmate sessions
+- {{[[DONE]]}} Set 2 focusmate sessions
     - 10am extra credit
     - 11:15
     - 2:30
 - {{[[TODO]]}} Publish [[Apologies]] eod [[October 8th, 2020]]
+- {{[[TODO]]}} prepare portfolio pitch for Instacart
 - {{[[TODO]]}} Experiment with list of potential [[pitches]]
 - {{[[TODO]]}} Apply to 7 linkedin and job sites
 - {{[[DONE]]}} water garden at break
     - cut flowers & kale
 - {{[[TODO]]}} look at Roam Slack & Sandbox to understand templates
-- {{[[TODO]]}} chat with Maytal at 1pm
+- {{[[DONE]]}} chat with Maytal at 1pm
 - {{[[DONE]]}} locate dental silver
 - {{[[TODO]]}} Watch YT on how to use
     - apply

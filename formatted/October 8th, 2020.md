@@ -1,15 +1,16 @@
 - [journal](<journal.md>)[October 8th, 2020](<October 8th, 2020.md>){{[POMO](<POMO.md>): 15}}
-- [ ] Set 2 focusmate sessions
+- [x] Set 2 focusmate sessions
     - 10am extra credit
     - 11:15
     - 2:30
 - [ ] Publish [Apologies](<Apologies.md>) eod [October 8th, 2020](<October 8th, 2020.md>)
+- [ ] prepare portfolio pitch for Instacart
 - [ ] Experiment with list of potential [pitches](<pitches.md>)
 - [ ] Apply to 7 linkedin and job sites
 - [x] water garden at break
     - cut flowers & kale
 - [ ] look at Roam Slack & Sandbox to understand templates
-- [ ] chat with Maytal at 1pm
+- [x] chat with Maytal at 1pm
 - [x] locate dental silver
 - [ ] Watch YT on how to use
     - apply

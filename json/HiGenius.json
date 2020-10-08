@@ -8848,8 +8848,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1601854013377,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1601854041898,
-            "string": "The opposite of ludic is Butterfield (Flickr and Slack) not Glitch",
+            "edit-time": 1602186015081,
+            "string": "The opposite of ludic is Butterfield (Flickr and Slack) The Glitch",
             "uid": "OonBdEDeC"
           },
           {
@@ -9652,9 +9652,19 @@
         "uid": "MUHOJCtgL"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602185837311,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602185844651,
+            "string": "cut flowers & kale",
+            "uid": "0ZLbBwQsq"
+          }
+        ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602171846869,
-        "string": "{{[[TODO]]}} water garden at break",
+        "edit-time": 1602185835413,
+        "string": "{{[[DONE]]}} water garden at break",
         "uid": "1HX6x0Xnv"
       },
       {

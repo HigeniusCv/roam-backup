@@ -164,7 +164,7 @@
     - Waking up 
         - Awareness of lack of substantive continuity
         - Through to Psychedelics
-    - The opposite of ludic is Butterfield (Flickr and Slack) not Glitch
+    - The opposite of ludic is Butterfield (Flickr and Slack) The Glitch
     - DBT is more than CBT or Stoicism
     - Physical Intelligence & What a body can do
     - How emotions are made

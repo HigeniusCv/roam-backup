@@ -6,7 +6,8 @@
 - [ ] Publish [Apologies](<Apologies.md>) eod [October 8th, 2020](<October 8th, 2020.md>)
 - [ ] Experiment with list of potential [pitches](<pitches.md>)
 - [ ] Apply to 7 linkedin and job sites
-- [ ] water garden at break
+- [x] water garden at break
+    - cut flowers & kale
 - [ ] look at Roam Slack & Sandbox to understand templates
 - [ ] chat with Maytal at 1pm
 - [x] locate dental silver

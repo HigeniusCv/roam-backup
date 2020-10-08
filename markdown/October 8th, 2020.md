@@ -6,7 +6,8 @@
 - {{[[TODO]]}} Publish [[Apologies]] eod [[October 8th, 2020]]
 - {{[[TODO]]}} Experiment with list of potential [[pitches]]
 - {{[[TODO]]}} Apply to 7 linkedin and job sites
-- {{[[TODO]]}} water garden at break
+- {{[[DONE]]}} water garden at break
+    - cut flowers & kale
 - {{[[TODO]]}} look at Roam Slack & Sandbox to understand templates
 - {{[[TODO]]}} chat with Maytal at 1pm
 - {{[[DONE]]}} locate dental silver

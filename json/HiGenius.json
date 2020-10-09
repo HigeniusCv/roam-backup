@@ -7468,6 +7468,102 @@
     "title": "blog"
   },
   {
+    "children": [
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283107336,
+        "string": "{{[[TODO]]}} Publish by 10/9 eod the Apologies blog to Lin & Medium",
+        "uid": "YH-cvqP4j"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602283033403,
+            "string": "Eat a frog - worst first",
+            "uid": "IRTZcwv-W"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602283033403,
+            "string": "Buffer for run-over",
+            "uid": "GL2SU_mF9"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283039117,
+        "string": "{{[[TODO]]}} Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)",
+        "uid": "SCh4OqUIq"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283049388,
+        "string": "{{[[TODO]]}} Pull together a list of 15 people - contact 3 each day",
+        "uid": "t3v_uy60y"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283060588,
+        "string": "{{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues",
+        "uid": "Q5t513upg"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602283075299,
+            "string": "{{[[TODO]]}} Reactivate my MTurk",
+            "uid": "qSXsSKcOA"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602283082861,
+            "string": "{{[[TODO]]}} Sandbox a small studies within Mturk account",
+            "uid": "09CfMKO9R"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602283089909,
+            "string": "{{[[TODO]]}} Run ten hits with a simple flow metric",
+            "uid": "3HWBDeW6r"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602283094915,
+            "string": "{{[[TODO]]}} Use guidedtrack to capture the data",
+            "uid": "e7-uJISyh"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283066130,
+        "string": "{{[[TODO]]}} Create an assessment of flow for Instacart",
+        "uid": "aMR7YRdmI"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283117980,
+        "string": "{{[[TODO]]}} Prioritize from the list of topics the top 3 ideas to write about",
+        "uid": "4tEbJOK9L"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283125234,
+        "string": "{{[[TODO]]}} Write for 2 hours per day",
+        "uid": "RUKuRG_xu"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283130446,
+        "string": "{{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize",
+        "uid": "FwPaADcgm"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283135175,
+        "string": "{{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence.",
+        "uid": "xmvTQdC5o"
+      }
+    ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1601662613648,
     "edit-email": "psas@motivationengineers.com",

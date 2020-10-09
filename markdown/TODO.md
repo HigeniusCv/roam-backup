@@ -1,0 +1,15 @@
+- {{[[TODO]]}} Publish by 10/9 eod the Apologies blog to Lin & Medium
+- {{[[TODO]]}} Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)
+    - Eat a frog - worst first
+    - Buffer for run-over
+- {{[[TODO]]}} Pull together a list of 15 people - contact 3 each day
+- {{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues
+- {{[[TODO]]}} Create an assessment of flow for Instacart
+    - {{[[TODO]]}} Reactivate my MTurk
+    - {{[[TODO]]}} Sandbox a small studies within Mturk account
+    - {{[[TODO]]}} Run ten hits with a simple flow metric
+    - {{[[TODO]]}} Use guidedtrack to capture the data
+- {{[[TODO]]}} Prioritize from the list of topics the top 3 ideas to write about
+- {{[[TODO]]}} Write for 2 hours per day
+- {{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
+- {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence.

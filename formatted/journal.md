@@ -18,6 +18,9 @@
 
 - [journal](<journal.md>)
 
+## [October 9th, 2020](<October 9th, 2020.md>)
+- [journal](<journal.md>)[
+
 ## [Sandbox](<Sandbox.md>)
 - Start a daily journal practice of writing [journal](<journal.md>)
 

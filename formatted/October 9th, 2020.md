@@ -1,4 +1,4 @@
-- [[journal]][[October 9th, 2020]]
+- [journal](<journal.md>)[October 9th, 2020](<October 9th, 2020.md>)
     - Not optimal to write on a keyboard when I wake, but here I am, tempted to digitize my first brain by the allure of the second. Evokes the image of a scifi writer Marvin Minsky talked about, who had connected his keyboard to his PC via an extension phone cord, so that the guy could sit on his balcony, 50 feet from his monitor, typing away without visual input.
         - Maybe I should resurrect a bluetooth keyboard? My typing is so erratic, but it'd still outperform the voide to text
     - Today I'll meet with EA coach, Lynette, and there's definitely been enough boost in productivity to earn her the $150/week
@@ -13,3 +13,8 @@
         - Now that I know this, it struck me last night that I can ease into this rhythm, or I can use all my energies to try to shove it into a smaller cramped tempo.
         - The boys are very affectionate as they go down, so why accelerate past this hour? B gives tons of hugs, and he expresses genuine curiosity about how I'm doing. Y's affections are primarily directed to his big brother, but also overflowing to include me. Mir is always the center of his heart, and he usu starts lobbying to go straight up to our bed, once it sounds like B isn't going to let him sleep together in the bottom twin bunk.
         - Their mattresses are absurdly small for 2 growing boys. Y's top bunk scarcely gets any usage, and Mir & I both feel that they should experiment with de-bunking them, to lay them in parallel on the ground. I also believe it'd be an improvement to find wider beds, even though B is past the point 
+
+# Backlinks
+## [October 9th, 2020](<October 9th, 2020.md>)
+- [journal](<journal.md>)[October 9th, 2020](<October 9th, 2020.md>)
+

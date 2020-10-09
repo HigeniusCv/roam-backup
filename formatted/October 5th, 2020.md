@@ -48,6 +48,9 @@
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
 
+## [October 9th, 2020](<October 9th, 2020.md>)
+- Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
+
 ## [Sandbox](<Sandbox.md>)
 - [x] Create 3 TODOs with the 3 different techniques belonging to 3 different domains (e.g., [school](<school.md>) [reading](<reading.md>) [lol](<lol.md>)) [October 5th, 2020](<October 5th, 2020.md>)
 

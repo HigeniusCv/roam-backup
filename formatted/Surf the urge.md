@@ -12,3 +12,6 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - [ ] [Surf the urge](<Surf the urge.md>)
 
+## [October 9th, 2020](<October 9th, 2020.md>)
+- [ ] [Surf the urge](<Surf the urge.md>)
+

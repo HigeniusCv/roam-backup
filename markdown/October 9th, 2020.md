@@ -1,3 +1,18 @@
+- {{[[TODO]]}} 2 focusmate sessions
+    - 11:15
+    - {{[[TODO]]}} 2:30 MOVE to 2pm
+- {{[[TODO]]}} work on Guidedtrack using Loom
+- {{[[TODO]]}} Check in with Lynette at 3
+- {{[[DONE]]}} Bike to Vine top
+- {{[[TODO]]}} Figure out why listing [[pitches]] is avoided
+- {{[[TODO]]}} apply to top 3 jobs on tabs
+- {{[[TODO]]}} water garden at break
+- {{[[TODO]]}} Publish [[Apologies]] eod
+- {{[[TODO]]}} [[Surf the urge]] but 
+    - don't read news until 5pm
+    - Ration twitter to once before 3pm
+    - avoid feedly until same time
+    - Check email only 3x[[October 5th, 2020]]
 - [[journal]][[October 9th, 2020]]
     - Not optimal to write on a keyboard when I wake, but here I am, tempted to digitize my first brain by the allure of the second. Evokes the image of a scifi writer Marvin Minsky talked about, who had connected his keyboard to his PC via an extension phone cord, so that the guy could sit on his balcony, 50 feet from his monitor, typing away without visual input.
         - Maybe I should resurrect a bluetooth keyboard? My typing is so erratic, but it'd still outperform the voide to text

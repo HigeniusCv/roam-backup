@@ -1,14 +1,14 @@
-- [ ] 2 focusmate sessions
+- [x] 2 focusmate sessions
     - 11:15
     - [x] 2:30 MOVE to 2pm
 - [x] work on Guidedtrack using Loom
-- [ ] Check in with Lynette at 3
+- [x] Check in with Lynette at 3
 - [x] Bike to Vine top
 - [ ] Figure out why listing [pitches](<pitches.md>) is avoided
 - [ ] apply to top 3 jobs on tabs
 - [x] water garden at break
 - [ ] Publish [Apologies](<Apologies.md>) eod
-- [ ] [Surf the urge](<Surf the urge.md>) but 
+- [x] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - Ration twitter to once before 3pm
     - avoid feedly until same time

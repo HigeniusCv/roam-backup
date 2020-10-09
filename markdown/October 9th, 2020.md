@@ -1,14 +1,14 @@
-- {{[[TODO]]}} 2 focusmate sessions
+- {{[[DONE]]}} 2 focusmate sessions
     - 11:15
     - {{[[DONE]]}} 2:30 MOVE to 2pm
 - {{[[DONE]]}} work on Guidedtrack using Loom
-- {{[[TODO]]}} Check in with Lynette at 3
+- {{[[DONE]]}} Check in with Lynette at 3
 - {{[[DONE]]}} Bike to Vine top
 - {{[[TODO]]}} Figure out why listing [[pitches]] is avoided
 - {{[[TODO]]}} apply to top 3 jobs on tabs
 - {{[[DONE]]}} water garden at break
 - {{[[TODO]]}} Publish [[Apologies]] eod
-- {{[[TODO]]}} [[Surf the urge]] but 
+- {{[[DONE]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - Ration twitter to once before 3pm
     - avoid feedly until same time

@@ -12,6 +12,10 @@
 - **[Author](<Author.md>):** [Shulem Deen ](<Shulem Deen .md>)
 - **[Full Title](<Full Title.md>):**
 
+## [All the Kremlin's Men (highlights)](<All the Kremlin's Men (highlights).md>)
+- **[Author](<Author.md>):** [Mikhail Zygar](<Mikhail Zygar.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [Best Bike Rides San Francisco (highlights)](<Best Bike Rides San Francisco (highlights).md>)
 - **[Author](<Author.md>):** [Wayne D. Cottrell](<Wayne D. Cottrell.md>)
 - **[Full Title](<Full Title.md>):**
@@ -46,6 +50,10 @@
 
 ## [Everyday Aspergers (highlights)](<Everyday Aspergers (highlights).md>)
 - **[Author](<Author.md>):** [Samantha Craft](<Samantha Craft.md>)
+- **[Full Title](<Full Title.md>):**
+
+## [Helicopters Explained for Curious Children (highlights)](<Helicopters Explained for Curious Children (highlights).md>)
+- **[Author](<Author.md>):** [Philip Greenspun](<Philip Greenspun.md>)
 - **[Full Title](<Full Title.md>):**
 
 ## [How Dogs Love Us (highlights)](<How Dogs Love Us (highlights).md>)

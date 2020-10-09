@@ -1,0 +1,6 @@
+- Author:: [[Mikhail Zygar]]
+- Full Title:: All the Kremlin's Men
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41z7uCvUcwL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[October 9th, 2020]]
+    - freedoms; strong ([Location 170](https://readwise.io/to_kindle?action=open&asin=B01DWX0XTO&location=170))

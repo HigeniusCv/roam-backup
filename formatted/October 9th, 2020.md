@@ -1,12 +1,12 @@
 - [ ] 2 focusmate sessions
     - 11:15
-    - [ ] 2:30 MOVE to 2pm
-- [ ] work on Guidedtrack using Loom
+    - [x] 2:30 MOVE to 2pm
+- [x] work on Guidedtrack using Loom
 - [ ] Check in with Lynette at 3
 - [x] Bike to Vine top
 - [ ] Figure out why listing [pitches](<pitches.md>) is avoided
 - [ ] apply to top 3 jobs on tabs
-- [ ] water garden at break
+- [x] water garden at break
 - [ ] Publish [Apologies](<Apologies.md>) eod
 - [ ] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
@@ -30,6 +30,12 @@
         - Their mattresses are absurdly small for 2 growing boys. Y's top bunk scarcely gets any usage, and Mir & I both feel that they should experiment with de-bunking them, to lay them in parallel on the ground. I also believe it'd be an improvement to find wider beds, even though B is past the point 
 
 # Backlinks
+## [All the Kremlin's Men (highlights)](<All the Kremlin's Men (highlights).md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [October 9th, 2020](<October 9th, 2020.md>)
+
+## [Helicopters Explained for Curious Children (highlights)](<Helicopters Explained for Curious Children (highlights).md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [October 9th, 2020](<October 9th, 2020.md>)
+
 ## [October 9th, 2020](<October 9th, 2020.md>)
 - [journal](<journal.md>)[October 9th, 2020](<October 9th, 2020.md>)
 

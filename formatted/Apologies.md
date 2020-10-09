@@ -1,5 +1,5 @@
-- Does it help to say sorry? 
-    - Don't bother.  Just keep getting better
+- Should companies bother to say sorry? 
+    - No. Just keep getting better
 - Interpersonal norms / [Politeness Theory](<Politeness Theory.md>)
     - When I accidentally harm another person, it's almost inconceivable that I'll let it pass without acknowledging my responsibility. Formally, a legitimate apology seems to require a) owning responsibility, by saying what I did to cause harm; b) recognition of the impact upon the person to whom I owe an apology; and ideally, c) a commitment to repair that, either immediately or when a similar situation recurs in the future.
     - “Even a dog knows the difference between being kicked and being stumbled over.” Oliver Wendell Holmes

@@ -1,0 +1,7 @@
+- Author:: [[Philip Greenspun]]
+- Full Title:: Helicopters Explained for Curious Children
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41x7KGQvvqL._SL400_.jpg)
+- ### Highlights first synced by #Readwise [[October 9th, 2020]]
+    - to Newton's Third Law of motion. A shape designed to function as an airplane wing will also generate lift ([Location 27](https://readwise.io/to_kindle?action=open&asin=B072KTVFGR&location=27))
+        - **Tags**: #[[orange]]

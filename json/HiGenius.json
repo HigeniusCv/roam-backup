@@ -640,7 +640,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1599158607068,
+    "edit-time": 1602275709034,
     "title": "Readwise"
   },
   {
@@ -10474,16 +10474,16 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602175216518,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602175231440,
-            "string": "Don't bother.  Just keep getting better",
+            "edit-time": 1602275916662,
+            "string": "No. Just keep getting better",
             "uid": "sjKb8U7Ox"
           }
         ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602012120004,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602175214267,
-        "string": "Does it help to say sorry? ",
+        "edit-time": 1602275906577,
+        "string": "Should companies bother to say sorry? ",
         "uid": "AzUd3gM7G"
       },
       {
@@ -11233,8 +11233,8 @@
           },
           {
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602267868342,
-            "string": "{{[[TODO]]}} 2:30 MOVE to 2pm",
+            "edit-time": 1602275767529,
+            "string": "{{[[DONE]]}} 2:30 MOVE to 2pm",
             "uid": "Nfr_y4WLC"
           }
         ],
@@ -11245,8 +11245,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602267996452,
-        "string": "{{[[TODO]]}} work on Guidedtrack using Loom",
+        "edit-time": 1602275769964,
+        "string": "{{[[DONE]]}} work on Guidedtrack using Loom",
         "uid": "2mWHaUCrh"
       },
       {
@@ -11279,8 +11279,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602269583572,
-        "string": "{{[[TODO]]}} water garden at break",
+        "edit-time": 1602275774757,
+        "string": "{{[[DONE]]}} water garden at break",
         "uid": "z6w67u4fj"
       },
       {
@@ -11453,7 +11453,151 @@
       }
     ],
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1602204952514,
+    "edit-time": 1602275709036,
     "title": "October 9th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275700729,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275700741,
+        "string": "Author:: [[Mikhail Zygar]]",
+        "uid": "zNzlqkNdS"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275700731,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275700741,
+        "string": "Full Title:: All the Kremlin's Men",
+        "uid": "hABbli5au"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275700732,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275700741,
+        "string": "Category:: #books",
+        "uid": "ZAIOyDOAG"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275700732,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275700742,
+        "string": "![](https://images-na.ssl-images-amazon.com/images/I/41z7uCvUcwL._SL400_.jpg)",
+        "uid": "xzq8drRH2"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602275700733,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602275700742,
+            "string": "freedoms; strong ([Location\u00a0170](https://readwise.io/to_kindle?action=open&asin=B01DWX0XTO&location=170))",
+            "uid": "U2fSd1TlJ"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275700732,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275700742,
+        "heading": 3,
+        "string": "Highlights first synced by #Readwise [[October 9th, 2020]]",
+        "uid": "ovZK34kqR"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602275700735,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602275700761,
+    "title": "All the Kremlin's Men (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602275700729,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602275700741,
+    "title": "Mikhail Zygar"
+  },
+  {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275705108,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275705132,
+        "string": "Author:: [[Philip Greenspun]]",
+        "uid": "yRvbRutiF"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275705109,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275705132,
+        "string": "Full Title:: Helicopters Explained for Curious Children",
+        "uid": "xLhl35knf"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275705109,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275705132,
+        "string": "Category:: #books",
+        "uid": "_dzEOQIC0"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275705109,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275705132,
+        "string": "![](https://images-na.ssl-images-amazon.com/images/I/41x7KGQvvqL._SL400_.jpg)",
+        "uid": "3rkVI9aQN"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602275705110,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602275705132,
+                "string": "**Tags**: #[[orange]]",
+                "uid": "yHBxqrM6T"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602275705110,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602275705132,
+            "string": "to Newton's Third Law of motion. A shape designed to function as an airplane wing will also generate lift ([Location\u00a027](https://readwise.io/to_kindle?action=open&asin=B072KTVFGR&location=27))",
+            "uid": "D8PLj09sZ"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602275705109,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602275705133,
+        "heading": 3,
+        "string": "Highlights first synced by #Readwise [[October 9th, 2020]]",
+        "uid": "D_l9mYIOu"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602275705112,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602275705141,
+    "title": "Helicopters Explained for Curious Children (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602275705108,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602275705132,
+    "title": "Philip Greenspun"
   }
 ]

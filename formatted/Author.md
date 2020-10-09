@@ -9,6 +9,9 @@
 ## [All Who Go Do Not Return (highlights)](<All Who Go Do Not Return (highlights).md>)
 - **[Author](<Author.md>):**
 
+## [All the Kremlin's Men (highlights)](<All the Kremlin's Men (highlights).md>)
+- **[Author](<Author.md>):**
+
 ## [Best Bike Rides San Francisco (highlights)](<Best Bike Rides San Francisco (highlights).md>)
 - **[Author](<Author.md>):**
 
@@ -34,6 +37,9 @@
 - **[Author](<Author.md>):**
 
 ## [Everyday Aspergers (highlights)](<Everyday Aspergers (highlights).md>)
+- **[Author](<Author.md>):**
+
+## [Helicopters Explained for Curious Children (highlights)](<Helicopters Explained for Curious Children (highlights).md>)
 - **[Author](<Author.md>):**
 
 ## [How Dogs Love Us (highlights)](<How Dogs Love Us (highlights).md>)

@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Mikhail Zygar](<Mikhail Zygar.md>)
+- **[Full Title](<Full Title.md>):** All the Kremlin's Men
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41z7uCvUcwL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [October 9th, 2020](<October 9th, 2020.md>)
+    - freedoms; strong ([Location 170](https://readwise.io/to_kindle?action=open&asin=B01DWX0XTO&location=170))

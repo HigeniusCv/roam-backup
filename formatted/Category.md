@@ -12,6 +12,10 @@
 - **[Full Title](<Full Title.md>):** All Who Go Do Not Return
 - **[Category](<Category.md>):**
 
+## [All the Kremlin's Men (highlights)](<All the Kremlin's Men (highlights).md>)
+- **[Full Title](<Full Title.md>):** All the Kremlin's Men
+- **[Category](<Category.md>):**
+
 ## [Best Bike Rides San Francisco (highlights)](<Best Bike Rides San Francisco (highlights).md>)
 - **[Full Title](<Full Title.md>):** Best Bike Rides San Francisco
 - **[Category](<Category.md>):**
@@ -46,6 +50,10 @@
 
 ## [Everyday Aspergers (highlights)](<Everyday Aspergers (highlights).md>)
 - **[Full Title](<Full Title.md>):** Everyday Aspergers
+- **[Category](<Category.md>):**
+
+## [Helicopters Explained for Curious Children (highlights)](<Helicopters Explained for Curious Children (highlights).md>)
+- **[Full Title](<Full Title.md>):** Helicopters Explained for Curious Children
 - **[Category](<Category.md>):**
 
 ## [How Dogs Love Us (highlights)](<How Dogs Love Us (highlights).md>)

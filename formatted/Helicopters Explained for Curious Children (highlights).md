@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Philip Greenspun](<Philip Greenspun.md>)
+- **[Full Title](<Full Title.md>):** Helicopters Explained for Curious Children
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41x7KGQvvqL._SL400_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [October 9th, 2020](<October 9th, 2020.md>)
+    - to Newton's Third Law of motion. A shape designed to function as an airplane wing will also generate lift ([Location 27](https://readwise.io/to_kindle?action=open&asin=B072KTVFGR&location=27))
+        - **Tags**: #[orange](<orange.md>)

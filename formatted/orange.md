@@ -3,6 +3,9 @@
 ## [Diversity Myth (highlights)](<Diversity Myth (highlights).md>)
 - **Tags**: #[orange](<orange.md>)
 
+## [Helicopters Explained for Curious Children (highlights)](<Helicopters Explained for Curious Children (highlights).md>)
+- **Tags**: #[orange](<orange.md>)
+
 ## [It Takes One to Tango (highlights)](<It Takes One to Tango (highlights).md>)
 - **Tags**: #[orange](<orange.md>)
 

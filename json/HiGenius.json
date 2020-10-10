@@ -11428,28 +11428,60 @@
         "uid": "QP_KiFi1o"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602310245635,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602310432478,
+            "string": " https://kalzumeus.com/2020/10/09/four-years-at-stripe/#fnref:meritocracy",
+            "uid": "duY17QZia"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602311408600,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602311423539,
+            "string": "Emily Oster's economic framework with uncertainty",
+            "uid": "rS85zPNZi"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602311386258,
+            "string": "Frame the question. (Clearly define two or three options, instead of trying to evaluate infinite or indistinct possibilities.)",
+            "uid": "u9koApKCH"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602311386258,
+            "string": "Mitigate risk. (What\u2019s the safest way to execute those options?)",
+            "uid": "Zxxhpe4Q1"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602311386258,
+            "string": "Evaluate risk.",
+            "uid": "lYm3q5qiG"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602311386258,
+            "string": "Evaluate benefits. (Don\u2019t overlook these.)",
+            "uid": "dt-wgnRzh"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602311386258,
+            "string": "Decide.",
+            "uid": "Hg_0AZ2id"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602310432665,
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602310432983,
         "string": "\u201cPick a peer group where ambition in the service of humanity is seen as positive and where actual progress is seen as achievable.\u201d",
         "uid": "qdloptjpT"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602310245635,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602310432478,
-        "string": " https://kalzumeus.com/2020/10/09/four-years-at-stripe/#fnref:meritocracy",
-        "uid": "duY17QZia"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602310262040,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602310262040,
-        "string": "",
-        "uid": "ugdpP8nsd"
       },
       {
         "children": [

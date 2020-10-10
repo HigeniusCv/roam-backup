@@ -5,7 +5,7 @@
 - [x] Check in with Lynette at 3
 - [x] Bike to Vine top
 - [ ] Figure out why listing [pitches](<pitches.md>) is avoided
-- [ ] apply to top 3 jobs on tabs
+- [x] apply to top 3 jobs on tabs
 - [x] water garden at break
 - [ ] Publish [Apologies](<Apologies.md>) eod
 - [x] [Surf the urge](<Surf the urge.md>) but 
@@ -13,6 +13,10 @@
     - Ration twitter to once before 3pm
     - avoid feedly until same time
     - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)
+- my career success metric is making a large improvement in the lives of a large number of software people. I encourage anyone who isn’t already planning on a 45 year time scale to try taking a stab at this and reviewing the plan every year; the weeks are long but the years fly by sometimes 
+- “Pick a peer group where ambition in the service of humanity is seen as positive and where actual progress is seen as achievable.”
+-  https://kalzumeus.com/2020/10/09/four-years-at-stripe/[fnref](<fnref.md>):meritocracy
+- 
 - [journal](<journal.md>)[October 9th, 2020](<October 9th, 2020.md>)
     - Not optimal to write on a keyboard when I wake, but here I am, tempted to digitize my first brain by the allure of the second. Evokes the image of a scifi writer Marvin Minsky talked about, who had connected his keyboard to his PC via an extension phone cord, so that the guy could sit on his balcony, 50 feet from his monitor, typing away without visual input.
         - Maybe I should resurrect a bluetooth keyboard? My typing is so erratic, but it'd still outperform the voide to text

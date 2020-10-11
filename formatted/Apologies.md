@@ -50,7 +50,7 @@
     - Intuitions (based on interpersonal experience) are so strong that many Uber teams simply assume that “all the previous apologies were not correctly phrased/delivered/explained”
         - Repeated experiments (internal & external to Uber) demonstrate there may be no magic wording that significantly outperforms silence
     - I feel sorry for Robin Hanson after I read his apology: http://mason.gmu.edu/~rhanson/JuneteenthApology.html
-    - 
+    - Dan Harmon's [MeToo](<MeToo.md>) mea culpa https://web.archive.org/web/20180112085651/https://slate.com/arts/2018/01/dan-harmon-apologizes-to-community-writer-megan-ganz-on-harmontown.html
 
 # Backlinks
 ## [October 6th, 2020](<October 6th, 2020.md>)

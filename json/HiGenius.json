@@ -10994,8 +10994,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602193569368,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602193569368,
-            "string": "",
+            "edit-time": 1602385921713,
+            "string": "Dan Harmon's #MeToo mea culpa https://web.archive.org/web/20180112085651/https://slate.com/arts/2018/01/dan-harmon-apologizes-to-community-writer-megan-ganz-on-harmontown.html",
             "uid": "3HUawXwOO"
           }
         ],
@@ -11769,5 +11769,12 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1602377967834,
     "title": "October 11th, 2020"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1602385916373,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602385916376,
+    "title": "MeToo"
   }
 ]

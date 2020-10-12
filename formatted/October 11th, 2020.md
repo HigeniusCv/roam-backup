@@ -1,3 +1,3 @@
 - Trying again to get toward getting off the pot, which means I first have to poop out that Apology
 - Maybe start it as a tweet roar
-- 
+- Mir asked me if I was high - I looked straight at her, and lie

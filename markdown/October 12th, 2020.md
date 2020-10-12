@@ -10,5 +10,8 @@
     - How did i find myself biking to Bad Houses, the place I knew I mustn't go? Places no respectable man would be seen
         - I tell myself I will not go, even as I drive myself there?
         - https://www.youtube.com/watch?v=vPDI5gIGEGI
-        - My high idea: 
+    - What did I get in return for breaking smobriety?
+        - Not a very enjoyable high. I smoked  2/3 of the doobie, left the roach for the hobos who drink on the street and left airplane bottles of vodka
+        - Did enjoy scanning the fabrics, having high ideas
+        - Came home late to the RCA call we had, but was still free association babbling
     - Sound muffling Movablenesting.com

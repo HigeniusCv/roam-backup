@@ -11028,16 +11028,26 @@
                     "create-email": "psas@motivationengineers.com",
                     "create-time": 1602533237593,
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1602533338910,
-                    "string": "The study was methodologically sound, well-powered by 100s of thousands of rides in each cell, and yet the results may not compel abandoning one's intuition about apologies.",
+                    "edit-time": 1602534659419,
+                    "string": "The study was methodologically sound, well-powered by many 100s of thousands of rides in each cell. Data cannot compel abandoning one's intuitions, so long as they're just made more elaborate.",
                     "uid": "HErPqHx2z"
                   },
                   {
+                    "children": [
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602534486549,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602534487544,
+                        "string": "https://eng.uber.com/applied-behavioral-science-at-scale/",
+                        "uid": "fSOusRtz9"
+                      }
+                    ],
                     "create-email": "psas@motivationengineers.com",
                     "create-time": 1602533829066,
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1602533829066,
-                    "string": "In 2019, Uber had a \"Behavioral Lab\", staffed with a team of trained PhDs. They scrupulously cited the literature in their decks, and actively made product-focused recommendations based on their training. ",
+                    "edit-time": 1602534697739,
+                    "string": "Before mass layoffs in 2019, Uber had a \"Behavioral Lab\", staffed with a team of trained PhDs. They scrupulous referencing the literature (their decks had footnotes), and actively made product-focused recommendations based on their training. ",
                     "uid": "e4V9bFfCT"
                   },
                   {
@@ -11052,8 +11062,8 @@
                     "create-email": "psas@motivationengineers.com",
                     "create-time": 1602534104084,
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1602534107346,
-                    "string": "In a word, ",
+                    "edit-time": 1602534142845,
+                    "string": "In a nutshell, this researcher recommended Uber double-down on the blood-letting.",
                     "uid": "GCoCwyivx"
                   }
                 ],
@@ -11076,6 +11086,14 @@
             "children": [
               {
                 "create-email": "psas@motivationengineers.com",
+                "create-time": 1602534778343,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602534863027,
+                "string": "Satisfaction, trust, and the likelihood of using the service again were all significantly worse after having received ",
+                "uid": "3m2J_QOrf"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
                 "create-time": 1602532242745,
                 "edit-email": "psas@motivationengineers.com",
                 "edit-time": 1602532244559,
@@ -11086,8 +11104,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602532213601,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602533069320,
-            "string": "GrubHub apparently made everything worse by sending costly apologies",
+            "edit-time": 1602535128870,
+            "string": "One of the meal deliverers (GrubHub, Doordash, et al) apparently made everything worse by sending apologies.",
             "uid": "3gZFaMWRk"
           },
           {
@@ -11159,6 +11177,14 @@
                 "edit-time": 1602193528606,
                 "string": "Repeated experiments (internal & external to Uber) demonstrate there may be no magic wording that significantly outperforms silence",
                 "uid": "cuku9Tbdk"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602534185669,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602534271268,
+                "string": "An economist believed that it should be interpreted as merely an 'insurance policy.' This sophisticated reframing was later found to be quite rare amongst the recipients.",
+                "uid": "LphL8t6Ce"
               }
             ],
             "create-email": "psas@motivationengineers.com",

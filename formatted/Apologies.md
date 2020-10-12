@@ -48,13 +48,16 @@
                 - Status apology: e.g., “We know our estimate was off.”
                 - Commitment apology: e.g., “We’re working hard to give you arrival times that you can count on.”
                 - The experiment found 'no statistically significant differences between the different message types'
-            - The study was methodologically sound, well-powered by 100s of thousands of rides in each cell, and yet the results may not compel abandoning one's intuition about apologies.
+            - The study was methodologically sound, well-powered by many 100s of thousands of rides in each cell. Data cannot compel abandoning one's intuitions, so long as they're just made more elaborate.
                 - One of the first attempts at evidence based data analysis evaluated whether blood letting improved health outcomes. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1383766/
                 - The data demonstrated worse outcomes for those who had been bled
                 - Nevertheless, the failure to generate better recovery inspired the recommendation to do MORE bleeding.
-            - In 2019, Uber had a "Behavioral Lab", staffed with a team of trained PhDs. They scrupulously cited the literature in their decks, and actively made product-focused recommendations based on their training. 
+            - Before mass layoffs in 2019, Uber had a "Behavioral Lab", staffed with a team of trained PhDs. They scrupulous referencing the literature (their decks had footnotes), and actively made product-focused recommendations based on their training. 
+                - https://eng.uber.com/applied-behavioral-science-at-scale/
             - Even though a previous study used millions of Uber's own rides 2 years earlier, it was amazing to me to read the following (lightly paraphrased): [After citing the 2018 study]: However, in this case, it feels like the right thing to do to acknowledge where me made a mistake... Potential extensions to an pology could be tested - would providing an excuse or attribution to something like traffic change riders' perceptions? Should we apologize ahead of time when we know we're going to be late." 
-    - GrubHub apparently made everything worse by sending costly apologies
+            - In a nutshell, this researcher recommended Uber double-down on the blood-letting.
+    - One of the meal deliverers (GrubHub, Doordash, et al) apparently made everything worse by sending apologies.
+        - Satisfaction, trust, and the likelihood of using the service again were all significantly worse after having received 
         - www.sjdm.org/presentations/2019-Talk-Jenkins-Mason-apology-encoding-services.pdf
     - "Breaking into Jail" is jargon for calling explicit attention to a mistake you've made
         - Disclosures are required in SEC prospectuses, but only the most acute analysts seem to attend to the risks they mention.
@@ -65,6 +68,7 @@
     - There is very little evidence that apologies result in a repaired relationship.
     - Intuitions (based on interpersonal experience) are so strong that many Uber teams simply assume that “all the previous apologies were not correctly phrased/delivered/explained”
         - Repeated experiments (internal & external to Uber) demonstrate there may be no magic wording that significantly outperforms silence
+        - An economist believed that it should be interpreted as merely an 'insurance policy.' This sophisticated reframing was later found to be quite rare amongst the recipients.
     - I feel sorry for Robin Hanson after I read his apology: http://mason.gmu.edu/~rhanson/JuneteenthApology.html
     - Dan Harmon's [MeToo](<MeToo.md>) mea culpa https://web.archive.org/web/20180112085651/https://slate.com/arts/2018/01/dan-harmon-apologizes-to-community-writer-megan-ganz-on-harmontown.html
 

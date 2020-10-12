@@ -37,9 +37,25 @@
         - The cheapest apologies seem to waft from serial privacy abuser Mark Zuckerberg https://www.cnbc.com/2018/12/19/facebook-ceo-mark-zuckerberg-privacy-apologies.html 
             - Facebook's corporate apologies mirror Weinstein's interpersonal shenanigans. Trotted out so frequently, the company's reckless behavior leans into them as a drunkard might insist on only driving cars with airbags. 
             - Harrods, the premier luxury retailer in London, once had a full-time employee whose sole responsibility was to be sacked to appease particularly irate customers. https://henrytapper.com/2010/01/09/an-employee-whose-job-was-to-be-sacked/ 
-    - Different Uber teams tried to roll out refunds, hoping to repair a defect with an apology. (John List 2017)
-
-    - To back up the “cheap talk,” Uber teams gave $5 refunds for late rides. Net return on apology treatment was negative. The main impact of a refund appears to be heightened memorability of the bad experience.
+    - Different Uber teams experimented with methods that might repair a late ride with an apology. (John List 2017)
+        - An economist views firms as signaling their level of quality. Customers rationally incorporate any previous evidence to predict where to satisfy their preference.
+            - To back up “cheap talk,” Uber teams gave $5 refunds for late rides. 
+            - The objective of an apology is to show that the bad experience was truly exceptional. Somehow, the pattern of reliability broke, but baby, from now onwards, we're going to be good.
+            - Theexperiment found that in some cases sending an apology is worse than sending nothing at all. That was particularly true after more than one apology. Net return on apology treatment was negative.
+            - The impact of a refund may include heightened memorability of the bad experience.
+            - Since the result is counter-intuitive, the typical first time response to this finding is to assume that apologies per se just need some special wording that was presumed to be missing from the conditions tested. In addition to the group that received "No apology", there were 3 types of apologies tried on different groups:
+                - Basic apology: e.g., “Oh no! Your trip took longer than we estimated.”
+                - Status apology: e.g., “We know our estimate was off.”
+                - Commitment apology: e.g., “We’re working hard to give you arrival times that you can count on.”
+                - The experiment found 'no statistically significant differences between the different message types'
+            - The study was methodologically sound, well-powered by 100s of thousands of rides in each cell, and yet the results may not compel abandoning one's intuition about apologies.
+                - One of the first attempts at evidence based data analysis evaluated whether blood letting improved health outcomes. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1383766/
+                - The data demonstrated worse outcomes for those who had been bled
+                - Nevertheless, the failure to generate better recovery inspired the recommendation to do MORE bleeding.
+            - In 2019, Uber had a "Behavioral Lab", staffed with a team of trained PhDs. They scrupulously cited the literature in their decks, and actively made product-focused recommendations based on their training. 
+            - Even though a previous study used millions of Uber's own rides 2 years earlier, it was amazing to me to read the following (lightly paraphrased): [After citing the 2018 study]: However, in this case, it feels like the right thing to do to acknowledge where me made a mistake... Potential extensions to an pology could be tested - would providing an excuse or attribution to something like traffic change riders' perceptions? Should we apologize ahead of time when we know we're going to be late." 
+    - GrubHub apparently made everything worse by sending costly apologies
+        - www.sjdm.org/presentations/2019-Talk-Jenkins-Mason-apology-encoding-services.pdf
     - "Breaking into Jail" is jargon for calling explicit attention to a mistake you've made
         - Disclosures are required in SEC prospectuses, but only the most acute analysts seem to attend to the risks they mention.
         - Being pre-emptive, rather than following a specific experience, they're no match for the confirmation bias of excited investors. 

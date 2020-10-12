@@ -14,4 +14,16 @@
         - Not a very enjoyable high. I smoked  2/3 of the doobie, left the roach for the hobos who drink on the street and left airplane bottles of vodka
         - Did enjoy scanning the fabrics, having high ideas
         - Came home late to the RCA call we had, but was still free association babbling
-    - Sound muffling Movablenesting.com
+        - At dinner, Mir asked point-blank, are you high? I point-blank lied: No, why?
+        - Even once a month seems excessive. Maybe only on camping trips? 
+        - My memories of the night aren't sharp: the boys watched the Seahawks game, while the Lakers crushed the Heat on a parallel channel that didn't claim much of the kids attention. 
+        - I've continued to gluttonously eat. 
+    - Sound muffling MovableNesting / MobileNesting
+        - bought [MovableNesting.com](http://MovableNesting.com)
+    - BBN for homescapes - redesign spaces to mute sound, create muffled acoustics now that we’re stuck inside with one another
+        - As you must know, Licklider’s first big computational task was the Boston Symphony
+            - Neil might do the AI of the sound deflection
+    - Build ‘cubicle walls’ rapidly, offer customizable fabric, throw up like wall paper but not glued to the walls
+    - Thick fabric, backed by triple cardboard, uses less than an inch thickness
+    - I need to act faster on prototyping this time, or I’ll get waylaid
+    - I keep thinking of things as “service like a pool cleaner”, with a scaleable aspect that feeds into open-sourcing and turnkey best packages

@@ -1,7 +1,10 @@
-- {{[[TODO]]}} Publish by 10/9 eod the Apologies blog to Lin & Medium
+- {{[[TODO]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
+- {{[[TODO]]}} No news or twitter until after dinner
+- {{[[TODO]]}} Tiny Habits when (via email) 
 - {{[[TODO]]}} Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)
-    - Eat a frog - worst first
+    - Eat a frog - worst first - Today it's publish
     - Buffer for run-over
+    - Put dinner plans in, starting with Fettucine tonight
 - {{[[TODO]]}} Pull together a list of 15 people - contact 3 each day
 - {{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues
 - {{[[TODO]]}} Create an assessment of flow for Instacart
@@ -11,5 +14,6 @@
     - {{[[TODO]]}} Use guidedtrack to capture the data
 - {{[[TODO]]}} Prioritize from the list of topics the top 3 ideas to write about
 - {{[[TODO]]}} Write for 2 hours per day
+- 
 - {{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
 - {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence.

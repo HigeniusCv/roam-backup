@@ -7471,16 +7471,32 @@
     "children": [
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283107336,
-        "string": "{{[[TODO]]}} Publish by 10/9 eod the Apologies blog to Lin & Medium",
+        "edit-time": 1602532011902,
+        "string": "{{[[TODO]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium",
         "uid": "YH-cvqP4j"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602531291182,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602531302906,
+        "string": "{{[[TODO]]}} No news or twitter until after dinner",
+        "uid": "eZwq47aAj"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602531302899,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602532022000,
+        "string": "{{[[TODO]]}} Tiny Habits when (via email) ",
+        "uid": "O6lqaedI8"
       },
       {
         "children": [
           {
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602283033403,
-            "string": "Eat a frog - worst first",
+            "edit-time": 1602531072285,
+            "string": "Eat a frog - worst first - Today it's publish",
             "uid": "IRTZcwv-W"
           },
           {
@@ -7488,6 +7504,14 @@
             "edit-time": 1602283033403,
             "string": "Buffer for run-over",
             "uid": "GL2SU_mF9"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602532042462,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602532055308,
+            "string": "Put dinner plans in, starting with Fettucine tonight",
+            "uid": "sjUbi7nn1"
           }
         ],
         "edit-email": "psas@motivationengineers.com",
@@ -7550,6 +7574,14 @@
         "edit-time": 1602283125234,
         "string": "{{[[TODO]]}} Write for 2 hours per day",
         "uid": "RUKuRG_xu"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602532035913,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602532035913,
+        "string": "",
+        "uid": "whhl4tq2p"
       },
       {
         "edit-email": "psas@motivationengineers.com",
@@ -10891,18 +10923,172 @@
             "uid": "LfLflwymp"
           },
           {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602532454015,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602532565149,
+                    "string": "To back up \u201ccheap talk,\u201d Uber teams gave $5 refunds for late rides. ",
+                    "uid": "_tmEwtzbH"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602532641182,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602532712997,
+                    "string": "The objective of an apology is to show that the bad experience was truly exceptional. Somehow, the pattern of reliability broke, but baby, from now onwards, we're going to be good.",
+                    "uid": "HU-890Hc4"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602532470531,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602533093332,
+                    "string": "Theexperiment found that in some cases sending an apology is worse than sending nothing at all. That was particularly true after more than one apology. Net return on apology treatment was negative.",
+                    "uid": "qdhg9wjzm"
+                  },
+                  {
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602532469272,
+                    "string": "The impact of a refund may include heightened memorability of the bad experience.",
+                    "uid": "SPw1dRaqB"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602532993635,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602533040145,
+                        "string": "Basic apology: e.g., \u201cOh no! Your trip took longer than we estimated.\u201d",
+                        "uid": "EkJAnoRxy"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602532993635,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602533042561,
+                        "string": "Status apology: e.g., \u201cWe know our estimate was off.\u201d",
+                        "uid": "6HrUuLk33"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602532993635,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602533045250,
+                        "string": "Commitment apology: e.g., \u201cWe\u2019re working hard to give you arrival times that you can count on.\u201d",
+                        "uid": "acbXdPNUI"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602533195443,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602533237600,
+                        "string": "The experiment found 'no statistically significant differences between the different message types'",
+                        "uid": "IJb-G6jdJ"
+                      }
+                    ],
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602532757077,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602533037624,
+                    "string": "Since the result is counter-intuitive, the typical first time response to this finding is to assume that apologies per se just need some special wording that was presumed to be missing from the conditions tested. In addition to the group that received \"No apology\", there were 3 types of apologies tried on different groups:",
+                    "uid": "-Tz1exuJE"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602533338907,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602533551962,
+                        "string": "One of the first attempts at evidence based data analysis evaluated whether blood letting improved health outcomes. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1383766/",
+                        "uid": "JFu8iLU_4"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602533606138,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602533606138,
+                        "string": "The data demonstrated worse outcomes for those who had been bled",
+                        "uid": "G9K-E_0NS"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1602533552582,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1602533656181,
+                        "string": "Nevertheless, the failure to generate better recovery inspired the recommendation to do MORE bleeding.",
+                        "uid": "Lr4E8JfA4"
+                      }
+                    ],
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602533237593,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602533338910,
+                    "string": "The study was methodologically sound, well-powered by 100s of thousands of rides in each cell, and yet the results may not compel abandoning one's intuition about apologies.",
+                    "uid": "HErPqHx2z"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602533829066,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602533829066,
+                    "string": "In 2019, Uber had a \"Behavioral Lab\", staffed with a team of trained PhDs. They scrupulously cited the literature in their decks, and actively made product-focused recommendations based on their training. ",
+                    "uid": "e4V9bFfCT"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602533659431,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602534103742,
+                    "string": "Even though a previous study used millions of Uber's own rides 2 years earlier, it was amazing to me to read the following (lightly paraphrased): [After citing the 2018 study]: However, in this case, it feels like the right thing to do to acknowledge where me made a mistake... Potential extensions to an pology could be tested - would providing an excuse or attribution to something like traffic change riders' perceptions? Should we apologize ahead of time when we know we're going to be late.\" ",
+                    "uid": "qVYH4FXux"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602534104084,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602534107346,
+                    "string": "In a word, ",
+                    "uid": "GCoCwyivx"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602175327260,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602532633543,
+                "string": "An economist views firms as signaling their level of quality. Customers rationally incorporate any previous evidence to predict where to satisfy their preference.",
+                "uid": "w2fCQoe7U"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602175327260,
+            "create-time": 1602532479586,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602175327260,
-            "string": "Different Uber teams tried to roll out refunds, hoping to repair a defect with an apology. (John List 2017)\n",
-            "uid": "w2fCQoe7U"
+            "edit-time": 1602533125023,
+            "string": "Different Uber teams experimented with methods that might repair a late ride with an apology. (John List 2017)",
+            "uid": "kxLqNVEM0"
           },
           {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602532242745,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602532244559,
+                "string": "www.sjdm.org/presentations/2019-Talk-Jenkins-Mason-apology-encoding-services.pdf",
+                "uid": "cHOCJEQKF"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602532213601,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602194041554,
-            "string": "To back up the \u201ccheap talk,\u201d Uber teams gave $5 refunds for late rides. Net return on apology treatment was negative. The main impact of a refund appears to be heightened memorability of the bad experience.",
-            "uid": "SPw1dRaqB"
+            "edit-time": 1602533069320,
+            "string": "GrubHub apparently made everything worse by sending costly apologies",
+            "uid": "3gZFaMWRk"
           },
           {
             "children": [
@@ -11927,6 +12113,38 @@
                 "edit-time": 1602528564867,
                 "string": "Came home late to the RCA call we had, but was still free association babbling",
                 "uid": "88HA27n0C"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602530692419,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602530714273,
+                "string": "At dinner, Mir asked point-blank, are you high? I point-blank lied: No, why?",
+                "uid": "UjFxcF7vR"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602530985803,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602531018617,
+                "string": "Even once a month seems excessive. Maybe only on camping trips? ",
+                "uid": "NXCQ225E3"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602530714866,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602530782299,
+                "string": "My memories of the night aren't sharp: the boys watched the Seahawks game, while the Lakers crushed the Heat on a parallel channel that didn't claim much of the kids attention. ",
+                "uid": "tjWnO-T8W"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602530794489,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602530807679,
+                "string": "I've continued to gluttonously eat. ",
+                "uid": "9_9s6pV1t"
               }
             ],
             "create-email": "psas@motivationengineers.com",
@@ -11937,12 +12155,78 @@
             "uid": "b-9IxHk9a"
           },
           {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602530936572,
+                "string": "bought [MovableNesting.com](http://MovableNesting.com)",
+                "uid": "3KnMLHnO7"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602530863919,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602530959227,
+            "string": "Sound muffling MovableNesting / MobileNesting",
+            "uid": "ipxZvNKSl"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1602530899215,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1602530912496,
+                    "string": "Neil might do the AI of the sound deflection",
+                    "uid": "L6D_ucbWK"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602530899215,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602530899233,
+                "string": "As you must know, Licklider\u2019s first big computational task was the Boston Symphony",
+                "uid": "n5aX3X9d0"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602525564622,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602526024466,
-            "string": "Sound muffling Movablenesting.com",
+            "edit-time": 1602530865875,
+            "string": "BBN for homescapes - redesign spaces to mute sound, create muffled acoustics now that we\u2019re stuck inside with one another",
             "uid": "e1H2sop4G"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602530902804,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602530902804,
+            "string": "Build \u2018cubicle walls\u2019 rapidly, offer customizable fabric, throw up like wall paper but not glued to the walls",
+            "uid": "hCoPbfGJF"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602530902810,
+            "string": "Thick fabric, backed by triple cardboard, uses less than an inch thickness",
+            "uid": "F9xk2FgFP"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602530899215,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602530899233,
+            "string": "I need to act faster on prototyping this time, or I\u2019ll get waylaid",
+            "uid": "_1Hp6BJQ5"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602530899215,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602530899233,
+            "string": "I keep thinking of things as \u201cservice like a pool cleaner\u201d, with a scaleable aspect that feeds into open-sourcing and turnkey best packages",
+            "uid": "ikWe0fHhk"
           }
         ],
         "create-email": "psas@motivationengineers.com",

@@ -30,7 +30,7 @@
     - The invisible hand that brought the customer and company together hinges on self-interest. 
     - The motivation of potential profit drives a company to deliver value, yet it's implausible that such a connection should be mistaken for friendship.
     - Interactions with a company create expectations that aren't attached to a single recognizable face or individual. Even when a CEO is a rock star (e.g., Steve Jobs or Elon Musk), customers interact with their products rather than with that leader.
-    - The transactional nature of business is not nakedly broadcast. At some points, the experience will reveal that the business exchange involves efficiency rather than intimacy. qv Tyler Cowen
+    - The transactional nature of business is not nakedly broadcast. At some points, the experience will reveal that the business exchange involves efficiency rather than intimacy. qv Tyler Cowen https://www.amazon.com/dp/B07D2B8MLT/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
     - Economists call apologies offered without further backing 'cheap talk."
         - Both parties may realize that 'cheap talk' is an option, some companies try to back up their commitment with something of tangible value. 
         - "On time or free" may push pizza-deliveries, but even Domino's seems to no longer commit to that.

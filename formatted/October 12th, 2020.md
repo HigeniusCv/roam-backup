@@ -7,4 +7,8 @@
     - Steffen nurses students in the Yale Jail, and they've usu only had one or two at any time in the dorm. Also, none have had really dangerous symptoms, which again suggests that the new normal doesn't require bunkering down.
 - Once I was over near Rosa Parks, the devil on my shoulder kept arguing that after a month of smobriety, I could THC on a Sunday. My rationalization extended to some quasi resentment that Josiah, our co-sponsors in RCA, perseverates on the joy and wisdom of Marijuana Anonymous. 
 - The $5 house Sativa went with a purchased lighter at the Ashby Walgreens. Whence I puffed the magic dragon behind Discount Fabrics, before double masking up to explore.
-- My high idea: Sound muffling Movablenesting
+    - How did i find myself biking to Bad Houses, the place I knew I mustn't go? Places no respectable man would be seen
+        - I tell myself I will not go, even as I drive myself there?
+        - https://www.youtube.com/watch?v=vPDI5gIGEGI
+        - My high idea: 
+    - Sound muffling Movablenesting.com

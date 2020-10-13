@@ -27,3 +27,8 @@
     - Thick fabric, backed by triple cardboard, uses less than an inch thickness
     - I need to act faster on prototyping this time, or I’ll get waylaid
     - I keep thinking of things as “service like a pool cleaner”, with a scaleable aspect that feeds into open-sourcing and turnkey best packages
+
+# Backlinks
+## [Apologies](<Apologies.md>)
+- [October 12th, 2020](<October 12th, 2020.md>)
+

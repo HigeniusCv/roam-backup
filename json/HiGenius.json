@@ -7471,17 +7471,25 @@
     "children": [
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602532011902,
-        "string": "{{[[TODO]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium",
+        "edit-time": 1602607535384,
+        "string": "{{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium",
         "uid": "YH-cvqP4j"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602531291182,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602531302906,
-        "string": "{{[[TODO]]}} No news or twitter until after dinner",
+        "edit-time": 1602607536579,
+        "string": "{{[[DONE]]}} No news or twitter until after dinner",
         "uid": "eZwq47aAj"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602607821785,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607839210,
+        "string": "{{[[TODO]]}} Draw for 5 mins the circles with triangle",
+        "uid": "ZqEhTevaA"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7495,12 +7503,6 @@
         "children": [
           {
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602531072285,
-            "string": "Eat a frog - worst first - Today it's publish",
-            "uid": "IRTZcwv-W"
-          },
-          {
-            "edit-email": "psas@motivationengineers.com",
             "edit-time": 1602283033403,
             "string": "Buffer for run-over",
             "uid": "GL2SU_mF9"
@@ -7509,8 +7511,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602532042462,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602532055308,
-            "string": "Put dinner plans in, starting with Fettucine tonight",
+            "edit-time": 1602607613774,
+            "string": "Put dinner plans in Fettucine Monday, Taco Tues",
             "uid": "sjUbi7nn1"
           }
         ],
@@ -7520,16 +7522,34 @@
         "uid": "SCh4OqUIq"
       },
       {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602607776799,
+            "string": "[[October 14th, 2020]] publish a tweet storm",
+            "uid": "IRTZcwv-W"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602607774422,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607789153,
+        "string": "{{[[TODO]]}} Eat a frog - worst first - ",
+        "uid": "38YS_Cpco"
+      },
+      {
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602283049388,
         "string": "{{[[TODO]]}} Pull together a list of 15 people - contact 3 each day",
         "uid": "t3v_uy60y"
       },
       {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602607625975,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283060588,
-        "string": "{{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues",
-        "uid": "Q5t513upg"
+        "edit-time": 1602607724445,
+        "string": "{{[[TODO]]}} Run through a practice talk for ((instacart)) Weds at 2pm [[October 14th, 2020]]",
+        "uid": "eT_8MNYJf"
       },
       {
         "children": [
@@ -7559,17 +7579,33 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283066130,
-        "string": "{{[[TODO]]}} Create an assessment of flow for Instacart",
+        "edit-time": 1602607713790,
+        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for Instacart [[October 14th, 2020]]",
         "uid": "aMR7YRdmI"
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283117980,
-        "string": "{{[[TODO]]}} Prioritize from the list of topics the top 3 ideas to write about",
+        "edit-time": 1602607743637,
+        "string": "{{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues [[October 14th, 2020]]",
+        "uid": "Q5t513upg"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607687837,
+        "string": "{{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about",
         "uid": "4tEbJOK9L"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602607753728,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602607761587,
+            "string": "[[October 14th, 2020]] equals tweet storm",
+            "uid": "FZY-zc0nU"
+          }
+        ],
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602574150885,
         "string": "{{[[TODO]]}} Write for 2 hours per day",
@@ -10592,6 +10628,354 @@
         "children": [
           {
             "create-email": "psas@motivationengineers.com",
+            "create-time": 1602607286731,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602607305339,
+            "string": "draft https://docs.google.com/document/d/1WBosUqqCllSE4AHvmzluVoKhvDTYgdtJioVgXiBqmlg/edit",
+            "uid": "q4yACbfpr"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602607274408,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607284700,
+        "string": "[[October 12th, 2020]] published https://medium.com/@hormetic/should-companies-say-sorry-just-keep-getting-better-dont-bother-ddfc6097acae",
+        "uid": "TqfwI8zBs"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "When we accidentally harm another person, it\u2019s difficult to let it pass without acknowledging responsibility. A legitimate apology owns the responsibility, by seeing what I did to harm someone. This explains the inadequacy of a __non-apology__ apology: \u201cI\u2019m sorry you made X worse than I intended.\u201d One must also recognize the impact upon the other person. Ideally, the apologizer commits to repair the damage, either immediately or when a similar situation recurs.",
+        "uid": "M7AL2Za0q"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508144,
+        "string": "Repairing one\u2019s self-image is one motivating factor, and healthy self-regard serves may spur reflection and public admission of responsibility. In other situations, an apology may only make things worse. The person to whom an apology is owed isn\u2019t obligated to let you communicate it to them. Serial apologizers, such as the pariah Harvey Weinstein, make a habit of miserable behavior that precedes sending a gift or flowers to paper over the damage.",
+        "uid": "RNKusaEe7"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508144,
+        "string": "**Should companies behave like people?**",
+        "uid": "n53etVA11"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "What should a company do when their brand promise breaks down? The analogy with interpersonal dynamics intuitively suggests that the firm should issue an apology. Every firm\u2019s guaranteed to let down some customers.",
+        "uid": "fxz36KOn7"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Let\u2019s get concrete. Companies often quote a predicted level of service. Transportation and delivery apps surface when the car or meal is expected to arrive. Uber & Lyft show the time when you will arrive at your destination (with a point estimate like \u201c6:32 pm\u201d). To capture greater variability, they may provide a time range (6:32 to 6:48pm). The two times sample a probabilistic prediction, where the lower estimate might cover 50% of the cases (let\u2019s call it the \u201cp50\u201d). The choice for the upper range balances quantitative precision against marketing conversion rates. Let\u2019s assume that the worst-case cover 95% of all rides (\u201cp95\u201d). As a homework problem, what percent of the time do you believe the arrival exceeds your quoted time? While the distance between the best and the worst may not be noticeably great, five percent of customers will by necessity experience service worse than the best 95%.",
+        "uid": "SfOEHaWMj"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "**Does an acknowledgment help repair the harm done?**",
+        "uid": "C5pSCsQxO"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "How might a company handle these letdowns? What if a firm explicitly promises to do better? Should the firm spiff the customer something valuable to show their seriousness? Perhaps they specifically promise to \u201clearn from\u201d the mistake?",
+        "uid": "XWp8hbf1a"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "As a matter of empirical record, data to date suggests a very specific approach to apologizing. In a nutshell, the strategy validates by multiple experiments is: __Don\u2019t bother.__",
+        "uid": "HMsxlfG4P"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Let\u2019s unpack this, since it runs counter to what\u2019s best for maintaining good interpersonal relationships. Interactions with a company significantly differ from person-to-person contact.",
+        "uid": "eliDYgva9"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "The invisible hand that brought the customer and company together hinges on self-interest.",
+        "uid": "-ikg36jJr"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "The motivation of potential profit drives a company to deliver value, yet it\u2019s implausible that such a connection should be mistaken for a personal relationship.",
+        "uid": "CtpJ_9aaz"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "The transactional nature of business is not nakedly broadcast, yet the experience still reveals that the business exchange involves efficiency rather than intimacy. For explorations of this awkward fact, consult this economist\u2019s [love letter to big business](https://www.amazon.com/dp/B07D2B8MLT/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).",
+        "uid": "Cj2oWPZ9b"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Economists view apologies as \u2018cheap talk,\u201d mere words without any further backing.",
+        "uid": "0bFU_Su89"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Facebook has historically leaned into apologies like a drunkard who will not drive a car unless equipped with airbags. Serial apologizer Mark Zuckerberg is, precisely because of his repetitive contrition, a serial privacy violator.",
+        "uid": "ktRwnZ04l"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Several economists at one ride-share company ran a[ large scale field experiment](http://fieldexperiments-papers2.s3.amazonaws.com/papers/00644.pdf) to research the impact of an apology on having a late ride. One of the researchers had previously found that apologies required more than words. To back up what might just be \u201ccheap talk,\u201d the rideshare company gave $5 refunds for late rides (> p95). An apology aims to establish that the bad experience was truly exceptional. __Baby, from now on, I\u2019m going to be good.__",
+        "uid": "bKs1AGnqw"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "The experiment found that the net return for issuing an apology was negligible. In cases where they apologized more than once, the results were worse than never having said sorry. By contrast, sending $5 without mentioning the bad ride was just as effective over the long term as issuing an apology backed up by the $5.",
+        "uid": "9RRRffbZQ"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "When I\u2019ve mentioned this counter-intuitive result, many people react by assuming that the right wording must\u2019ve been missing from the test. Perhaps the tested apologies were not correctly phrased/delivered/explained?Consider the 3 types of apologies (with and without $5) used in the field experiment:",
+        "uid": "jfha38Pho"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "\u201cOh no! Your trip took longer than we estimated.\u201d (Basic apology)",
+        "uid": "SyptZUBcm"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "\u201cWe know our estimate was off.\u201d (Status apology)",
+        "uid": "xB23_EWpk"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "\u201cWe\u2019re working hard to give you arrival times that you can count on.\u201d (Commitment apology)",
+        "uid": "8e_i-uqM6"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "The study, alas, found \u2018no statistically significant differences between different message types.\u2019 If the wording really matters, current research hasn\u2019t found the magical formula. The fact that 3 very different rationales don\u2019t differ implies that wording doesn\u2019t shift the balance here.",
+        "uid": "gjAIBlE1-"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Even a methodologically sound, well-powered experiment won\u2019t compel a person to abandon their intuitions. Consider how [the historically earliest data analysis based on clinical evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1383766/) was interpreted. A French doctor wanted to know whether bloodletting improved health. When the data was tabulated, it demonstrated worse outcomes for those who had been bled. Paradoxically, the doctor interpreted this as implying __they had not done enough bleeding__.",
+        "uid": "axqQwse3H"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Uber formerly employed a team of trained PhDs as their [Behavioral Lab](https://eng.uber.com/applied-behavioral-science-at-scale/). The team\u2019s publications leveraged the academic literature (with decks that supposedly actually had footnotes). What made their approach cutting edge was the active application of research, since they generated product-focused recommendations based on published studies.",
+        "uid": "tgq566ue0"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "When I brought up this rather famous study with someone who was consulting at Uber, they reported that one social scientist in the Lab still recommended using an apology since it \u201cfelt like the right thing to do.\u201dThis advice sounded like Uber should double-down on the blood-letting.",
+        "uid": "r8QUUgYxU"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "Results from an (anonymized) meal delivery experiment [were shared at a 2019 economics conference](http://www.sjdm.org/presentations/2019-Talk-Jenkins-Mason-apology-encoding-services.pdf). Apologizing apparently made everything worse: Satisfaction, trust, and the likelihood of using the service all significantly decreased after getting an apology. I\u2019ve also heard that a large health care provider tried hand-delivering flowers to recognize inferior service, and the outcome was again worse than saying nothing at all. Apparently, in businesses, this phenomenon is called \u201cBreaking into Jail\u201d, when a firm manages to direct explicit attention to a mistake they\u2019ve made.",
+        "uid": "NtNjD7-AO"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508145,
+        "string": "One final source of evidence can be found from studies of medical malpractice. Based on early anecdotal evidence, apologies were thought to be quite effective at reducing malpractice. The insurance industry successfully lobbied to make laws more conducive to saying sorry. A doctor\u2019s apology could not be used as evidence in court, with the hope that more open admissions of human error would reduce costly litigation. Empirical data showed the reverse: \u201cAn apology may alert the patient to malpractice she would not otherwise have discovered.\u201d ([\u201cSorry\u201d Is Never Enough, 2019, Stanford Law Review](https://www.stanfordlawreview.org/print/article/sorry-is-never-enough/))",
+        "uid": "eKklJQNoQ"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "What do I recommend to clients when they see their own firms\u2019 failing? I remind them how little evidence supports the hope that apologies result in a repaired relationship. Rather than invest resources in calling out past mistakes, I believe it\u2019s far more effective to invest in improved service going forward. An explicit acknowledgment may only make the product manager feel better. But an apology that\u2019s motivated by a desire to repair one\u2019s own self-conception is really no apology at all.",
+        "uid": "BSdLG14jH"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "**Should companies say sorry?\u00a0 Don\u2019t bother, just keep getting better**",
+        "uid": "2mRnmLN54"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "When we accidentally harm another person, it's difficult to let it pass without acknowledging responsibility. A legitimate apology owns the responsibility, by seeing what I did to harm someone. This explains the inadequacy of a __non-apology__ apology: \"I'm sorry you made X worse than I intended.\" One must also recognize the impact upon the other person. Ideally, the apologizer commits to repair the damage, either immediately or when a similar situation recurs.",
+        "uid": "qSqq0hir3"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "Repairing one's self-image is one motivating factor, and healthy self-regard serves may spur reflection and public admission of responsibility. In other situations, an apology may only make things worse.\u00a0 The person to whom an apology is owed isn\u2019t obligated to let you communicate it to them. Serial apologizers, such as the pariah Harvey Weinstein, make a habit of miserable behavior that precedes sending a gift or flowers to paper over the damage.",
+        "uid": "DinoO4_XU"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "**Should companies behave like people?**",
+        "uid": "omVTZq8g0"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "What should a company do when their brand promise breaks down? The analogy with interpersonal dynamics intuitively suggests that the firm should issue an apology. Every firm\u2019s guaranteed to let down some customers.",
+        "uid": "q9viBm2MW"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "Let's get concrete.\u00a0 Companies often quote a predicted level of service. Transportation and delivery apps surface when the car or meal is expected to arrive. Uber & Lyft show the time when you will arrive at your destination (with a point estimate like \u201c6:32 pm\u201d). To capture greater variability, they may provide a time range (6:32 to 6:48pm). The two times sample a probabilistic prediction, where the lower estimate might cover 50% of the cases (let\u2019s call it the \"p50\"). The choice for the upper range balances quantitative precision against marketing conversion rates. Let\u2019s assume that the worst-case cover 95% of all rides (\"p95\"). As a homework problem, what percent of the time do you believe the arrival exceeds your quoted time?\u00a0 While the distance between the best and the worst may not be noticeably great, five percent of customers will by necessity experience service worse than the best 95%.",
+        "uid": "WN5ZveW48"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "**Does an acknowledgment help repair the harm done?\u00a0**",
+        "uid": "Dg5bDej9z"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "How might a company handle these letdowns? What if a firm explicitly promises to do better? Should the firm spiff the customer something valuable to show their seriousness? Perhaps they specifically promise to \"learn from\" the mistake?",
+        "uid": "D7ESpbgNN"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "As a matter of empirical record, data to date suggests a very specific approach to apologizing. In a nutshell, the strategy validates by multiple experiments is: __Don't bother.__",
+        "uid": "CYtuCerp4"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "Let's unpack this, since it runs counter to what's best for maintaining good interpersonal relationships. Interactions with a company significantly differ from person-to-person contact.",
+        "uid": "34Aj8VKL3"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "The invisible hand that brought the customer and company together hinges on self-interest.",
+        "uid": "ws-TOrmvN"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "The motivation of potential profit drives a company to deliver value, yet it's implausible that such a connection should be mistaken for a personal relationship.",
+        "uid": "5_gHSQbRh"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "The transactional nature of business is not nakedly broadcast, yet the experience still reveals that the business exchange involves efficiency rather than intimacy. For explorations of this reality, consult one economist\u2019s [love letter to big business](https://www.amazon.com/dp/B07D2B8MLT/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).",
+        "uid": "QeQpa-3FB"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "Economists view apologies as 'cheap talk,\" mere words without any further backing.",
+        "uid": "KyxMqt577"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "Facebook has historically leaned into apologies like a drunkard who will not drive a car unless equipped with airbags. Serial apologizer Mark Zuckerberg is, precisely because of his repetitive contrition, a serial privacy violator.",
+        "uid": "QYcIsGMXz"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "Several economists at one ride-share company ran a[ large scale field experiment](http://fieldexperiments-papers2.s3.amazonaws.com/papers/00644.pdf) to research the impact of an apology on having a late ride. One of the researchers had previously found that apologies required more than words. To back up what might just be \u201ccheap talk,\u201d the ride share company gave $5 refunds for late rides (> p95). An apology aims to establish that the bad experience was truly exceptional. __Baby, from now on, I\u2019m going to be good.__",
+        "uid": "jynNCp7Du"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "The experiment found that the net return for issuing an apology was negligible. In cases where they apologized more than once, the results were worse than never having said sorry. By contrast, sending $5 without mentioning the bad ride was just as effective over the long term as issuing an apology backed up by the $5.",
+        "uid": "eODyQ-BWu"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "When I\u2019ve mentioned this counter-intuitive result, many people react by assuming that the right wording must\u2019ve been missing from the test. Consider the 3 types of apologies (with and without $5) the field experiment used:",
+        "uid": "gQyA-okNG"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "\u201cOh no! Your trip took longer than we estimated.\u201d (Basic apology)",
+        "uid": "3hSXIga0C"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508146,
+        "string": "\u201cWe know our estimate was off.\u201d (Status apology)",
+        "uid": "wc9yGKQg-"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "\u201cWe\u2019re working hard to give you arrival times that you can count on.\u201d (Commitment apology)",
+        "uid": "sobR8UQBH"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "The study found 'no statistically significant differences between different message types'",
+        "uid": "sHg-2dOai"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "Even a methodologically sound, well-powered experiment can\u2019t compel a person to abandon their intuitions. Consider the interpretation from[ the historically earliest data analysis based on clinical evidence](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1383766/). A French doctor wanted to know whether blood letting improved health outcomes. The data demonstrated worse outcomes for those who had been bled. Paradoxically, the doctor interpreted this as implying they had not done enough bleeding.",
+        "uid": "sAJt9gHH8"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "Uber once had a team of trained PhDs to staff their [Behavioral Lab](https://eng.uber.com/applied-behavioral-science-at-scale/).Their publications leveraged the academic literature (with decks that actually had footnotes). Their cutting edge approach actively applied the research, as they generated product-focused recommendations.",
+        "uid": "zXjL24-Oq"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "A consultant from 2019 explained to me that even though I was myself aware of the 2018 study drawn upon millions of Uber's own riders, one scientist in the Lab still recommended using an apology as it \u201cfeels like the right thing to do\u201d to acknowledge the mistake. According to this consultant, it sounded like advice that Uber double-down on the blood-letting.",
+        "uid": "4-skS23_5"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "I myself attended a conference last year where [results were shared from a meal delivery company experiment](about:blank). Apologizing apparently made everything worse: Satisfaction, trust, and the likelihood of using the service all significantly decreased after getting an apology. I\u2019ve also heard stories of a large health care provider that tried hand-delivering flowers to recognize inferior service, and the outcome was again worse than saying nothing at all. Apparently, in businesses, \"Breaking into Jail\" is a term for calling explicit attention to a mistake you've made.",
+        "uid": "Z6oSxQyKw"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "One further source of evidence can be found in the medical profession. Apologies were once thought to be so effective at reducing malpractice, that the insurance industry successfully lobbied to make the law more conducive to saying sorry. A doctor's apology could not be used as evidence in court, and the hope was that doctor's more open admission would reduce costly litigation. Empirical data showed the reverse: \"An apology may alert the patient to malpractice she would not otherwise have discovered.\" ([\u201cSorry\u201d Is Never Enough, 2019, Stanford Law Review](https://www.stanfordlawreview.org/print/article/sorry-is-never-enough/))",
+        "uid": "A4AbsXRIg"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602607508147,
+        "string": "What do I recommend to my clients when they\u2019re upset at their own firms\u2019 failures? I remind them how little evidence supports the hope that apologies result in a repaired relationship. Rather than invest resources in calling out mistakes of the past, it\u2019s far more effective to invest in improved service going forward. The explicit acknowledgment may only make the product manager feel better about the inferior experience. And an apology that\u2019s motivated by a desire to repair one\u2019s own self-conception is really no apology at all.",
+        "uid": "Qmpjy2EEC"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
             "create-time": 1602175216518,
             "edit-email": "psas@motivationengineers.com",
             "edit-time": 1602275916662,
@@ -12256,7 +12640,7 @@
       }
     ],
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1602464296362,
+    "edit-time": 1602607280175,
     "title": "October 12th, 2020"
   },
   {
@@ -12319,8 +12703,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602606244024,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602606257735,
-            "string": "[[Delmore]] ",
+            "edit-time": 1602606374819,
+            "string": "[[Delmore]] https://web.archive.org/web/20160317034318/http://www-psych.stanford.edu/~wit/PhDraft.pdf",
             "uid": "TXfK-OPiW"
           }
         ],
@@ -12393,5 +12777,10 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1602550696619,
     "title": "October 13th, 2020"
+  },
+  {
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602607713790,
+    "title": "October 14th, 2020"
   }
 ]

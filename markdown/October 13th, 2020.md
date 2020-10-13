@@ -10,7 +10,7 @@ Obvious = boring, boring gets ignored, & then impt projects founder
 [https://benkuhn.net/11/](https://t.co/VHoEmrWJfL?amp=1) 
 Get a coach like [@amelapay](https://twitter.com/amelapay)
     - [The unreasonable effectiveness of one-on-onesbenkuhn.net](https://t.co/VHoEmrWJfL?amp=1)
-    - [[Delmore]] 
+    - [[Delmore]] https://web.archive.org/web/20160317034318/http://www-psych.stanford.edu/~wit/PhDraft.pdf
 - I still hanker for the New Old Home wave, which I arrived too late to play in. My ideas about transforming small living spaces feel alive to me, even though they're so small scale. 
 - {{[[TODO]]}} Prototype Movable Nest with one wall in my office - Use the current denim sheet that's covering my desk, back with the largest piece of cardboard I can find, and then run a very simple audibility test pre-post
     - one tatami dimension - 88cm x 176 (0.5: 1) Tall ones are 216cm - 

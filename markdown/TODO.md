@@ -1,18 +1,22 @@
-- {{[[TODO]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- {{[[TODO]]}} No news or twitter until after dinner
+- {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
+- {{[[DONE]]}} No news or twitter until after dinner
+- {{[[TODO]]}} Draw for 5 mins the circles with triangle
 - {{[[TODO]]}} Tiny Habits when (via email) 
 - {{[[TODO]]}} Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)
-    - Eat a frog - worst first - Today it's publish
     - Buffer for run-over
-    - Put dinner plans in, starting with Fettucine tonight
+    - Put dinner plans in Fettucine Monday, Taco Tues
+- {{[[TODO]]}} Eat a frog - worst first - 
+    - [[October 14th, 2020]] publish a tweet storm
 - {{[[TODO]]}} Pull together a list of 15 people - contact 3 each day
-- {{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues
-- {{[[TODO]]}} Create an assessment of flow for Instacart
+- {{[[TODO]]}} Run through a practice talk for instacart Weds at 2pm [[October 14th, 2020]]
+- {{[[TODO]]}} Create experimental design for an assessment of flow for Instacart [[October 14th, 2020]]
     - {{[[TODO]]}} Reactivate my MTurk
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
     - {{[[TODO]]}} Use guidedtrack to capture the data
-- {{[[TODO]]}} Prioritize from the list of topics the top 3 ideas to write about
+- {{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues [[October 14th, 2020]]
+- {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about
 - {{[[TODO]]}} Write for 2 hours per day
+    - [[October 14th, 2020]] equals tweet storm
 - {{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
 - {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence.

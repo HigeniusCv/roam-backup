@@ -7479,8 +7479,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602531291182,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602607536579,
-        "string": "{{[[DONE]]}} No news or twitter until after dinner",
+        "edit-time": 1602609784724,
+        "string": "{{[[TODO]]}} No news or twitter until after dinner",
         "uid": "eZwq47aAj"
       },
       {
@@ -7498,6 +7498,14 @@
         "edit-time": 1602532022000,
         "string": "{{[[TODO]]}} Tiny Habits when (via email) ",
         "uid": "O6lqaedI8"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602609795527,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602609813684,
+        "string": "{{[[TODO]]}} Ride bike to top of Cedar before starting work",
+        "uid": "_U25aldSR"
       },
       {
         "children": [

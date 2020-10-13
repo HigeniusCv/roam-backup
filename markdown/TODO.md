@@ -14,6 +14,5 @@
     - {{[[TODO]]}} Use guidedtrack to capture the data
 - {{[[TODO]]}} Prioritize from the list of topics the top 3 ideas to write about
 - {{[[TODO]]}} Write for 2 hours per day
-- 
 - {{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
 - {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence.

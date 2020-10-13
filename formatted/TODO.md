@@ -2,7 +2,7 @@
 - [ ] No news or twitter until after dinner
 - [ ] Draw for 5 mins the circles with triangle
 - [ ] Tiny Habits when (via email) 
-- [ ] Ride bike to top of Cedar before starting work
+- [x] Ride bike to top of Cedar before starting work
 - [ ] Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)
     - Buffer for run-over
     - Put dinner plans in Fettucine Monday, Taco Tues
@@ -89,8 +89,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

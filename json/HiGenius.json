@@ -7579,9 +7579,17 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602661312861,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602691305623,
-        "string": "[[October 14th, 2020]]Ricardo zoom at 11;30am",
+        "edit-time": 1602707406689,
+        "string": "{{[[DONE]]}} Ricardo zoom at 11;30am",
         "uid": "3wIRYcUBF"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602708164310,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602708179368,
+        "string": "{{[[TODO]]}} R coursera for 20+ mins",
+        "uid": "6qKixJLbb"
       },
       {
         "children": [

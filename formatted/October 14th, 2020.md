@@ -38,7 +38,5 @@
 
 - [ ] Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues [October 14th, 2020](<October 14th, 2020.md>)
 
-- [October 14th, 2020](<October 14th, 2020.md>)R
-
 - [October 14th, 2020](<October 14th, 2020.md>)
 

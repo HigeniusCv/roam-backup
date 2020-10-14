@@ -13,7 +13,8 @@
     - {{[[TODO]]}} Use guidedtrack to capture the data
 - {{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues [[October 14th, 2020]]
 - {{[[DONE]]}} Ride bike to top of Cedar before starting work
-- [[October 14th, 2020]]Ricardo zoom at 11;30am
+- {{[[DONE]]}} Ricardo zoom at 11;30am
+- {{[[TODO]]}} R coursera for 20+ mins
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle
 - {{[[TODO]]}} Pull together a list of 15 people - contact 3 each day

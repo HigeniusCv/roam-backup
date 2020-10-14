@@ -1,8 +1,9 @@
 - [x] Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- [x] No news or twitter until after dinner
-- [x] Draw for 5 mins the circles with triangle
-- [x] Tiny Habits when (via email) 
-- [x] Ride bike to top of Cedar before starting work
+- [ ] No news or twitter until after dinner
+- [October 14th, 2020](<October 14th, 2020.md>)Ricardo zoom at 11;30am
+- [ ] Draw for 5 mins the circles with triangle
+- [ ] Tiny Habits when (via email) 
+- [ ] Ride bike to top of Cedar before starting work
 - [ ] Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)
     - Buffer for run-over
     - Put dinner plans in Fettucine Monday, Taco Tues
@@ -24,9 +25,6 @@
 
 # Backlinks
 ## [Apologies](<Apologies.md>)
-- {{[TODO](<TODO.md>)}
-
-## [October 13th, 2020](<October 13th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
 ## [October 1st, 2020](<October 1st, 2020.md>)
@@ -89,6 +87,14 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

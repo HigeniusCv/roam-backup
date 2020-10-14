@@ -7479,32 +7479,40 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602531291182,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602650296610,
-        "string": "{{[[DONE]]}} No news or twitter until after dinner",
+        "edit-time": 1602661304472,
+        "string": "{{[[TODO]]}} No news or twitter until after dinner",
         "uid": "eZwq47aAj"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602661312861,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602661326543,
+        "string": "[[October 14th, 2020]]Ricardo zoom at 11;30am",
+        "uid": "3wIRYcUBF"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602607821785,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602650561728,
-        "string": "{{[[DONE]]}} Draw for 5 mins the circles with triangle",
+        "edit-time": 1602661301277,
+        "string": "{{[[TODO]]}} Draw for 5 mins the circles with triangle",
         "uid": "ZqEhTevaA"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602531302899,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602650298914,
-        "string": "{{[[DONE]]}} Tiny Habits when (via email) ",
+        "edit-time": 1602661308649,
+        "string": "{{[[TODO]]}} Tiny Habits when (via email) ",
         "uid": "O6lqaedI8"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602609795527,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602626619137,
-        "string": "{{[[DONE]]}} Ride bike to top of Cedar before starting work",
+        "edit-time": 1602661310141,
+        "string": "{{[[TODO]]}} Ride bike to top of Cedar before starting work",
         "uid": "_U25aldSR"
       },
       {
@@ -12777,8 +12785,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602603827593,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602603893871,
-        "string": "{{[[TODO]]}} Prototype Movable Nest with one wall in my office - Use the current denim sheet that's covering my desk, back with the largest piece of cardboard I can find, and then run a very simple audibility test pre-post",
+        "edit-time": 1602661353070,
+        "string": "{{[[DONE]]}} Prototype Movable Nest with one wall in my office - Use the current denim sheet that's covering my desk, back with the largest piece of cardboard I can find, and then run a very simple audibility test pre-post",
         "uid": "Byt1RWtfO"
       }
     ],

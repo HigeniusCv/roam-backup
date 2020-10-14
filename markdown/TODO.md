@@ -1,8 +1,9 @@
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- {{[[DONE]]}} No news or twitter until after dinner
-- {{[[DONE]]}} Draw for 5 mins the circles with triangle
-- {{[[DONE]]}} Tiny Habits when (via email) 
-- {{[[DONE]]}} Ride bike to top of Cedar before starting work
+- {{[[TODO]]}} No news or twitter until after dinner
+- [[October 14th, 2020]]Ricardo zoom at 11;30am
+- {{[[TODO]]}} Draw for 5 mins the circles with triangle
+- {{[[TODO]]}} Tiny Habits when (via email) 
+- {{[[TODO]]}} Ride bike to top of Cedar before starting work
 - {{[[TODO]]}} Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)
     - Buffer for run-over
     - Put dinner plans in Fettucine Monday, Taco Tues

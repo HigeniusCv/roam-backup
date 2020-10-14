@@ -12,7 +12,7 @@
     - [ ] Run ten hits with a simple flow metric
     - [ ] Use guidedtrack to capture the data
 - [ ] Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues [October 14th, 2020](<October 14th, 2020.md>)
-- [ ] Ride bike to top of Cedar before starting work
+- [x] Ride bike to top of Cedar before starting work
 - [October 14th, 2020](<October 14th, 2020.md>)Ricardo zoom at 11;30am
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
@@ -91,8 +91,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

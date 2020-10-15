@@ -2,7 +2,7 @@
 - [x] schedule 2 focusmate sessions
 - [x] list of [Topics for blogs](<Topics for blogs.md>) - translate to promote 3 for this week
     - Organized quasi-chronologically
-- [ ] begin list of potential [pitches](<pitches.md>)
+- [x] begin list of potential [pitches](<pitches.md>)
 - [x] apply to OKEX
 - [x] apply to Mach49
 - [x] search linkedin and job sites - bookmark and routinize

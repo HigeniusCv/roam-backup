@@ -3,18 +3,18 @@
     - 10am extra credit
     - 11:15
     - 2:30
-- [ ] Publish [Apologies](<Apologies.md>) eod [October 8th, 2020](<October 8th, 2020.md>)
-- [ ] prepare portfolio pitch for Instacart
+- [x] Publish [Apologies](<Apologies.md>) eod [October 8th, 2020](<October 8th, 2020.md>)
+- [x] prepare portfolio pitch for Instacart
 - [ ] Experiment with list of potential [pitches](<pitches.md>)
-- [ ] Apply to 7 linkedin and job sites
+- [x] Apply to 7 linkedin and job sites
 - [x] water garden at break
     - cut flowers & kale
-- [ ] look at Roam Slack & Sandbox to understand templates
+- [x] look at Roam Slack & Sandbox to understand templates
 - [x] chat with Maytal at 1pm
 - [x] locate dental silver
 - [ ] Watch YT on how to use
     - apply
-- [ ] [Surf the urge](<Surf the urge.md>) but 
+- [x] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x [morning, lunch, and 5pm]
@@ -64,5 +64,5 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - [journal](<journal.md>)[October 8th, 2020](<October 8th, 2020.md>){
 
-- [ ] Publish [Apologies](<Apologies.md>) eod [October 8th, 2020](<October 8th, 2020.md>)
+- [x] Publish [Apologies](<Apologies.md>) eod [October 8th, 2020](<October 8th, 2020.md>)
 

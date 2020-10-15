@@ -4,7 +4,7 @@
 - {{[[DONE]]}} 2 focusmate sessions
     - 12:15 - LATE
     - 3pm 
-- {{[[TODO]]}} Topic today - [[Apologies]]
+- {{[[DONE]]}} Topic today - [[Apologies]]
     - word count 
 - {{[[DONE]]}} sign & mail docs to DCW
 - {{[[TODO]]}} begin list of potential [[pitches]]

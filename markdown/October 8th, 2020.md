@@ -3,18 +3,18 @@
     - 10am extra credit
     - 11:15
     - 2:30
-- {{[[TODO]]}} Publish [[Apologies]] eod [[October 8th, 2020]]
-- {{[[TODO]]}} prepare portfolio pitch for Instacart
+- {{[[DONE]]}} Publish [[Apologies]] eod [[October 8th, 2020]]
+- {{[[DONE]]}} prepare portfolio pitch for Instacart
 - {{[[TODO]]}} Experiment with list of potential [[pitches]]
-- {{[[TODO]]}} Apply to 7 linkedin and job sites
+- {{[[DONE]]}} Apply to 7 linkedin and job sites
 - {{[[DONE]]}} water garden at break
     - cut flowers & kale
-- {{[[TODO]]}} look at Roam Slack & Sandbox to understand templates
+- {{[[DONE]]}} look at Roam Slack & Sandbox to understand templates
 - {{[[DONE]]}} chat with Maytal at 1pm
 - {{[[DONE]]}} locate dental silver
 - {{[[TODO]]}} Watch YT on how to use
     - apply
-- {{[[TODO]]}} [[Surf the urge]] but 
+- {{[[DONE]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x [morning, lunch, and 5pm]

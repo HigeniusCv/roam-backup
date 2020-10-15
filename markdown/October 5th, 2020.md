@@ -2,7 +2,7 @@
 - {{[[DONE]]}} schedule 2 focusmate sessions
 - {{[[DONE]]}} list of [[Topics for blogs]] - translate to promote 3 for this week
     - Organized quasi-chronologically
-- {{[[TODO]]}} begin list of potential [[pitches]]
+- {{[[DONE]]}} begin list of potential [[pitches]]
 - {{[[DONE]]}} apply to OKEX
 - {{[[DONE]]}} apply to Mach49
 - {{[[DONE]]}} search linkedin and job sites - bookmark and routinize

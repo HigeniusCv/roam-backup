@@ -4,7 +4,7 @@
 - [x] 2 focusmate sessions
     - 12:15 - LATE
     - 3pm 
-- [ ] Topic today - [Apologies](<Apologies.md>)
+- [x] Topic today - [Apologies](<Apologies.md>)
     - word count 
 - [x] sign & mail docs to DCW
 - [ ] begin list of potential [pitches](<pitches.md>)

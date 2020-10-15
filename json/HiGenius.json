@@ -7478,12 +7478,6 @@
       {
         "children": [
           {
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602283033403,
-            "string": "Buffer for run-over",
-            "uid": "GL2SU_mF9"
-          },
-          {
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602691315407,
             "edit-email": "psas@motivationengineers.com",
@@ -7492,17 +7486,15 @@
             "uid": "cJ5XqrP5d"
           },
           {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602532042462,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602607613774,
-            "string": "Put dinner plans in Fettucine Monday, Taco Tues",
-            "uid": "sjUbi7nn1"
+            "edit-time": 1602779807966,
+            "string": "Buffer for run-over",
+            "uid": "GL2SU_mF9"
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283039117,
-        "string": "{{[[TODO]]}} Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)",
+        "edit-time": 1602779720695,
+        "string": "{{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)",
         "uid": "SCh4OqUIq"
       },
       {
@@ -7511,15 +7503,25 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602607625975,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602691382190,
-            "string": "{{[[TODO]]}} Run through a practice talk for ((instacart)) Weds at 2pm [[October 14th, 2020]] ((frog))",
+            "edit-time": 1602779625429,
+            "string": "{{[[DONE]]}} Run through a practice talk for ((instacart)) Weds at 2pm [[October 14th, 2020]] ((frog))",
             "uid": "eT_8MNYJf"
           },
           {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602779626871,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602691384064,
-            "string": "[[October 15th, 2020]] publish a tweet storm ((frog))",
-            "uid": "IRTZcwv-W"
+            "edit-time": 1602779934548,
+            "string": "Write letter to 5 LinkedIn on Flow benchmark  ((frog))[[October 15th, 2020]]",
+            "uid": "SlYJmF_QC"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602779628016,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602779629605,
+            "string": "publish a tweet storm ((frog))",
+            "uid": "-810b40VM"
           }
         ],
         "create-email": "psas@motivationengineers.com",
@@ -7528,6 +7530,52 @@
         "edit-time": 1602691368912,
         "string": "{{[[TODO]]}} Eat a frog - worst first ",
         "uid": "38YS_Cpco"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602283049388,
+        "string": "{{[[TODO]]}} Pull together a list of 15 people - contact 3 each day",
+        "uid": "t3v_uy60y"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602779684167,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602779684167,
+            "string": "Refine Portfolio to include more BEcon examples, and p",
+            "uid": "jE1TPbAcQ"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602779688297,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602779688297,
+            "string": "publish to G-docs ",
+            "uid": "vUkskArwr"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602779697183,
+            "string": "link that plus articles on my website by Tues [[October 14th, 2020]]",
+            "uid": "Q5t513upg"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602779672192,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602779672192,
+        "string": "{{[[TODO]]}} Update my website ",
+        "uid": "oyHuiaiO6"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602708164310,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602708179368,
+        "string": "{{[[TODO]]}} R coursera for 20+ mins",
+        "uid": "6qKixJLbb"
       },
       {
         "children": [
@@ -7554,18 +7602,20 @@
             "edit-time": 1602283094915,
             "string": "{{[[TODO]]}} Use guidedtrack to capture the data",
             "uid": "e7-uJISyh"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602779908633,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602779910451,
+            "string": "Write letter to 5 LinkedIn on Flow benchmark  ((frog))",
+            "uid": "kEqoIr8Ay"
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602691389080,
-        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for Instacart [[October 14th, 2020]] ((frog))",
+        "edit-time": 1602779744263,
+        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for Instacart [[October 15th, 2020]] ((frog))",
         "uid": "aMR7YRdmI"
-      },
-      {
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602607743637,
-        "string": "{{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues [[October 14th, 2020]]",
-        "uid": "Q5t513upg"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7584,14 +7634,6 @@
         "uid": "3wIRYcUBF"
       },
       {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602708164310,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602708179368,
-        "string": "{{[[TODO]]}} R coursera for 20+ mins",
-        "uid": "6qKixJLbb"
-      },
-      {
         "children": [
           {
             "create-email": "psas@motivationengineers.com",
@@ -7608,12 +7650,6 @@
         "edit-time": 1602691240306,
         "string": "{{[[TODO]]}} Draw for 5 mins ",
         "uid": "T4y_CJGWe"
-      },
-      {
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283049388,
-        "string": "{{[[TODO]]}} Pull together a list of 15 people - contact 3 each day",
-        "uid": "t3v_uy60y"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7675,9 +7711,17 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283135175,
-        "string": "{{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence.",
+        "edit-time": 1602779789840,
+        "string": "{{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. \"I billed this\"",
         "uid": "xmvTQdC5o"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602779811814,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602779977398,
+        "string": "Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat ",
+        "uid": "avJMFC_33"
       }
     ],
     "create-email": "psas@motivationengineers.com",
@@ -9225,8 +9269,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1601920826259,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1601922418007,
-        "string": "{{[[TODO]]}} begin list of potential [[pitches]]",
+        "edit-time": 1602779862640,
+        "string": "{{[[DONE]]}} begin list of potential [[pitches]]",
         "uid": "mBEEKGFS7"
       },
       {
@@ -9847,16 +9891,16 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602171912494,
-        "string": "{{[[TODO]]}} Publish [[Apologies]] eod [[October 8th, 2020]]",
+        "edit-time": 1602779853240,
+        "string": "{{[[DONE]]}} Publish [[Apologies]] eod [[October 8th, 2020]]",
         "uid": "8lNcLIzv1"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602195740919,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602195755243,
-        "string": "{{[[TODO]]}} prepare portfolio pitch for Instacart",
+        "edit-time": 1602779851387,
+        "string": "{{[[DONE]]}} prepare portfolio pitch for Instacart",
         "uid": "bU-pJM8bk"
       },
       {
@@ -9867,8 +9911,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602171938880,
-        "string": "{{[[TODO]]}} Apply to 7 linkedin and job sites",
+        "edit-time": 1602779856640,
+        "string": "{{[[DONE]]}} Apply to 7 linkedin and job sites",
         "uid": "MUHOJCtgL"
       },
       {
@@ -9889,8 +9933,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602171952378,
-        "string": "{{[[TODO]]}} look at Roam Slack & Sandbox to understand templates",
+        "edit-time": 1602779857433,
+        "string": "{{[[DONE]]}} look at Roam Slack & Sandbox to understand templates",
         "uid": "5Erpn5bzJ"
       },
       {
@@ -9949,8 +9993,8 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602171846869,
-        "string": "{{[[TODO]]}} [[Surf the urge]] but ",
+        "edit-time": 1602779858315,
+        "string": "{{[[DONE]]}} [[Surf the urge]] but ",
         "uid": "ipwRzRrOw"
       },
       {
@@ -10522,20 +10566,20 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002683118,
-        "string": "{{[[TODO]]}} 2 focusmate sessions",
+        "edit-time": 1602779839377,
+        "string": "{{[[DONE]]}} 2 focusmate sessions",
         "uid": "Y7bFq9mU0"
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602105522622,
-        "string": "{{[[TODO]]}} Topic today - [[Apologies]]",
+        "edit-time": 1602779840738,
+        "string": "{{[[DONE]]}} Topic today - [[Apologies]]",
         "uid": "jS1-ZYziE"
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002568798,
-        "string": "{{[[TODO]]}} begin list of potential [[pitches]]",
+        "edit-time": 1602779842409,
+        "string": "{{[[DONE]]}} begin list of potential [[pitches]]",
         "uid": "49FpF2sZs"
       },
       {
@@ -10554,14 +10598,14 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002568798,
-        "string": "{{[[TODO]]}} search linkedin and job sites - bookmark and routinize",
+        "edit-time": 1602779843424,
+        "string": "{{[[DONE]]}} search linkedin and job sites - bookmark and routinize",
         "uid": "rbNupQPt1"
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002629430,
-        "string": "{{[[TODO]]}} water garden at break",
+        "edit-time": 1602779845078,
+        "string": "{{[[DONE]]}} water garden at break",
         "uid": "JD3aDBM3i"
       },
       {
@@ -10572,8 +10616,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002568799,
-        "string": "{{[[TODO]]}} look at Roam Slack & Sandbox",
+        "edit-time": 1602779845976,
+        "string": "{{[[DONE]]}} look at Roam Slack & Sandbox",
         "uid": "W0AR-nocw"
       },
       {
@@ -10598,8 +10642,8 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602002637950,
-        "string": "{{[[TODO]]}} [[Surf the urge]] but ",
+        "edit-time": 1602779848135,
+        "string": "{{[[DONE]]}} [[Surf the urge]] but ",
         "uid": "jW2sCSzD0"
       },
       {
@@ -11715,8 +11759,8 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602100018523,
-        "string": "{{[[TODO]]}} Topic today - [[Apologies]]",
+        "edit-time": 1602779831127,
+        "string": "{{[[DONE]]}} Topic today - [[Apologies]]",
         "uid": "dHUdJbRxM"
       },
       {
@@ -12007,8 +12051,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602268034103,
-        "string": "{{[[TODO]]}} Figure out why listing [[pitches]] is avoided",
+        "edit-time": 1602779828576,
+        "string": "{{[[DONE]]}} Figure out why listing [[pitches]] is avoided",
         "uid": "TNVfvouIu"
       },
       {
@@ -12025,8 +12069,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602269573144,
-        "string": "{{[[TODO]]}} Publish [[Apologies]] eod",
+        "edit-time": 1602779826635,
+        "string": "{{[[DONE]]}} Publish [[Apologies]] eod",
         "uid": "aMKWGA3oi"
       },
       {

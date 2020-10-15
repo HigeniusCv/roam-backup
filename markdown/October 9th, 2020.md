@@ -4,10 +4,10 @@
 - {{[[DONE]]}} work on Guidedtrack using Loom
 - {{[[DONE]]}} Check in with Lynette at 3
 - {{[[DONE]]}} Bike to Vine top
-- {{[[TODO]]}} Figure out why listing [[pitches]] is avoided
+- {{[[DONE]]}} Figure out why listing [[pitches]] is avoided
 - {{[[DONE]]}} apply to top 3 jobs on tabs
 - {{[[DONE]]}} water garden at break
-- {{[[TODO]]}} Publish [[Apologies]] eod
+- {{[[DONE]]}} Publish [[Apologies]] eod
 - {{[[DONE]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - Ration twitter to once before 3pm

@@ -1,18 +1,18 @@
 - [x] [journal](<journal.md>) 15 minutes {{[POMO](<POMO.md>): 10}}
 - [x] [network](<network.md>) Call Matt Wallaert at 8am
     - sent him resources on [experiments](<experiments.md>) https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0
-- [ ] 2 focusmate sessions
+- [x] 2 focusmate sessions
     - 12:15
     - 2:30
-- [ ] Topic today - [Apologies](<Apologies.md>)
-- [ ] begin list of potential [pitches](<pitches.md>)
+- [x] Topic today - [Apologies](<Apologies.md>)
+- [x] begin list of potential [pitches](<pitches.md>)
 - [x] apply to OKEX
 - [x] map past applications
-- [ ] search linkedin and job sites - bookmark and routinize
-- [ ] water garden at break
+- [x] search linkedin and job sites - bookmark and routinize
+- [x] water garden at break
 - [x] bike to top of Cedar before 1pm
-- [ ] look at Roam Slack & Sandbox
-- [ ] [Surf the urge](<Surf the urge.md>) but 
+- [x] look at Roam Slack & Sandbox
+- [x] [Surf the urge](<Surf the urge.md>) but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x[October 5th, 2020](<October 5th, 2020.md>)

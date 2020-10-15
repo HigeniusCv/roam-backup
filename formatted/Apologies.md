@@ -131,14 +131,14 @@
 
 # Backlinks
 ## [October 6th, 2020](<October 6th, 2020.md>)
-- [ ] Topic today - [Apologies](<Apologies.md>)
+- [x] Topic today - [Apologies](<Apologies.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- [ ] Topic today - [Apologies](<Apologies.md>)
+- [x] Topic today - [Apologies](<Apologies.md>)
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
-- [ ] Publish [Apologies](<Apologies.md>)
+- [x] Publish [Apologies](<Apologies.md>)
 
 ## [October 9th, 2020](<October 9th, 2020.md>)
-- [ ] Publish [Apologies](<Apologies.md>)
+- [x] Publish [Apologies](<Apologies.md>)
 

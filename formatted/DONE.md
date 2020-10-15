@@ -32,7 +32,23 @@
 
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
 ## [October 6th, 2020](<October 6th, 2020.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}
@@ -60,7 +76,19 @@
 
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
 ## [October 8th, 2020](<October 8th, 2020.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}
@@ -86,10 +114,16 @@
 
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [Sandbox](<Sandbox.md>)
 - {{[DONE](<DONE.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}

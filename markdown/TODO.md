@@ -1,23 +1,27 @@
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- {{[[TODO]]}} Time box 6 hours of work/day, with specific content activities (3-4 Focusmates/day)
-    - Buffer for run-over
+- {{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule one morning, afternoon, and night focusmate
-    - Put dinner plans in Fettucine Monday, Taco Tues
+    - Buffer for run-over
 - {{[[TODO]]}} Eat a frog - worst first 
-    - {{[[TODO]]}} Run through a practice talk for instacart Weds at 2pm [[October 14th, 2020]] frog
-    - [[October 15th, 2020]] publish a tweet storm frog
-- {{[[TODO]]}} Create experimental design for an assessment of flow for Instacart [[October 14th, 2020]] frog
+    - {{[[DONE]]}} Run through a practice talk for instacart Weds at 2pm [[October 14th, 2020]] frog
+    - Write letter to 5 LinkedIn on Flow benchmark  frog[[October 15th, 2020]]
+    - publish a tweet storm frog
+- {{[[TODO]]}} Pull together a list of 15 people - contact 3 each day
+- {{[[TODO]]}} Update my website 
+    - Refine Portfolio to include more BEcon examples, and p
+    - publish to G-docs 
+    - link that plus articles on my website by Tues [[October 14th, 2020]]
+- {{[[TODO]]}} R coursera for 20+ mins
+- {{[[TODO]]}} Create experimental design for an assessment of flow for Instacart [[October 15th, 2020]] frog
     - {{[[TODO]]}} Reactivate my MTurk
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
     - {{[[TODO]]}} Use guidedtrack to capture the data
-- {{[[TODO]]}} Refine Portfolio to include more BEcon examples, and publish to G-docs and link on my website by Tues [[October 14th, 2020]]
+    - Write letter to 5 LinkedIn on Flow benchmark  frog
 - {{[[DONE]]}} Ride bike to top of Cedar before starting work
 - {{[[DONE]]}} Ricardo zoom at 11;30am
-- {{[[TODO]]}} R coursera for 20+ mins
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle
-- {{[[TODO]]}} Pull together a list of 15 people - contact 3 each day
 - {{[[TODO]]}} No news or twitter until after dinner
 - {{[[TODO]]}} Tiny Habits when (via email) 
 - {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about
@@ -26,4 +30,5 @@
     - [[October 14th, 2020]] equals describe method for experiment with Instacart
     - [[October 15th, 2020]] equals tweet storm
 - {{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
-- {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence.
+- {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "I billed this"
+- Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat 

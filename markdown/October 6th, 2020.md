@@ -1,18 +1,18 @@
 - {{[[DONE]]}} [[journal]] 15 minutes {{[[POMO]]: 10}}
 - {{[[DONE]]}} [[network]] Call Matt Wallaert at 8am
     - sent him resources on [[experiments]] https://www.dropbox.com/sh/o7e9kswfezuantz/AADwANxeJVBjggc4ZDc6IHcZa?dl=0
-- {{[[TODO]]}} 2 focusmate sessions
+- {{[[DONE]]}} 2 focusmate sessions
     - 12:15
     - 2:30
-- {{[[TODO]]}} Topic today - [[Apologies]]
-- {{[[TODO]]}} begin list of potential [[pitches]]
+- {{[[DONE]]}} Topic today - [[Apologies]]
+- {{[[DONE]]}} begin list of potential [[pitches]]
 - {{[[DONE]]}} apply to OKEX
 - {{[[DONE]]}} map past applications
-- {{[[TODO]]}} search linkedin and job sites - bookmark and routinize
-- {{[[TODO]]}} water garden at break
+- {{[[DONE]]}} search linkedin and job sites - bookmark and routinize
+- {{[[DONE]]}} water garden at break
 - {{[[DONE]]}} bike to top of Cedar before 1pm
-- {{[[TODO]]}} look at Roam Slack & Sandbox
-- {{[[TODO]]}} [[Surf the urge]] but 
+- {{[[DONE]]}} look at Roam Slack & Sandbox
+- {{[[DONE]]}} [[Surf the urge]] but 
     - don't read news until 5pm
     - avoid feedly until same time
     - Check email only 3x[[October 5th, 2020]]

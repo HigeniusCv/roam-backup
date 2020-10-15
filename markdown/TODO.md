@@ -1,5 +1,5 @@
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- {{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
+- {{[[DONE]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule one morning, afternoon, and night focusmate
     - Buffer for run-over
 - {{[[TODO]]}} Eat a frog - worst first 

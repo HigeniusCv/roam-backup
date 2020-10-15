@@ -12,11 +12,11 @@
     - publish to G-docs 
     - link that plus articles on my website by Tues [[October 14th, 2020]]
 - {{[[TODO]]}} R coursera for 20+ mins
-- {{[[TODO]]}} Create experimental design for an assessment of flow for Instacart [[October 15th, 2020]] frog
-    - {{[[TODO]]}} Reactivate my MTurk
+- {{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support [[October 15th, 2020]] frog
+    - {{[[DONE]]}} Reactivate my MTurk
+    - {{[[TODO]]}} Use guidedtrack to capture the data
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
-    - {{[[TODO]]}} Use guidedtrack to capture the data
     - Write letter to 5 LinkedIn on Flow benchmark  frog
 - {{[[DONE]]}} Ride bike to top of Cedar before starting work
 - {{[[DONE]]}} Ricardo zoom at 11;30am

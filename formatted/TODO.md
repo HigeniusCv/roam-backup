@@ -12,11 +12,11 @@
     - publish to G-docs 
     - link that plus articles on my website by Tues [October 14th, 2020](<October 14th, 2020.md>)
 - [ ] R coursera for 20+ mins
-- [ ] Create experimental design for an assessment of flow for Instacart [October 15th, 2020](<October 15th, 2020.md>) frog
-    - [ ] Reactivate my MTurk
+- [ ] Create experimental design for an assessment of flow for chat with site support [October 15th, 2020](<October 15th, 2020.md>) frog
+    - [x] Reactivate my MTurk
+    - [ ] Use guidedtrack to capture the data
     - [ ] Sandbox a small studies within Mturk account
     - [ ] Run ten hits with a simple flow metric
-    - [ ] Use guidedtrack to capture the data
     - Write letter to 5 LinkedIn on Flow benchmark  frog
 - [x] Ride bike to top of Cedar before starting work
 - [x] Ricardo zoom at 11;30am
@@ -62,8 +62,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

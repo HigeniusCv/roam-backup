@@ -6,7 +6,7 @@
     - [x] Run through a practice talk for instacart Weds at 2pm [October 14th, 2020](<October 14th, 2020.md>) frog
     - Write letter to 5 LinkedIn on Flow benchmark  frog[October 15th, 2020](<October 15th, 2020.md>)
     - publish a tweet storm frog
-- [ ] Pull together a list of 15 people - contact 3 each day
+- [x] Pull together a list of 15 people - contact 3 each day
 - [ ] Update my website 
     - Refine Portfolio to include more BEcon examples, and p
     - publish to G-docs 
@@ -22,7 +22,7 @@
 - [x] Ricardo zoom at 11;30am
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
-- [ ] No news or twitter until after dinner
+- [x] No news or twitter until after dinner
 - [ ] Tiny Habits when (via email) 
 - [ ] Prioritize from the list of topics next top 3 ideas to write about
 - [ ] Write for 2 hours per day
@@ -71,10 +71,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

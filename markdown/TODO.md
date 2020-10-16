@@ -6,7 +6,7 @@
     - {{[[DONE]]}} Run through a practice talk for instacart Weds at 2pm [[October 14th, 2020]] frog
     - Write letter to 5 LinkedIn on Flow benchmark  frog[[October 15th, 2020]]
     - publish a tweet storm frog
-- {{[[TODO]]}} Pull together a list of 15 people - contact 3 each day
+- {{[[DONE]]}} Pull together a list of 15 people - contact 3 each day
 - {{[[TODO]]}} Update my website 
     - Refine Portfolio to include more BEcon examples, and p
     - publish to G-docs 
@@ -22,7 +22,7 @@
 - {{[[DONE]]}} Ricardo zoom at 11;30am
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle
-- {{[[TODO]]}} No news or twitter until after dinner
+- {{[[DONE]]}} No news or twitter until after dinner
 - {{[[TODO]]}} Tiny Habits when (via email) 
 - {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about
 - {{[[TODO]]}} Write for 2 hours per day

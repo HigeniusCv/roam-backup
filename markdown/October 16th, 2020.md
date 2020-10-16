@@ -4,20 +4,37 @@
     - Do web stuff for me like update my site and learn SEO
         - Online programming for guidedmarket too
     - Marketing and outreach
-    - Delivery and shlepping in general
-        - 408-466-6117
+    - Delivery and shlepping in general 408-466-6117
     - Mir is nudging him to go to theater grad school 
 - As for me, I'm doing more work but still not earning, just burning
 - {{[[TODO]]}} Get experiment run
-- {{[[TODO]]}} send real emails to some contacts
+- {{[[DONE]]}} send real emails to some contacts
 - {{[[TODO]]}} Go fix screen cracks at 5pm
     - decide whether to buy the iPhone 12Pro
         - it seems manic to spend 1k, but it also seems prudent to anticipate supply line disruptions
 - {{[[DONE]]}} Whittle twitter, as well as news, and feedly, down via the app Focus on chrome
 - {{[[TODO]]}} Spec an exercise routine that's 5mins 
-    - 36 elbow against rib pushups today
+    - 36 elbow against rib pushups [[October 16th, 2020]]
     - pullups
     - leg lifts straight
     - squat crunches
     - plank- 60 secs
     - reverse plank - 60 secs
+- https://docs.google.com/document/d/13JqeD246bYGXM52vhMKlTUWeqZQHJKyVTPk8jU-E9KU/edit?ts=5f6e8080
+- {{[[TODO]]}} Stickk to R - Burn a Benjamin if I fail to:
+    - Do at least one module on any day (except Sat)
+    - Complete the week’s assignments by the due date
+        - On the 2d violation, the $100 must be donated to Trump
+- {{[[TODO]]}} Continue job / client search
+    - Send out 3 emails a day to network
+        - Explore adding more people to my network during this
+    - Apply to 5 job postings a week, or substitute more emails to sum to 20
+- {{[[TODO]]}} Write on topic for 1 hour (~350 words) a day - Next week’s focus is Behavioral Design
+    - {{[[TODO]]}} Publish before sundown 10/23
+- {{[[TODO]]}} Update website with portfolio link and recent publications
+    - Spend 3 hours (1 on Tues[[October 20th, 2020]], 2 on Thurs[[October 22nd, 2020]])
+- {{[[TODO]]}} Continue building experiment designed in GuidedTrack
+    - {{[[TODO]]}} Finish the beta version from start to finish by Monday[[October 19th, 2020]]
+    - Push 2 HITs on Tues[[October 20th, 2020]]
+    - Aim to A/B 10 per cell by Friday[[October 23rd, 2020]]
+- Dynamically update my projects to insure that any underestimation impacts the lower prioritized items. This list is in priority rank order.

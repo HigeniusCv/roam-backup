@@ -13370,21 +13370,11 @@
             "uid": "ENNTnbxzn"
           },
           {
-            "children": [
-              {
-                "create-email": "psas@motivationengineers.com",
-                "create-time": 1602869906012,
-                "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1602870057727,
-                "string": "408-466-6117",
-                "uid": "sUlpiwtjF"
-              }
-            ],
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602870445434,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602870463408,
-            "string": "Delivery and shlepping in general",
+            "edit-time": 1602889244089,
+            "string": "Delivery and shlepping in general 408-466-6117",
             "uid": "HI3-ybI8N"
           },
           {
@@ -13423,8 +13413,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602870632092,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602870643156,
-        "string": "{{[[TODO]]}} send real emails to some contacts",
+        "edit-time": 1602889253579,
+        "string": "{{[[DONE]]}} send real emails to some contacts",
         "uid": "UXoU37kWU"
       },
       {
@@ -13469,8 +13459,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1602870740517,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602870752630,
-            "string": "36 elbow against rib pushups today",
+            "edit-time": 1602889391531,
+            "string": "36 elbow against rib pushups [[October 16th, 2020]]",
             "uid": "7klNmjvm2"
           },
           {
@@ -13520,10 +13510,154 @@
         "edit-time": 1602870740520,
         "string": "{{[[TODO]]}} Spec an exercise routine that's 5mins ",
         "uid": "SImeTupVl"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1602889285551,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602889289793,
+        "string": "https://docs.google.com/document/d/13JqeD246bYGXM52vhMKlTUWeqZQHJKyVTPk8jU-E9KU/edit?ts=5f6e8080",
+        "uid": "OPZFB6yq2"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889298075,
+            "string": "Do at least one module on any day (except Sat)",
+            "uid": "BO7EItRfL"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602889298075,
+                "string": "On the 2d violation, the $100 must be donated to Trump",
+                "uid": "zpVL6rrkf"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889298075,
+            "string": "Complete the week\u2019s assignments by the due date",
+            "uid": "DqPMV3k1t"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602889303579,
+        "string": "{{[[TODO]]}} Stickk to R - Burn a Benjamin if I fail to:",
+        "uid": "_6GwBGmkx"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602889298075,
+                "string": "Explore adding more people to my network during this",
+                "uid": "2ew2dbTns"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889298075,
+            "string": "Send out 3 emails a day to network",
+            "uid": "mDpDc0RVq"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889298075,
+            "string": "Apply to 5 job postings a week, or substitute more emails to sum to 20",
+            "uid": "J3uYhiGhB"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602889308175,
+        "string": "{{[[TODO]]}} Continue job / client search",
+        "uid": "nVSAD5TUg"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889316655,
+            "string": "{{[[TODO]]}} Publish before sundown 10/23",
+            "uid": "pkvEjo2gT"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602889312122,
+        "string": "{{[[TODO]]}} Write on topic for 1 hour (~350 words) a day - Next week\u2019s focus is Behavioral Design",
+        "uid": "NylLIpJBg"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889337712,
+            "string": "Spend 3 hours (1 on Tues[[October 20th, 2020]], 2 on Thurs[[October 22nd, 2020]])",
+            "uid": "FHlE44BSb"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602889320922,
+        "string": "{{[[TODO]]}} Update website with portfolio link and recent publications",
+        "uid": "RKyGrgqfc"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889356836,
+            "string": "{{[[TODO]]}} Finish the beta version from start to finish by Monday[[October 19th, 2020]]",
+            "uid": "Nq_Qjv8YS"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889362911,
+            "string": "Push 2 HITs on Tues[[October 20th, 2020]]",
+            "uid": "C7nu2gncL"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602889372854,
+            "string": "Aim to A/B 10 per cell by Friday[[October 23rd, 2020]]",
+            "uid": "2tSyp4Pzn"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602889380006,
+        "string": "{{[[TODO]]}} Continue building experiment designed in GuidedTrack",
+        "uid": "ZLdjM-YMN"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1602889298075,
+        "string": "Dynamically update my projects to insure that any underestimation impacts the lower prioritized items. This list is in priority rank order.",
+        "uid": "BRGFaqvC3"
       }
     ],
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1602809971014,
     "title": "October 16th, 2020"
+  },
+  {
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602889362911,
+    "title": "October 20th, 2020"
+  },
+  {
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602889337712,
+    "title": "October 22nd, 2020"
+  },
+  {
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602889351803,
+    "title": "October 19th, 2020"
+  },
+  {
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1602889372854,
+    "title": "October 23rd, 2020"
   }
 ]

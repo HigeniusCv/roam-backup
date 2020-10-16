@@ -13430,27 +13430,37 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1602870658243,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1602870683819,
+                "string": "it seems manic to spend 1k, but it also seems prudent to anticipate supply line disruptions",
+                "uid": "LeBs1y7Bx"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602870658243,
+            "create-time": 1602870643152,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602870683819,
-            "string": "it seems manic to spend 1k, but it also seems prudent to anticipate supply line disruptions",
-            "uid": "LeBs1y7Bx"
+            "edit-time": 1602872966718,
+            "string": "decide whether to buy the iPhone 12Pro",
+            "uid": "q-REMsxl2"
           }
         ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1602870643152,
+        "create-time": 1602872966708,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602870658247,
-        "string": "{{[[TODO]]}} decide whether to buy the iPhone 12Pro",
-        "uid": "q-REMsxl2"
+        "edit-time": 1602872966708,
+        "string": "{{[[TODO]]}} Go fix screen cracks at 5pm",
+        "uid": "0Q1cTXTcC"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602870685889,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602870718160,
-        "string": "{{[[TODO]]}} Whittle twitter, as well as news, and feedly, down via the app Focus on chrome",
+        "edit-time": 1602872977368,
+        "string": "{{[[DONE]]}} Whittle twitter, as well as news, and feedly, down via the app Focus on chrome",
         "uid": "Qx3YGEN0T"
       },
       {

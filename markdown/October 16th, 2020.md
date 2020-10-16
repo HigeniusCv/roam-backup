@@ -10,9 +10,10 @@
 - As for me, I'm doing more work but still not earning, just burning
 - {{[[TODO]]}} Get experiment run
 - {{[[TODO]]}} send real emails to some contacts
-- {{[[TODO]]}} decide whether to buy the iPhone 12Pro
-    - it seems manic to spend 1k, but it also seems prudent to anticipate supply line disruptions
-- {{[[TODO]]}} Whittle twitter, as well as news, and feedly, down via the app Focus on chrome
+- {{[[TODO]]}} Go fix screen cracks at 5pm
+    - decide whether to buy the iPhone 12Pro
+        - it seems manic to spend 1k, but it also seems prudent to anticipate supply line disruptions
+- {{[[DONE]]}} Whittle twitter, as well as news, and feedly, down via the app Focus on chrome
 - {{[[TODO]]}} Spec an exercise routine that's 5mins 
     - 36 elbow against rib pushups today
     - pullups

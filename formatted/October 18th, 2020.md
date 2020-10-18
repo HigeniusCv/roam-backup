@@ -1,3 +1,3 @@
-- Wrote a lot about Ricardo in my shabbat [[journal]]
+- Wrote a lot about Ricardo in my shabbat [journal](<journal.md>)
     - I hit him hard with a calm, but passionate, call to WAKE UP. It's not a time to indulge in denial.
     - It's a huge venture 

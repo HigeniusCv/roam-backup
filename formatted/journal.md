@@ -18,6 +18,9 @@
 ## [October 18th, 2020](<October 18th, 2020.md>)
 - Wrote a lot about Ricardo in my shabbat [journal](<journal.md>)
 
+## [October 19th, 2020](<October 19th, 2020.md>)
+- [journal](<journal.md>)
+
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - [x] [journal](<journal.md>)
 

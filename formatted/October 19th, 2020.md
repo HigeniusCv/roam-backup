@@ -1,5 +1,18 @@
+- [journal](<journal.md>) Slept well enough, and woke late enough that I had to start getting the boys to wake for their 8:45 advisory on Monday
+    - Distracted a lot with Ricardo, and the urge to micromanage his steps toward rebalancing himself. But that's my hubris, to try to spare him the life lessons he needs to learn. After he left Saturday (around 1;30 on the BART), I was already second-guessing myself about how harshly I'd communicated my impatience with him. It mustn't have helped to repeatedly say, You're not welcome at our home. You've got a lot of growing up to do, and I don't want to delay that.
+    - Personally, I spent several hours yesterday catching the wave of the Coursera R class. I'd made a personal contract to burn a $100 on any day that I skip doing a module, or if I complete a week's assignment late. The lab really does get into R studio, with an approach that's much more aligned with my learning style. Full scripted commands show how to summarise and plot data, filter, mutate, and pipe. The course I'd taken with Ryan Ritter was much more atomic, logically progressing from the syntactic level up, so you know I'm going to complain. I enjoyed the time I spent yesterday making headway.
+    - Today I have two economically profitable conversations. At 10, I'm talking to Gusto, a payroll site. At 11am, my outreach to 17 people on Friday bore its first fruit, as Penelope Finnie was interested in talking about her marketing the Fend, a spritzer that salinizes the air around your face. 
+        - Since Fend's connection to me came through Adam Hanft, I should consider looking for contacts across all his board roles, and reach out individually to others, shaking the tree for work.
+    - The opportunities to collaborate with Fetherstonhaugh are still sandy. No need to go Freudian on that. He has started another designy thing, a la his earlier Wrecking Crew, and I only learned about it once he'd launched. So, there's not enough trust there to rely on that for much.
+    - I'm eating a LOT. Steak and ice cream, as I'd told Michael, are my two indulgences. On Death Row, I'd ask for the ice cream first of course. I observe myself choosing to eat as an entertainment and anxiety release. I know i'm doing that, and the direction that tends is toward blimpification. I still weigh myself every morning.  
+        - It all goes back to Shapa. Dan Ariely's startup for concealing the niggling details of a daily weigh-in. As impressed as I was with its behavioral design, the day I started exploring its nudge architecture was the day I fell into bloat. Info is still inert. 
+    - I continue to get a  lot of value from being coached by Lynette. At $150 a half hour, it's as expensive as therapy, but so much more beneficial. As is my custom, the 2d day of practicing something, I start imagining ways to propagandize the world and perhaps hire a coach for my lost little brother (or my nephew David). 
+    - 
 
 # Backlinks
 ## [October 16th, 2020](<October 16th, 2020.md>)
 - [ ] Finish the beta version from start to finish by Monday[October 19th, 2020](<October 19th, 2020.md>)
+
+## [TODO](<TODO.md>)
+- Write letter to 5 more LinkedIns frog[October 19th, 2020](<October 19th, 2020.md>)
 

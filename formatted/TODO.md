@@ -1,27 +1,27 @@
 - [x] Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- [x] Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
+- [ ] Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule one morning, afternoon, and night focusmate
     - Buffer for run-over
 - [ ] Eat a frog - worst first 
     - [x] Run through a practice talk for instacart Weds at 2pm [October 14th, 2020](<October 14th, 2020.md>) frog
-    - Write letter to 5 LinkedIn on Flow benchmark  frog[October 15th, 2020](<October 15th, 2020.md>)
+    - Write letter to 5 more LinkedIns frog[October 19th, 2020](<October 19th, 2020.md>)
     - publish a tweet storm frog
-- [x] Pull together a list of 15 people - contact 3 each day
+- [ ] R coursera for 20+ mins
+- [ ] Draw for 5 mins 
+    - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
 - [ ] Update my website 
     - Refine Portfolio to include more BEcon examples, and p
     - publish to G-docs 
     - link that plus articles on my website by Tues [October 14th, 2020](<October 14th, 2020.md>)
-- [ ] R coursera for 20+ mins
 - [ ] Create experimental design for an assessment of flow for chat with site support [October 15th, 2020](<October 15th, 2020.md>) frog
-    - [x] Reactivate my MTurk
     - [ ] Use guidedtrack to capture the data
     - [ ] Sandbox a small studies within Mturk account
     - [ ] Run ten hits with a simple flow metric
+    - [x] Reactivate my MTurk
     - Write letter to 5 LinkedIn on Flow benchmark  frog
+- [x] Pull together a list of 15 people - contact 3 each day
 - [x] Ride bike to top of Cedar before starting work
 - [x] Ricardo zoom at 11;30am
-- [ ] Draw for 5 mins 
-    - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
 - [x] No news or twitter until after dinner
 - [ ] Tiny Habits when (via email) 
 - [ ] Prioritize from the list of topics next top 3 ideas to write about
@@ -83,6 +83,8 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

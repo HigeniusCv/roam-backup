@@ -1,27 +1,27 @@
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- {{[[DONE]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
+- {{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule one morning, afternoon, and night focusmate
     - Buffer for run-over
 - {{[[TODO]]}} Eat a frog - worst first 
     - {{[[DONE]]}} Run through a practice talk for instacart Weds at 2pm [[October 14th, 2020]] frog
-    - Write letter to 5 LinkedIn on Flow benchmark  frog[[October 15th, 2020]]
+    - Write letter to 5 more LinkedIns frog[[October 19th, 2020]]
     - publish a tweet storm frog
-- {{[[DONE]]}} Pull together a list of 15 people - contact 3 each day
+- {{[[TODO]]}} R coursera for 20+ mins
+- {{[[TODO]]}} Draw for 5 mins 
+    - [[October 13th, 2020]] did the circles with triangle
 - {{[[TODO]]}} Update my website 
     - Refine Portfolio to include more BEcon examples, and p
     - publish to G-docs 
     - link that plus articles on my website by Tues [[October 14th, 2020]]
-- {{[[TODO]]}} R coursera for 20+ mins
 - {{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support [[October 15th, 2020]] frog
-    - {{[[DONE]]}} Reactivate my MTurk
     - {{[[TODO]]}} Use guidedtrack to capture the data
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
+    - {{[[DONE]]}} Reactivate my MTurk
     - Write letter to 5 LinkedIn on Flow benchmark  frog
+- {{[[DONE]]}} Pull together a list of 15 people - contact 3 each day
 - {{[[DONE]]}} Ride bike to top of Cedar before starting work
 - {{[[DONE]]}} Ricardo zoom at 11;30am
-- {{[[TODO]]}} Draw for 5 mins 
-    - [[October 13th, 2020]] did the circles with triangle
 - {{[[DONE]]}} No news or twitter until after dinner
 - {{[[TODO]]}} Tiny Habits when (via email) 
 - {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about

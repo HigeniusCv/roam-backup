@@ -23,7 +23,7 @@
 - {{[[DONE]]}} Ride bike to top of Cedar before starting work
 - {{[[DONE]]}} Ricardo zoom at 11;30am
 - {{[[DONE]]}} No news or twitter until after dinner
-- {{[[TODO]]}} Tiny Habits when (via email) 
+- {{[[DONE]]}} Tiny Habits when (via email) 
 - {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about
 - {{[[TODO]]}} Write for 2 hours per day
     - [[October 13th, 2020]] equals publish to LinkedIn and fix Medium

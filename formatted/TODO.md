@@ -23,7 +23,7 @@
 - [x] Ride bike to top of Cedar before starting work
 - [x] Ricardo zoom at 11;30am
 - [x] No news or twitter until after dinner
-- [ ] Tiny Habits when (via email) 
+- [x] Tiny Habits when (via email) 
 - [ ] Prioritize from the list of topics next top 3 ideas to write about
 - [ ] Write for 2 hours per day
     - [October 13th, 2020](<October 13th, 2020.md>) equals publish to LinkedIn and fix Medium
@@ -83,8 +83,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

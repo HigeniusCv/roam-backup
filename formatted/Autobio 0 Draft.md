@@ -18,7 +18,29 @@
     - My most recurrent self-insult was to label myself a "high IQ moron." Or that I was a verbose example of Williams Syndrome. Now that GPT-3's spieling paragraphs informed by its billion-parameter model, that has become the go-to deprecation for my trains of thought.
 - I'm afraid that even this post, dwelling on the Remarkable Minds I've Met and Pestered, sustains the illusion that dropping all these names will somehow earn me some distinction. Certainly I collected all these encounters motivated in part by the ambition that others' particular genius might infect me. Why record all these anecdotes of big-brained sightings? 
 - Fellini coined the term paparazzo to suggest "a buzzing insect, hovering, darting, stinging." On many campuses, at least the ones I've frequented, a marginally sane person shows up so frequently at talks that they're as recognizable as Jimmy Kimmel's "Guillermo." Until I matriculated in '92, I was __that__ guy. (At Stanford in the '90s, the most prominent was Joe Euclid https://www.quora.com/Who-was-Joe-Euclid-and-where-is-he-now) 
-- 
+- Starting up - the difficulty in Now Habit was first exposed when I became a new father, and Neil Fiore fired me after about $1000 of consultation. Even though that foundered, the $1K formula I bought from him has abided me for 13 years. When I feel humiliated in front of others, I turn about and say "SO?"
+- Learning from Albert Ellis could get much more elaboration
+    - Emphasizing rational inspection of one's distress, he was spot-on about Low Frustration Tolerance as a huge hindrance
+        - His generative capacity to produce slogans and mottos greatly cut through the cloud of self-war:
+            - Musturbate! Shoulding on yourself! Fucked up, fallible individuals. 
+            - I am not a worm, even when I behave very wormily
+        - USA - Unconditional Self acceptance. That deserves deep exploration, since it's tempting to hate one's self in a high minded, ostensibly more objective vantage.
+        - Given how difficult the acceptance of self can be, it may be shockingly easier to start at UA - universal acceptance. "I accept the Universe!" (Margaret Fuller)  I doubt the most common response to hearing that echoes Carlyle's, "Gad, she'd better!" 
+        - Acceptance may sound like there was a choice in the matter, as if, were something truly to be found wanting, it could be sent back to the kitchen for another try. Universes are scant around here, so it's more plausible that we see ourselves as forced to like it or lump it.
+        - Why can we not see that our Self, in so far as it is consciousness of the World, is, for that person, the Universe? There's no view from Nowhere from which we can stand outside to view ourselves. There's no set of values, no moral point of view, that we somehow follow but also find beyond our own subjective perspective.
+        - Acceptance of the Universe/Self doesn't imply that we cannot, in the very next instant, work on changing it. If there's some work still to do, refusing to accept the current state is likely to be more of an obstacle than motivator. 
+        - If we don't Observe, there's no chance to Orient, i.e., choose our perspective on all that is the case.
+        - When our internal voice shouts, This must not stand!, we had better be fully informed about what is actually happening. Even more powerful is to patiently, even if urgently, inquire as to why the situation or self is in this present position. 
+        - Given our vulnerability to confirmation bias, we soldier over ourselves, willfully blind to counterbalancing facts. We may use our strength to tear ourselves down, since that self-excoriation may have been necessary to prevent being excluded and ostracized in evolutionary antecedent eras. 
+            - Today, we face considerably less fraught danger. In our economic abundance, unemployment and homelessness are usually the harshest consequences that ignominy can heap upon us. Even incarceration on death row doesn't entail the same degree of risk as our hominid ancestors faced in their daily struggle to be accepted by their tribe.
+            - There's a movie scene that mirrors the image of a person hating on themselves more vigorously than the crowd could. Mel Brooks' Blazing Saddles shows the actor Clevon Little about to be lynched when suddenly, he puts a gun to his own head, and ventriloquizes that if anyone makes a false move, this cowboy's going to get it. (The scene is marred by the use of the N word, but at the time, it was still possible to invoke that term as a way of remarking on others' racism)
+            - Perhaps a more palatable metaphor comes from Munchausen:
+            - The Baron and his horse fall into a swamp, and in order to save himself, he pulls himself out of the water by tugging at the hair on his own head. 
+        - Since we can't get out of our own heads, it's necessary that we start from where we actually are. If we have just behaved like a Nazi, in every capacity as horrible as Stalin or Mao, the move to be self-accepting is not equivalent to self-excusing. 
+        - Instead, that acceptance springs from realism: Here I am, and this instant is when my choices and actions can still possibly matter to improving the situation. No hate or guilt will retract the past.
+        - To imitate Albert Ellis's frequent refrain, I'd like to have a better autobio. It'd be NICE if I were to learn that I'm not actually the cause of mass suffering. But that isn't NECESSARY. 
+        - I've got to start from this point, no matter how miserably I've screwed up so far.
+
 
 # Backlinks
 ## [October 7th, 2020](<October 7th, 2020.md>)

@@ -1,0 +1,27 @@
+- [[journal]]{{[[POMO]]: 15}}
+- Roger Pritchard privately nominated me to take over the mayor of McGee role, and that put me in mind to
+    - {{[[DONE]]}} Send out Halloween parade note to neighbors. Mention that I can keep a handwashing station in front of our house, include the chutes and slides tweet
+- Networking is yielding greater than null effect. I belatedly realize how my acquaintances and colleagues from ETRADE and Uber are stronger than Intuitives, although there's some mojo there. (And embarrassment)
+- I am writing a bit, R-ing more than a tad. 
+- Spoke with Ricardo last night, no, on Monday. He sent me photos of baked bread, and it just annoyed me that he's jerking off with little craft projects rather than responding to the deeper need to OWN his life. I don't bring up R or Lambda, but they're intertwined. If he can't R in parallel with me, he's not at all a good candidate for an 18 month slog.
+- Mandy and I checked in last night. She hit me on being angry, rather than accepting, Ricardo. Mom always let us live with her, but she also insisted we work and build up a picture of what's next. I sent Ricardo some resources for getting his own coach, but the Delmore delta there is grim.
+- David & I also chatted, and he's not mad any longer about my appearing ungrateful for the work he's done arranging to let me borrow $50k against my 401k. He's cooler, and realized that it was unknown how the fees got collected on that stuff
+    - I asked him if his son needed a coach, perhaps to accelerate his transition into David's business.
+    - He did wisely point out that he himself worries that it would change his role from loving father to irked boss, and that the shift is hardly worth hastening.
+    - I complained a bit about how my kids interact with DCiii less than I saw Dad.
+- Dad's widow, Mag, reached out ayer to say she's shipped some tokens from the Dead Father. The two things I'd welcome are: access to digitize slides showing the misery we felt while hanging out with him, impatient and bored as he set up the photograph of our sufferance. Oh, and stacks of Benjamins would not be rejected. Mag will likely live at least as long as her centenarian parents, so there's bupkus coming down to my kids from the Grandiddy.
+    - Apparently Dad's high school ring from New Mexico Military Academy is soon to be mine. I don't remember seeing him wear it, and surely it was superseded by his West Pointy badge.
+    - Forgiving him for his 77 years of harmful and hurting heart is not a priority. 
+    - I do want to tip the hat to ack the debt of my inheriting his fondness for gawking at primates. Jack, the lonely imprisoned Phoenix gorilla was our regular Sunday drag. Zoo zoo always. Never a hike, never a trip to outside reservations, never an attempt to hit an amusing movie or take a ride at a park. Broken and nearly unbearable bear.
+- At dinner last night, Y pushed against my dudgeon, remarking that my tone is heavy handed and a real buzz kill. It's the unconditioned deal, where homework must be complete before the PS4 gets engaged. Haha, they know that's not true. Worse, Beckett is obstinate if his autonomy is threatened, and he'd rather burn the whole deal down than subject himself to external domination.
+    - {{[[TODO]]}} Talk less, smile more
+    - 09:20 just engaged in 2d day of friction with Mir. Ayer, the broom was secreted to the closet, and ticked me to avoid sweeping the crumby kitchen floor.
+    - Today, I asked M to switch method of adding cocoa to cup, since cocoa first clogs the corners.  I had dropped an f-bomb when she called me p-a. My initial repair, not directly f2f, was to sing Burr's "Talk less, Smile More..."
+    - Fortunately, before she left, I admitted that my tone was aggressive, I don't know about passive aggressive. No matter how much I want something, I don't want to be hurtful in response. She said "Let's try to do better tomorrow."
+- {{[[TODO]]}} Frog: Collect feedback and draft a second round on apologies. I've harshed on the illusion that a company has a human face. Neither of the comments assimilates my grim assessment, exemplifying my claim that people seek a way out rather than a way into that constraint.
+- {{[[DONE]]}} Draft 15 minutes of thoughts on Fend. Perhaps even look for CaCl to start spritzing at home. 
+- {{[[TODO]]}} Search for personal coach. Contact Bar's Helen, as well as Ace. If those aren't clinched, the startup Caliber offers a trimmed down digitized coaching experience, 3 months for $600. 
+    - I contacted Jared Cluff, after my exploratory interview with Jason Fauci, to connect my interest to the possibility of doing behavioral research for them. I guess if they can't trade my 3 months for a day of consulting, it's not the right time.  The Fauci is a 'distant relative' of beloved Dr Fauci. When I googled him, his first hit is a record of going to jail for financial pump-and-dump shenanigans in the early noughties.
+- {{[[TODO]]}} Finish first R lab
+- {{[[TODO]]}} Contact multiple people in the Yak for 'how I billed this.' Start with the New Plagued Home deck yaks, to inquire if their visibility there was motivated by getting gigs, and if that's generated calls or other leads.
+- {{[[TODO]]}} 

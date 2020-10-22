@@ -1,0 +1,1 @@
+- Fear-based appeals are worse than ritualizing control over one's environment. Aromatherapy is a natural extension to make it more esthetic. Breathing exercises, integration with Apple watch. Ritual construction is another on-ramp.

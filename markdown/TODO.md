@@ -1,9 +1,7 @@
-- {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - {{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
-    - schedule one morning, afternoon, and night focusmate
+    - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
 - {{[[TODO]]}} Eat a frog - worst first 
-    - {{[[DONE]]}} Run through a practice talk for instacart Weds at 2pm [[October 14th, 2020]] frog
     - Write letter to 5 more LinkedIns frog[[October 19th, 2020]]
     - publish a tweet storm frog
 - {{[[TODO]]}} R coursera for 20+ mins
@@ -13,6 +11,7 @@
     - Refine Portfolio to include more BEcon examples, and p
     - publish to G-docs 
     - link that plus articles on my website by Tues [[October 14th, 2020]]
+- {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "I billed this"
 - {{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support [[October 15th, 2020]] frog
     - {{[[TODO]]}} Use guidedtrack to capture the data
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
@@ -24,11 +23,11 @@
 - {{[[DONE]]}} Ricardo zoom at 11;30am
 - {{[[DONE]]}} No news or twitter until after dinner
 - {{[[DONE]]}} Tiny Habits when (via email) 
+- {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about
 - {{[[TODO]]}} Write for 2 hours per day
     - [[October 13th, 2020]] equals publish to LinkedIn and fix Medium
     - [[October 14th, 2020]] equals describe method for experiment with Instacart
     - [[October 15th, 2020]] equals tweet storm
 - {{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
-- {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "I billed this"
 - Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat 

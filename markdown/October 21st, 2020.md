@@ -24,4 +24,4 @@
     - I contacted Jared Cluff, after my exploratory interview with Jason Fauci, to connect my interest to the possibility of doing behavioral research for them. I guess if they can't trade my 3 months for a day of consulting, it's not the right time.  The Fauci is a 'distant relative' of beloved Dr Fauci. When I googled him, his first hit is a record of going to jail for financial pump-and-dump shenanigans in the early noughties.
 - {{[[TODO]]}} Finish first R lab
 - {{[[TODO]]}} Contact multiple people in the Yak for 'how I billed this.' Start with the New Plagued Home deck yaks, to inquire if their visibility there was motivated by getting gigs, and if that's generated calls or other leads.
-- {{[[TODO]]}} 
+- {{[[TODO]]}} Check in with Jonathan around noon

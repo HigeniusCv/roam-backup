@@ -7495,19 +7495,11 @@
         "children": [
           {
             "create-email": "psas@motivationengineers.com",
-            "create-time": 1602779626871,
+            "create-time": 1603387631251,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1603124666647,
-            "string": "Write letter to 5 more LinkedIns ((frog))[[October 19th, 2020]]",
-            "uid": "SlYJmF_QC"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602779628016,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602779629605,
-            "string": "publish a tweet storm ((frog))",
-            "uid": "-810b40VM"
+            "edit-time": 1603387671617,
+            "string": "{{[[TODO]]}} email deck to FEND'y",
+            "uid": "NkUbg0J6C"
           }
         ],
         "create-email": "psas@motivationengineers.com",
@@ -7562,10 +7554,26 @@
             "uid": "vUkskArwr"
           },
           {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603387658056,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602779697183,
-            "string": "link that plus articles on my website by Tues [[October 14th, 2020]]",
+            "edit-time": 1603387658056,
+            "string": "link that plus articles on my website",
+            "uid": "Mrt-fwhWm"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603387665188,
+            "string": "publish a tweet storm on article",
             "uid": "Q5t513upg"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603387674393,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603387675622,
+            "string": "Write letter to 5 more LinkedIns ",
+            "uid": "S-IBbcqZ9"
           }
         ],
         "create-email": "psas@motivationengineers.com",
@@ -7576,10 +7584,56 @@
         "uid": "oyHuiaiO6"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603390151555,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603390166561,
+            "string": "Joined the last 20 mins of the marketing call, described the germ",
+            "uid": "_U8KMynvb"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1603390211010,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1603390312821,
+                    "string": "What particular area do you consider yourself to be tops at? (BCG's term is \"star\", high growth opportunity)",
+                    "uid": "5XPetDjCA"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1603390194548,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1603390211016,
+                "string": "Tweet length description of your niche & expertise.",
+                "uid": "1CKLknms7"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603390166556,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603390194552,
+            "string": "\"How I billed this\" structure - 500 words max",
+            "uid": "QpSEt78rt"
+          }
+        ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602779789840,
-        "string": "{{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. \"I billed this\"",
+        "edit-time": 1603390176019,
+        "string": "{{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. \"How I billed this\"",
         "uid": "xmvTQdC5o"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603390143689,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603390143689,
+        "string": "",
+        "uid": "PS7ut-FnF"
       },
       {
         "children": [
@@ -7614,12 +7668,48 @@
             "edit-time": 1602779910451,
             "string": "Write letter to 5 LinkedIn on Flow benchmark  ((frog))",
             "uid": "kEqoIr8Ay"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602607687837,
+            "string": "{{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about",
+            "uid": "4tEbJOK9L"
           }
         ],
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602784288766,
         "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support [[October 15th, 2020]] ((frog))",
         "uid": "aMR7YRdmI"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602607753728,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602691452947,
+            "string": "[[October 13th, 2020]] equals publish to LinkedIn and fix Medium",
+            "uid": "FZY-zc0nU"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1602691454657,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602691492718,
+            "string": "[[October 14th, 2020]] equals describe method for experiment with Instacart",
+            "uid": "iXwtqRQo5"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1602691443043,
+            "string": "[[October 15th, 2020]] equals tweet storm",
+            "uid": "CptbNUvNq"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603387703262,
+        "string": "{{[[TODO]]}} Write for an hour per day",
+        "uid": "RUKuRG_xu"
       },
       {
         "edit-email": "psas@motivationengineers.com",
@@ -7631,8 +7721,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602609795527,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602699923962,
-        "string": "{{[[DONE]]}} Ride bike to top of Cedar before starting work",
+        "edit-time": 1603387684811,
+        "string": "{{[[TODO]]}} Ride bike to top of Cedar before starting work",
         "uid": "_U25aldSR"
       },
       {
@@ -7667,42 +7757,6 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602607687837,
-        "string": "{{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about",
-        "uid": "4tEbJOK9L"
-      },
-      {
-        "children": [
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602607753728,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602691452947,
-            "string": "[[October 13th, 2020]] equals publish to LinkedIn and fix Medium",
-            "uid": "FZY-zc0nU"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1602691454657,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602691492718,
-            "string": "[[October 14th, 2020]] equals describe method for experiment with Instacart",
-            "uid": "iXwtqRQo5"
-          },
-          {
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1602691443043,
-            "string": "[[October 15th, 2020]] equals tweet storm",
-            "uid": "CptbNUvNq"
-          }
-        ],
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602574150885,
-        "string": "{{[[TODO]]}} Write for 2 hours per day",
-        "uid": "RUKuRG_xu"
-      },
-      {
-        "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602283130446,
         "string": "{{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize",
         "uid": "FwPaADcgm"
@@ -7711,8 +7765,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602779811814,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602779977398,
-        "string": "Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat ",
+        "edit-time": 1603387718109,
+        "string": "{{[[DONE]]}} Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat ",
         "uid": "avJMFC_33"
       }
     ],
@@ -14325,8 +14379,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1603296598968,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603296605029,
-        "string": "{{[[TODO]]}} ",
+        "edit-time": 1603387743548,
+        "string": "{{[[TODO]]}} Check in with Jonathan around noon",
         "uid": "iBYO3t3zC"
       }
     ],

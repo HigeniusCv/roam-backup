@@ -2,35 +2,41 @@
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
 - [ ] Eat a frog - worst first 
-    - Write letter to 5 more LinkedIns frog[October 19th, 2020](<October 19th, 2020.md>)
-    - publish a tweet storm frog
+    - [ ] email deck to FEND'y
 - [ ] R coursera for 20+ mins
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
 - [ ] Update my website 
     - Refine Portfolio to include more BEcon examples, and p
     - publish to G-docs 
-    - link that plus articles on my website by Tues [October 14th, 2020](<October 14th, 2020.md>)
-- [ ] Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "I billed this"
+    - link that plus articles on my website
+    - publish a tweet storm on article
+    - Write letter to 5 more LinkedIns 
+- [ ] Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "How I billed this"
+    - Joined the last 20 mins of the marketing call, described the germ
+    - "How I billed this" structure - 500 words max
+        - Tweet length description of your niche & expertise.
+            - What particular area do you consider yourself to be tops at? (BCG's term is "star", high growth opportunity)
+- 
 - [ ] Create experimental design for an assessment of flow for chat with site support [October 15th, 2020](<October 15th, 2020.md>) frog
     - [ ] Use guidedtrack to capture the data
     - [ ] Sandbox a small studies within Mturk account
     - [ ] Run ten hits with a simple flow metric
     - [x] Reactivate my MTurk
     - Write letter to 5 LinkedIn on Flow benchmark  frog
+    - [ ] Prioritize from the list of topics next top 3 ideas to write about
+- [ ] Write for an hour per day
+    - [October 13th, 2020](<October 13th, 2020.md>) equals publish to LinkedIn and fix Medium
+    - [October 14th, 2020](<October 14th, 2020.md>) equals describe method for experiment with Instacart
+    - [October 15th, 2020](<October 15th, 2020.md>) equals tweet storm
 - [x] Pull together a list of 15 people - contact 3 each day
-- [x] Ride bike to top of Cedar before starting work
+- [ ] Ride bike to top of Cedar before starting work
 - [x] Ricardo zoom at 11;30am
 - [x] No news or twitter until after dinner
 - [x] Tiny Habits when (via email) 
 - [x] Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- [ ] Prioritize from the list of topics next top 3 ideas to write about
-- [ ] Write for 2 hours per day
-    - [October 13th, 2020](<October 13th, 2020.md>) equals publish to LinkedIn and fix Medium
-    - [October 14th, 2020](<October 14th, 2020.md>) equals describe method for experiment with Instacart
-    - [October 15th, 2020](<October 15th, 2020.md>) equals tweet storm
 - [ ] Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
-- Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat 
+- [x] Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat 
 
 # Backlinks
 ## [Apologies](<Apologies.md>)
@@ -98,6 +104,10 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

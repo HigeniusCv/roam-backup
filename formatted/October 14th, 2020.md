@@ -32,7 +32,5 @@
 
 # Backlinks
 ## [TODO](<TODO.md>)
-- link that plus articles on my website by Tues [October 14th, 2020](<October 14th, 2020.md>)
-
 - [October 14th, 2020](<October 14th, 2020.md>)
 

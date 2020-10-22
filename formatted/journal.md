@@ -27,6 +27,9 @@
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - [journal](<journal.md>){
 
+## [October 22nd, 2020](<October 22nd, 2020.md>)
+- [journal](<journal.md>)
+
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - [x] [journal](<journal.md>)
 

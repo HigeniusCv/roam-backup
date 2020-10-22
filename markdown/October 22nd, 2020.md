@@ -1,0 +1,8 @@
+- [[journal]] I'm getting work done, but it wobbles against the habituation that makes my ambition creep up. Even so, I don't feel ineffective these days
+    - Still cathect much of my past impatience onto Ricardo. His prognosis is grim, and my compulsion is to yell that at him. But of course, he's already doing that inside.
+    - Perhaps I can ack his stumbling toward happiness, and as a single first step, exhort him to build up an exercise regime.
+- I stayed up until midnight trying to correctly use mutate in R. The Duke coursera is approaching things as I'd thought Ryan Ritter ought to have, but now I'm hitting a point where the exemplar scripts don't click into the exact syntax I need to learn.
+- Typing this right now, my keyboard is crumby, the space bar is stiff, and the screen has a crack running across the entire upper ridge. It's nowhere near as damaged as the Berger's mac, which had a screen so broke after their year of globe-hopping that the top 1/3 was un-readable.
+- In a manic panic, I'd put in a pre-request to purchase the new iPhone 12 Pro, since I've harbored doubts as to how long supply lines to China will flow smoothly. Admittedly, I'm not wealthy enough to buy the top phone just yet. Now, it seems more likely that I should buy a Used mac, and then get this one repaired. -- 09:10 Nope - that'd be at least $700 for a spare.
+- Spent multiple hours yesterday storming my hard disk and brain for ideas to help Pennie Finnie's FEND. 
+- The kids are awake. Sometimes I call Beckett "B", but that doesn't land with anything but a thud. Zipf's law must sometimes be broken. 

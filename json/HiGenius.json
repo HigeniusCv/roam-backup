@@ -7599,11 +7599,87 @@
                 "children": [
                   {
                     "create-email": "psas@motivationengineers.com",
-                    "create-time": 1603390211010,
+                    "create-time": 1603391043407,
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1603390312821,
-                    "string": "What particular area do you consider yourself to be tops at? (BCG's term is \"star\", high growth opportunity)",
-                    "uid": "5XPetDjCA"
+                    "edit-time": 1603391068913,
+                    "string": "What channels do you use to get new clients?",
+                    "uid": "NTszWt6iA"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1603391202550,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1603391210416,
+                        "string": "How you first contacted the client?",
+                        "uid": "LADivTLE0"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1603391206618,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1603391214016,
+                        "string": "What was your pitch once you were talking to them?",
+                        "uid": "exnDRZBFn"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1603391248247,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1603391299918,
+                        "string": "Did the contract lead to recurring relationship, and if so, what did you do to cement that?",
+                        "uid": "LpAdsowQ7"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1603391068908,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1603391217137,
+                        "string": "Anything creative you did to monetize your expertise?",
+                        "uid": "8yDq9omAI"
+                      },
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1603390211010,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1603391445740,
+                        "string": "What particular area(s) do you consider yourself to be tops at",
+                        "uid": "5XPetDjCA"
+                      }
+                    ],
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1603391197465,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1603391197465,
+                    "string": "Case study: Describe a win",
+                    "uid": "q34p4nOR9"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "psas@motivationengineers.com",
+                        "create-time": 1603391306921,
+                        "edit-email": "psas@motivationengineers.com",
+                        "edit-time": 1603391336741,
+                        "string": "Can you point to any work that leverages your Yak C?",
+                        "uid": "5t-fwNG9i"
+                      }
+                    ],
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1603391137314,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1603391306926,
+                    "string": "How has Yak C fit into your ability to bill for consulting?",
+                    "uid": "MmUKzD2TT"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1603391336825,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1603391369399,
+                    "string": "What is the one thing you haven't done enough of to market your consultancy?",
+                    "uid": "Am7tx95Kx"
                   }
                 ],
                 "create-email": "psas@motivationengineers.com",

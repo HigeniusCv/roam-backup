@@ -16,7 +16,16 @@
     - Joined the last 20 mins of the marketing call, described the germ
     - "How I billed this" structure - 500 words max
         - Tweet length description of your niche & expertise.
-            - What particular area do you consider yourself to be tops at? (BCG's term is "star", high growth opportunity)
+            - What channels do you use to get new clients?
+            - Case study: Describe a win
+                - How you first contacted the client?
+                - What was your pitch once you were talking to them?
+                - Did the contract lead to recurring relationship, and if so, what did you do to cement that?
+                - Anything creative you did to monetize your expertise?
+                - What particular area(s) do you consider yourself to be tops at
+            - How has Yak C fit into your ability to bill for consulting?
+                - Can you point to any work that leverages your Yak C?
+            - What is the one thing you haven't done enough of to market your consultancy?
 - 
 - [ ] Create experimental design for an assessment of flow for chat with site support [October 15th, 2020](<October 15th, 2020.md>) frog
     - [ ] Use guidedtrack to capture the data

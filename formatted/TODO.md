@@ -2,7 +2,7 @@
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
 - [ ] Eat a frog - worst first 
-    - [ ] email deck to FEND'y
+    - [x] email deck to FEND'y
 - [ ] R coursera for 20+ mins
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
@@ -113,8 +113,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

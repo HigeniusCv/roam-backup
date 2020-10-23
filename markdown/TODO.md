@@ -2,7 +2,7 @@
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
 - {{[[TODO]]}} Eat a frog - worst first 
-    - {{[[TODO]]}} email deck to FEND'y
+    - {{[[DONE]]}} email deck to FEND'y
 - {{[[TODO]]}} R coursera for 20+ mins
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle

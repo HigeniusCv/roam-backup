@@ -1,3 +1,43 @@
+- **Goals meeting with Lynette Bye**
+    -  Prioritize work that will get me clients or full-time job
+- How did your action items from our last call go?
+- __If you didn’t complete some, why not? __
+    - Top priority worked out - 2 strong leads:
+        - Gusto.com for Lead Research
+        - FEND aerosol client
+    - R, as A1, did get sufficient and even more attention. The amount that looks necessary to learn the programming is ~10 hours a week
+    - Signed onto too many things - Prioritization did enable me to push off lower priorities
+- What do you want to get out of this call?
+- __What would you like to talk about today? What would most increase your productivity this week?__
+    - Some more structure around
+        - Work hours
+        - Rest hours - exercise & drawing
+- (Optional) Are there any important takeaways from the last call that you want to remember?
+- __Or habits that worked particularly well?__
+    - The not-to-do, of no news or RSS/twitter, is a very powerful practice. Thurs morning demo’d this, when I frittered away 60+ mins in the morning as a cheat “before work”
+        - StayFocusd Chrome extension potent
+        - FocusMate is fraying - Booking more than the day of the sessions sets them too far ahead, and they can slip off the radar
+- ____________________________________________________________________________
+- **10/16**
+- **Action items**
+- __Plans for what you will do after the call. __
+    - Stickk to R - Burn a Benjamin if I fail to:
+        - Do at least one module on any day (except Sat)
+        - Complete the week’s assignments by the due date
+            - On the 2d violation, the $100 must be donated to Trump
+    - Continue job / client search
+        - Send out 3 emails a day to network
+            - Explore adding more people to my network during this
+        - Apply to 5 job postings a week, or substitute more emails to sum to 20
+    - Write on topic for 1 hour (~350 words) a day - Next week’s focus is Behavioral Design
+        - Publish before sundown 10/23
+    - Update website with portfolio link and recent publications
+        - Spend 3 hours (1 on Tues, 2 on Thurs)
+    - Continue building experiment designed in GuidedTrack
+        - Finish the beta version from start to finish by Monday
+        - Push 2 HITs on Tues
+        - Aim to A/B 10 per cell by Friday
+    - Dynamically update my projects to insure that any underestimation impacts the lower prioritized items. This list is in priority rank order.
 
 # Backlinks
 ## [October 16th, 2020](<October 16th, 2020.md>)

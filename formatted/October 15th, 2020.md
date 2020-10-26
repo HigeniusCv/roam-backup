@@ -15,7 +15,5 @@
 
 # Backlinks
 ## [TODO](<TODO.md>)
-- [ ] Create experimental design for an assessment of flow for chat with site support [October 15th, 2020](<October 15th, 2020.md>)
-
 - [October 15th, 2020](<October 15th, 2020.md>)
 

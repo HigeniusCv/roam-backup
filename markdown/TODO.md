@@ -3,6 +3,7 @@
     - Buffer for run-over
 - {{[[TODO]]}} Eat a frog - worst first 
     - {{[[DONE]]}} email deck to FEND'y
+    - Gusto prep [[October 26th, 2020]]
 - {{[[TODO]]}} R coursera for 20+ mins
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle
@@ -12,7 +13,7 @@
     - link that plus articles on my website
     - publish a tweet storm on article
     - Write letter to 5 more LinkedIns 
-- {{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "How I billed this"
+- {{[[DONE]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "How I billed this"
     - Joined the last 20 mins of the marketing call, described the germ
     - "How I billed this" structure - 500 words max
         - Tweet length description of your niche & expertise.
@@ -26,8 +27,8 @@
             - How has Yak C fit into your ability to bill for consulting?
                 - Can you point to any work that leverages your Yak C?
             - What is the one thing you haven't done enough of to market your consultancy?
-- 
-- {{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support [[October 15th, 2020]] frog
+- {{[[TODO]]}} Ride bike to top of Cedar before starting work
+- {{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support  
     - {{[[TODO]]}} Use guidedtrack to capture the data
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
@@ -38,11 +39,11 @@
     - [[October 13th, 2020]] equals publish to LinkedIn and fix Medium
     - [[October 14th, 2020]] equals describe method for experiment with Instacart
     - [[October 15th, 2020]] equals tweet storm
+- {{[[TODO]]}} Go thru Zide door re-opened
 - {{[[DONE]]}} Pull together a list of 15 people - contact 3 each day
-- {{[[TODO]]}} Ride bike to top of Cedar before starting work
 - {{[[DONE]]}} Ricardo zoom at 11;30am
 - {{[[DONE]]}} No news or twitter until after dinner
 - {{[[DONE]]}} Tiny Habits when (via email) 
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
-- {{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
+- {{[[DONE]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
 - {{[[DONE]]}} Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat 

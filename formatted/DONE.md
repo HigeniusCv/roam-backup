@@ -11,12 +11,23 @@
 ## [October 1st, 2020](<October 1st, 2020.md>)
 - {{[DONE](<DONE.md>)}
 
+## [October 20th, 2020](<October 20th, 2020.md>)
+- {{[DONE](<DONE.md>)}
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 ## [October 5th, 2020](<October 5th, 2020.md>)
@@ -132,6 +143,10 @@
 - {{[DONE](<DONE.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}

@@ -7028,14 +7028,14 @@
                 "children": [
                   {
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1601675922257,
-                    "string": "{{[[TODO]]}} Create a list of people you\u2019re connected to through Linkedin",
+                    "edit-time": 1603728701833,
+                    "string": "{{[[DONE]]}} Create a list of people you\u2019re connected to through Linkedin",
                     "uid": "5dTXyiNLi"
                   },
                   {
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1601675926935,
-                    "string": "{{[[TODO]]}} Get better at Roam: keep daily notes in Roam, import all your previous notes to Roam, create blocks of presentations you can reuse",
+                    "edit-time": 1603728704714,
+                    "string": "{{[[DONE]]}} Get better at Roam: keep daily notes in Roam, import all your previous notes to Roam, create blocks of presentations you can reuse",
                     "uid": "rB17D8jjh"
                   },
                   {
@@ -7500,6 +7500,14 @@
             "edit-time": 1603479185067,
             "string": "{{[[DONE]]}} email deck to FEND'y",
             "uid": "NkUbg0J6C"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603728533459,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603728744715,
+            "string": "Gusto prep [[October 26th, 2020]]",
+            "uid": "RoKVTqA3N"
           }
         ],
         "create-email": "psas@motivationengineers.com",
@@ -7677,7 +7685,7 @@
                     "create-email": "psas@motivationengineers.com",
                     "create-time": 1603391336825,
                     "edit-email": "psas@motivationengineers.com",
-                    "edit-time": 1603391369399,
+                    "edit-time": 1603728554051,
                     "string": "What is the one thing you haven't done enough of to market your consultancy?",
                     "uid": "Am7tx95Kx"
                   }
@@ -7699,17 +7707,17 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603390176019,
-        "string": "{{[[TODO]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. \"How I billed this\"",
+        "edit-time": 1603728549966,
+        "string": "{{[[DONE]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. \"How I billed this\"",
         "uid": "xmvTQdC5o"
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1603390143689,
+        "create-time": 1602609795527,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603390143689,
-        "string": "",
-        "uid": "PS7ut-FnF"
+        "edit-time": 1603387684811,
+        "string": "{{[[TODO]]}} Ride bike to top of Cedar before starting work",
+        "uid": "_U25aldSR"
       },
       {
         "children": [
@@ -7753,8 +7761,8 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602784288766,
-        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support [[October 15th, 2020]] ((frog))",
+        "edit-time": 1603728562684,
+        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support  ",
         "uid": "aMR7YRdmI"
       },
       {
@@ -7788,18 +7796,18 @@
         "uid": "RUKuRG_xu"
       },
       {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603728774172,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728797809,
+        "string": "{{[[TODO]]}} Go thru Zide door re-opened",
+        "uid": "RFTVvPNkq"
+      },
+      {
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1602886048305,
         "string": "{{[[DONE]]}} Pull together a list of 15 people - contact 3 each day",
         "uid": "t3v_uy60y"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1602609795527,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603387684811,
-        "string": "{{[[TODO]]}} Ride bike to top of Cedar before starting work",
-        "uid": "_U25aldSR"
       },
       {
         "create-email": "psas@motivationengineers.com",
@@ -7833,8 +7841,8 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602283130446,
-        "string": "{{[[TODO]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize",
+        "edit-time": 1603728582611,
+        "string": "{{[[DONE]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize",
         "uid": "FwPaADcgm"
       },
       {
@@ -13739,8 +13747,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602872966708,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602872966708,
-        "string": "{{[[TODO]]}} Go fix screen cracks at 5pm",
+        "edit-time": 1603728664604,
+        "string": "{{[[TODO]]}} Go fix screen cracks Nov 1st - set up a replacement for 5 biz days",
         "uid": "0Q1cTXTcC"
       },
       {
@@ -13970,8 +13978,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1603210039412,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1603210065913,
-            "string": "{{[[TODO]]}} I told him I'd look for references if he would be willing to consider hiring a coach ",
+            "edit-time": 1603728620429,
+            "string": "{{[[DONE]]}} I told him I'd look for references if he would be willing to consider hiring a coach ",
             "uid": "4gw-o37Yd"
           }
         ],
@@ -14703,16 +14711,16 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1603296519904,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603296519904,
-        "string": "{{[[TODO]]}} Search for personal coach. Contact Bar's Helen, as well as Ace. If those aren't clinched, the startup Caliber offers a trimmed down digitized coaching experience, 3 months for $600. ",
+        "edit-time": 1603728609629,
+        "string": "{{[[TODO]]}} Search for personal coach for exercise. Contact Bar's Helen, as well as Ace. If those aren't clinched, the startup Caliber offers a trimmed down digitized coaching experience, 3 months for $600. ",
         "uid": "v2KMBnv6A"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1603296507400,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603296533261,
-        "string": "{{[[TODO]]}} Finish first R lab",
+        "edit-time": 1603728599851,
+        "string": "{{[[DONE]]}} Finish first R lab",
         "uid": "XDueCU-za"
       },
       {
@@ -14727,8 +14735,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1603296598968,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603387743548,
-        "string": "{{[[TODO]]}} Check in with Jonathan around noon",
+        "edit-time": 1603728615953,
+        "string": "{{[[DONE]]}} Check in with Jonathan around noon",
         "uid": "iBYO3t3zC"
       }
     ],
@@ -14777,6 +14785,127 @@
     "title": "October 25th, 2020"
   },
   {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603727843568,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603727859974,
+        "props": {
+          "POMO": 1603727861417
+        },
+        "string": "[[journal]]{{[[POMO]]: 10}}",
+        "uid": "h05Hdk9F7"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603727863175,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728165807,
+        "string": "The \"habit\" of journaling is not so firmly rooted that it can't easily wobble. Meeting last time with Coach Lynette lead to seeing that my work load has increased significantly, but that my ambition to get more work done has also scaled. Natheless, I feel better for having let the rank prioritization determine what gets neglected",
+        "uid": "mCeVCC25V"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603728202822,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603728211170,
+            "string": "Articulate more clearly why Gusto",
+            "uid": "WtNJNio05"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603727973191,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603728004448,
+            "string": "First amp up the user testing to 100% detail, and use voice over to compress",
+            "uid": "jOAoQPpSX"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603728004443,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603728028601,
+            "string": "Right before meeting, push a link to the portfolio onto motivationengineers",
+            "uid": "Me3hONRAT"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603728028595,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603728055738,
+            "string": "Use the demo account for at least 15 minutes, while screen recording somehow",
+            "uid": "_F5gNKpjY"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603727954900,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728592429,
+        "string": "{{[[TODO]]}} Prepare portfolio for Gusto interview at 1;30 today (frog)",
+        "uid": "bogFcyqAn"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603728055731,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728087416,
+        "string": "{{[[TODO]]}} Draw up a handwritten time block for the week, with 3 significant blasts",
+        "uid": "UNbVlwI7m"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603728087410,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603728150429,
+            "string": "prep for it as if it's a real pitch with autobiographical focus on my work life",
+            "uid": "6IbFAojkh"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603728143978,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728490575,
+        "string": "{{[[TODO]]}} Zoom invite to Pam Kramer - even though it's mostly a sentimental journey. She showed up in a dream I recall - I was working on roasting these 2 big slabs of meat (one of which was at risk of being pork instead of beef), at an office where the food was being prepared for a shy MacArthur Prize winner's party. Wandering the office floor, I saw Pam, scowling as she lead a troop of little interns around, in her role as an office temp. The scowl was directed at me, for catching her do work far below her height. She later came over and asked if we could eat some chocolate together, sort of like a ciggy break among the disgruntles.",
+        "uid": "c4rGvKt4S"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603728133650,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728182817,
+        "string": "Roam is still hinky, but that's nOK",
+        "uid": "7U2lazjlh"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603728182868,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728273019,
+        "string": "{{[[TODO]]}} R - still need to solve the scatterplot problem. Review with Tutor yesterday was worth $30, although I want to try a different person for this week.  Left arrow to store a new variable worth the ticket price",
+        "uid": "TZFs8W2o-"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603728249948,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728280157,
+        "string": "Sleep is growing",
+        "uid": "-vcB_mvsh"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1603728280152,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1603728314198,
+        "string": "{{[[TODO]]}} Intermittent FAST hoy dia. Click zero on from the time I slept last night until 6 pm today. I even ",
+        "uid": "IeuNr9453"
+      }
+    ],
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1603674277892,
     "title": "October 26th, 2020"

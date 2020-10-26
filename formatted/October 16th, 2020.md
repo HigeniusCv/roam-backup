@@ -9,7 +9,7 @@
 - As for me, I'm doing more work but still not earning, just burning
 - [ ] Get experiment run
 - [x] send real emails to some contacts
-- [ ] Go fix screen cracks at 5pm
+- [ ] Go fix screen cracks Nov 1st - set up a replacement for 5 biz days
     - decide whether to buy the iPhone 12Pro
         - it seems manic to spend 1k, but it also seems prudent to anticipate supply line disruptions
 - [x] Whittle twitter, as well as news, and feedly, down via the app Focus on chrome

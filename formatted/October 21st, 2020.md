@@ -20,8 +20,8 @@
     - Fortunately, before she left, I admitted that my tone was aggressive, I don't know about passive aggressive. No matter how much I want something, I don't want to be hurtful in response. She said "Let's try to do better tomorrow."
 - [ ] Frog: Collect feedback and draft a second round on apologies. I've harshed on the illusion that a company has a human face. Neither of the comments assimilates my grim assessment, exemplifying my claim that people seek a way out rather than a way into that constraint.
 - [x] Draft 15 minutes of thoughts on Fend. Perhaps even look for CaCl to start spritzing at home. 
-- [ ] Search for personal coach. Contact Bar's Helen, as well as Ace. If those aren't clinched, the startup Caliber offers a trimmed down digitized coaching experience, 3 months for $600. 
+- [ ] Search for personal coach for exercise. Contact Bar's Helen, as well as Ace. If those aren't clinched, the startup Caliber offers a trimmed down digitized coaching experience, 3 months for $600. 
     - I contacted Jared Cluff, after my exploratory interview with Jason Fauci, to connect my interest to the possibility of doing behavioral research for them. I guess if they can't trade my 3 months for a day of consulting, it's not the right time.  The Fauci is a 'distant relative' of beloved Dr Fauci. When I googled him, his first hit is a record of going to jail for financial pump-and-dump shenanigans in the early noughties.
-- [ ] Finish first R lab
+- [x] Finish first R lab
 - [ ] Contact multiple people in the Yak for 'how I billed this.' Start with the New Plagued Home deck yaks, to inquire if their visibility there was motivated by getting gigs, and if that's generated calls or other leads.
-- [ ] Check in with Jonathan around noon
+- [x] Check in with Jonathan around noon

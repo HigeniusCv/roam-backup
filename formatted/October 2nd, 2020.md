@@ -55,8 +55,8 @@
             - Set up commitment devices to keep you on track
         - **Action items**
         - __Plans for what you will do after the call. These are to be added during the call by both the coach and the coachee.__
-            - [ ] Create a list of people you’re connected to through Linkedin
-            - [ ] Get better at Roam: keep daily notes in Roam, import all your previous notes to Roam, create blocks of presentations you can reuse
+            - [x] Create a list of people you’re connected to through Linkedin
+            - [x] Get better at Roam: keep daily notes in Roam, import all your previous notes to Roam, create blocks of presentations you can reuse
             - [ ] Create an assessment of flow for Salesforce, use as a calling card
             - [ ] Sandbox small studies within Mturk account, learn how to use it: Run ten hits with a simple flow metric
             - [x] Create a list of topics to write about

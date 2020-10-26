@@ -4,7 +4,8 @@
 - {{[[TODO]]}} Eat a frog - worst first 
     - {{[[DONE]]}} email deck to FEND'y
     - Gusto prep [[October 26th, 2020]]
-- {{[[TODO]]}} R coursera for 20+ mins
+- {{[[TODO]]}} R coursera for 20+ mins 
+    - sought Craigslist tutor for $20/hour
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle
 - {{[[TODO]]}} Update my website 

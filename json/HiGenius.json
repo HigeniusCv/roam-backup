@@ -7518,11 +7518,21 @@
         "uid": "38YS_Cpco"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1603740694276,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1603740710685,
+            "string": "sought Craigslist tutor for $20/hour",
+            "uid": "QrIzyEfaI"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1602708164310,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1602708179368,
-        "string": "{{[[TODO]]}} R coursera for 20+ mins",
+        "edit-time": 1603740691069,
+        "string": "{{[[TODO]]}} R coursera for 20+ mins ",
         "uid": "6qKixJLbb"
       },
       {

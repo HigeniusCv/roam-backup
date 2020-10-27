@@ -1,7 +1,7 @@
 - {{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
-- {{[[TODO]]}} Eat a frog - worst first 
+- {{[[DONE]]}} Eat a frog - worst first 
     - {{[[DONE]]}} email deck to FEND'y
     - Gusto prep [[October 26th, 2020]]
 - {{[[TODO]]}} R coursera for 20+ mins 

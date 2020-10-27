@@ -3,9 +3,11 @@
     - Buffer for run-over
 - {{[[DONE]]}} Eat a frog - worst first 
     - {{[[DONE]]}} email deck to FEND'y
-    - Gusto prep [[October 26th, 2020]]
+    - {{[[DONE]]}} Gusto prep [[October 26th, 2020]]
+    - {{[[TODO]]}} link updated portfolio via Google Slides [[October 27th, 2020]]
 - {{[[TODO]]}} R coursera for 20+ mins 
     - sought Craigslist tutor for $20/hour
+    - follow up with Wyzant - Miron for $33 is OK
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle
 - {{[[TODO]]}} Update my website 
@@ -15,7 +17,7 @@
     - publish a tweet storm on article
     - Write letter to 5 more LinkedIns 
 - {{[[DONE]]}} Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "How I billed this"
-    - Joined the last 20 mins of the marketing call, described the germ
+    - Joined the last 20 mins of the marketing call, described the germ. Also 
     - "How I billed this" structure - 500 words max
         - Tweet length description of your niche & expertise.
             - What channels do you use to get new clients?

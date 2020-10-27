@@ -3,9 +3,11 @@
     - Buffer for run-over
 - [x] Eat a frog - worst first 
     - [x] email deck to FEND'y
-    - Gusto prep [October 26th, 2020](<October 26th, 2020.md>)
+    - [x] Gusto prep [October 26th, 2020](<October 26th, 2020.md>)
+    - [ ] link updated portfolio via Google Slides [October 27th, 2020](<October 27th, 2020.md>)
 - [ ] R coursera for 20+ mins 
     - sought Craigslist tutor for $20/hour
+    - follow up with Wyzant - Miron for $33 is OK
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
 - [ ] Update my website 
@@ -15,7 +17,7 @@
     - publish a tweet storm on article
     - Write letter to 5 more LinkedIns 
 - [x] Within the Yak C, review their archive of NLs, and develop a plan to publish the fortnightly cadence. "How I billed this"
-    - Joined the last 20 mins of the marketing call, described the germ
+    - Joined the last 20 mins of the marketing call, described the germ. Also 
     - "How I billed this" structure - 500 words max
         - Tweet length description of your niche & expertise.
             - What channels do you use to get new clients?
@@ -111,6 +113,8 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

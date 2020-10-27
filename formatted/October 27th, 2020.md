@@ -1,4 +1,4 @@
-- [[journal]]{{[[POMO]]: 15}}
+- [journal](<journal.md>){{[POMO](<POMO.md>): 15}}
 - The political malaise is nearly impossible to insulate myself from. The history books can cover this lurching instability toward naked power grabs. My reluctance to watch the Handmaid's Tale is more than ever an ostrich's defense strategy. I'm not going to detail the injustices and insanity here
 - Compressed some July & August "Bugles", mostly from Beckett, all the way up to the first day of school 8/17. There's little whiffs of the mood changes in the wider world. Haircuts as clues. Primary sources, I suppose, and perhaps of some interest to the men they will become. 
 - I can't speculate here on how long and mad this road will be. Even now, it's apparent that we've not seen the actual reckoning, for shuttering up the population, impairing their educations, foreclosing the economic opportunities, wasting the capital invested in an alternative future we're never likely to see return
@@ -14,3 +14,8 @@
     - With my sons, the conflict has dropped considerably during Covid. 
     - Beckett is now the sweetest, biggest fan of his Pa, the guy who comes up and chooses me to be his cuddle. 
     - Y has been nicer, more tolerant, of late.
+
+# Backlinks
+## [TODO](<TODO.md>)
+- [ ] link updated portfolio via Google Slides [October 27th, 2020](<October 27th, 2020.md>)
+

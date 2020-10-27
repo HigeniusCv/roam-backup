@@ -15,5 +15,5 @@
 
 # Backlinks
 ## [TODO](<TODO.md>)
-- Gusto prep [October 26th, 2020](<October 26th, 2020.md>)
+- [x] Gusto prep [October 26th, 2020](<October 26th, 2020.md>)
 

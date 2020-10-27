@@ -5,13 +5,14 @@
     - {{[[DONE]]}} email deck to FEND'y
     - {{[[DONE]]}} Gusto prep [[October 26th, 2020]]
     - {{[[TODO]]}} link updated portfolio via Google Slides [[October 27th, 2020]]
+- {{[[TODO]]}} Send at least 2 job apps (Hinge Health & JPMC)
 - {{[[TODO]]}} R coursera for 20+ mins 
     - sought Craigslist tutor for $20/hour
-    - follow up with Wyzant - Miron for $33 is OK
+    - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle
 - {{[[TODO]]}} Update my website 
-    - Refine Portfolio to include more BEcon examples, and p
+    - Refine Portfolio to include more BEcon examples, and put up
     - publish to G-docs 
     - link that plus articles on my website
     - publish a tweet storm on article

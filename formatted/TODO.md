@@ -11,7 +11,8 @@
     - Look at KC/Austin/MPLS Craigslist tutor for $20/hour 
     - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
 - [ ] Draw for 5 mins 
-    - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle
+    - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle'
+    - [October 28th, 2020](<October 28th, 2020.md>)Baby Beckett photo
 - [ ] Update my website 
     - Refine Portfolio to include more BEcon examples, and put up
     - publish to G-docs 

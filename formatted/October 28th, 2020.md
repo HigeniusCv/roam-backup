@@ -1,4 +1,4 @@
-- [[journal]]09:32{{[[POMO]]: 10}}
+- [journal](<journal.md>)09:32{{[POMO](<POMO.md>): 10}}
 - Starting earlier than 10 is the new norm. Yesterday blagued out in the afternoon, and even manifested itself as a meat meal for lunch around 3pm. 
     - Not working mayn't be so bad, but surfing sucks
     - Even when I stop a-twittering, the emotional hang over is full of angst
@@ -11,3 +11,8 @@
 - As much as I think I'd like to draw a bit every day, when I carry around Ms Barry's book, I don't crack it. Probably means I should do that immediately after today's journaling.
 - Focusmate still helps, although it isn't as cold slapping as first
 - Cold showers happen about 1x day. Wim Hof said to start with warm, which dilates the time commitment by 3. There's never a time that it doesn't shock my system. Each time I wish I knew the Breath practice
+
+# Backlinks
+## [TODO](<TODO.md>)
+- [ ] link updated portfolio via Google Slides [October 28th, 2020](<October 28th, 2020.md>)
+

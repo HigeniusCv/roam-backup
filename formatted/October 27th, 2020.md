@@ -17,5 +17,5 @@
 
 # Backlinks
 ## [TODO](<TODO.md>)
-- [ ] link updated portfolio via Google Slides [October 27th, 2020](<October 27th, 2020.md>)
+- (Hinge Health & JPMC & Slack on [October 27th, 2020](<October 27th, 2020.md>))
 

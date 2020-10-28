@@ -4,10 +4,11 @@
 - [x] Eat a frog - worst first 
     - [x] email deck to FEND'y
     - [x] Gusto prep [October 26th, 2020](<October 26th, 2020.md>)
-    - [ ] link updated portfolio via Google Slides [October 27th, 2020](<October 27th, 2020.md>)
-- [ ] Send at least 2 job apps (Hinge Health & JPMC)
+    - [ ] link updated portfolio via Google Slides [October 28th, 2020](<October 28th, 2020.md>)
+- [ ] Send at least 2 job apps 
+    - (Hinge Health & JPMC & Slack on [October 27th, 2020](<October 27th, 2020.md>))
 - [ ] R coursera for 20+ mins 
-    - sought Craigslist tutor for $20/hour
+    - Look at KC/Austin/MPLS Craigslist tutor for $20/hour 
     - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle

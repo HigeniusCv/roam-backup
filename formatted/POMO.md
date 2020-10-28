@@ -15,6 +15,9 @@
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - [journal](<journal.md>){{[POMO](<POMO.md>):
 
+## [October 28th, 2020](<October 28th, 2020.md>)
+- [journal](<journal.md>)09:32{{[POMO](<POMO.md>):
+
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - [journal](<journal.md>)[October 5th, 2020](<October 5th, 2020.md>){{[POMO](<POMO.md>):
 

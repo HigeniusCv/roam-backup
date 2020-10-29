@@ -11,8 +11,9 @@
     - Look at KC/Austin/MPLS Craigslist tutor for $20/hour 
     - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
 - [ ] Draw for 5 mins 
-    - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle'
+    - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle face
     - [October 28th, 2020](<October 28th, 2020.md>)Baby Beckett photo
+    - [October 29th, 2020](<October 29th, 2020.md>)mannikin
 - [ ] Update my website 
     - Refine Portfolio to include more BEcon examples, and put up
     - publish to G-docs 
@@ -45,7 +46,6 @@
     - [October 13th, 2020](<October 13th, 2020.md>) equals publish to LinkedIn and fix Medium
     - [October 14th, 2020](<October 14th, 2020.md>) equals describe method for experiment with Instacart
     - [October 15th, 2020](<October 15th, 2020.md>) equals tweet storm
-- [ ] Go thru Zide door re-opened
 - [x] Pull together a list of 15 people - contact 3 each day
 - [x] Ricardo zoom at 11;30am
 - [x] No news or twitter until after dinner
@@ -116,8 +116,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

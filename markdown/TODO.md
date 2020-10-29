@@ -4,7 +4,7 @@
 - {{[[DONE]]}} Eat a frog - worst first 
     - {{[[DONE]]}} email deck to FEND'y
     - {{[[DONE]]}} Gusto prep [[October 26th, 2020]]
-    - {{[[TODO]]}} link updated portfolio via Google Slides [[October 28th, 2020]]
+    - {{[[TODO]]}} link updated portfolio via Google Slides [[October 28th, 2020]] & [[October 29th, 2020]]
 - {{[[TODO]]}} Send at least 2 job apps 
     - (Hinge Health & JPMC & Slack on [[October 27th, 2020]])
 - {{[[TODO]]}} R coursera for 20+ mins 

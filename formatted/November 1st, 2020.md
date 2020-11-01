@@ -1,2 +1,33 @@
 - Fri the 29th I took a trip to Muir Woods, arriving at 9:30am, and after parking in the closest overflow, I went away and turned right at the first fire road. Eventually, I joined Dipsea trail, and got close to the top of Cardiac Hill, before being buzzed away by a noisy family that swarmed the trail toward the summit. Lone Tree was apparently Dipsea's original name
-- Thought a lot in the morning about 
+- Thought a lot in the morning about joining the [hyperlink academy](<hyperlink academy.md>), off the Yak C, to do a "Tour of your Turing Machine: Throwing the Kitchen Sink at Testing your Perceptual Acuity"
+- https://hyperlink.academy/courses/the-meta-course/1/cohorts/32?welcome 
+    - No neuroscience involved, since all the evidence will come from your own senses.
+    - Explorations will cover blind spots and perceptual illusions and acuity
+    - Smell: Pig/Warm Milk ; Noam's Smell testing; Flavor minus Smell; Fresh vs Stale spices
+    - Taste: see smell; 4 hour chef?
+    - Audition: McGurk categorical; Shepard's Escher tone; Stereo sound location?
+    - Vision: Facial recognition; Smize assessment test; Roemmel's speed as frame; Ted Adelson's Patches; Bring your own favorite
+    - Touch: Sensitivity in different spots of body; switching hands between cold and warm water
+    - Proprioreception: Move your finger on your thigh; rubber hand
+    - Skill acquisition: Mirrror drawing
+    - Disgust explorations: Viscera and conceptual reflexes
+    - Memory: Depth of short term; games like the chimp played; memory illusions?
+    -  Stamina: Ice man breathing before pushing up
+- Hyperlink as a community & mindset - Celine Park intro
+    - Learn about Ed Theory
+    - Curriculum Maintainers & Facilitators
+    - Continuously improve
+    - Embrace Structure
+    - Encourage Active Learning
+    - Outputs artifacts of successful learning
+    - Evolve with the community
+    - Learn in the open
+- Brendan Schlagel
+- Lucy Bellwood (Portland)
+- Justus Grunow
+- Ramses Outdt
+- Shreeda Segan
+- Jackie Liu
+- Angelica Isa-Adaniya
+- Stephen Lovell
+- Danielle Baskin

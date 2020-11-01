@@ -12,7 +12,7 @@
     - Skill acquisition: Mirrror drawing
     - Disgust explorations: Viscera and conceptual reflexes
     - Memory: Depth of short term; games like the chimp played; memory illusions?
-    -  Stamina: Ice man breathing before pushing up
+    - Stamina: Ice man breathing before pushing up
 - Hyperlink as a community & mindset - Celine Park intro
     - Learn about Ed Theory
     - Curriculum Maintainers & Facilitators
@@ -20,14 +20,16 @@
     - Embrace Structure
     - Encourage Active Learning
     - Outputs artifacts of successful learning
-    - Evolve with the community
+    - Evolve with the community: Are Forums always open? Yes, only to course 
     - Learn in the open
-- Brendan Schlagel
-- Lucy Bellwood (Portland)
-- Justus Grunow
-- Ramses Outdt
-- Shreeda Segan
-- Jackie Liu
-- Angelica Isa-Adaniya
-- Stephen Lovell
-- Danielle Baskin
+- Exemplars: Antiperfectionist Drawing ; also Write a Microtextbook
+- Attendees
+    - Brendan Schlagel - a cofounder, running another meta course; also anti-library
+    - Lucy Bellwood (Portland): Cartoonist - 100 days in Dialogue with my self; acceptance & commitment therapy; Inverse 100 day project to access inner wiser self
+    - Justus Grunow - moved to Canada - tilde server up to tilde-universe; collaborative programming; html through scripting
+    - Ramses Outdt (Amsterdam) - originally taught inner city kids. Learning how to learn. Spanish teacher + applied linguistics. System in Netherlands a bit complex. Jobs ended up being in data analysis. Note-taking, how to read; gist videos for future resources. Left my corporate job in August, sick of slow moving politics w/o having impact on people. Dutch government program helping 
+    - Shreeda Segan - YakC - Sarah Perry's a friend, post-rationalist; cosci & AI; yoga trained; Existential Wellness; Body Pleasure; Narrative Therapy;  Writing & embody via new subroutines for living
+    - Jackie Liu - CS and completed masters in product design; interned at Code Academy. Creative tech education. "Zines by Jackie"; Course: Speculative Design, themes of nostalgia
+    - Angelica Isa-Adaniya - Museum conservator. Family collections & heirlooms, be slightly more caring about artefacts. 
+    - Stephen Lovell: Do courses break into levels, or can they be long and on-going? Partially here bc of Brendan replying to tweet. 7 topics - split into course. Things I'm good at vs Things I'm interested in, learning ahead. Very artistic, very tech. $ via tech; love crossovers, like comics. Worked in higher ed enabling instructors. Pretty good job of Project management, but it's not often aimed at artists.  Went on way too long
+    - Danielle Baskin - 12 years ago, riding a bike in NY, passed a cyclist who must be lucky person. Assigning symbols as divination;  My company was painting on helmets - tarot deck designs to provoke association. 45 cards. Learned Tarot, 3 hours to paint each one. "Wallet tarot" - contents in their wallet, to tell a story. Oh, you can assign meanings to things and make stories.

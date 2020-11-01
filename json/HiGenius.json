@@ -15436,8 +15436,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1604251260440,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251615527,
-            "string": " Stamina: Ice man breathing before pushing up",
+            "edit-time": 1604255131094,
+            "string": "Stamina: Ice man breathing before pushing up",
             "uid": "hJPyFTumv"
           }
         ],
@@ -15502,8 +15502,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1604254296698,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604254302777,
-            "string": "Evolve with the community",
+            "edit-time": 1604255587975,
+            "string": "Evolve with the community: Are Forums always open? Yes, only to course ",
             "uid": "Dl9XSQV2k"
           },
           {
@@ -15524,75 +15524,93 @@
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254138464,
+        "create-time": 1604254614985,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254167644,
-        "string": "Brendan Schlagel",
-        "uid": "B7rHHHZlF"
+        "edit-time": 1604254641165,
+        "string": "Exemplars: Antiperfectionist Drawing ; also Write a Microtextbook",
+        "uid": "IIfBUJlat"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254138464,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604256885002,
+            "string": "Brendan Schlagel - a cofounder, running another meta course; also anti-library",
+            "uid": "B7rHHHZlF"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254168546,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604255603223,
+            "string": "Lucy Bellwood (Portland): Cartoonist - 100 days in Dialogue with my self; acceptance & commitment therapy; Inverse 100 day project to access inner wiser self",
+            "uid": "88xbKNmO5"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254178851,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604256321002,
+            "string": "Justus Grunow - moved to Canada - tilde server up to tilde-universe; collaborative programming; html through scripting",
+            "uid": "f_BUUP4Jj"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254184279,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604256986004,
+            "string": "Ramses Outdt (Amsterdam) - originally taught inner city kids. Learning how to learn. Spanish teacher + applied linguistics. System in Netherlands a bit complex. Jobs ended up being in data analysis. Note-taking, how to read; gist videos for future resources. Left my corporate job in August, sick of slow moving politics w/o having impact on people. Dutch government program helping ",
+            "uid": "lK1Vc4luh"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254194628,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604255172124,
+            "string": "Shreeda Segan - YakC - Sarah Perry's a friend, post-rationalist; cosci & AI; yoga trained; Existential Wellness; Body Pleasure; Narrative Therapy;  Writing & embody via new subroutines for living",
+            "uid": "lf_W55x4r"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254206560,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604255886435,
+            "string": "Jackie Liu - CS and completed masters in product design; interned at Code Academy. Creative tech education. \"Zines by Jackie\"; Course: Speculative Design, themes of nostalgia",
+            "uid": "6ay2ZKgaJ"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254210044,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604255727125,
+            "string": "Angelica Isa-Adaniya - Museum conservator. Family collections & heirlooms, be slightly more caring about artefacts. ",
+            "uid": "HVeN2VtZo"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254223832,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604256814214,
+            "string": "Stephen Lovell: Do courses break into levels, or can they be long and on-going? Partially here bc of Brendan replying to tweet. 7 topics - split into course. Things I'm good at vs Things I'm interested in, learning ahead. Very artistic, very tech. $ via tech; love crossovers, like comics. Worked in higher ed enabling instructors. Pretty good job of Project management, but it's not often aimed at artists.  Went on way too long",
+            "uid": "bJRZyuaC9"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604254365619,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604256125231,
+            "string": "Danielle Baskin - 12 years ago, riding a bike in NY, passed a cyclist who must be lucky person. Assigning symbols as divination;  My company was painting on helmets - tarot deck designs to provoke association. 45 cards. Learned Tarot, 3 hours to paint each one. \"Wallet tarot\" - contents in their wallet, to tell a story. Oh, you can assign meanings to things and make stories.",
+            "uid": "lud71MMX2"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254168546,
+        "create-time": 1604254735114,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254177284,
-        "string": "Lucy Bellwood (Portland)",
-        "uid": "88xbKNmO5"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254178851,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254184284,
-        "string": "Justus Grunow",
-        "uid": "f_BUUP4Jj"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254184279,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254194633,
-        "string": "Ramses Outdt",
-        "uid": "lK1Vc4luh"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254194628,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254200226,
-        "string": "Shreeda Segan",
-        "uid": "lf_W55x4r"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254206560,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254210047,
-        "string": "Jackie Liu",
-        "uid": "6ay2ZKgaJ"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254210044,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254403338,
-        "string": "Angelica Isa-Adaniya",
-        "uid": "HVeN2VtZo"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254223832,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254231220,
-        "string": "Stephen Lovell",
-        "uid": "bJRZyuaC9"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1604254365619,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604254373423,
-        "string": "Danielle Baskin",
-        "uid": "lud71MMX2"
+        "edit-time": 1604254735114,
+        "string": "Attendees",
+        "uid": "OKHVdzyx6"
       }
     ],
     "edit-email": "psas@motivationengineers.com",

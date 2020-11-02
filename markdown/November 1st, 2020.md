@@ -1,18 +1,19 @@
 - Fri the 29th I took a trip to Muir Woods, arriving at 9:30am, and after parking in the closest overflow, I went away and turned right at the first fire road. Eventually, I joined Dipsea trail, and got close to the top of Cardiac Hill, before being buzzed away by a noisy family that swarmed the trail toward the summit. Lone Tree was apparently Dipsea's original name
 - Thought a lot in the morning about joining the [[hyperlink academy]], off the Yak C, to do a "Tour of your Turing Machine: Throwing the Kitchen Sink at Testing your Perceptual Acuity"
 - https://hyperlink.academy/courses/the-meta-course/1/cohorts/32?welcome 
-    - No neuroscience involved, since all the evidence will come from your own senses.
-    - Explorations will cover blind spots and perceptual illusions and acuity
-    - Smell: Pig/Warm Milk ; Noam's Smell testing; Flavor minus Smell; Fresh vs Stale spices
-    - Taste: see smell; 4 hour chef?
-    - Audition: McGurk categorical; Shepard's Escher tone; Stereo sound location?
-    - Vision: Facial recognition; Smize assessment test; Roemmel's speed as frame; Ted Adelson's Patches; Bring your own favorite
-    - Touch: Sensitivity in different spots of body; switching hands between cold and warm water
-    - Proprioreception: Move your finger on your thigh; rubber hand
-    - Skill acquisition: Mirrror drawing
-    - Disgust explorations: Viscera and conceptual reflexes
-    - Memory: Depth of short term; games like the chimp played; memory illusions?
-    - Stamina: Ice man breathing before pushing up
+- Throwing the Kitchen Sink at Testing your Perceptual Acuity; 
+- No neuroscience involved*. Evidence is purely phenomenological and will come from your own senses. 
+- Explorations are inspired by the discovery of one's vision blind spots. Each meeting will examine perceptual illusions and measure individual acuity within a sensory channel
+- *Smell**: Sobel's Smell testing Kit; Flavors with vs w/o Smell; Pig/Warm Milk ; Fresh vs Stale spices
+- *Taste**: Colors and Labels Bias Taste; see smell
+- *Disgust**: Viscera and conceptual reflexes
+- *Audition**: McGurk categorical; Shepard's Escher tone; Stereo sound location
+- *Vision**: Facial recognition; Emotion detection assessment test; Roemmel's speed as frame; Ted Adelson's Patches; Bring your own favorite
+- *Touch**: Sensitivity of different spots of the body; relativity of switching hands between cold and warm water
+- *Proprioception**: Move your finger on your thigh; rubber hand
+- *Skill acquisition**: Mirrror drawing over time
+- *Stamina**: Ice man breathing before pushing up
+- *Memory**: Depth of short term vs a chimpanzee; memory illusion
 - Hyperlink as a community & mindset - Celine Park intro
     - Learn about Ed Theory
     - Curriculum Maintainers & Facilitators

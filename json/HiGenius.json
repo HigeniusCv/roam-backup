@@ -15343,110 +15343,116 @@
         "uid": "Z85C_pZVB"
       },
       {
-        "children": [
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604250878186,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604250898633,
-            "string": "No neuroscience involved, since all the evidence will come from your own senses.",
-            "uid": "Hlqd28pOF"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604250898819,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604250927179,
-            "string": "Explorations will cover blind spots and perceptual illusions and acuity",
-            "uid": "Zw9Yk2IkQ"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604250930812,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251347843,
-            "string": "Smell: Pig/Warm Milk ; Noam's Smell testing; Flavor minus Smell; Fresh vs Stale spices",
-            "uid": "Sa9Uzpuno"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251249786,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251359685,
-            "string": "Taste: see smell; 4 hour chef?",
-            "uid": "TOSQ061Yq"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251050015,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251160253,
-            "string": "Audition: McGurk categorical; Shepard's Escher tone; Stereo sound location?",
-            "uid": "BIHFeIy3R"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251160248,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251400019,
-            "string": "Vision: Facial recognition; Smize assessment test; Roemmel's speed as frame; Ted Adelson's Patches; Bring your own favorite",
-            "uid": "j0TJYjEFC"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251215894,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251509528,
-            "string": "Touch: Sensitivity in different spots of body; switching hands between cold and warm water",
-            "uid": "YxILSc4f2"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251235926,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251271673,
-            "string": "Proprioreception: Move your finger on your thigh; rubber hand",
-            "uid": "UWQwstJAS"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251413810,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251413810,
-            "string": "Skill acquisition: Mirrror drawing",
-            "uid": "A6l2d7UGQ"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251423927,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604252075063,
-            "string": "Disgust explorations: Viscera and conceptual reflexes",
-            "uid": "qHnTPwqRb"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251486038,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604251486038,
-            "string": "Memory: Depth of short term; games like the chimp played; memory illusions?",
-            "uid": "lR1ppmteD"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1604251260440,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1604255131094,
-            "string": "Stamina: Ice man breathing before pushing up",
-            "uid": "hJPyFTumv"
-          }
-        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1604250813365,
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1604254078888,
         "string": "https://hyperlink.academy/courses/the-meta-course/1/cohorts/32?welcome ",
         "uid": "iF1EO7kZA"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629485,
+        "string": "Throwing the Kitchen Sink at Testing your Perceptual Acuity; ",
+        "uid": "piNMe-ksy"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629485,
+        "string": "No neuroscience involved*. Evidence is purely phenomenological and will come from your own senses. ",
+        "uid": "wkonG4o0u"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629485,
+        "string": "Explorations are inspired by the discovery of one's vision blind spots. Each meeting will examine perceptual illusions and measure individual acuity within a sensory channel",
+        "uid": "_c6dtvXJY"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629485,
+        "string": "*Smell**: Sobel's Smell testing Kit; Flavors with vs w/o Smell; Pig/Warm Milk ; Fresh vs Stale spices",
+        "uid": "NMC9Fr8FD"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629485,
+        "string": "*Taste**: Colors and Labels Bias Taste; see smell",
+        "uid": "A9Q_g-4tV"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629485,
+        "string": "*Disgust**: Viscera and conceptual reflexes",
+        "uid": "4qvGv61xb"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629485,
+        "string": "*Audition**: McGurk categorical; Shepard's Escher tone; Stereo sound location",
+        "uid": "xFzmtR926"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629486,
+        "string": "*Vision**: Facial recognition; Emotion detection assessment test; Roemmel's speed as frame; Ted Adelson's Patches; Bring your own favorite",
+        "uid": "ngMtuyUTW"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629486,
+        "string": "*Touch**: Sensitivity of different spots of the body; relativity of switching hands between cold and warm water",
+        "uid": "e1bX6eUOW"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629486,
+        "string": "*Proprioception**: Move your finger on your thigh; rubber hand",
+        "uid": "-kZ-34N0_"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629486,
+        "string": "*Skill acquisition**: Mirrror drawing over time",
+        "uid": "2GE3N1V91"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629486,
+        "string": "*Stamina**: Ice man breathing before pushing up",
+        "uid": "_WSC5bXDp"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604273629468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604273629486,
+        "string": "*Memory**: Depth of short term vs a chimpanzee; memory illusion",
+        "uid": "UhtYT002H"
       },
       {
         "children": [
@@ -15623,5 +15629,10 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1604254077395,
     "title": "hyperlink academy"
+  },
+  {
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1604277564740,
+    "title": "November 2nd, 2020"
   }
 ]

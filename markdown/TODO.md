@@ -1,10 +1,10 @@
 - {{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
-- {{[[TODO]]}} Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm
+- {{[[DONE]]}} Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm
 - {{[[TODO]]}} Ping Penny, poke Pam
 - {{[[TODO]]}} Use and document CaCL 
-- {{[[TODO]]}} Move red car to correct direction
+- {{[[DONE]]}} Move red car to correct direction
 - {{[[TODO]]}} keep drawing imperfectly
 - {{[[TODO]]}} 10 mins a day on Touring Turing
 - {{[[TODO]]}} BASB: Begin better note-taking on best books

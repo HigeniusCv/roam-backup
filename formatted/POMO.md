@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- [journal](<journal.md>){{[POMO](<POMO.md>):
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - [journal](<journal.md>){{[POMO](<POMO.md>):
 

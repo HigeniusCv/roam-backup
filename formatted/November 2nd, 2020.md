@@ -1,4 +1,4 @@
-- [[journal]]{{[[POMO]]: 10}}
+- [journal](<journal.md>){{[POMO](<POMO.md>): 10}}
 - Today I'm going to time block, after listening to the blissed out Nir Eyal's pitch on starting with You, adding Relationships, then Work
 - My work today: already pinged Saebra about Salesforce. Send Penny Fend-y a note (will be 3rd w/o a reply)
 - Yesterday's meeting with YakC's connected hyperlink went well, and given that they pace the course development over 6 weeks, that's not a huge dent in my current commitments

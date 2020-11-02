@@ -7492,6 +7492,136 @@
         "uid": "SCh4OqUIq"
       },
       {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337662514,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337688966,
+        "string": "{{[[TODO]]}} Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm",
+        "uid": "6cl_4PRIW"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337688960,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337715594,
+        "string": "{{[[TODO]]}} Ping Penny, poke Pam",
+        "uid": "i5zLI-vBb"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337716090,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337738176,
+        "string": "{{[[TODO]]}} Use and document CaCL ",
+        "uid": "x3MRYD_Ls"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337738269,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337761024,
+        "string": "{{[[TODO]]}} Move red car to correct direction",
+        "uid": "M6HwErus-"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337761017,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337776990,
+        "string": "{{[[TODO]]}} keep drawing imperfectly",
+        "uid": "LyA5aByqN"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337776986,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337801988,
+        "string": "{{[[TODO]]}} 10 mins a day on Touring Turing",
+        "uid": "FkmIN9t1i"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1604337822816,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1604337852034,
+            "string": "capture the Best of from TapeWorm (may be killed someday by Google)",
+            "uid": "YE3hxoGye"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337801983,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337822821,
+        "string": "{{[[TODO]]}} BASB: Begin better note-taking on best books",
+        "uid": "qkwki1JUs"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337857683,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337880072,
+        "string": "{{[[TODO]]}} Begin a list of Friends to whom I want to talk deliberately",
+        "uid": "ugUL348X8"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337880067,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337895389,
+        "string": "{{[[TODO]]}} Set up 20 mins for tonight to reply to DPA",
+        "uid": "YihXvJRBW"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337895384,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337917933,
+        "string": "{{[[TODO]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days",
+        "uid": "06pLt9LeH"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337917928,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337962233,
+        "string": "{{[[TODO]]}} Metta toward mir for at least 2 mins",
+        "uid": "0Yo3iVzEl"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337962359,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337978103,
+        "string": "{{[[TODO]]}} Write in blocks",
+        "uid": "PMT_82Mbv"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337978563,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337998551,
+        "string": "{{[[TODO]]}} keep up portfolio work",
+        "uid": "k9knaIOaS"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337998546,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604338014842,
+        "string": "{{[[TODO]]}} Deliberate on how to deliver spec work that will pull in clients",
+        "uid": "cuQ9YWUmP"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604338014835,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604338014835,
+        "string": "",
+        "uid": "zX1TburlG"
+      },
+      {
         "children": [
           {
             "create-email": "psas@motivationengineers.com",
@@ -7549,8 +7679,8 @@
             "create-email": "psas@motivationengineers.com",
             "create-time": 1603740694276,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1603902728154,
-            "string": "Look at KC/Austin/MPLS Craigslist tutor for $20/hour ",
+            "edit-time": 1604337943863,
+            "string": "Nobody at KC/Austin/MPLS Craigslist tutor for $20/hour ",
             "uid": "QrIzyEfaI"
           },
           {
@@ -14895,16 +15025,16 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1603727954900,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603728592429,
-        "string": "{{[[TODO]]}} Prepare portfolio for Gusto interview at 1;30 today (frog)",
+        "edit-time": 1604337620836,
+        "string": "{{[[DONE]]}} Prepare portfolio for Gusto interview at 1;30 today (frog)",
         "uid": "bogFcyqAn"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1603728055731,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603728087416,
-        "string": "{{[[TODO]]}} Draw up a handwritten time block for the week, with 3 significant blasts",
+        "edit-time": 1604337626469,
+        "string": "{{[[DONE]]}} Draw up a handwritten time block for the week, with 3 significant blasts",
         "uid": "UNbVlwI7m"
       },
       {
@@ -15703,17 +15833,33 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1604337260550,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604337282969,
-        "string": "Can I set ROAM to accept w/o w/o deflecting to a command?",
+        "edit-time": 1604337302136,
+        "string": "Can I set ROAM to accept \"w/o\" w/o deflecting to a command?",
         "uid": "KxIE0RYxV"
       },
       {
         "create-email": "psas@motivationengineers.com",
         "create-time": 1604337282966,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604337282966,
-        "string": "",
+        "edit-time": 1604337333106,
+        "string": "The Self stuff today: Shopping at Safeway for milk would hijack, so just drop an extra dime and get it at the corner. ",
         "uid": "8s69mN0_L"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337509094,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337526054,
+        "string": "{{[[TODO]]}} Time box from 9:30 to 9;30pm",
+        "uid": "MfTS6u_AE"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604337526167,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604337526167,
+        "string": "",
+        "uid": "I6oHLTzsZ"
       }
     ],
     "edit-email": "psas@motivationengineers.com",

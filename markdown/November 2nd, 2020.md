@@ -6,5 +6,7 @@
 - Salesforce pitch: CBT/DBT bake in. 
 - My mac keyboard is quite clunky. I almost dropped it off to get repaired, but I am not set up to go 5 days without
 - Musical beds was mentioned by me at RCA last night. This am, during our kitchen flash Swedish check in, my ask of HP was to help us discuss this without animus.
-- Can I set ROAM to accept w/o w/o deflecting to a command?
+- Can I set ROAM to accept "w/o" w/o deflecting to a command?
+- The Self stuff today: Shopping at Safeway for milk would hijack, so just drop an extra dime and get it at the corner. 
+- {{[[TODO]]}} Time box from 9:30 to 9;30pm
 - 

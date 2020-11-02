@@ -1,6 +1,22 @@
 - [ ] Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
+- [ ] Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm
+- [ ] Ping Penny, poke Pam
+- [ ] Use and document CaCL 
+- [ ] Move red car to correct direction
+- [ ] keep drawing imperfectly
+- [ ] 10 mins a day on Touring Turing
+- [ ] BASB: Begin better note-taking on best books
+    - capture the Best of from TapeWorm (may be killed someday by Google)
+- [ ] Begin a list of Friends to whom I want to talk deliberately
+- [ ] Set up 20 mins for tonight to reply to DPA
+- [ ] Talk to Roger about harvesting my Garden - it's been 90-100 days
+- [ ] Metta toward mir for at least 2 mins
+- [ ] Write in blocks
+- [ ] keep up portfolio work
+- [ ] Deliberate on how to deliver spec work that will pull in clients
+- 
 - [x] Eat a frog - worst first 
     - [x] email deck to FEND'y
     - [x] Gusto prep [October 26th, 2020](<October 26th, 2020.md>)
@@ -8,7 +24,7 @@
 - [ ] Send at least 2 job apps 
     - (Hinge Health & JPMC & Slack on [October 27th, 2020](<October 27th, 2020.md>))
 - [ ] R coursera for 20+ mins 
-    - Look at KC/Austin/MPLS Craigslist tutor for $20/hour 
+    - Nobody at KC/Austin/MPLS Craigslist tutor for $20/hour 
     - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle face
@@ -58,6 +74,9 @@
 ## [Apologies](<Apologies.md>)
 - {{[TODO](<TODO.md>)}
 
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
 ## [October 16th, 2020](<October 16th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -94,10 +113,6 @@
 ## [October 26th, 2020](<October 26th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - # {{[TODO](<TODO.md>)}
 
@@ -116,6 +131,34 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

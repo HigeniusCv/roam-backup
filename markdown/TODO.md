@@ -1,6 +1,22 @@
 - {{[[TODO]]}} Time box 3 blocks of work/day, with specific content activities (3-4 Focusmates/day)
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
+- {{[[TODO]]}} Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm
+- {{[[TODO]]}} Ping Penny, poke Pam
+- {{[[TODO]]}} Use and document CaCL 
+- {{[[TODO]]}} Move red car to correct direction
+- {{[[TODO]]}} keep drawing imperfectly
+- {{[[TODO]]}} 10 mins a day on Touring Turing
+- {{[[TODO]]}} BASB: Begin better note-taking on best books
+    - capture the Best of from TapeWorm (may be killed someday by Google)
+- {{[[TODO]]}} Begin a list of Friends to whom I want to talk deliberately
+- {{[[TODO]]}} Set up 20 mins for tonight to reply to DPA
+- {{[[TODO]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days
+- {{[[TODO]]}} Metta toward mir for at least 2 mins
+- {{[[TODO]]}} Write in blocks
+- {{[[TODO]]}} keep up portfolio work
+- {{[[TODO]]}} Deliberate on how to deliver spec work that will pull in clients
+- 
 - {{[[DONE]]}} Eat a frog - worst first 
     - {{[[DONE]]}} email deck to FEND'y
     - {{[[DONE]]}} Gusto prep [[October 26th, 2020]]
@@ -8,7 +24,7 @@
 - {{[[TODO]]}} Send at least 2 job apps 
     - (Hinge Health & JPMC & Slack on [[October 27th, 2020]])
 - {{[[TODO]]}} R coursera for 20+ mins 
-    - Look at KC/Austin/MPLS Craigslist tutor for $20/hour 
+    - Nobody at KC/Austin/MPLS Craigslist tutor for $20/hour 
     - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle face

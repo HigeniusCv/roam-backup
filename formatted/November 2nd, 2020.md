@@ -8,5 +8,45 @@
 - Musical beds was mentioned by me at RCA last night. This am, during our kitchen flash Swedish check in, my ask of HP was to help us discuss this without animus.
 - Can I set ROAM to accept "w/o" w/o deflecting to a command?
 - The Self stuff today: Shopping at Safeway for milk would hijack, so just drop an extra dime and get it at the corner. 
+- After years of medicating with marijuana, in 2020 I went all in and became a cliche'd THC addict.  I spent strings of days getting high at the first bump in the road. The lockdown all but clinched my choice to bake my brain, and chase will-o-wispy fantasies spun from the highs. As you must know, pot today is similar only in name to what we did in college. By the summer's end, it became too obvious that getting high for "the duration of the lockdown" meant choosing to become an ancient w/o any intact memories.
+- I've always been irked by essentializing someone as an "addict", so I won't enact the trite self-blame that is associated with "recovery." I definitely didn't look to a 12-step to break the chain. I just stopped, since it was no longer interesting. Abstaining has been as liberating as the respite I felt when I quit smoking tobacco. The 2 weeks required to sweat it out were irksome enough to barricade any thought of going back 'just once.' [I realize this isn't even interesting to relate, now that the pixels have spilled out]
+- Actual deliberate achievements, rather than passive accidents:
+- 1- Practicing mindfulness, guided by the app Waking Up, has been a life quake. Two years in, there's no part of my life that isn't affected by the practice of just looking, nonjudgmentally, at what's in my mind. One of the first ahas, back in Nov 2018, was realizing that I didn't know what hunger felt like. I started intermittent fasting, and still do that a few times a week.
+- The academic year '17-18, Mir moved our family to Paris, and we lived in the Marais, which wasn't as bad as it sounds. I didn't find clients, even though I had a Shengen work visa through Miryam's Sorbonne affiliation. Most of my time was spent biking at least 5K km, with sporadic classes to learn French with other immigrants. My kids' public school education got them to be bilingual before Jan. My attitude toward eating in Paris was tres what-the-hell. When we returned in Aug 2018, I weighed 250. Now I weigh 200, which is doubtless still fat, but not quite as bad as previously
+- 2- My work, as a behavioral economist for hire, goes up and down. I spent almost the entirety of 2019 consulting for Uber, and watched the mad rollercoaster excesses of pre-IPO (leaf-blowing money everywhere), IPO (27-year-old millionaires dancing in conference rooms), and post-IPO (50% of the researchers were laid off). I've never seen so many smart people do so many stupid things. When Covid arrived, the work to behaviorally engineer more carpooling instantly became as irrelevant as having redecorated the NY baths just before the HIV epidemic. Carpooling has been canceled until body condoms cum vaccines proliferate.
+- 3- Family is fun. My kids had their Bar mitzvah's on Feb 15, as the very last in their cohort to do it in the old f2f format. There's a blessing the father used to say, which was precisely tuned to my sentiment: "I thank G-d that I have raised you to manhood, and from this day hence, I am free from fault if you ever fuck up." My kids gave speeches of which they felt proud ([archived here](https://beckettandyair.weebly.com/)).
+- They are so much more normal than I ever was. They have a posse of friends, who at this very minute are hanging out in the backyard, masked and socially distanced, while they talk about fantasy football and shoot hoops. I'd fully prepared myself to be frozen out of their lives around this time, but it's not nearly as harsh a separation as I'd expected. They actually express gratitude for things Miryam & I do for them, express aloud their love & affection, and are fully interesting to spend time with.
+- 4- Stoicism / CBT / DBT underpin my philosophical attitude. Just this morning, I woke up thinking that I should deliberately practice visualizing losing one or both of my kids to senseless violence. I couldn't hold the thought for long, but when bad things do happen, my first question is invariably "Why NOT me?"
+- 5- Even if pot is trite, psychedelics are becoming more widely appreciated. I am a donor to [MAPS](https://maps.org/), and they're funding research into MDA, psilocybin, and ketamine therapies. (Or as I like to think of it, replicating our education at Ridge Ave). Oakland effectively decriminalized mushrooms, and I belong to the entheogenic church called the [Zide door](https://zidedoor.com/)
+- I didn't get to know Roy West well - his position as head of the editorial team at Uber fed what appeared to be an already melancholic temperament. He lives in Berkeley, so I've seen him a couple of times, and if I do ever again, I'll relay your greetings from OZ.
+-  I've been persuaded by my approaching demise that friendships deliver much of value. Saying that reminded me of a sudden that, at least once in the Pig House, you explained how certain you were that diabetes would cut your life expectancy by a cruel margin. Well, here we are, and I'm older than I ever before wanted to be.
+- If you'd ever be open to join a once a decade Zoom chat, just give me a sign.
+- Wishing you the best
 - [ ] Time box from 9:30 to 9;30pm
-- 
+- Lynette Meeting 3pm [November 2nd, 2020](<November 2nd, 2020.md>)
+- __Plans for what you will do after the call. __
+    - Timeboxed week should be solidified
+    - Prepare contingencies around Election week; how much work should be pushed around? A: 2 to 4 hours / day if needed
+    - Prep shift from weekly to monthly check in - meet next Dec 4th 4pm
+    - Incorporate Nature into the work week
+- __If you didn’t complete some, why not? __
+    - Pretty on-track - Did timebox, have been managing distractions
+    - Gusto prep went well, but not a closer. Need to add a lot more exegesis to my portfolio
+    - R homework on track, although I still am not solid on Bayesian calculation. Hired a tutor to help with R
+    - Drawing as a respite has been fun
+    - Yak C generated interesting option: Hyperlink Academy course on Perceptual Evidence
+    - Fend isn’t happening fast enough. This week, I’m going to begin doing more spec work to pull in clients
+        - The briefcase technique https://medium.com/@RaghavHaran/how-to-get-virtually-any-job-you-want-even-if-you-dont-have-the-right-experience-a622149262d5
+    - Real writing (rather than journaling) is still getting pushed off the calendar. I should shrink the attempted blocks to 15 mins rather than full hour
+- What do you want to get out of this call?
+- __What would you like to talk about today? What would most increase your productivity this week?__
+    - Review how I’m timeboxing
+    - Incorporate Nature into the work week
+    - Map contingencies around Election week; how much work should be pushed around?
+    - Think about changing from weekly to monthly
+    - In our next call on 12/4, talk about longer term plans
+
+# Backlinks
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- Lynette Meeting 3pm [November 2nd, 2020](<November 2nd, 2020.md>)
+

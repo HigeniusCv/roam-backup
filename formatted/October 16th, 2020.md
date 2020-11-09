@@ -9,7 +9,7 @@
 - As for me, I'm doing more work but still not earning, just burning
 - [ ] Get experiment run
 - [x] send real emails to some contacts
-- [ ] Go fix screen cracks Nov 1st - set up a replacement for 5 biz days
+- [ ] Buy new Mac on 11/11 and then get old air screen cracks Nov 11st - set up a replacement for 5 biz days
     - decide whether to buy the iPhone 12Pro
         - it seems manic to spend 1k, but it also seems prudent to anticipate supply line disruptions
 - [x] Whittle twitter, as well as news, and feedly, down via the app Focus on chrome
@@ -30,7 +30,7 @@
         - Explore adding more people to my network during this
     - Apply to 5 job postings a week, or substitute more emails to sum to 20
 - [ ] Write on topic for 1 hour (~350 words) a day - Next week’s focus is Behavioral Design
-    - [ ] Publish before sundown 10/23
+    - [x] Publish before sundown 10/23
 - [ ] Update website with portfolio link and recent publications
     - Spend 3 hours (1 on Tues[October 20th, 2020](<October 20th, 2020.md>), 2 on Thurs[October 22nd, 2020](<October 22nd, 2020.md>))
 - [ ] Continue building experiment designed in GuidedTrack

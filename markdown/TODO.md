@@ -3,16 +3,16 @@
     - Buffer for run-over
 - {{[[DONE]]}} Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm
 - {{[[TODO]]}} Ping Penny, poke Pam
-- {{[[TODO]]}} Use and document CaCL 
+- {{[[DONE]]}} Use and document CaCL 
 - {{[[DONE]]}} Move red car to correct direction
-- {{[[TODO]]}} keep drawing imperfectly
+- {{[[DONE]]}} keep drawing imperfectly
 - {{[[TODO]]}} 10 mins a day on Touring Turing
 - {{[[TODO]]}} BASB: Begin better note-taking on best books
     - capture the Best of from TapeWorm (may be killed someday by Google)
 - {{[[TODO]]}} Begin a list of Friends to whom I want to talk deliberately
-- {{[[TODO]]}} Set up 20 mins for tonight to reply to DPA
+- {{[[DONE]]}} Set up 20 mins for tonight to reply to DPA
 - {{[[TODO]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days
-- {{[[TODO]]}} Metta toward mir for at least 2 mins
+- {{[[DONE]]}} Metta toward mir for at least 2 mins
 - {{[[TODO]]}} Write in blocks
 - {{[[TODO]]}} keep up portfolio work
 - {{[[TODO]]}} Deliberate on how to deliver spec work that will pull in clients
@@ -25,7 +25,7 @@
     - (Hinge Health & JPMC & Slack on [[October 27th, 2020]])
 - {{[[TODO]]}} R coursera for 20+ mins 
     - Nobody at KC/Austin/MPLS Craigslist tutor for $20/hour 
-    - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
+    - followed up with Wyzant - Miron for $33 was OK, trying another Bobashant tutor Thurs
 - {{[[TODO]]}} Draw for 5 mins 
     - [[October 13th, 2020]] did the circles with triangle face
     - [[October 28th, 2020]]Baby Beckett photo
@@ -64,8 +64,8 @@
     - [[October 15th, 2020]] equals tweet storm
 - {{[[DONE]]}} Pull together a list of 15 people - contact 3 each day
 - {{[[DONE]]}} Ricardo zoom at 11;30am
-- {{[[DONE]]}} No news or twitter until after dinner
+- {{[[TODO]]}} No news or twitter until after dinner
 - {{[[DONE]]}} Tiny Habits when (via email) 
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - {{[[DONE]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
-- {{[[DONE]]}} Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat 
+- {{[[TODO]]}} Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak 

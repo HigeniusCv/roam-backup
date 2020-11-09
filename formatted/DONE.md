@@ -8,6 +8,8 @@
 
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
 ## [October 1st, 2020](<October 1st, 2020.md>)
 - {{[DONE](<DONE.md>)}
 
@@ -152,6 +154,10 @@
 - {{[DONE](<DONE.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}

@@ -3,16 +3,16 @@
     - Buffer for run-over
 - [x] Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm
 - [ ] Ping Penny, poke Pam
-- [ ] Use and document CaCL 
+- [x] Use and document CaCL 
 - [x] Move red car to correct direction
-- [ ] keep drawing imperfectly
+- [x] keep drawing imperfectly
 - [ ] 10 mins a day on Touring Turing
 - [ ] BASB: Begin better note-taking on best books
     - capture the Best of from TapeWorm (may be killed someday by Google)
 - [ ] Begin a list of Friends to whom I want to talk deliberately
-- [ ] Set up 20 mins for tonight to reply to DPA
+- [x] Set up 20 mins for tonight to reply to DPA
 - [ ] Talk to Roger about harvesting my Garden - it's been 90-100 days
-- [ ] Metta toward mir for at least 2 mins
+- [x] Metta toward mir for at least 2 mins
 - [ ] Write in blocks
 - [ ] keep up portfolio work
 - [ ] Deliberate on how to deliver spec work that will pull in clients
@@ -25,7 +25,7 @@
     - (Hinge Health & JPMC & Slack on [October 27th, 2020](<October 27th, 2020.md>))
 - [ ] R coursera for 20+ mins 
     - Nobody at KC/Austin/MPLS Craigslist tutor for $20/hour 
-    - followed up with Wyzant - Miron for $33 was OK, trying another tutor this Thurs
+    - followed up with Wyzant - Miron for $33 was OK, trying another Bobashant tutor Thurs
 - [ ] Draw for 5 mins 
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle face
     - [October 28th, 2020](<October 28th, 2020.md>)Baby Beckett photo
@@ -64,11 +64,11 @@
     - [October 15th, 2020](<October 15th, 2020.md>) equals tweet storm
 - [x] Pull together a list of 15 people - contact 3 each day
 - [x] Ricardo zoom at 11;30am
-- [x] No news or twitter until after dinner
+- [ ] No news or twitter until after dinner
 - [x] Tiny Habits when (via email) 
 - [x] Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - [x] Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
-- [x] Put dinner plans in Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat 
+- [ ] Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak 
 
 # Backlinks
 ## [Apologies](<Apologies.md>)
@@ -77,9 +77,10 @@
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
-## [October 16th, 2020](<October 16th, 2020.md>)
+## [November 9th, 2020](<November 9th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
+## [October 16th, 2020](<October 16th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -131,10 +132,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

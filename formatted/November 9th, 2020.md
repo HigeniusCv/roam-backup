@@ -1,3 +1,3 @@
-- [[journal]]{{[[POMO]]: 10}}
+- [journal](<journal.md>){{[POMO](<POMO.md>): 10}}
 - Have not been writing in here regularly. Last week I was not paying Lynette to monitor my work, and it coincided with a certain piffling away of energy or focus.
 - I have been making progress with R, but not exactly 

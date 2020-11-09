@@ -17104,6 +17104,35 @@
     "title": "November 8th, 2020"
   },
   {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604942046052,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604942061137,
+        "props": {
+          "POMO": 1604942063444
+        },
+        "string": "[[journal]]{{[[POMO]]: 10}}",
+        "uid": "waIbYiNtE"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604942062107,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604942112769,
+        "string": "Have not been writing in here regularly. Last week I was not paying Lynette to monitor my work, and it coincided with a certain piffling away of energy or focus.",
+        "uid": "bLlKmc3h6"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1604942113976,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1604942145686,
+        "string": "I have been making progress with R, but not exactly clear about what would trigger a burned Benjamin",
+        "uid": "4VU4nWxLE"
+      }
+    ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1604882676095,
     "edit-email": "psas@motivationengineers.com",

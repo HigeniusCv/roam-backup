@@ -31,6 +31,7 @@
     - [[October 28th, 2020]]Baby Beckett photo
     - [[October 29th, 2020]]mannikin
 - {{[[TODO]]}} Update my website 
+    - Add exegesis (inspired by Ollie Khakwani)
     - Refine Portfolio to include more BEcon examples, and put up
     - publish to G-docs 
     - link that plus articles on my website

@@ -1,4 +1,4 @@
-- [[journal]]{{[[POMO]]: 15}}
+- [journal](<journal.md>){{[POMO](<POMO.md>): 15}}
 - Have been using paper this week, in order to time block the day. Still don't have enough lookahead to do an entire week. Also, even though it's bumped up significantly my work on my portfolio, finally annotated version of Sept work at Uber was updated to my blog yesterday. I need to do a bunch more of those. Varo could be expanded a lot. FEND and or MiracleGrow also can get a mention. Brand Research Questions and Flow also worthy of sharing.
 - Exercise has been adequate. Almost everyday I've closed my rings, biking to Cordonices or Indian Rock or just to the top of Cedar. It still daunts me to go striaght uphill so it's not as if I'm so strong I don't feel the burn instantly on inclines. Goal is to ascend Marin before the years end.
 - Lynette Rationalist meetings have earned their expense ($150).

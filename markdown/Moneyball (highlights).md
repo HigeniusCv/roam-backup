@@ -1,0 +1,6 @@
+- Author:: [[Michael Lewis]]
+- Full Title:: Moneyball
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41ScS8WJPxL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - Understanding that he would never have a Yankee-sized checkbook, the Oakland A’s general manager, Billy Beane, had set about ([Location 144](https://readwise.io/to_kindle?action=open&asin=B000RH0C8G&location=144))

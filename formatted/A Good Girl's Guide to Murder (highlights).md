@@ -1,0 +1,5 @@
+- **[Author](<Author.md>):** [Holly Jackson](<Holly Jackson.md>)
+- **[Full Title](<Full Title.md>):** A Good Girl's Guide to Murder
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - home. He came to Pip’s bedroom at around eight and told her that they were going off on another search ([Location 3769](https://readwise.io/to_kindle?action=open&asin=B07T3XJH4Z&location=3769))

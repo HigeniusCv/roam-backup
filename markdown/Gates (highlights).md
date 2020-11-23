@@ -1,0 +1,6 @@
+- Author:: [[Stephen Manes, Paul Andrews]]
+- Full Title:: Gates
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51wAVG4hN3L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - report on ([Location 79](https://readwise.io/to_kindle?action=open&asin=B00CB14A1Q&location=79))

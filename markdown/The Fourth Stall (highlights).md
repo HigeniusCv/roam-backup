@@ -1,0 +1,6 @@
+- Author:: [[Chris Rylander]]
+- Full Title:: The Fourth Stall
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41X-mZdZBUL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - of the bullies at our school. Actually, he is the king of everybody. No one messes with Kitten, not even me. But he doesn’t cause a lot of problems either. I have to hire Kitten a lot to keep total control over the other bullies. If one of them ever gets too tough or mean, then ([Location 979](https://readwise.io/to_kindle?action=open&asin=B0043M6IXY&location=979))

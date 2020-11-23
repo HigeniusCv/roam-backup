@@ -1,0 +1,6 @@
+- Author:: [[Shane Parrish and Rhiannon Beaubien]]
+- Full Title:: The Great Mental Models Volume 2
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/418v9qmQh4L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - to make better ([Location 81](https://readwise.io/to_kindle?action=open&asin=B085HY11NF&location=81))

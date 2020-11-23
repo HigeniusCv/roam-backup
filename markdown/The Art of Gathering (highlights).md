@@ -1,0 +1,6 @@
+- Author:: [[Priya Parker]]
+- Full Title:: The Art of Gathering
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51MBOwpF0AL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - THE AUTHOR ([Location 37](https://readwise.io/to_kindle?action=open&asin=B07637KVXL&location=37))

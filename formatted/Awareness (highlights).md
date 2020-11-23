@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Anthony De Mello and J. Francis Stroud](<Anthony De Mello and J. Francis Stroud.md>)
+- **[Full Title](<Full Title.md>):** Awareness
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41jrGb5W-qL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - When you fight something, you’re tied to it forever. As long as you’re fighting it, you are giving it power. You give it as much power as you are using to fight it. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B005GFBP6W&location=227))
+    - it’s infinitely more important for me to listen to me than to listen to you. Of course, it’s important to listen to you, but it’s more important that I listen to me. Otherwise I won’t be hearing you. Or I’ll be distorting everything you say. ([Location 923](https://readwise.io/to_kindle?action=open&asin=B005GFBP6W&location=923))

@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Karen M. McManus](<Karen M. McManus.md>)
+- **[Full Title](<Full Title.md>):** One of Us Is Lying
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51bf8Y%2BS7DL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - amber eyes steady on mine. “All ([Location 3504](https://readwise.io/to_kindle?action=open&asin=B01M98J44U&location=3504))

@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Søren Kierkegaard and Gordon Marino](<Søren Kierkegaard and Gordon Marino.md>)
+- **[Full Title](<Full Title.md>):** The Quotable Kierkegaard
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41PgnuQX0NL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - Hegel and other intellectual system builders “are like a man who has built a vast palace while he himself lives next door.” Writing in his journal, Kierkegaard insists, “Spiritually, a man’s thoughts must be the building in which he lives—otherwise it is wrong” ([Location 97](https://readwise.io/to_kindle?action=open&asin=B00F8MIJJ4&location=97))

@@ -1,0 +1,25 @@
+- Author:: [[Sam Wasson]]
+- Full Title:: Improv Nation
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51T49lvb8NL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - Close would recall, “kind of caught on that I thought some kind of secret shit was going on.” Stepping around the bar, the old man led Del—the incipient mad scientist of improvisation—to his first lesson in freedom. From inside a glass-door bookcase, Grandpa removed a leather-bound copy of Hamlet, and put it in the boy’s hands.   Back now to Viola, the teacher, the social worker, the bringer-together. She met and married Ed Spolin in 1940, while they were at work for the Chicago WPA; he was a set designer, she a theater director at the WPA’s Recreation Project, by that time divorced and with two teenage sons, Paul and William Sills (when they wed, her husband had taken her surname). Expanding on her earlier efforts at Hull House, Viola was formulating techniques to help disparate populations dramatize their shared problems. By then, she had developed a format. First she would split her players into two groups. The performing group would decide on a subject worthy of improvisation, play for two or three scenes for the second group, their audience, who in turn would respond to the scenes with feedback. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=128))
+        - **Note**: Improv 4 psychology
+    - In 1940, in Chicago, Viola introduced the notion of audience suggestions. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=138))
+    - games Viola designed to release spontaneity. Games were for rehearsal, intended to help the players—Viola became weary of the term “actor”—apply their full selves to traditional scripted performances. “The games were really what the whole class was,” ([Location 148](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=148))
+        - **Note**: Games were the class
+    - didn’t call them theater games at the time. She called them improvisations.” ([Location 150](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=150))
+    - it was the games, not the teacher, that instructed. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=151))
+    - “teacher” could introduce what she called approval/disapproval syndrome and inhibit spontaneity. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=152))
+    - not to become a rule maker but rather a diagnostician, prescribing a specific game to each actor to address a specific interpersonal block. Was a player struggling to relate physically with the others? Have him play Contact! (in ([Location 153](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=153))
+    - thinking too much? Play Mirror! (Mirroring someone else, you stop thinking about yourself.) ([Location 155](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=155))
+    - “She was creating them on us, with us.” ([Location 156](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=156))
+    - give the players a Who, Where, and a What, and have them figure out the How, ([Location 156](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=156))
+    - when their commitment to the improvised reality broke: “Focus!” ([Location 159](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=159))
+    - Focus on the game was essential. Actually doing, not thinking or feeling, was the way to freedom. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=161))
+    - vanquish his everyday anxieties and habitual pasts and emerge with new selves, reborn in the moment. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=163))
+    - “Out of your head and into the space!” ([Location 163](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=163))
+        - **Note**: What is the space in a zoom
+    - form of breaking the ego,” ([Location 166](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=166))
+    - “You can’t play tag alone!” ([Location 167](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=167))
+    - was ([Location 173](https://readwise.io/to_kindle?action=open&asin=B01MY0PYJY&location=173))

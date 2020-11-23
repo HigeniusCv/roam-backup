@@ -1,0 +1,7 @@
+- Author:: [[Arthur R. Kroeber]]
+- Full Title:: China's Economy
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51DyXOFQLDL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - that the Communist Party of the Soviet Union (CPSU) fell for four main reasons: •  The economy did not grow fast enough, leading to frustration and resentment, and this failure resulted from insufficient use of market mechanisms. •  The CPSU’s propaganda and information systems were too closed and ideologically rigid, preventing officials from getting accurate and timely knowledge about conditions both inside and outside the Soviet Union. •  Decision-making was far too centralized, and hence far too slow. •  Once reforms started under Gorbachev, they undermined the core principle of the party’s absolute monopoly on political power.14 ([Location 240](https://readwise.io/to_kindle?action=open&asin=B01D08ER7U&location=240))
+    - three countries had experienced sustained ([Location 259](https://readwise.io/to_kindle?action=open&asin=B01D08ER7U&location=259))

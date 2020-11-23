@@ -1,0 +1,5 @@
+- Author:: [[Peter Andreas]]
+- Full Title:: Killer High
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - about the 1992–1995 siege of Sarajevo, ([Location 46](https://readwise.io/to_kindle?action=open&asin=B081JYR8R1&location=46))

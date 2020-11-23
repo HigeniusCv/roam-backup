@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Priya Parker](<Priya Parker.md>)
+- **[Full Title](<Full Title.md>):** The Art of Gathering
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51MBOwpF0AL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - THE AUTHOR ([Location 37](https://readwise.io/to_kindle?action=open&asin=B07637KVXL&location=37))

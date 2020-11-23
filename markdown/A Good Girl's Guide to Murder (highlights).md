@@ -1,0 +1,5 @@
+- Author:: [[Holly Jackson]]
+- Full Title:: A Good Girl's Guide to Murder
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - home. He came to Pip’s bedroom at around eight and told her that they were going off on another search ([Location 3769](https://readwise.io/to_kindle?action=open&asin=B07T3XJH4Z&location=3769))

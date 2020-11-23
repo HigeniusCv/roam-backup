@@ -1,0 +1,5 @@
+- Author:: [[Ray Mcnulty]]
+- Full Title:: Apex Legends Ultimate Guide
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - Ѕhіеlds уоu mау hаvе, аnd dеаls оnlу Неаlth dаmаgе tо уоu, whісh mаkеs іt vеrу іmроrtаnt thаt уоu еіthеr stау wіthіn thе Rіng оr brіng еnоugh Арех Lеgеnds hеаlіng іtеms tо kеер уоursеlf аlіvе durіng уоur fоrауs thrоugh thіs dаmаgе zоnе. ([Location 3387](https://readwise.io/to_kindle?action=open&asin=B07NSL9RFQ&location=3387))

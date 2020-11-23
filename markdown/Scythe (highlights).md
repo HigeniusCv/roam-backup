@@ -1,0 +1,7 @@
+- Author:: [[Neal Shusterman]]
+- Full Title:: Scythe
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/513DK4WQymL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - Gerald Van Der Gans. ([Location 3634](https://readwise.io/to_kindle?action=open&asin=B01BKR487W&location=3634))
+        - **Note**: Name of perslkn who killed sythe faraday

@@ -1,0 +1,5 @@
+- **[Author](<Author.md>):** [David Werner, Carol Thuman, Jane Maxwell](<David Werner, Carol Thuman, Jane Maxwell.md>)
+- **[Full Title](<Full Title.md>):** Where There Is No Doctor
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - several possibilities for treatment. For many ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00CYQARUQ&location=502))

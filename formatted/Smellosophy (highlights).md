@@ -1,0 +1,5 @@
+- **[Author](<Author.md>):** [A. S. Barwich](<A. S. Barwich.md>)
+- **[Full Title](<Full Title.md>):** Smellosophy
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - Which organic sense is the most ungrateful and also seems the most dispensable? The sense of smell. It does not pay to cultivate it or to refine it at all in order to enjoy; for there are more disgusting objects than pleasant ones (especially in crowded places), ([Location 63](https://readwise.io/to_kindle?action=open&asin=B082DKRPTL&location=63))

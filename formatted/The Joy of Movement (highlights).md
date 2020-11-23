@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Kelly McGonigal](<Kelly McGonigal.md>)
+- **[Full Title](<Full Title.md>):** The Joy of Movement
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41t58TCNzzL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - Our project for the course was to take action on something that was important to us but that we had avoided out of fear or self-doubt. ([Location 61](https://readwise.io/to_kindle?action=open&asin=B07Q4LY2CV&location=61))
+    - teaching has become a source of tremendous joy and meaning. ([Location 76](https://readwise.io/to_kindle?action=open&asin=B07Q4LY2CV&location=76))

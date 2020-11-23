@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Stephen Manes, Paul Andrews](<Stephen Manes, Paul Andrews.md>)
+- **[Full Title](<Full Title.md>):** Gates
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51wAVG4hN3L._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - report on ([Location 79](https://readwise.io/to_kindle?action=open&asin=B00CB14A1Q&location=79))

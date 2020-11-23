@@ -1,0 +1,5 @@
+- **[Author](<Author.md>):** [Jeff Pearlman](<Jeff Pearlman.md>)
+- **[Full Title](<Full Title.md>):** Three-Ring Circus
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - teed off. In particular Charles Barkley, the Phoenix ([Location 947](https://readwise.io/to_kindle?action=open&asin=B081TTYZ6B&location=947))

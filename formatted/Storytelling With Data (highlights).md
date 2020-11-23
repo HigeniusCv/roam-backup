@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Cole Nussbaumer Knaflic](<Cole Nussbaumer Knaflic.md>)
+- **[Full Title](<Full Title.md>):** Storytelling With Data
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41M8UKaaO1L._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - designer Lesson 6: tell a story In closing ([Location 102](https://readwise.io/to_kindle?action=open&asin=B016DHQSM2&location=102))

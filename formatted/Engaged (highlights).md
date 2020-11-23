@@ -1,0 +1,10 @@
+- **[Author](<Author.md>):** [Amy Bucher](<Amy Bucher.md>)
+- **[Full Title](<Full Title.md>):** Engaged
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - because I have one, is if you need a Ph.D. to do behavior change design. The answer is no. Some of the most talented behavior change designers I know do not have a Ph.D.; ([Location 336](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=336))
+    - There was also an “online, self-paced wellness challenge”; however, no description was offered of how it was designed or what it included. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=372))
+    - For starters, most HRAs don’t provide feedback that would help people choose the right behavior change programs; ([Location 377](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=377))
+    - a lack of variety in the programs offered, with an emphasis on group classes. People who hate group activities were highly unlikely to enroll ([Location 379](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=379))
+    - linking repeated behaviors, like new health habits, to financial rewards is a great way to make sure that people don’t develop an intrinsic interest ([Location 380](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=380))
+    - behavior change design includes: • A process for designing and building products that incorporate research and evidence • Access to frameworks and theories to help leverage proven techniques within products • Tools to define and track product success metrics ([Location 389](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=389))

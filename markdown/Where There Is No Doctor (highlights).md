@@ -1,0 +1,5 @@
+- Author:: [[David Werner, Carol Thuman, Jane Maxwell]]
+- Full Title:: Where There Is No Doctor
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - several possibilities for treatment. For many ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00CYQARUQ&location=502))

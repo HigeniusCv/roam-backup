@@ -1,0 +1,5 @@
+- Author:: [[Nic Stone]]
+- Full Title:: Jackpot
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - “Yeah…but she didn’t know about ([Location 1010](https://readwise.io/to_kindle?action=open&asin=B07N5HN2VD&location=1010))

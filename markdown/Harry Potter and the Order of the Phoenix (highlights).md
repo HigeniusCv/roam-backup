@@ -1,0 +1,6 @@
+- Author:: [[J.K. Rowling]]
+- Full Title:: Harry Potter and the Order of the Phoenix
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51-zRYQweBL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - if he had only opened his mind to the possibility that Voldemort ([Location 11993](https://readwise.io/to_kindle?action=open&asin=B0192CTMXM&location=11993))

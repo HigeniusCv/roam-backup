@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Phil Zuckerman](<Phil Zuckerman.md>)
+- **[Full Title](<Full Title.md>):** Living the Secular Life
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/413DHJqZW7L._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - immoral to boot. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B00INIQQEA&location=112))

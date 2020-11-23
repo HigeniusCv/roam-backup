@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [J.K. Rowling](<J.K. Rowling.md>)
+- **[Full Title](<Full Title.md>):** Harry Potter and the Chamber of Secrets
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OZerWcGCL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - class, Professor McGonagall told them that their exams ([Location 3511](https://readwise.io/to_kindle?action=open&asin=B0192CTMW8&location=3511))

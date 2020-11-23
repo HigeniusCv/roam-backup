@@ -1,0 +1,5 @@
+- Author:: [[Sarah Nadav]]
+- Full Title:: What the F*CK Should I Do Now?
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - finally had ([Location 91](https://readwise.io/to_kindle?action=open&asin=B08DHWKFB4&location=91))

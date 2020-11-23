@@ -1,0 +1,7 @@
+- Author:: [[Neal Shusterman]]
+- Full Title:: Thunderhead
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51DR3iyLyWL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - “Then please change my annoyance level to nine.” ([Location 1264](https://readwise.io/to_kindle?action=open&asin=B074ZLLFYP&location=1264))
+        - **Note**: Funny

@@ -1,0 +1,6 @@
+- Author:: [[Cole Nussbaumer Knaflic]]
+- Full Title:: Storytelling With Data
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41M8UKaaO1L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - designer Lesson 6: tell a story In closing ([Location 102](https://readwise.io/to_kindle?action=open&asin=B016DHQSM2&location=102))

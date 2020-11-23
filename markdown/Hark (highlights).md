@@ -1,0 +1,7 @@
+- Author:: [[Sam Lipsyte]]
+- Full Title:: Hark
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - It wasn’t that Hark had the answer. It was more that he didn’t. All he possessed, he claimed, were a few tricks, or tips, to help people focus. ([Location 18](https://readwise.io/to_kindle?action=open&asin=B07GNTDC4Q&location=18))
+    - Her supervisor, Cal Kronstadt, possesses what Tovah knows the business community deems leadership qualities, meaning he’s equal parts fool and lout, a human facsimile on a ceaseless quest to collect his salary and cover his butt. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B07GNTDC4Q&location=201))
+    - they imagined parenthood to be was more like a film montage with a baby in it. They were maybe pitching each other a movie that would star the two of them and an as-yet-uncast infant and in this film they would love each other and the child and even learn to love the sofa in a sober fashion. Riding this wave of undeniable creative momentum, excited as Hollywood executives about the ([Location 370](https://readwise.io/to_kindle?action=open&asin=B07GNTDC4Q&location=370))

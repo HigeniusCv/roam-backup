@@ -1,0 +1,10 @@
+- Author:: [[Michael Holley]]
+- Full Title:: War Room
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51MZCaDtFNL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - just knew they had planted seeds for ([Location 1057](https://readwise.io/to_kindle?action=open&asin=B004W2ZOIK&location=1057))
+    - Coaches didn’t escape jokes, either. When Steve Belichick was in town ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B004W2ZOIK&location=1107))
+    - on offense wasn’t all that dissimilar ([Location 1544](https://readwise.io/to_kindle?action=open&asin=B004W2ZOIK&location=1544))
+    - Mangini. Lerner asked Pioli flatout if he could work with Mangini. ([Location 2903](https://readwise.io/to_kindle?action=open&asin=B004W2ZOIK&location=2903))
+    - Belichick settled into his chair, in a room where the trading ([Location 3510](https://readwise.io/to_kindle?action=open&asin=B004W2ZOIK&location=3510))

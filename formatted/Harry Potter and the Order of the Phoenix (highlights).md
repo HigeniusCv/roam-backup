@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [J.K. Rowling](<J.K. Rowling.md>)
+- **[Full Title](<Full Title.md>):** Harry Potter and the Order of the Phoenix
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51-zRYQweBL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - if he had only opened his mind to the possibility that Voldemort ([Location 11993](https://readwise.io/to_kindle?action=open&asin=B0192CTMXM&location=11993))

@@ -1,0 +1,5 @@
+- Author:: [[Frank Wilderson]]
+- Full Title:: Afropessimism
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - spooling onto the hood of my car. Then, without ([Location 77](https://readwise.io/to_kindle?action=open&asin=B07TKZYVZ1&location=77))

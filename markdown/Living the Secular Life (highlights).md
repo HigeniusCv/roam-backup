@@ -1,0 +1,6 @@
+- Author:: [[Phil Zuckerman]]
+- Full Title:: Living the Secular Life
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/413DHJqZW7L._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - immoral to boot. ([Location 112](https://readwise.io/to_kindle?action=open&asin=B00INIQQEA&location=112))

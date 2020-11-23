@@ -1,0 +1,10 @@
+- Author:: [[Jeff Pearlman]]
+- Full Title:: Sweetness
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51uPvp1VlJL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - Jackson State. “This team,” he said, “is deserving of the full attention ([Location 1937](https://readwise.io/to_kindle?action=open&asin=B0052RDJ40&location=1937))
+    - Holmes nodded. The problem was, he wasn’t quite sure what his client should do. Payton had already skipped his introductory press ([Location 2539](https://readwise.io/to_kindle?action=open&asin=B0052RDJ40&location=2539))
+    - This was the first time many teammates were exposed ([Location 4063](https://readwise.io/to_kindle?action=open&asin=B0052RDJ40&location=4063))
+    - off. “Payton is acting like a very hollow person these days,” ([Location 4071](https://readwise.io/to_kindle?action=open&asin=B0052RDJ40&location=4071))
+    - enormous. “He wanted that record.” ([Location 4969](https://readwise.io/to_kindle?action=open&asin=B0052RDJ40&location=4969))

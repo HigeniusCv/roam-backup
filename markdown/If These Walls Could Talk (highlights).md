@@ -1,0 +1,6 @@
+- Author:: [[Dave Wyman, Bob Condotta, and Dave Krieg]]
+- Full Title:: If These Walls Could Talk
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - they had a bye week in which they traded ([Location 837](https://readwise.io/to_kindle?action=open&asin=B07QMFVW8X&location=837))
+    - three ([Location 2674](https://readwise.io/to_kindle?action=open&asin=B07QMFVW8X&location=2674))

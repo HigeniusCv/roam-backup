@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Gabe Habash](<Gabe Habash.md>)
+- **[Full Title](<Full Title.md>):** Stephen Florida
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OLSivJhCL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - note’s at ([Location 138](https://readwise.io/to_kindle?action=open&asin=B06XKYRKWQ&location=138))

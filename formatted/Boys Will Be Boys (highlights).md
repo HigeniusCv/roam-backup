@@ -1,0 +1,8 @@
+- **[Author](<Author.md>):** [Jeff Pearlman](<Jeff Pearlman.md>)
+- **[Full Title](<Full Title.md>):** Boys Will Be Boys
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51ZKsN73ZxL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - Holt a No. 2 and 3 in 1992; Stewart a No. 2 in 1990. If any of the players were not on the Cowboys’ ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B001F76U0G&location=1130))
+    - East. Away from the field, though, Switzer had his hands full trying to ([Location 4747](https://readwise.io/to_kindle?action=open&asin=B001F76U0G&location=4747))
+    - was not Irvin or Sanders or Newton or Lett but Barry Switzer, fifty-eight-year-old ([Location 5161](https://readwise.io/to_kindle?action=open&asin=B001F76U0G&location=5161))

@@ -1,0 +1,6 @@
+- Author:: [[James Owen Weatherall]]
+- Full Title:: Void
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51SG0ztcYTL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - has changed with the advent of ([Location 74](https://readwise.io/to_kindle?action=open&asin=B01M68OBVS&location=74))

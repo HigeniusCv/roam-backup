@@ -1,0 +1,5 @@
+- Author:: [[Mark  Schlabach]]
+- Full Title:: Inseparable
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - toward my team’s sideline, holding the ball up in the air with my right hand. I wanted to make sure the ([Location 744](https://readwise.io/to_kindle?action=open&asin=B07MQNH8TJ&location=744))

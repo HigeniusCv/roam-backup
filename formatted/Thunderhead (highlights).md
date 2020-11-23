@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Neal Shusterman](<Neal Shusterman.md>)
+- **[Full Title](<Full Title.md>):** Thunderhead
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51DR3iyLyWL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - “Then please change my annoyance level to nine.” ([Location 1264](https://readwise.io/to_kindle?action=open&asin=B074ZLLFYP&location=1264))
+        - **Note**: Funny

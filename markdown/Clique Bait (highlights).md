@@ -1,0 +1,5 @@
+- Author:: [[Ann Valett]]
+- Full Title:: Clique Bait
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - and opened the door, revealing a ([Location 3175](https://readwise.io/to_kindle?action=open&asin=B07VT2Y5CR&location=3175))

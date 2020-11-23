@@ -1,0 +1,5 @@
+- **[Author](<Author.md>):** [Frank Wilderson](<Frank Wilderson.md>)
+- **[Full Title](<Full Title.md>):** Afropessimism
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - spooling onto the hood of my car. Then, without ([Location 77](https://readwise.io/to_kindle?action=open&asin=B07TKZYVZ1&location=77))

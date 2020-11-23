@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Jerry Brewer](<Jerry Brewer.md>)
+- **[Full Title](<Full Title.md>):** Pass Judgment
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/517f5QkrVNL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - watching the fan base flaunt success with the ([Location 177](https://readwise.io/to_kindle?action=open&asin=B01ATSX1W6&location=177))

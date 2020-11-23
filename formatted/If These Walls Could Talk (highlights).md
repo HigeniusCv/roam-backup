@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Dave Wyman, Bob Condotta, and Dave Krieg](<Dave Wyman, Bob Condotta, and Dave Krieg.md>)
+- **[Full Title](<Full Title.md>):** If These Walls Could Talk
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - they had a bye week in which they traded ([Location 837](https://readwise.io/to_kindle?action=open&asin=B07QMFVW8X&location=837))
+    - three ([Location 2674](https://readwise.io/to_kindle?action=open&asin=B07QMFVW8X&location=2674))

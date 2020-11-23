@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [James Owen Weatherall](<James Owen Weatherall.md>)
+- **[Full Title](<Full Title.md>):** Void
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51SG0ztcYTL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - has changed with the advent of ([Location 74](https://readwise.io/to_kindle?action=open&asin=B01M68OBVS&location=74))

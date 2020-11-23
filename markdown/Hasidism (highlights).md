@@ -1,0 +1,7 @@
+- Author:: [[David Biale, David Assaf, Benjamin Brown, Uriel Gellman, Samuel Heilman, Moshe Rosman, Gadi Sagiv, M...]]
+- Full Title:: Hasidism
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - ENLIGHTENMENT and of the American and French Revolutions: the dawn of the modern world. But it was also the century of the Great Religious Awakening in North America, of Pietism in Germany, and of the split in the Russian Orthodox Church between Reformers and Old Believers. ([Location 330](https://readwise.io/to_kindle?action=open&asin=B076B4XN1X&location=330))
+    - southeastern corner of the Polish-Lithuanian ([Location 337](https://readwise.io/to_kindle?action=open&asin=B076B4XN1X&location=337))
+    - modest ([Location 340](https://readwise.io/to_kindle?action=open&asin=B076B4XN1X&location=340))

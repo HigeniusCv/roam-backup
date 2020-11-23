@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Tao Lin](<Tao Lin.md>)
+- **[Full Title](<Full Title.md>):** Taipei
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51S7Ievw7hL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - than his previous girlfriends— ([Location 59](https://readwise.io/to_kindle?action=open&asin=B00ALBR204&location=59))
+    - tentative ([Location 64](https://readwise.io/to_kindle?action=open&asin=B00ALBR204&location=64))

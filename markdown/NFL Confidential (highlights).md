@@ -1,0 +1,7 @@
+- Author:: [[Johnny Anonymous]]
+- Full Title:: NFL Confidential
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OtvJDpkiL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - other words, they’re gonna run the shit out of all the offensive linemen and see who collapses first. ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00WR18RIM&location=290))
+    - Turns out Jovan the Preacher is a big fan. Dante even ([Location 3310](https://readwise.io/to_kindle?action=open&asin=B00WR18RIM&location=3310))

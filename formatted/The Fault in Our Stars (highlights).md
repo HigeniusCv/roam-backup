@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [John Green](<John Green.md>)
+- **[Full Title](<Full Title.md>):** The Fault in Our Stars
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51dezgvr%2B7L._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - word pedophile? You are so busy being you ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B005ZOBNOI&location=1353))

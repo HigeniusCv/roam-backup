@@ -1,0 +1,9 @@
+- Author:: [[Abu Bakr al Rabeeah, Winnie Yeung]]
+- Full Title:: Homes
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - knew that sound from my video games…bullets? My heart froze. As I frantically craned my neck to see what was happening, glass rained down on the congregation. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B07C328S4V&location=293))
+    - voices all around me kept the sanctity of the final prayer, as worshippers had done for centuries. Not a single soul broke concentration, their prayers even more intense and fervent as the bullets sung high above our heads. A quiet ([Location 297](https://readwise.io/to_kindle?action=open&asin=B07C328S4V&location=297))
+    - was clear, ([Location 356](https://readwise.io/to_kindle?action=open&asin=B07C328S4V&location=356))
+    - many whispers of neighbours and friends being interrogated by the police. People would disappear for days, only to turn up in a jail somewhere bloodied and bruised. You had to be so careful of what you said. We were afraid of saying anything in ([Location 356](https://readwise.io/to_kindle?action=open&asin=B07C328S4V&location=356))
+    - intimidating. Our Facebook feeds were filled with pictures of these preening thugs with their crew cuts, thick beards, and flexed biceps. ([Location 363](https://readwise.io/to_kindle?action=open&asin=B07C328S4V&location=363))

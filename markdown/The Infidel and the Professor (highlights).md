@@ -1,0 +1,7 @@
+- Author:: [[Dennis C. Rasmussen]]
+- Full Title:: The Infidel and the Professor
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51LTM-4siNL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - James Watt of steam engine ([Location 299](https://readwise.io/to_kindle?action=open&asin=B071XY9VKZ&location=299))
+    - their communities. With only a ([Location 303](https://readwise.io/to_kindle?action=open&asin=B071XY9VKZ&location=303))

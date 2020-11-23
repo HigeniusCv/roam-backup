@@ -1,0 +1,5 @@
+- Author:: [[Filip Bondy]]
+- Full Title:: Tip-Off
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - role at shooting guard. That didn’t happen, and the notion of choosing ([Location 3317](https://readwise.io/to_kindle?action=open&asin=B009SAV6ZQ&location=3317))

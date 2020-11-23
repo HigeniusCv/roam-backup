@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [John Feinstein](<John Feinstein.md>)
+- **[Full Title](<Full Title.md>):** Next Man Up
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/41-5BAVN5HL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - anymore, I’m not going to cry anymore. I’m going to wait and see what ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B000SF8860&location=2206))

@@ -1,0 +1,5 @@
+- **[Author](<Author.md>):** [Sarah Nadav](<Sarah Nadav.md>)
+- **[Full Title](<Full Title.md>):** What the F*CK Should I Do Now?
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - finally had ([Location 91](https://readwise.io/to_kindle?action=open&asin=B08DHWKFB4&location=91))

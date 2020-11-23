@@ -1,0 +1,6 @@
+- Author:: [[Neal Shusterman]]
+- Full Title:: The Toll
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/517PsnK17hL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - wind kept shifting, making it impossible to ignore the ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B07P5J5YLK&location=1201))

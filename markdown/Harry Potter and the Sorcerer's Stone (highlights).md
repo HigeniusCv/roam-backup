@@ -1,0 +1,6 @@
+- Author:: [[J.K. Rowling]]
+- Full Title:: Harry Potter and the Sorcerer's Stone
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51U6bQbA8oL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - the next day, looking tired but perfectly cheerful. Indeed, by the next morning Harry ([Location 2008](https://readwise.io/to_kindle?action=open&asin=B0192CTMYG&location=2008))

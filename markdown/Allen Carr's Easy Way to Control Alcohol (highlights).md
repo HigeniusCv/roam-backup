@@ -1,0 +1,8 @@
+- Author:: [[Allen Carr]]
+- Full Title:: Allen Carr's Easy Way to Control Alcohol
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51xyHmpDvUL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - ‘exhilaration’? If you did try it, do you think you ([Location 695](https://readwise.io/to_kindle?action=open&asin=B07B7QRWTH&location=695))
+    - an estimated average. You can do your own estimate ([Location 706](https://readwise.io/to_kindle?action=open&asin=B07B7QRWTH&location=706))
+    - your brain doesn’t. That’s why you decided to ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B07B7QRWTH&location=1302))

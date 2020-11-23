@@ -1,0 +1,6 @@
+- Author:: [[John Feinstein]]
+- Full Title:: Next Man Up
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/41-5BAVN5HL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - anymore, I’m not going to cry anymore. I’m going to wait and see what ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B000SF8860&location=2206))

@@ -17,3 +17,5 @@
     - ALTRUISM Before we move ([Location 411](https://readwise.io/to_kindle?action=open&asin=B077GZT9Q1&location=411))
         - **Tags**: #[[blue]]
     - alpha male, for example, almost never tries to replace the gamma male from guard duty; instead the alpha directs all of his competitive energies toward the beta. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B077GZT9Q1&location=434))
+- ### New highlights added [[November 23rd, 2020]] at 9:19 AM
+    - Knowledge suppression is useful only when two conditions are met: (1) when others have partial visibility into your mind; and (2) when they’re judging you, and meting out rewards or punishments, based on what they “see” in your mind. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B077GZT9Q1&location=457))

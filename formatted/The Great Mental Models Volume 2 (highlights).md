@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Shane Parrish and Rhiannon Beaubien](<Shane Parrish and Rhiannon Beaubien.md>)
+- **[Full Title](<Full Title.md>):** The Great Mental Models Volume 2
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/418v9qmQh4L._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 23rd, 2020](<November 23rd, 2020.md>)
+    - to make better ([Location 81](https://readwise.io/to_kindle?action=open&asin=B085HY11NF&location=81))

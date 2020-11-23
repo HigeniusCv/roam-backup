@@ -1,0 +1,5 @@
+- Author:: [[Jeff Burger]]
+- Full Title:: Dylan on Dylan
+- Category:: #books
+- ### Highlights first synced by #Readwise [[November 23rd, 2020]]
+    - Cowboy styles I learned from real cowboys. Can’t remember their names. Met some in Cheyenne [Wyoming]. Cowboys nowadays go to Cowboy movies and sit there and criticize. ([Location 238](https://readwise.io/to_kindle?action=open&asin=B0764JF2L2&location=238))

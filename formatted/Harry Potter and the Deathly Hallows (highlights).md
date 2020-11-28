@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [J.K. Rowling](<J.K. Rowling.md>)
+- **[Full Title](<Full Title.md>):** Harry Potter and the Deathly Hallows
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51OQVtEhvrL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 28th, 2020](<November 28th, 2020.md>)
+    - could not see him, and said, “Yeah.” But he thought of Ginny, ([Location 2127](https://readwise.io/to_kindle?action=open&asin=B0192CTMWS&location=2127))

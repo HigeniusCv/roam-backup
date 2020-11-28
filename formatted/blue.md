@@ -11,6 +11,9 @@
 
 - **Tags**: #[blue](<blue.md>)
 
+## [Taste (highlights)](<Taste (highlights).md>)
+- **Tags**: #[blue](<blue.md>)
+
 ## [The 4-Hour Chef (highlights)](<The 4-Hour Chef (highlights).md>)
 - **Tags**: #[blue](<blue.md>)
 

@@ -1,0 +1,7 @@
+- **[Author](<Author.md>):** [Barb Stuckey](<Barb Stuckey.md>)
+- **[Full Title](<Full Title.md>):** Taste
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51%2BG1jYlLRL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [November 28th, 2020](<November 28th, 2020.md>)
+    - Monell Chemical Senses Center, ([Location 216](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=216))
+        - **Tags**: #[blue](<blue.md>)

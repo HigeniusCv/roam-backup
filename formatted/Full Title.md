@@ -136,6 +136,10 @@
 - **[Author](<Author.md>):** [J.K. Rowling](<J.K. Rowling.md>)
 - **[Full Title](<Full Title.md>):**
 
+## [Harry Potter and the Deathly Hallows (highlights)](<Harry Potter and the Deathly Hallows (highlights).md>)
+- **[Author](<Author.md>):** [J.K. Rowling](<J.K. Rowling.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [Harry Potter and the Order of the Phoenix (highlights)](<Harry Potter and the Order of the Phoenix (highlights).md>)
 - **[Author](<Author.md>):** [J.K. Rowling](<J.K. Rowling.md>)
 - **[Full Title](<Full Title.md>):**
@@ -282,6 +286,10 @@
 
 ## [Taipei (highlights)](<Taipei (highlights).md>)
 - **[Author](<Author.md>):** [Tao Lin](<Tao Lin.md>)
+- **[Full Title](<Full Title.md>):**
+
+## [Taste (highlights)](<Taste (highlights).md>)
+- **[Author](<Author.md>):** [Barb Stuckey](<Barb Stuckey.md>)
 - **[Full Title](<Full Title.md>):**
 
 ## [The 4-Hour Chef (highlights)](<The 4-Hour Chef (highlights).md>)

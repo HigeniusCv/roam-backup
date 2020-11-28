@@ -102,6 +102,9 @@
 ## [Harry Potter and the Chamber of Secrets (highlights)](<Harry Potter and the Chamber of Secrets (highlights).md>)
 - **[Author](<Author.md>):**
 
+## [Harry Potter and the Deathly Hallows (highlights)](<Harry Potter and the Deathly Hallows (highlights).md>)
+- **[Author](<Author.md>):**
+
 ## [Harry Potter and the Order of the Phoenix (highlights)](<Harry Potter and the Order of the Phoenix (highlights).md>)
 - **[Author](<Author.md>):**
 
@@ -211,6 +214,9 @@
 - **[Author](<Author.md>):**
 
 ## [Taipei (highlights)](<Taipei (highlights).md>)
+- **[Author](<Author.md>):**
+
+## [Taste (highlights)](<Taste (highlights).md>)
 - **[Author](<Author.md>):**
 
 ## [The 4-Hour Chef (highlights)](<The 4-Hour Chef (highlights).md>)

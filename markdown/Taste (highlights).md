@@ -1,0 +1,7 @@
+- Author:: [[Barb Stuckey]]
+- Full Title:: Taste
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51%2BG1jYlLRL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[November 28th, 2020]]
+    - Monell Chemical Senses Center, ([Location 216](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=216))
+        - **Tags**: #[[blue]]

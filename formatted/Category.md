@@ -136,6 +136,10 @@
 - **[Full Title](<Full Title.md>):** Harry Potter and the Chamber of Secrets
 - **[Category](<Category.md>):**
 
+## [Harry Potter and the Deathly Hallows (highlights)](<Harry Potter and the Deathly Hallows (highlights).md>)
+- **[Full Title](<Full Title.md>):** Harry Potter and the Deathly Hallows
+- **[Category](<Category.md>):**
+
 ## [Harry Potter and the Order of the Phoenix (highlights)](<Harry Potter and the Order of the Phoenix (highlights).md>)
 - **[Full Title](<Full Title.md>):** Harry Potter and the Order of the Phoenix
 - **[Category](<Category.md>):**
@@ -282,6 +286,10 @@
 
 ## [Taipei (highlights)](<Taipei (highlights).md>)
 - **[Full Title](<Full Title.md>):** Taipei
+- **[Category](<Category.md>):**
+
+## [Taste (highlights)](<Taste (highlights).md>)
+- **[Full Title](<Full Title.md>):** Taste
 - **[Category](<Category.md>):**
 
 ## [The 4-Hour Chef (highlights)](<The 4-Hour Chef (highlights).md>)

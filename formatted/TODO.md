@@ -75,6 +75,25 @@
 ## [Apologies](<Apologies.md>)
 - {{[TODO](<TODO.md>)}
 
+## [December 1st, 2020](<December 1st, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - {{[TODO](<TODO.md>)}
 

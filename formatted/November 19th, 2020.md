@@ -1,5 +1,5 @@
 - waiting right now to speak to the Google interview - I thought it was for 12;15, but in fact it's 12;30
-- I prepared the protfolio link https://motivationengineers.com/portfolio
+- I prepared the portfolio link https://motivationengineers.com/portfolio
 - it's expected that the caller will be late; the callee must wonder if there's any setting on the phone that's blocking their unknown number
 - the recruiter clearly knew I'd applied years ago. What is the explanation? Can't speculate, although the process of connecting was not very coherent. [keep crisp, no pallaver or self-exculpatory]
 - Google is my A2; Salesforce, with me as their DBT advocate for 'mindfulness zones in-product' is A1; Uber A3. But I'd take any of them. I still haven't fallen to the point where FB is acceptable, but that's because I've the leisure to say No. 

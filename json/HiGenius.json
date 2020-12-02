@@ -8115,8 +8115,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1604337917928,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604943120161,
-        "string": "{{[[DONE]]}} Metta toward mir for at least 2 mins",
+        "edit-time": 1606930832742,
+        "string": "{{[[TODO]]}} Metta toward mir for at least 2 mins",
         "uid": "0Yo3iVzEl"
       },
       {
@@ -8254,6 +8254,14 @@
             "edit-time": 1603997490616,
             "string": "[[October 29th, 2020]]mannikin",
             "uid": "iWkJKeVzj"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1606930847219,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1606930856347,
+            "string": "[[December 2nd, 2020]]Penrose Triangles",
+            "uid": "V0HxjD28a"
           }
         ],
         "create-email": "psas@motivationengineers.com",
@@ -8489,8 +8497,8 @@
           }
         ],
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1603728562684,
-        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support  ",
+        "edit-time": 1606930911938,
+        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for Salesforce next action evaluation",
         "uid": "aMR7YRdmI"
       },
       {
@@ -8516,6 +8524,22 @@
             "edit-time": 1603997511905,
             "string": "[[October 15th, 2020]] equals tweet storm",
             "uid": "CptbNUvNq"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1606930923824,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1606930945761,
+            "string": "[[December 1st, 2020]]draft Experiential Medicine",
+            "uid": "xCTO0JbhC"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1606930945753,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1606930958745,
+            "string": "[[December 2nd, 2020]]Finish a publishable piece",
+            "uid": "zVCoofMj6"
           }
         ],
         "edit-email": "psas@motivationengineers.com",
@@ -24340,6 +24364,14 @@
         "children": [
           {
             "create-email": "psas@motivationengineers.com",
+            "create-time": 1606844420302,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1606844463402,
+            "string": "Who is the Einstein of Feelings? (not freud, but perhaps avatar Dolly Llama) ",
+            "uid": "VvtUxBFLm"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
             "create-time": 1606844538326,
             "edit-email": "psas@motivationengineers.com",
             "edit-time": 1606850923953,
@@ -24397,16 +24429,6 @@
             "uid": "LPL5qXl1L"
           },
           {
-            "children": [
-              {
-                "create-email": "psas@motivationengineers.com",
-                "create-time": 1606844420302,
-                "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1606844463402,
-                "string": "Who is the Einstein of Feelings? (not freud, but perhaps avatar Dolly Llama) ",
-                "uid": "VvtUxBFLm"
-              }
-            ],
             "create-email": "psas@motivationengineers.com",
             "create-time": 1606844409422,
             "edit-email": "psas@motivationengineers.com",
@@ -24539,6 +24561,32 @@
         "uid": "-az93-7dp"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1606930993765,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1606931001581,
+            "string": "{{[[DONE]]}} Tues",
+            "uid": "fnAVHmTex"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1606931009871,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1606931033533,
+            "string": "{{[[TODO]]}} [[December 2nd, 2020]] Tilden",
+            "uid": "DICzKZ9Ah"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1606930999231,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1606931036797,
+            "string": "{{[[TODO]]}} [[December 3rd, 2020]]",
+            "uid": "wXl9gBrJl"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1606844810656,
         "edit-email": "psas@motivationengineers.com",
@@ -24642,5 +24690,12 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1606897401100,
     "title": "December 2nd, 2020"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1606931005914,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1606931005914,
+    "title": "December 3rd, 2020"
   }
 ]

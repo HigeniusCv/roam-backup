@@ -1,6 +1,7 @@
 - First Week of Dec 
 - {{[[TODO]]}} Slide on Experiential Medicine in Digital (frog)
 - {{[[TODO]]}} Pitch Salesforce on Mindful Zones in SW
+    - Who is the Einstein of Feelings? (not freud, but perhaps avatar Dolly Llama) 
     - {{[[DONE]]}} Contact Rebecca 
 - {{[[DONE]]}} Contact Sylvia Wu about DetectTest
 - {{[[TODO]]}} Mindful Experimentation
@@ -9,7 +10,6 @@
     - Find Meaning
     - Pomodoro Pushups (apply to myself first)
     - Mental self-compassion
-        - Who is the Einstein of Feelings? (not freud, but perhaps avatar Dolly Llama) 
 - {{[[TODO]]}} Refamiliarize myself with GuidedTrack
 - {{[[TODO]]}} Demo design for MechTurk (ask permission, rather than present trial)
 - {{[[DONE]]}} Improve Squarespace by fixing Design images on Portfolio
@@ -25,5 +25,8 @@
     - Central Limit Theorem all the way to calculus
     - Notebook of valuable rhythm of universally valuable code: Setwd; load; rename; select & filter; Describe stats; calculate z's and CI; 
 - {{[[TODO]]}} Exercise & move to close all rings 5 days in a row (missed Monday)
+    - {{[[DONE]]}} Tues
+    - {{[[TODO]]}} [[December 2nd, 2020]] Tilden
+    - {{[[TODO]]}} [[December 3rd, 2020]]
 - {{[[TODO]]}} Journal about hunger, observe feelings before feeding
 - [[journal]] Today feels a tad like a Groundhog do-over day, since everything above lists the to-dos I hand wrote on Monday. Once that was done, all I accomplished was to belatedly (-5 mins) join Sara & Neil's shiva for her father. Mir also joined eventually, assuring me then that we'd actually been invited to this particular session. But do-overs count, and are infinitely preferable to do-nevers

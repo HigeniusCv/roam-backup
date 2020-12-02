@@ -12,7 +12,7 @@
 - [ ] Begin a list of Friends to whom I want to talk deliberately
 - [x] Set up 20 mins for tonight to reply to DPA
 - [ ] Talk to Roger about harvesting my Garden - it's been 90-100 days
-- [x] Metta toward mir for at least 2 mins
+- [ ] Metta toward mir for at least 2 mins
 - [ ] Write in blocks
 - [ ] keep up portfolio work
 - [ ] Deliberate on how to deliver spec work that will pull in clients
@@ -30,6 +30,7 @@
     - [October 13th, 2020](<October 13th, 2020.md>) did the circles with triangle face
     - [October 28th, 2020](<October 28th, 2020.md>)Baby Beckett photo
     - [October 29th, 2020](<October 29th, 2020.md>)mannikin
+    - [December 2nd, 2020](<December 2nd, 2020.md>)Penrose Triangles
 - [ ] Update my website 
     - Add exegesis (inspired by Ollie Khakwani)
     - Refine Portfolio to include more BEcon examples, and put up
@@ -52,7 +53,7 @@
                 - Can you point to any work that leverages your Yak C?
             - What is the one thing you haven't done enough of to market your consultancy?
 - [ ] Ride bike to top of Cedar before starting work
-- [ ] Create experimental design for an assessment of flow for chat with site support  
+- [ ] Create experimental design for an assessment of flow for Salesforce next action evaluation
     - [ ] Use guidedtrack to capture the data
     - [ ] Sandbox a small studies within Mturk account
     - [ ] Run ten hits with a simple flow metric
@@ -63,6 +64,8 @@
     - [October 13th, 2020](<October 13th, 2020.md>) equals publish to LinkedIn and fix Medium
     - [October 14th, 2020](<October 14th, 2020.md>) equals describe method for experiment with Instacart
     - [October 15th, 2020](<October 15th, 2020.md>) equals tweet storm
+    - [December 1st, 2020](<December 1st, 2020.md>)draft Experiential Medicine
+    - [December 2nd, 2020](<December 2nd, 2020.md>)Finish a publishable piece
 - [x] Pull together a list of 15 people - contact 3 each day
 - [x] Ricardo zoom at 11;30am
 - [ ] No news or twitter until after dinner
@@ -76,6 +79,10 @@
 - {{[TODO](<TODO.md>)}
 
 ## [December 1st, 2020](<December 1st, 2020.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}
@@ -152,6 +159,8 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

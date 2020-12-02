@@ -12,7 +12,7 @@
 - {{[[TODO]]}} Begin a list of Friends to whom I want to talk deliberately
 - {{[[DONE]]}} Set up 20 mins for tonight to reply to DPA
 - {{[[TODO]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days
-- {{[[DONE]]}} Metta toward mir for at least 2 mins
+- {{[[TODO]]}} Metta toward mir for at least 2 mins
 - {{[[TODO]]}} Write in blocks
 - {{[[TODO]]}} keep up portfolio work
 - {{[[TODO]]}} Deliberate on how to deliver spec work that will pull in clients
@@ -30,6 +30,7 @@
     - [[October 13th, 2020]] did the circles with triangle face
     - [[October 28th, 2020]]Baby Beckett photo
     - [[October 29th, 2020]]mannikin
+    - [[December 2nd, 2020]]Penrose Triangles
 - {{[[TODO]]}} Update my website 
     - Add exegesis (inspired by Ollie Khakwani)
     - Refine Portfolio to include more BEcon examples, and put up
@@ -52,7 +53,7 @@
                 - Can you point to any work that leverages your Yak C?
             - What is the one thing you haven't done enough of to market your consultancy?
 - {{[[TODO]]}} Ride bike to top of Cedar before starting work
-- {{[[TODO]]}} Create experimental design for an assessment of flow for chat with site support  
+- {{[[TODO]]}} Create experimental design for an assessment of flow for Salesforce next action evaluation
     - {{[[TODO]]}} Use guidedtrack to capture the data
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
@@ -63,6 +64,8 @@
     - [[October 13th, 2020]] equals publish to LinkedIn and fix Medium
     - [[October 14th, 2020]] equals describe method for experiment with Instacart
     - [[October 15th, 2020]] equals tweet storm
+    - [[December 1st, 2020]]draft Experiential Medicine
+    - [[December 2nd, 2020]]Finish a publishable piece
 - {{[[DONE]]}} Pull together a list of 15 people - contact 3 each day
 - {{[[DONE]]}} Ricardo zoom at 11;30am
 - {{[[TODO]]}} No news or twitter until after dinner

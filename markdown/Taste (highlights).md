@@ -5,3 +5,14 @@
 - ### Highlights first synced by #Readwise [[November 28th, 2020]]
     - Monell Chemical Senses Center, ([Location 216](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=216))
         - **Tags**: #[[blue]]
+- ### New highlights added [[December 2nd, 2020]] at 12:23 AM
+    - Gerard J. Musante, PhD, founder and director of the weight-loss facility Structure House Center for Weight Control and Lifestyle Change, says, “If you take your time while eating; if your process of consuming your meal is something you experience moment by moment; if you’re truly aware of what you’re doing at the table—then I believe that mindfulness will leave you more satisfied and less likely to overeat.” Musante’s weight-loss program focuses on teaching people how to transform their relationship with food. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=300))
+        - **Tags**: #[[blue]]
+    - “The senses are so influential on each other that we ([Location 317](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=317))
+        - **Tags**: #[[blue]]
+    - often don’t know through which sense we’re perceiving the world,” says the University of California Riverside’s Lawrence Rosenblum, who studies how the senses combine and interact with one another. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=318))
+        - **Tags**: #[[blue]]
+    - “You have bald spots on your tongue,” the staff told me at a testing laboratory ([Location 354](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=354))
+        - **Tags**: #[[blue]]
+    - the counterintuitive result of a small amount of damage actually intensifying the experience of tasting.” ([Location 368](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=368))
+        - **Tags**: #[[blue]]

@@ -16,3 +16,10 @@
         - **Tags**: #[[blue]]
     - the counterintuitive result of a small amount of damage actually intensifying the experience of tasting.” ([Location 368](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=368))
         - **Tags**: #[[blue]]
+- ### New highlights added [[December 4th, 2020]] at 8:24 PM
+    - dyes the surface of your tongue with blue food coloring, then looks for the taste buds, which don’t absorb the blue dye as much, and as a result show up as turquoise bubbles ([Location 430](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=430))
+        - **Tags**: #[[blue]]
+    - the fungiform papillae (the taste buds at the front of your tongue) and the vallate papillae (those at the back). ([Location 984](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=984))
+        - **Tags**: #[[blue]]
+    - it’s like a committee meeting in your mouth. ([Location 986](https://readwise.io/to_kindle?action=open&asin=B005FLOG8G&location=986))
+        - **Tags**: #[[blue]]

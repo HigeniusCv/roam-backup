@@ -1,0 +1,45 @@
+- Feedback from JLo - having only recent work is suspicious. Too cut & pasty. Work on the narrative. Only show big impactful wins.  Also, ethically, clean out headshots, replace with clip art
+- Future of Payments - break down the steps, following Leah's talk, and end with $2MM / annual behavioral win
+- https://vimeo.com/91666220 MX 2014 | Leah Buley | The Marriage of Corporate & UX Strategy: A Case Study
+- Open with a vivid description of the room itself, with a 30 ft long table, a lot of guys (CEO, CFO, GM of 3 of 4, "outside experts")
+- Leah felt nauseated, but clearly  
+- Great thinking, but what's missing is the customer perspective.
+- Felt new-comer at the big table. That's gonna feel mighty, I've arrived, but it feels scary, earnest.
+- Story of how Intuit got there. 
+- [I'd include Kaaren's HBR story: https://hbr.org/2011/06/the-innovation-catalysts] 
+- Horizon Planning at Intuit
+    - H1 - Cash Cows, must continue to be leaders
+    - H3 - Test out PMF, make sure customers want the thing
+    - H2 is on its way
+- D4D - Design for Delight as an Explicit Focus
+- Design Innovation Group
+    - doesn't sit in any 
+    - future forward, too messy, or interdiscipline
+- 2012 - Reimagine Payments
+    - New ways to pay and get paid
+    - New banking (unbanked or uncredited)
+    - Data is the big currency
+- Intuit needed to get on top of this
+    - For small businesses, both invoicing and point of sale
+    - For taxes, payments and refunds
+    - For accounting, the stream of data
+    - For banks, Intuit had a competitor to Yodlee, and could conceivably also white label payments offerings through 3,000 stodgy S&Ls and local bankds
+- FOP - Classic strategy gambit
+    - Cognitive bias - Nothing in life is as important as you think it is, while you are thinking about it 
+    - Within Intuit, maintaining large legacy base anchored innovation on incrementalist 
+    - Intuit's GoPayment beat Square to market with a mobile phone auditory signal processor, but could be compared to mp3 players before the iPod https://www.pcworld.com/article/239250/square_vs_intuit_gopayment_mobile_credit_card_systems_compared.html
+- Outside partner: Intuit + IDEO
+    - Gorgeous deliverables came from the studio's pixie dust 
+- How to define the customer for the project
+    - DIG Research Strategists are the product people
+    - End users are, of course, paying customers, primarily SMBs
+    - Internal Business Units were the consumers of our deliverables
+- Step 1: Exhaustive internal discovery, interviewing senior leaders to discern their landscape, synthesize their needs, expectations, constraints
+    - Only belatedly did we learn that the internal Corporate Strategy (BCG-style consulting) was ALSO working on their own FOP
+        - Land of Barcharts, sizing markets, competitive intelligence, revenue spreadsheets
+        - Default tactic - if you're looking at barcharts, you anchor on imagining them getting bigger (up and to the right as a narrow preconceived path)
+    - The CEO charged them with the task, Find More Revenue
+        - Revenue gets to decide what the DJ plays
+        - Also, their sponsor was from the top, a charismatic CEO
+        - DIG's approach emerged from the needs of diverse BUs, who knew their competitive
+    - Vulnerability immediately 

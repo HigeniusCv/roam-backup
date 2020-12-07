@@ -42,4 +42,29 @@
         - Revenue gets to decide what the DJ plays
         - Also, their sponsor was from the top, a charismatic CEO
         - DIG's approach emerged from the needs of diverse BUs, who knew their competitive
-    - Vulnerability immediately 
+    - Vulnerability immediately that Design would be deprecated for Dollars
+- Overview of Approach (13:36 in Leah)
+    - Review Landscape
+        - Corporate Strategy's insights from modeling
+        - Future Trends
+        - Fringe/Extreme Behaviors
+        - Signals and whispers
+    - Stakeholders share their visions for Payments in 3-5 years
+    - Go BROAD: Generate opportunities and imagine where to place bets
+    - Filter & Synthesize
+    - Translate hypotheses into prototype product offerings
+- Corporate Consultant-style Strategy Approach - inside the Box
+    - Diagnose the Business Revenue
+    - Opportunity Assessment
+    - Strategic Priorities
+- GM, in an unprecedented move, took Leah over to Kevin Jacques' office, and explicitly said, Can you agree that you're going to find a way to make this project work together?
+    - Gift - cornered 
+- Created a liaison between the 2 teams
+    - Weekly team meetings
+    - Openly share materials
+    - Involve one another in key sessions (research & modeling), for visibility into each team's working mode
+    - Align on recommendations
+- Learning from Consultant-Style strategy
+    - Competitive analysis draws upon Dun & Bradstreet and Bloomberg databases
+    - Sizing open market opportunities can emerge from seeing how the pipelines connect
+    - 

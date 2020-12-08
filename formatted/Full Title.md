@@ -252,6 +252,10 @@
 - **[Author](<Author.md>):** [Ken Binmore](<Ken Binmore.md>)
 - **[Full Title](<Full Title.md>):**
 
+## [Ready Player Two (highlights)](<Ready Player Two (highlights).md>)
+- **[Author](<Author.md>):** [Ernest Cline](<Ernest Cline.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [Restart (highlights)](<Restart (highlights).md>)
 - **[Author](<Author.md>):** [Gordon Korman](<Gordon Korman.md>)
 - **[Full Title](<Full Title.md>):**

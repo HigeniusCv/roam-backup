@@ -640,7 +640,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607142273824,
+    "edit-time": 1607414103181,
     "title": "Readwise"
   },
   {
@@ -25396,7 +25396,66 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1607388743869,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607388743870,
+    "edit-time": 1607414103183,
     "title": "December 8th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607414098621,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607414098639,
+        "string": "Author:: [[Ernest Cline]]",
+        "uid": "3Ci5XiRg1"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607414098624,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607414098640,
+        "string": "Full Title:: Ready Player Two",
+        "uid": "CJ_lC2Ihp"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607414098625,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607414098640,
+        "string": "Category:: #books",
+        "uid": "KgnQLtQAX"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607414098626,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607414098640,
+            "string": "It wasn\u2019t clear what would happen if someone managed ([Location\u00a0349](https://readwise.io/to_kindle?action=open&asin=B08BYWH6CS&location=349))",
+            "uid": "scIN5feyJ"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607414098625,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607414098640,
+        "heading": 3,
+        "string": "Highlights first synced by #Readwise [[December 7th, 2020]]",
+        "uid": "Adg_3P1Cq"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1607414098630,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1607414098661,
+    "title": "Ready Player Two (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1607414098621,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1607414098639,
+    "title": "Ernest Cline"
   }
 ]

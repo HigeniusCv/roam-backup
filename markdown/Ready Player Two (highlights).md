@@ -1,0 +1,5 @@
+- Author:: [[Ernest Cline]]
+- Full Title:: Ready Player Two
+- Category:: #books
+- ### Highlights first synced by #Readwise [[December 7th, 2020]]
+    - It wasn’t clear what would happen if someone managed ([Location 349](https://readwise.io/to_kindle?action=open&asin=B08BYWH6CS&location=349))

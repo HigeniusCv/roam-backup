@@ -189,6 +189,9 @@
 ## [Rational Decisions (highlights)](<Rational Decisions (highlights).md>)
 - **[Author](<Author.md>):**
 
+## [Ready Player Two (highlights)](<Ready Player Two (highlights).md>)
+- **[Author](<Author.md>):**
+
 ## [Restart (highlights)](<Restart (highlights).md>)
 - **[Author](<Author.md>):**
 

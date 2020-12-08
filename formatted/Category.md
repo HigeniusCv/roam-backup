@@ -252,6 +252,10 @@
 - **[Full Title](<Full Title.md>):** Rational Decisions
 - **[Category](<Category.md>):**
 
+## [Ready Player Two (highlights)](<Ready Player Two (highlights).md>)
+- **[Full Title](<Full Title.md>):** Ready Player Two
+- **[Category](<Category.md>):**
+
 ## [Restart (highlights)](<Restart (highlights).md>)
 - **[Full Title](<Full Title.md>):** Restart
 - **[Category](<Category.md>):**

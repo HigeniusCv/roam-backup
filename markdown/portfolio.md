@@ -67,4 +67,4 @@
 - Learning from Consultant-Style strategy
     - Competitive analysis draws upon Dun & Bradstreet and Bloomberg databases
     - Sizing open market opportunities can emerge from seeing how the pipelines connect
-    - 
+    - understanding profitability

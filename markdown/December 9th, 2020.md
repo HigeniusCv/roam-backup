@@ -21,11 +21,13 @@
         - Signed up for JDM, and only had to pay $50
 - # What do I do next?
     - Now, as you look ahead to the coming week, and now that you've reflected on where you are and where you've been, what are your 3 non-negotiables for the coming week? (write them as if you've already accomplished them by next Sunday)
-        - Must have portfolio fixed by Sunday
-        - Need to attend 3 sessions on JDM, and break out with at least 2 sessions
-        - 
+        - I've my portfolio fixed by Sunday
+        - I attend 2 sessions on JDM (Gilovich & Loewenstein), and break out with each of the sessions
+        - I kept up the streak of closing my circles for activity
     - Here at Unstoppable, we believe that if it's not on your calendar then it's not a priority. Now that you've reflected on your priorities, let's pull up your calendar.
         - What're the things that are on your calendar that no longer make sense and you should cut? Can you de-prioritize them?
+            - Some of the JDM sessions in the early AM
+            - Wobbling on the Yak C - but I'll join the call
         - Now, can you make sure that you've allocated time to work on your 3 non-negotiables that you've committed to above and make sure they're a priority in the week ahead?
     - Now. Lastly, now that you've reflected on where you are right now, expressed gratitude for the week that just passed, and set your priorities for the coming week; let's do one last thing. Is there something you can add to your calendar, something extra, something for yourself, that you can look forward to doing at the end of this week? What will it be?
         - 

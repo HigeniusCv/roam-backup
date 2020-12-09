@@ -25929,20 +25929,20 @@
             "children": [
               {
                 "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1607548988281,
-                "string": "Must have portfolio fixed by Sunday",
+                "edit-time": 1607549071348,
+                "string": "I've my portfolio fixed by Sunday",
                 "uid": "CnodXE0b9"
               },
               {
                 "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1607549009358,
-                "string": "Need to attend 3 sessions on JDM, and break out with at least 2 sessions",
+                "edit-time": 1607549346039,
+                "string": "I attend 2 sessions on JDM (Gilovich & Loewenstein), and break out with each of the sessions",
                 "uid": "jwmPUsDzw"
               },
               {
                 "edit-email": "psas@motivationengineers.com",
-                "edit-time": 1607548931379,
-                "string": "",
+                "edit-time": 1607549082297,
+                "string": "I kept up the streak of closing my circles for activity",
                 "uid": "595NitlLq"
               }
             ],
@@ -25954,6 +25954,24 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1607549278339,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1607549287036,
+                    "string": "Some of the JDM sessions in the early AM",
+                    "uid": "A6_IVexAk"
+                  },
+                  {
+                    "create-email": "psas@motivationengineers.com",
+                    "create-time": 1607549353518,
+                    "edit-email": "psas@motivationengineers.com",
+                    "edit-time": 1607549363720,
+                    "string": "Wobbling on the Yak C - but I'll join the call",
+                    "uid": "YRcakZvR9"
+                  }
+                ],
                 "edit-email": "psas@motivationengineers.com",
                 "edit-time": 1607548931379,
                 "string": "What're the things that are on your calendar that no longer make sense and you should cut? Can you de-prioritize them?",

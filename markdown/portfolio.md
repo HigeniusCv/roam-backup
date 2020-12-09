@@ -82,11 +82,11 @@
 - IDEO post-it methodology [need shot from their office]
 - Soliciting feedback via Science Fair 
     - Feedback stickers stakeholder dialog 
-- Cadence of customer feedback
+- Cadence of customer feedback - 
     - IDEO method for first round was inward facing, 'friends & families' - Intuit executive remarked on being 'Too Bay Blend'
-    - Out to Sacramento to expose SMB owners preliminary wireframes
+    - Sacramento UX sessions expose SMB owners preliminary wireframes
     - Full week trip to St Louis (not the high end bike shop in Aspen CO that IDEO proposed)
-    - Interactive quantitative survey in final mile
+    - Interactive quantitative survey in final mile [Show mockup]
 - Walk-about Gallery of Foamcore Boards
     - Cognitive science: Big Mental Mouse generates more details
     - Impact of full body walk around engages and stimulates dialog

@@ -25811,12 +25811,186 @@
         "uid": "5GY_V9Bmh"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607548715970,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548727174,
+                "string": "My arms are burning from 7M workout with B",
+                "uid": "ncjibSj8q"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607548727170,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548746877,
+                "string": "A little anxious to stay on track, and wrap the Nexus Portfolio",
+                "uid": "BwWykwZP-"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607548746901,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548746901,
+                "string": "",
+                "uid": "Chir5IUfk"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607548708826,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607548715975,
+            "string": "Where am I right at this moment?",
+            "uid": "UXRZF8_IN"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1607535893958,
+        "create-time": 1607548691490,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1607535893958,
-        "string": "",
-        "uid": "DkT6tGJu9"
+        "edit-time": 1607548708831,
+        "string": "Unstoppable sunday at 1pm today https://app.unstoppablesunday.com/",
+        "uid": "7BaaXp7s7"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931379,
+                "string": "A little anxious to stay on track, and wrap the Nexus Portfolio",
+                "uid": "kHmRUb5k3"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931379,
+                "string": "Not really hungry",
+                "uid": "IQOYfpAZ2"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931379,
+                "string": "About to bike up Cedar, which I still sort of dread",
+                "uid": "p0juym_3G"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607548931379,
+            "string": "What're you feeling right at this moment?",
+            "uid": "Qdz9zGPfw"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931380,
+                "string": "Biggest win: Sunday feedback from JLo, which showed me how lame it is for me to deprecate",
+                "uid": "8h_ybPfi2"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931380,
+                "string": "Glad to have my new laptop fully set up, with all my photos, etc",
+                "uid": "0SQxxpEgY"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548954880,
+                "string": "Enjoyed the evening rhythm of British Baking",
+                "uid": "1jFHgh2Xt"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607548955686,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548970087,
+                "string": "Signed up for JDM, and only had to pay $50",
+                "uid": "bpxEe4jI6"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607548931380,
+            "string": "Before we jump ahead to the week ahead, let's first think back and reflect on the past week. What were some wins (big or small)? What were some moments (big or small) that made you smile?",
+            "uid": "LeNSalbTI"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607548931380,
+        "heading": 1,
+        "string": "Where am I?",
+        "uid": "wSjszAXPY"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548988281,
+                "string": "Must have portfolio fixed by Sunday",
+                "uid": "CnodXE0b9"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607549009358,
+                "string": "Need to attend 3 sessions on JDM, and break out with at least 2 sessions",
+                "uid": "jwmPUsDzw"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931379,
+                "string": "",
+                "uid": "595NitlLq"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607548931379,
+            "string": "Now, as you look ahead to the coming week, and now that you've reflected on where you are and where you've been, what are your 3 non-negotiables for the coming week? (write them as if you've already accomplished them by next Sunday)",
+            "uid": "qc-EBoNjF"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931379,
+                "string": "What're the things that are on your calendar that no longer make sense and you should cut? Can you de-prioritize them?",
+                "uid": "SbtBzthwe"
+              },
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931379,
+                "string": "Now, can you make sure that you've allocated time to work on your 3 non-negotiables that you've committed to above and make sure they're a priority in the week ahead?",
+                "uid": "HxT7mscA1"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607548931379,
+            "string": "Here at Unstoppable, we believe that if it's not on your calendar then it's not a priority. Now that you've reflected on your priorities, let's pull up your calendar.",
+            "uid": "wn9JFXUKb"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607548931379,
+                "string": "",
+                "uid": "CRM_i3Bqq"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607548931379,
+            "string": "Now. Lastly, now that you've reflected on where you are right now, expressed gratitude for the week that just passed, and set your priorities for the coming week; let's do one last thing. Is there something you can add to your calendar, something extra, something for yourself, that you can look forward to doing at the end of this week? What will it be?",
+            "uid": "vVZIVyUc9"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607548931379,
+        "heading": 1,
+        "string": "What do I do next?",
+        "uid": "NGfXoh-Lr"
       }
     ],
     "create-email": "psas@motivationengineers.com",

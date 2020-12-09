@@ -4,4 +4,28 @@
 - [ ] Streak [3](<3.md>) in 18 hr fast
 - [ ] Spend 1 hour in R
 - [x] Schedule Uber talk for Fri or next week
-- 
+- Unstoppable sunday at 1pm today https://app.unstoppablesunday.com/
+    - Where am I right at this moment?
+        - My arms are burning from 7M workout with B
+        - A little anxious to stay on track, and wrap the Nexus Portfolio
+        - 
+- # Where am I?
+    - What're you feeling right at this moment?
+        - A little anxious to stay on track, and wrap the Nexus Portfolio
+        - Not really hungry
+        - About to bike up Cedar, which I still sort of dread
+    - Before we jump ahead to the week ahead, let's first think back and reflect on the past week. What were some wins (big or small)? What were some moments (big or small) that made you smile?
+        - Biggest win: Sunday feedback from JLo, which showed me how lame it is for me to deprecate
+        - Glad to have my new laptop fully set up, with all my photos, etc
+        - Enjoyed the evening rhythm of British Baking
+        - Signed up for JDM, and only had to pay $50
+- # What do I do next?
+    - Now, as you look ahead to the coming week, and now that you've reflected on where you are and where you've been, what are your 3 non-negotiables for the coming week? (write them as if you've already accomplished them by next Sunday)
+        - Must have portfolio fixed by Sunday
+        - Need to attend 3 sessions on JDM, and break out with at least 2 sessions
+        - 
+    - Here at Unstoppable, we believe that if it's not on your calendar then it's not a priority. Now that you've reflected on your priorities, let's pull up your calendar.
+        - What're the things that are on your calendar that no longer make sense and you should cut? Can you de-prioritize them?
+        - Now, can you make sure that you've allocated time to work on your 3 non-negotiables that you've committed to above and make sure they're a priority in the week ahead?
+    - Now. Lastly, now that you've reflected on where you are right now, expressed gratitude for the week that just passed, and set your priorities for the coming week; let's do one last thing. Is there something you can add to your calendar, something extra, something for yourself, that you can look forward to doing at the end of this week? What will it be?
+        - 

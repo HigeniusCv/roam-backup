@@ -1,0 +1,7 @@
+- {{[[TODO]]}} Post Nexus story to Portfolio
+    - Fix all faces with clipart
+- {{[[TODO]]}} Big bike after 10am focusmate
+- {{[[TODO]]}} Streak #3 in 18 hr fast
+- {{[[TODO]]}} Spend 1 hour in R
+- {{[[DONE]]}} Schedule Uber talk for Fri or next week
+- 

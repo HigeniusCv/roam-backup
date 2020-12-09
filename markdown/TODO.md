@@ -31,7 +31,7 @@
     - [[October 28th, 2020]]Baby Beckett photo
     - [[October 29th, 2020]]mannikin
     - [[December 2nd, 2020]]Penrose Triangles
-- {{[[TODO]]}} Update my website 
+- {{[[TODO]]}} Update my website Portfolio 
     - Add exegesis (inspired by Ollie Khakwani)
     - Refine Portfolio to include more BEcon examples, and put up
     - publish to G-docs 

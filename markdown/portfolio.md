@@ -67,4 +67,25 @@
 - Learning from Consultant-Style strategy
     - Competitive analysis draws upon Dun & Bradstreet and Bloomberg databases
     - Sizing open market opportunities can emerge from seeing how the pipelines connect
-    - understanding profitability
+    - understanding profitability - great lens for prioritizing that has been carried forward since 
+- What UX strategy does uniquely well
+    - Inside the customer's world view and specific needs
+    - Spotting trends
+        - Extreme population
+        - Future developments
+        - Unmet needs
+- Business Logic vs What the Heart Wants
+- IDEO post-it methodology [need shot from their office]
+- Soliciting feedback via Science Fair 
+    - Feedback stickers stakeholder dialog 
+- Cadence of customer feedback
+    - IDEO method for first round was inward facing, 'friends & families' - Intuit executive remarked on being 'Too Bay Blend'
+    - Out to Sacramento to expose SMB owners preliminary wireframes
+    - Full week trip to St Louis (not the high end bike shop in Aspen CO that IDEO proposed)
+    - Interactive quantitative survey in final mile
+- Walk-about Gallery of Foamcore Boards
+    - Cognitive science: Big Mental Mouse generates more details
+    - Impact of full body walk around engages and stimulates dialog
+    - Incorporated data viewpoint of Corporate Strategy alliance
+    - High fidelity design fictions through video capsules
+- Concept cookbook

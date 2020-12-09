@@ -1,0 +1,7 @@
+- [ ] Post Nexus story to Portfolio
+    - Fix all faces with clipart
+- [ ] Big bike after 10am focusmate
+- [ ] Streak [3](<3.md>) in 18 hr fast
+- [ ] Spend 1 hour in R
+- [x] Schedule Uber talk for Fri or next week
+- 

@@ -25012,19 +25012,21 @@
       {
         "children": [
           {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1607377952616,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1607377984819,
-            "string": "Cognitive bias - Nothing in life is as important as you think it is, while you are thinking about it ",
-            "uid": "PuZySclTA"
-          },
-          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607377952616,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607377984819,
+                "string": "Cognitive bias - Nothing in life is as important as you think it is, while you are thinking about it ",
+                "uid": "PuZySclTA"
+              }
+            ],
             "create-email": "psas@motivationengineers.com",
             "create-time": 1607378139003,
             "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1607378139003,
-            "string": "Within Intuit, maintaining large legacy base anchored innovation on incrementalist ",
+            "edit-time": 1607539414397,
+            "string": "Within Intuit, large legacy base anchors innovation on incrementalism ",
             "uid": "5CxGhW18x"
           },
           {
@@ -25039,8 +25041,8 @@
         "create-email": "psas@motivationengineers.com",
         "create-time": 1607377757620,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1607377813076,
-        "string": "FOP - Classic strategy gambit",
+        "edit-time": 1607539394829,
+        "string": "Payments - Classic strategy gambit",
         "uid": "5WJuynHaQ"
       },
       {
@@ -25376,6 +25378,40 @@
             "edit-time": 1607537127859,
             "string": "understanding profitability - great lens for prioritizing that has been carried forward since ",
             "uid": "gfRt1RJTO"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607539719979,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539794322,
+            "string": "Laser-focused shift from the ocean of payments possibilities to the clearly drawn continent of SMBs ",
+            "uid": "08B_lgq6e"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607538660029,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607538677702,
+                "string": "How do the economics of payments work?",
+                "uid": "7rYM2NpQ7"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607538677699,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607541425330,
+                "string": "digital payment pipelines (NACHA, wire transfer, Visa, AmEx, Star, US versus global infrastructure)",
+                "uid": "sn3jH7Gjx"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607538496578,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607538999177,
+            "string": "Participated in 2 day Payments Bootcamp Glenbrook Partners",
+            "uid": "D_HgHcDef"
           }
         ],
         "create-email": "psas@motivationengineers.com",
@@ -25556,12 +25592,98 @@
         "uid": "3KjGdJ_Dl"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607538341274,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607538357762,
+                "string": "Screens that explained the data and insights gathered",
+                "uid": "IY-f1wDWP"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1607538357757,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1607538421391,
+                "string": "Flipbook adapted from videos to enhance interaction with the full work flow",
+                "uid": "cSj4cT2yC"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607538136667,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607538162169,
+            "string": "Synthesis of landscape envisioned through 5 prototypes",
+            "uid": "0c9SF61C5"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607538217189,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607538319781,
+            "string": "Payments executive leaders walked away with a very visible reminder (embodied and ready at hand)",
+            "uid": "UX4HzB4Q5"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607538162165,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607538217191,
+            "string": "Souvenir in the literal sense - Memory aid that made notional concepts concrete and available long afterwards",
+            "uid": "JjNHZe57w"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607539490462,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539490462,
+            "string": "Wonderful attractor for soliciting follow on meetings across the 3 business units involved",
+            "uid": "baVZwEF4N"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1607537859356,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1607537875285,
-        "string": "Concept cookbook",
+        "edit-time": 1607538136670,
+        "string": "Concept guidebooks",
         "uid": "0PkYHf0li"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607538332685,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539559231,
+            "string": "Eric Dunn (Quicken's original coder and SVP): \"You've taken something prosaic and made it beautiful\"",
+            "uid": "I7LKgwmto"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607539672912,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539705045,
+            "string": "Vivid insights gave Design well-recognized role as the Voice of SMB customers",
+            "uid": "wWoRrAftc"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607539559221,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539644356,
+            "string": "Behavioral transformation of GoPayments through Smart Defaults yielded $2MM a year with no fall off in subscription",
+            "uid": "QRPJr_L_h"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607539497683,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607539497683,
+        "string": "Impacts",
+        "uid": "nd2Hhf-c4"
       }
     ],
     "create-email": "psas@motivationengineers.com",
@@ -25709,5 +25831,216 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1607535855315,
     "title": "3"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "Glenbrook\u2019s agenda is structured to ensure that you understand how the industry works as a whole. We emphasize the economics \u2013 so that you understand how money is made in the industry, and by whom.",
+            "uid": "MgQATrbBp"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "Payments Systems Overview",
+            "uid": "9aHZ5VzTm"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Industry definitions, payments domains",
+            "uid": "oymVFRU_D"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Key concepts \u2013 open/closed, push/pull, chain of liability",
+            "uid": "zNSQtUdze"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 How payments systems differ",
+            "uid": "0iuZ32keI"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Risk in payments",
+            "uid": "XJjb5U-ZD"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Payments systems economics",
+            "uid": "kxAuZAerX"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "Perspectives on Users and Providers",
+            "uid": "U4rrEEM8a"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 End-User perspectives \u2013 Consumers, Merchants",
+            "uid": "ePIvRHbHr"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Provider perspectives \u2013 Banks, Networks, Processors, PSPs",
+            "uid": "WGRAyVKj8"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Other constituents \u2013 Regulators",
+            "uid": "-OS0wNV8M"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "Core Systems",
+            "uid": "XIlUBktwJ"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Cards \u2013 Core concepts, value chains, transaction flow, technology, economics",
+            "uid": "Lgd9SevxB"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Checks \u2013 Value chain, checking imaging, remote deposit capture, volume trend",
+            "uid": "xUVYNXtXM"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 ACH \u2013 Value chain, transaction flow, direct debit risk model, volume, and trends",
+            "uid": "6kN-Zafby"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Wires \u2013 Value chain, economics, major players, and trends",
+            "uid": "hT3-Bf2LJ"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Faster Payments \u2013 Processing model and components, Zelle vs RTP vs FedNow",
+            "uid": "DP7ueOMG4"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Cash \u2013 Usage trends, ATM networks, and digital currencies",
+            "uid": "2uRZq_OrU"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "Global Payments",
+            "uid": "JL4GeNsFT"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Local country payments systems \u2013 models, common elements, variables",
+            "uid": "5WvDD0gaZ"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336861,
+            "string": "\u2022 Cross-border payments \u2013 international wires; cross-border card processing",
+            "uid": "eGD6uNVXj"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "Fintech Innovation",
+            "uid": "MBM3XuKiy"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 Market drivers, building blocks and key trends",
+            "uid": "LQFoRVGt5"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 Opening banking APIs, how payment data is used, artificial intelligence",
+            "uid": "IFC-ceQqJ"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "Payments Domains",
+            "uid": "y7IVQbNsV"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 Domain overview, monetization strategies, key trends for each domain",
+            "uid": "BEn-Wqb3N"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 POS \u00ac\u2013 NFC payments, mobile POS, Square Case Study",
+            "uid": "-OOvg0W6I"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 Online Commerce \u2013 Digital wallets, Secure Remote Commerce (SRC)",
+            "uid": "6OdiWBqJS"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 Bill Pay \u2013 Variation in biller, bank, and consumer-centric models",
+            "uid": "GHP6Eddml"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 P2P \u2013 Open vs Closed Processing Models, Venmo vs Cash App",
+            "uid": "UeaBj41Z2"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 B2B \u2013 B2B fundamentals, buyer-seller payment dynamics",
+            "uid": "PAOvKCPnS"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607539336862,
+            "string": "\u2022 Income \u2013 Disbursements, payouts, and card push payments",
+            "uid": "jQyTyl4g9"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607539323390,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607539334800,
+        "string": "From Glenbrook Bootcamp Agenda",
+        "uid": "aH5XtBzA0"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1607539321578,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1607539321578,
+    "title": "Payments"
   }
 ]

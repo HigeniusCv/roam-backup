@@ -24,9 +24,9 @@
     - For taxes, payments and refunds
     - For accounting, the stream of data
     - For banks, Intuit had a competitor to Yodlee, and could conceivably also white label payments offerings through 3,000 stodgy S&Ls and local bankds
-- FOP - Classic strategy gambit
-    - Cognitive bias - Nothing in life is as important as you think it is, while you are thinking about it 
-    - Within Intuit, maintaining large legacy base anchored innovation on incrementalist 
+- Payments - Classic strategy gambit
+    - Within Intuit, large legacy base anchors innovation on incrementalism 
+        - Cognitive bias - Nothing in life is as important as you think it is, while you are thinking about it 
     - Intuit's GoPayment beat Square to market with a mobile phone auditory signal processor, but could be compared to mp3 players before the iPod https://www.pcworld.com/article/239250/square_vs_intuit_gopayment_mobile_credit_card_systems_compared.html
 - Outside partner: Intuit + IDEO
     - Gorgeous deliverables came from the studio's pixie dust 
@@ -68,6 +68,10 @@
     - Competitive analysis draws upon Dun & Bradstreet and Bloomberg databases
     - Sizing open market opportunities can emerge from seeing how the pipelines connect
     - understanding profitability - great lens for prioritizing that has been carried forward since 
+    - Laser-focused shift from the ocean of payments possibilities to the clearly drawn continent of SMBs 
+    - Participated in 2 day Payments Bootcamp Glenbrook Partners
+        - How do the economics of payments work?
+        - digital payment pipelines (NACHA, wire transfer, Visa, AmEx, Star, US versus global infrastructure)
 - What UX strategy does uniquely well
     - Inside the customer's world view and specific needs
     - Spotting trends
@@ -88,4 +92,14 @@
     - Impact of full body walk around engages and stimulates dialog
     - Incorporated data viewpoint of Corporate Strategy alliance
     - High fidelity design fictions through video capsules
-- Concept cookbook
+- Concept guidebooks
+    - Synthesis of landscape envisioned through 5 prototypes
+        - Screens that explained the data and insights gathered
+        - Flipbook adapted from videos to enhance interaction with the full work flow
+    - Payments executive leaders walked away with a very visible reminder (embodied and ready at hand)
+    - Souvenir in the literal sense - Memory aid that made notional concepts concrete and available long afterwards
+    - Wonderful attractor for soliciting follow on meetings across the 3 business units involved
+- Impacts
+    - Eric Dunn (Quicken's original coder and SVP): "You've taken something prosaic and made it beautiful"
+    - Vivid insights gave Design well-recognized role as the Voice of SMB customers
+    - Behavioral transformation of GoPayments through Smart Defaults yielded $2MM a year with no fall off in subscription

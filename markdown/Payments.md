@@ -1,0 +1,33 @@
+- From Glenbrook Bootcamp Agenda
+    - Glenbrook’s agenda is structured to ensure that you understand how the industry works as a whole. We emphasize the economics – so that you understand how money is made in the industry, and by whom.
+    - Payments Systems Overview
+    - • Industry definitions, payments domains
+    - • Key concepts – open/closed, push/pull, chain of liability
+    - • How payments systems differ
+    - • Risk in payments
+    - • Payments systems economics
+    - Perspectives on Users and Providers
+    - • End-User perspectives – Consumers, Merchants
+    - • Provider perspectives – Banks, Networks, Processors, PSPs
+    - • Other constituents – Regulators
+    - Core Systems
+    - • Cards – Core concepts, value chains, transaction flow, technology, economics
+    - • Checks – Value chain, checking imaging, remote deposit capture, volume trend
+    - • ACH – Value chain, transaction flow, direct debit risk model, volume, and trends
+    - • Wires – Value chain, economics, major players, and trends
+    - • Faster Payments – Processing model and components, Zelle vs RTP vs FedNow
+    - • Cash – Usage trends, ATM networks, and digital currencies
+    - Global Payments
+    - • Local country payments systems – models, common elements, variables
+    - • Cross-border payments – international wires; cross-border card processing
+    - Fintech Innovation
+    - • Market drivers, building blocks and key trends
+    - • Opening banking APIs, how payment data is used, artificial intelligence
+    - Payments Domains
+    - • Domain overview, monetization strategies, key trends for each domain
+    - • POS ¬– NFC payments, mobile POS, Square Case Study
+    - • Online Commerce – Digital wallets, Secure Remote Commerce (SRC)
+    - • Bill Pay – Variation in biller, bank, and consumer-centric models
+    - • P2P – Open vs Closed Processing Models, Venmo vs Cash App
+    - • B2B – B2B fundamentals, buyer-seller payment dynamics
+    - • Income – Disbursements, payouts, and card push payments

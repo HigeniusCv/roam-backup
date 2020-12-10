@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607414103181,
+    "edit-time": 1607574624911,
     "title": "Readwise"
   },
   {
@@ -31769,12 +31769,41 @@
         ],
         "string": "Highlights first synced by #Readwise [[November 23rd, 2020]]",
         "uid": "-uf5YeqKa"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "12-09-2020"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607574620319,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607574620328,
+            "string": "make consumer products and experiences more engaging\u2014while sometimes having the positive side effect of helping users develop new habits or skills. Pok\u00e9mon Go! is an example. It was designed as a game, but users report boosts in their daily step counts as a result of their quests to capture Pok\u00e9mon. ([Location\u00a0428](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=428))",
+            "uid": "Tk8XoXlf7"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607574620317,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607574620328,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "12-09-2020"
+          }
+        ],
+        "string": "New highlights added [[December 9th, 2020]] at 8:30 PM",
+        "uid": "Ehw5niGPJ"
       }
     ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1606152155957,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1606152155972,
+    "edit-time": 1607574620328,
     "title": "Engaged (highlights)"
   },
   {
@@ -37161,7 +37190,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1607561602206,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607561602207,
+    "edit-time": 1607574624916,
     "title": "December 10th, 2020"
   }
 ]

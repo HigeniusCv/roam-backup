@@ -2,7 +2,7 @@
     - schedule focusmates one morning, afternoon, and night
     - Buffer for run-over
 - {{[[DONE]]}} Complete Rationalist EA effective productivity template for meeting with Lynette at 3pm
-- {{[[TODO]]}} Ping Penny, poke Pam
+- {{[[DONE]]}} Ping Penny, poke Pam
 - {{[[DONE]]}} Use and document CaCL 
 - {{[[DONE]]}} Move red car to correct direction
 - {{[[DONE]]}} keep drawing imperfectly

@@ -12286,19 +12286,19 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1604337688960,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1604337715594,
+        "edit-time": 1607646028409,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Ping Penny, poke Pam",
+        "string": "{{[[DONE]]}} Ping Penny, poke Pam",
         "uid": "i5zLI-vBb"
       },
       {
@@ -37192,5 +37192,12 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1607574624916,
     "title": "December 10th, 2020"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1607651560766,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1607651560767,
+    "title": "December 11th, 2020"
   }
 ]

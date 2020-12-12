@@ -3,3 +3,5 @@
 - Category:: #books
 - ### Highlights first synced by #Readwise [[December 7th, 2020]]
     - It wasn’t clear what would happen if someone managed ([Location 349](https://readwise.io/to_kindle?action=open&asin=B08BYWH6CS&location=349))
+- ### New highlights added [[December 11th, 2020]] at 9:55 PM
+    - headquarters, to prevent it from falling into the Sixers’ hands. But ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B08BYWH6CS&location=1278))

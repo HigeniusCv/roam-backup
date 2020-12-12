@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607574624911,
+    "edit-time": 1607752506725,
     "title": "Readwise"
   },
   {
@@ -36638,12 +36638,41 @@
         ],
         "string": "Highlights first synced by #Readwise [[December 7th, 2020]]",
         "uid": "Adg_3P1Cq"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "12-11-2020"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1607752502700,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1607752502708,
+            "string": "headquarters, to prevent it from falling into the Sixers\u2019 hands. But ([Location\u00a01278](https://readwise.io/to_kindle?action=open&asin=B08BYWH6CS&location=1278))",
+            "uid": "AB3TtcjpG"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1607752502698,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1607752502708,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "12-11-2020"
+          }
+        ],
+        "string": "New highlights added [[December 11th, 2020]] at 9:55 PM",
+        "uid": "WWrdX_v09"
       }
     ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1607414098630,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607414098661,
+    "edit-time": 1607752502708,
     "title": "Ready Player Two (highlights)"
   },
   {
@@ -37204,7 +37233,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1607734455445,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607734455445,
+    "edit-time": 1607752506728,
     "title": "December 12th, 2020"
   }
 ]

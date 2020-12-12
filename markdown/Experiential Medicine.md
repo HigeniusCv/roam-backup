@@ -1,7 +1,7 @@
 - Basic objective: Control the experience in a way that builds up one's better self, guiding the development of psychological resilience and health
 - Medicine may be the wrong term for wide adoption. Therapeutic also carries baggage that isn't essential, even though it's the correct focus (as in CB Therapy)/DBT
 - Treatment, exercise, coaching, strength building, assistance, guidance are all in the word cloud of associations
-- Diving deeper into the practical considerations, physical exercise is the exemplar of an non-pharmaceutical intervention that's known to improve almost every aspect of our lives (mental, emotional, physical).
+- Diving deeper into the practical considerations, physical exercise is the exemplar of an ((non-pharmaceutical intervention)) that's known to improve almost every aspect of our lives (mental, emotional, physical).
 - Exercise was at one time something people mainly did when they still had "gym class" or perhaps when they had a gym membership. Approximately 50 million people have a gym membership, but 40 of those 50 million do not actively use their membership. Approximately 60 million report having jogged in the past year, but it's likely there's a significant overlap between the two groups. 
 - 110 million Americans (basically twice the jogger population) report walking for fitness.  One of the most significant shifts toward physical activity occurred with the popularization of the 10,000 step milestone.
     - There's many lessons to learn from the promotion of the 10K steps target. While somewhat arbitrary, the level balances the healthful impact with the likelihood of adoption. Lowering the bar to 10K attracted far more people, which compensated for any weakening of the impact

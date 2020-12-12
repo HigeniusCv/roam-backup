@@ -58,7 +58,7 @@
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
     - {{[[DONE]]}} Reactivate my MTurk
-    - Write letter to 5 LinkedIn on Flow benchmark  frog
+    - Write letter to 5 LinkedIn on Flow benchmark  ((frog))
     - {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about
 - {{[[TODO]]}} Write for an hour per day
     - [[October 13th, 2020]] equals publish to LinkedIn and fix Medium

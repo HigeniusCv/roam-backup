@@ -2,7 +2,7 @@
 - Starting earlier than 10 is the new norm. Yesterday blagued out in the afternoon, and even manifested itself as a meat meal for lunch around 3pm. 
     - Not working mayn't be so bad, but surfing sucks
     - Even when I stop a-twittering, the emotional hang over is full of angst
-- The portfolio update is clearly my frog
+- The portfolio update is clearly my ((frog))
     - Obviously still stammering with ROAM
 - Sara Wolfensohn and I are going to z-chat, which'll be fun, just as a fresh angle on my social circuit. She must have a hard time picking social outlets, as she has so many dear friends, but apparently stalls on vulnerability in public
 - Sent Ricardo a text, a little ambivalent, "want to send you a shot of unconditional love." Not quite the same as feeling fully able to do so. He's been incommunicado orally for almost 2 weeks, and I have to remember that we're not trying to fix my previous life mistakes

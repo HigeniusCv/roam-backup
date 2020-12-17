@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607752506725,
+    "edit-time": 1608187299575,
     "title": "Readwise"
   },
   {
@@ -31798,12 +31798,69 @@
         ],
         "string": "New highlights added [[December 9th, 2020]] at 8:30 PM",
         "uid": "Ehw5niGPJ"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "12-16-2020"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608187295312,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608187295321,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "ZtiwAgRH6"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608187295313,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608187295321,
+                "string": "**Note**: DBT",
+                "uid": "k-kFlOmL9"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1608187295312,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1608187295321,
+            "string": "examples in this book where techniques like cognitive behavioral therapy (CBT), typically used in counseling, are brought into a digital experience. ([Location\u00a0448](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=448))",
+            "uid": "UcauHe5QE"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608187295310,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608187295321,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "12-16-2020"
+          }
+        ],
+        "string": "New highlights added [[December 16th, 2020]] at 10:41 PM",
+        "uid": "H-yD--5Hf"
       }
     ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1606152155957,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1607574620328,
+    "edit-time": 1608187295321,
     "title": "Engaged (highlights)"
   },
   {
@@ -37268,7 +37325,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1608170177521,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1608170177522,
+    "edit-time": 1608187299579,
     "title": "December 17th, 2020"
   }
 ]

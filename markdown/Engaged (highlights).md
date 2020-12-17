@@ -10,3 +10,7 @@
     - behavior change design includes: • A process for designing and building products that incorporate research and evidence • Access to frameworks and theories to help leverage proven techniques within products • Tools to define and track product success metrics ([Location 389](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=389))
 - ### New highlights added [[December 9th, 2020]] at 8:30 PM
     - make consumer products and experiences more engaging—while sometimes having the positive side effect of helping users develop new habits or skills. Pokémon Go! is an example. It was designed as a game, but users report boosts in their daily step counts as a result of their quests to capture Pokémon. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=428))
+- ### New highlights added [[December 16th, 2020]] at 10:41 PM
+    - examples in this book where techniques like cognitive behavioral therapy (CBT), typically used in counseling, are brought into a digital experience. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B084WPQNRR&location=448))
+        - **Tags**: #[[blue]]
+        - **Note**: DBT

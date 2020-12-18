@@ -1,0 +1,19 @@
+- summary(x)
+- mean(x) na.rm = TRUE to eliminate NA
+- median(x) na.rm = TRUE to eliminate NA
+- sd(x) na.rm = TRUE to eliminate NA
+- hist(x)
+- boxplot(x)
+- qqnorm(x)
+- qqline(x) #Normal probability plot & straight line
+- table(x)
+- barplot(table(x))
+- table(x,y)
+- barplot(table(x,y))
+- mosaic(table(x,y))
+- y=numerical, x = categorical
+- by(y, x, summary) #summary by group #na.rm = TRUE
+- by(y, x, mean) #mean by group #na.rm = TRUE 
+- by(y, x, sd)
+- boxplot(y ~ x)
+- To load inference function

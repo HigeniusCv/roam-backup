@@ -37334,5 +37334,236 @@
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1608253046824,
     "title": "December 18th, 2020"
+  },
+  {
+    "children": [
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315495997,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315499409,
+        "string": "summary(x)",
+        "uid": "drTLZMJeQ"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315508727,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315524909,
+        "string": "mean(x) na.rm = TRUE to eliminate NA",
+        "uid": "X8jFX2uoB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315524975,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315540350,
+        "string": "median(x) na.rm = TRUE to eliminate NA",
+        "uid": "F6MareNgb"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315541754,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315552851,
+        "string": "sd(x) na.rm = TRUE to eliminate NA",
+        "uid": "LgT45wbw_"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315553027,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315580930,
+        "string": "hist(x)",
+        "uid": "yjcLvHHnC"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315583387,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315590966,
+        "string": "boxplot(x)",
+        "uid": "zX95ZtHry"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315591798,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315616067,
+        "string": "qqnorm(x)",
+        "uid": "Gm1_Cfx6Q"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "npbNx5hKz"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315618207,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315644417,
+        "refs": [
+          {
+            "uid": "npbNx5hKz"
+          }
+        ],
+        "string": "qqline(x) #Normal probability plot & straight line",
+        "uid": "mJvfNrJ-q"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315644409,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315651261,
+        "string": "table(x)",
+        "uid": "Xmgf0D-_7"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315652235,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315673024,
+        "string": "barplot(table(x))",
+        "uid": "-9OlJdBRV"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315677329,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315681464,
+        "string": "table(x,y)",
+        "uid": "ZOn2vMEdj"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315691607,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315814646,
+        "string": "barplot(table(x,y))",
+        "uid": "ym6dIuLmq"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315776245,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315785816,
+        "string": "mosaic(table(x,y))",
+        "uid": "GdzAuXoo8"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315793691,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315807046,
+        "string": "y=numerical, x = categorical",
+        "uid": "0vlKX_h_z"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "__zk_PnmV"
+          },
+          {
+            ":block/uid": "09i8SrucH"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315933437,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315938778,
+        "refs": [
+          {
+            "uid": "__zk_PnmV"
+          },
+          {
+            "uid": "09i8SrucH"
+          }
+        ],
+        "string": "by(y, x, summary) #summary by group #na.rm = TRUE",
+        "uid": "0QU8Q-RX8"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "09i8SrucH"
+          },
+          {
+            ":block/uid": "Eu08M26J1"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315807038,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315949290,
+        "refs": [
+          {
+            "uid": "09i8SrucH"
+          },
+          {
+            "uid": "Eu08M26J1"
+          }
+        ],
+        "string": "by(y, x, mean) #mean by group #na.rm = TRUE ",
+        "uid": "0CxEZ5-H2"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315852887,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315966856,
+        "string": "by(y, x, sd)",
+        "uid": "jajBFEKRr"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608315838768,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608315995124,
+        "string": "boxplot(y ~ x)",
+        "uid": "_fUg3VsHJ"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1608316010943,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1608316021175,
+        "string": "To load inference function",
+        "uid": "fDo181keZ"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1608315489440,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1608315489441,
+    "title": "R code"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1608315638873,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1608315638875,
+    "title": "Normal"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1608315838777,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1608315838788,
+    "title": "summary"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1608315852565,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1608315852566,
+    "title": "na"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1608315949292,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1608315949294,
+    "title": "mean"
   }
 ]

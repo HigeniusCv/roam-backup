@@ -37524,6 +37524,269 @@
         "uid": "_fUg3VsHJ"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "est = c(\"mean\", \"median\", \"proportion\"), ",
+                "uid": "wtN0gtgJ9"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "success = NULL, order = NULL, ",
+                "uid": "p4b1wRqfC"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "method = c(\"theoretical\",\"simulation\"),",
+                "uid": "-OanP7DLB"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "type = c(\"ci\",\"ht\"), ",
+                "uid": "qysfbjgJy"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "alternative = c(\"less\",\"greater\",\"twosided\"), ",
+                "uid": "gM7WZK2Is"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "null = NULL, ",
+                "uid": "HtUvT3Znv"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "boot_method = c(\"perc\",\"se\"),",
+                "uid": "ibeBSiQGU"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160897,
+                "string": "conflevel = 0.95, siglevel = 0.05,",
+                "uid": "zIz3-OU2n"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "string": "nsim = 10000, simdist = FALSE, seed = NULL,",
+                "uid": "49Kfu5tD9"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "string": "sum_stats = TRUE, eda_plot = TRUE, inf_plot = TRUE, inf_lines = TRUE) {",
+                "uid": "bSEBTVcLB"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "y: response variable, can be numerical or categorical",
+                "uid": "dPsecFuZz"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "x: explanatory variable, categorical (optional)",
+                "uid": "osJL66UjQ"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "est: parameter to estimate: mean, median, or proportion",
+                "uid": "aszZ077qa"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "success: which level of the categorical variable to call \"success\", i.e. do inference on",
+                "uid": "GQpzV5VQN"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "order: when x is given, order of levels of x in which to subtract parameters",
+                "uid": "A7tLuU_xi"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "method: CLT based (theoretical) or simulation based (randomization/bootstrapping)",
+                "uid": "CW6iSAuLy"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "type: ci (confidence interval) or ht (hypothesis test)",
+                "uid": "es5XByOAO"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "alternative: direction of the alternative hypothesis",
+                "uid": "sNzD7ypCI"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "null: null value for a hypothesis test",
+                "uid": "WiOCzoYO4"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "boot_method: percentile (perc) or standard error (se)",
+                "uid": "OdzIvcyeA"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "conflevel: confidence level, value between 0 and 1",
+                "uid": "p2nIHt7aT"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "siglevel: significance level, value between 0 and 1 (used only for ANOVA to determine if posttests are necessary)",
+                "uid": "b4iwbLdR_"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160898,
+                "heading": 1,
+                "string": "nsim: number of simulations",
+                "uid": "N9lg_NrIr"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160899,
+                "heading": 1,
+                "string": "simdist: TRUE/FALSE - return the simulation distribution",
+                "uid": "w1VeI-v8s"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160899,
+                "heading": 1,
+                "string": "seed: NULL - set.seed()",
+                "uid": "R0-gj6qQ_"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160899,
+                "heading": 1,
+                "string": "sum_stats: TRUE/FALSE - print summary stats",
+                "uid": "esg8BDhaZ"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160899,
+                "heading": 1,
+                "string": "eda_plot: TRUE/FALSE - print EDA plot ",
+                "uid": "bm8WeU4TX"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160899,
+                "heading": 1,
+                "string": "inf_plot: TRUE/FALSE - print inference plot ",
+                "uid": "TB-8VLmwS"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1608316160876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1608316160899,
+                "heading": 1,
+                "string": "inf_lines: TRUE/FALSE - print lines on the inference plot for ci bounds or p-value",
+                "uid": "8ar_zzcBP"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1608316160876,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1608316183158,
+            "string": "inference <- function(y, x = NULL, ",
+            "uid": "-XvdKFfxV"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1608316010943,
         "edit-email": "psas@motivationengineers.com",

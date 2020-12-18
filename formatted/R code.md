@@ -17,3 +17,33 @@
 - by(y, x, sd)
 - boxplot(y ~ x)
 - To load inference function
+    - inference <- function(y, x = NULL, 
+        - est = c("mean", "median", "proportion"), 
+        - success = NULL, order = NULL, 
+        - method = c("theoretical","simulation"),
+        - type = c("ci","ht"), 
+        - alternative = c("less","greater","twosided"), 
+        - null = NULL, 
+        - boot_method = c("perc","se"),
+        - conflevel = 0.95, siglevel = 0.05,
+        - nsim = 10000, simdist = FALSE, seed = NULL,
+        - sum_stats = TRUE, eda_plot = TRUE, inf_plot = TRUE, inf_lines = TRUE) {
+        - # y: response variable, can be numerical or categorical
+        - # x: explanatory variable, categorical (optional)
+        - # est: parameter to estimate: mean, median, or proportion
+        - # success: which level of the categorical variable to call "success", i.e. do inference on
+        - # order: when x is given, order of levels of x in which to subtract parameters
+        - # method: CLT based (theoretical) or simulation based (randomization/bootstrapping)
+        - # type: ci (confidence interval) or ht (hypothesis test)
+        - # alternative: direction of the alternative hypothesis
+        - # null: null value for a hypothesis test
+        - # boot_method: percentile (perc) or standard error (se)
+        - # conflevel: confidence level, value between 0 and 1
+        - # siglevel: significance level, value between 0 and 1 (used only for ANOVA to determine if posttests are necessary)
+        - # nsim: number of simulations
+        - # simdist: TRUE/FALSE - return the simulation distribution
+        - # seed: NULL - set.seed()
+        - # sum_stats: TRUE/FALSE - print summary stats
+        - # eda_plot: TRUE/FALSE - print EDA plot 
+        - # inf_plot: TRUE/FALSE - print inference plot 
+        - # inf_lines: TRUE/FALSE - print lines on the inference plot for ci bounds or p-value

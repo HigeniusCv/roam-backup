@@ -1,0 +1,9 @@
+- Room to breathe
+- Mine Your Peace & Quiet
+- Lungs for your Brain 
+- Hamster Wheel for Knowledge Wheezers
+- Movable Nest 
+- HVAC translated to flat-packed shoji screen 
+    - dry wall is usu 4' x 8'
+    - Duct work air filtering could be converted to tubes that line the dry wall sheets
+- 

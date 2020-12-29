@@ -352,6 +352,10 @@
 - **[Full Title](<Full Title.md>):** The Knowledge
 - **[Category](<Category.md>):**
 
+## [The Knowledge Machine (highlights)](<The Knowledge Machine (highlights).md>)
+- **[Full Title](<Full Title.md>):** The Knowledge Machine
+- **[Category](<Category.md>):**
+
 ## [The Mandibles (highlights)](<The Mandibles (highlights).md>)
 - **[Full Title](<Full Title.md>):** The Mandibles
 - **[Category](<Category.md>):**

@@ -264,6 +264,9 @@
 ## [The Knowledge (highlights)](<The Knowledge (highlights).md>)
 - **[Author](<Author.md>):**
 
+## [The Knowledge Machine (highlights)](<The Knowledge Machine (highlights).md>)
+- **[Author](<Author.md>):**
+
 ## [The Mandibles (highlights)](<The Mandibles (highlights).md>)
 - **[Author](<Author.md>):**
 

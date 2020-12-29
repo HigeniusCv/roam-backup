@@ -1,0 +1,26 @@
+- Author:: [[Michael Strevens]]
+- Full Title:: The Knowledge Machine
+- Category:: #books
+- ### Highlights first synced by #Readwise [[December 29th, 2020]]
+    - Science is so vital to the quality of our modern life that even if the scientific method turned out to be something rather boring and unremarkable—a superior kind of experimental technique, say—it would be imperative to find it and to frame it in a book. ([Location 135](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=135))
+        - **Tags**: #[[blue]]
+    - Those who have searched for a scientific method—the methodists—have been looking for a logical and behavioral directive that expunges human whim from scientific thought, replacing it with a standardized ([Location 143](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=143))
+        - **Tags**: #[[blue]]
+    - The rule that governs science and explains its success is far weaker, however, than the methodists have supposed: it tells you what counts as evidence but offers no system ([Location 145](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=145))
+        - **Tags**: #[[blue]]
+    - It is not a method of reasoning but a kind of speech code, a set of ground rules for debate, compelling scientists to conduct all disputes with reference to empirical evidence alone. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=149))
+        - **Tags**: #[[blue]]
+    - simply lays down the rule that all arguments ([Location 153](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=153))
+        - **Tags**: #[[blue]]
+    - must be carried out with reference to empirical evidence and then steps back, relinquishing control. Scientists are free to think almost anything they like about the connection between evidence and theory. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=153))
+        - **Tags**: #[[blue]]
+    - to participate in the scientific enterprise, they must uncover or generate new evidence to argue with. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=155))
+        - **Tags**: #[[blue]]
+    - science is a machine for motivating disputatious humans to carry out tedious measurements and perform costly and time-consuming experiments that they would otherwise not care to undertake. ([Location 157](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=157))
+        - **Tags**: #[[blue]]
+    - empirical minutiae, so painful to collect, that single out the truth among the plausible falsehoods. ([Location 158](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=158))
+        - **Tags**: #[[blue]]
+    - nonappearance is to be explained by something timeless: that the iron rule, the key to science’s success, is unreasonably closed-minded. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=168))
+        - **Tags**: #[[blue]]
+    - the irrationality of the rule that barred it from human consciousness for so long. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=178))
+        - **Tags**: #[[blue]]

@@ -352,6 +352,10 @@
 - **[Author](<Author.md>):** [Lewis Dartnell](<Lewis Dartnell.md>)
 - **[Full Title](<Full Title.md>):**
 
+## [The Knowledge Machine (highlights)](<The Knowledge Machine (highlights).md>)
+- **[Author](<Author.md>):** [Michael Strevens](<Michael Strevens.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [The Mandibles (highlights)](<The Mandibles (highlights).md>)
 - **[Author](<Author.md>):** [Lionel Shriver](<Lionel Shriver.md>)
 - **[Full Title](<Full Title.md>):**

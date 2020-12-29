@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1608187299575,
+    "edit-time": 1609264503838,
     "title": "Readwise"
   },
   {
@@ -37994,7 +37994,424 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1609204001422,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1609204001423,
+    "edit-time": 1609264503843,
     "title": "December 29th, 2020"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Lpy3dFmee"
+          },
+          {
+            ":block/uid": "9xD_tH9LG"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609264498865,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609264498924,
+        "refs": [
+          {
+            "uid": "Lpy3dFmee"
+          },
+          {
+            "uid": "9xD_tH9LG"
+          }
+        ],
+        "string": "Author:: [[Michael Strevens]]",
+        "uid": "l4RiYUfxy"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "HQqLUMN11"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609264498867,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609264498924,
+        "refs": [
+          {
+            "uid": "HQqLUMN11"
+          }
+        ],
+        "string": "Full Title:: The Knowledge Machine",
+        "uid": "klfe5LWXl"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "nQe5Mxw8Q"
+          },
+          {
+            ":block/uid": "cq2xjmun4"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609264498868,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609264498926,
+        "refs": [
+          {
+            "uid": "nQe5Mxw8Q"
+          },
+          {
+            "uid": "cq2xjmun4"
+          }
+        ],
+        "string": "Category:: #books",
+        "uid": "mFjvG6um7"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tQiZw77L3"
+          },
+          {
+            ":block/uid": "12-29-2020"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498870,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498926,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "LzP88I5pK"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498869,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498926,
+            "string": "Science is so vital to the quality of our modern life that even if the scientific method turned out to be something rather boring and unremarkable\u2014a superior kind of experimental technique, say\u2014it would be imperative to find it and to frame it in a book. ([Location\u00a0135](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=135))",
+            "uid": "0eViu3PsG"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498871,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498926,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "bQKpMgd0x"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498871,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498927,
+            "string": "Those who have searched for a scientific method\u2014the methodists\u2014have been looking for a logical and behavioral directive that expunges human whim from scientific thought, replacing it with a standardized ([Location\u00a0143](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=143))",
+            "uid": "NmU1jUCWI"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498872,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498927,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "kO2RF5fPi"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498871,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498927,
+            "string": "The rule that governs science and explains its success is far weaker, however, than the methodists have supposed: it tells you what counts as evidence but offers no system ([Location\u00a0145](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=145))",
+            "uid": "b3ighOSiF"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498872,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498927,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "S9PwqFFji"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498872,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498927,
+            "string": "It is not a method of reasoning but a kind of speech code, a set of ground rules for debate, compelling scientists to conduct all disputes with reference to empirical evidence alone. ([Location\u00a0149](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=149))",
+            "uid": "BEcu9DsEK"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498874,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498927,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "wLA0rGe5_"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498873,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498927,
+            "string": "simply lays down the rule that all arguments ([Location\u00a0153](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=153))",
+            "uid": "0U_newj-e"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498875,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498927,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "_JOniw7RD"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498874,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498927,
+            "string": "must be carried out with reference to empirical evidence and then steps back, relinquishing control. Scientists are free to think almost anything they like about the connection between evidence and theory. ([Location\u00a0153](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=153))",
+            "uid": "OB3GQ5CDb"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498875,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498927,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "hIs9iMIIu"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498875,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498927,
+            "string": "to participate in the scientific enterprise, they must uncover or generate new evidence to argue with. ([Location\u00a0155](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=155))",
+            "uid": "qjht9MM9Y"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498876,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498928,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "vZ5pBLrg6"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498876,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498928,
+            "string": "science is a machine for motivating disputatious humans to carry out tedious measurements and perform costly and time-consuming experiments that they would otherwise not care to undertake. ([Location\u00a0157](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=157))",
+            "uid": "b-XHm0cJp"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498877,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498928,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "evlxW2DL_"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498877,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498928,
+            "string": "empirical minutiae, so painful to collect, that single out the truth among the plausible falsehoods. ([Location\u00a0158](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=158))",
+            "uid": "t2WHBYtmH"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498878,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498928,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "XPMCY2Pqd"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498877,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498928,
+            "string": "nonappearance is to be explained by something timeless: that the iron rule, the key to science\u2019s success, is unreasonably closed-minded. ([Location\u00a0168](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=168))",
+            "uid": "sGoaAfYll"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609264498878,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609264498929,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "8vs8u-hkN"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609264498878,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609264498929,
+            "string": "the irrationality of the rule that barred it from human consciousness for so long. ([Location\u00a0178](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=178))",
+            "uid": "W3gg7CIPV"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609264498869,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609264498929,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "tQiZw77L3"
+          },
+          {
+            "uid": "12-29-2020"
+          }
+        ],
+        "string": "Highlights first synced by #Readwise [[December 29th, 2020]]",
+        "uid": "P9T7mTd3Z"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1609264498885,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1609264498986,
+    "title": "The Knowledge Machine (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1609264498865,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1609264498924,
+    "title": "Michael Strevens"
   }
 ]

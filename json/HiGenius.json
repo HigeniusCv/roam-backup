@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1609264503838,
+    "edit-time": 1609400017240,
     "title": "Readwise"
   },
   {
@@ -38399,12 +38399,61 @@
         ],
         "string": "Highlights first synced by #Readwise [[December 29th, 2020]]",
         "uid": "P9T7mTd3Z"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "12-30-2020"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609400013715,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609400013725,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "v4w7tuO4A"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609400013715,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609400013725,
+            "string": "the theories that have not yet been positively disproved, we have absolutely no reason to believe one rather than another. It is not that even our best theory cannot be definitively proved; it is rather that there is no such thing as a \u201cbest theory,\u201d ([Location\u00a0294](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=294))",
+            "uid": "2yX19E8vU"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609400013712,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609400013725,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "12-30-2020"
+          }
+        ],
+        "string": "New highlights added [[December 30th, 2020]] at 11:33 PM",
+        "uid": "E4fL-Al7P"
       }
     ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1609264498885,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1609264498986,
+    "edit-time": 1609400013725,
     "title": "The Knowledge Machine (highlights)"
   },
   {
@@ -38425,7 +38474,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1609382914662,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1609382914663,
+    "edit-time": 1609400017242,
     "title": "December 31st, 2020"
   }
 ]

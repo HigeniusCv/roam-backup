@@ -24,3 +24,6 @@
         - **Tags**: #[[blue]]
     - the irrationality of the rule that barred it from human consciousness for so long. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=178))
         - **Tags**: #[[blue]]
+- ### New highlights added [[December 30th, 2020]] at 11:33 PM
+    - the theories that have not yet been positively disproved, we have absolutely no reason to believe one rather than another. It is not that even our best theory cannot be definitively proved; it is rather that there is no such thing as a “best theory,” ([Location 294](https://readwise.io/to_kindle?action=open&asin=B085SSXY45&location=294))
+        - **Tags**: #[[blue]]

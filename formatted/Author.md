@@ -213,6 +213,9 @@
 ## [Storytelling With Data (highlights)](<Storytelling With Data (highlights).md>)
 - **[Author](<Author.md>):**
 
+## [Stuff You Should Know (highlights)](<Stuff You Should Know (highlights).md>)
+- **[Author](<Author.md>):**
+
 ## [Sweetness (highlights)](<Sweetness (highlights).md>)
 - **[Author](<Author.md>):**
 

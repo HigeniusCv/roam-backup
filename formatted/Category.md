@@ -284,6 +284,10 @@
 - **[Full Title](<Full Title.md>):** Storytelling With Data
 - **[Category](<Category.md>):**
 
+## [Stuff You Should Know (highlights)](<Stuff You Should Know (highlights).md>)
+- **[Full Title](<Full Title.md>):** Stuff You Should Know
+- **[Category](<Category.md>):**
+
 ## [Sweetness (highlights)](<Sweetness (highlights).md>)
 - **[Full Title](<Full Title.md>):** Sweetness
 - **[Category](<Category.md>):**

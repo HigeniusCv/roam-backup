@@ -284,6 +284,10 @@
 - **[Author](<Author.md>):** [Cole Nussbaumer Knaflic](<Cole Nussbaumer Knaflic.md>)
 - **[Full Title](<Full Title.md>):**
 
+## [Stuff You Should Know (highlights)](<Stuff You Should Know (highlights).md>)
+- **[Author](<Author.md>):** [Josh Clark and Chuck Bryant](<Josh Clark and Chuck Bryant.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [Sweetness (highlights)](<Sweetness (highlights).md>)
 - **[Author](<Author.md>):** [Jeff Pearlman](<Jeff Pearlman.md>)
 - **[Full Title](<Full Title.md>):**

@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Josh Clark and Chuck Bryant](<Josh Clark and Chuck Bryant.md>)
+- **[Full Title](<Full Title.md>):** Stuff You Should Know
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [January 2nd, 2021](<January 2nd, 2021.md>)
+    - Musashi wrote, “from one thing, know ten thousand things.” Musashi was a master swordsman and he knew that discipline fully. But he didn’t only know that. He also learned metallurgy to understand how to make the strongest sword; physiology and anatomy to understand the physical vulnerabilities of his opponents; human psychology to understand their mental vulnerabilities; geometry to understand angles of attack; physics to understand leverage. The list ([Location 60](https://readwise.io/to_kindle?action=open&asin=B083RSLM5S&location=60))
+        - **Note**: Know 1 thing

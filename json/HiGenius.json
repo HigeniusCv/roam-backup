@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1609400017240,
+    "edit-time": 1609646105649,
     "title": "Readwise"
   },
   {
@@ -38607,7 +38607,134 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1609636403272,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1609636403274,
+    "edit-time": 1609646105659,
     "title": "January 3rd, 2021"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Lpy3dFmee"
+          },
+          {
+            ":block/uid": "QUU8hwgSE"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609646100923,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609646100943,
+        "refs": [
+          {
+            "uid": "Lpy3dFmee"
+          },
+          {
+            "uid": "QUU8hwgSE"
+          }
+        ],
+        "string": "Author:: [[Josh Clark and Chuck Bryant]]",
+        "uid": "xPfqAVkT5"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "HQqLUMN11"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609646100926,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609646100943,
+        "refs": [
+          {
+            "uid": "HQqLUMN11"
+          }
+        ],
+        "string": "Full Title:: Stuff You Should Know",
+        "uid": "30VveqMGY"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "nQe5Mxw8Q"
+          },
+          {
+            ":block/uid": "cq2xjmun4"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609646100927,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609646100943,
+        "refs": [
+          {
+            "uid": "nQe5Mxw8Q"
+          },
+          {
+            "uid": "cq2xjmun4"
+          }
+        ],
+        "string": "Category:: #books",
+        "uid": "wErrWzlgg"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tQiZw77L3"
+          },
+          {
+            ":block/uid": "01-02-2021"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1609646100930,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1609646100943,
+                "string": "**Note**: Know 1 thing",
+                "uid": "2rAGTaJbk"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609646100929,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609646100943,
+            "string": "Musashi wrote, \u201cfrom one thing, know ten thousand things.\u201d Musashi was a master swordsman and he knew that discipline fully. But he didn\u2019t only know that. He also learned metallurgy to understand how to make the strongest sword; physiology and anatomy to understand the physical vulnerabilities of his opponents; human psychology to understand their mental vulnerabilities; geometry to understand angles of attack; physics to understand leverage. The list ([Location\u00a060](https://readwise.io/to_kindle?action=open&asin=B083RSLM5S&location=60))",
+            "uid": "zMB2r3WvD"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609646100928,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609646100943,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "tQiZw77L3"
+          },
+          {
+            "uid": "01-02-2021"
+          }
+        ],
+        "string": "Highlights first synced by #Readwise [[January 2nd, 2021]]",
+        "uid": "hiyU3_l1l"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1609646100933,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1609646100961,
+    "title": "Stuff You Should Know (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1609646100923,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1609646100943,
+    "title": "Josh Clark and Chuck Bryant"
   }
 ]

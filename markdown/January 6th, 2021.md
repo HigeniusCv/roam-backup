@@ -1,7 +1,8 @@
 - {{[[TODO]]}} Focusmate on Portfolio in Squarespace
 - Migrate Higenius OFF Squarespace
     - setup Wordpress (higenius.org for now)
-- 
+- Cancel re-newal of wix -will endure until Oct 2021
+- Meet with Harry Qi on Motion
 - "But the internet is saturated!"
 - No, your market is expanding.
 - **Where some see scale as a deterrent, you’ll learn to see opportunity.**

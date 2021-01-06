@@ -3,6 +3,9 @@
     - setup Wordpress (higenius.org for now)
 - Cancel re-newal of wix -will endure until Oct 2021
 - Meet with Harry Qi on Motion
-- "But the internet is saturated!"
-- No, your market is expanding.
+- 
+- "But the internet is saturated!" - No, your market is expanding.
 - **Where some see scale as a deterrent, you’ll learn to see opportunity.**
+- how do you become an apprentice without a network or a reputation **Answer: The Internet.**
+- So why the apprenticeship model? **Because it makes you valuable to people that have a problem.**
+- Think someone could be doing a better job of x? **Don’t tell them, show them.**

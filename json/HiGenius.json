@@ -38772,20 +38772,22 @@
         "uid": "fAD3kKTxK"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1609964498777,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1609965389309,
+            "string": "setup Wordpress (higenius.org for now)",
+            "uid": "5dQoFQTPB"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1609964489033,
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1609964498783,
         "string": "Migrate Higenius OFF Squarespace",
         "uid": "BF09ziSOg"
-      },
-      {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1609964498777,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1609964498777,
-        "string": "",
-        "uid": "5dQoFQTPB"
       },
       {
         "create-email": "psas@motivationengineers.com",

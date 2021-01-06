@@ -1,6 +1,6 @@
 - {{[[TODO]]}} Focusmate on Portfolio in Squarespace
 - Migrate Higenius OFF Squarespace
-- 
+    - setup Wordpress (higenius.org for now)
 - 
 - "But the internet is saturated!"
 - No, your market is expanding.

@@ -38752,6 +38752,68 @@
     "title": "January 5th, 2021"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "QimQgkMaw"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609964474661,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609964489043,
+        "refs": [
+          {
+            "uid": "QimQgkMaw"
+          }
+        ],
+        "string": "{{[[TODO]]}} Focusmate on Portfolio in Squarespace",
+        "uid": "fAD3kKTxK"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609964489033,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609964498783,
+        "string": "Migrate Higenius OFF Squarespace",
+        "uid": "BF09ziSOg"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609964498777,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609964498777,
+        "string": "",
+        "uid": "5dQoFQTPB"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1609964474481,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609964474481,
+        "string": "",
+        "uid": "sn79cGqPu"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609964463024,
+        "string": "\"But the internet is saturated!\"",
+        "uid": "x1IgRqxwi"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609964463024,
+        "string": "No, your market is expanding.",
+        "uid": "s7t3GbvJ-"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1609964463024,
+        "string": "**Where some see scale as a deterrent, you\u2019ll learn to see opportunity.**",
+        "uid": "nO7Ylkhqp"
+      }
+    ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1609895560304,
     "edit-email": "psas@motivationengineers.com",

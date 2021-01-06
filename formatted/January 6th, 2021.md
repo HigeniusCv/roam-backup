@@ -1,4 +1,4 @@
-- {{[[TODO]]}} Focusmate on Portfolio in Squarespace
+- [ ] Focusmate on Portfolio in Squarespace
 - Migrate Higenius OFF Squarespace
 - 
 - 

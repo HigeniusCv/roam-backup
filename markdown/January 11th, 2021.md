@@ -34,6 +34,9 @@
     - **Invite to publish your field observations **for inclusion & recognition in forthcoming white paper
     - Info on **future HCD workshops to prototype next-generation PPE**
 - Confirmation page
+- Jan 18, 2021 6:30 PM Pacific Time
+- https://us02web.zoom.us/j/84618995223?pwd=aFQ5dm9PR1RBbERweDEwRkkzN2lPUT09
+- Meeting ID: 846 1899 5223  Passcode: 02139
 - ## This workshop will provide Designers & UXResearchers with the information and tools to start improving masks
     - A human-centered design focus will make masks more comfortable, sociable AND safer than current options. __If you have  worn facial protection anytime in the past year, you are qualified to participate__.
     - We will survey the landscape of current facial protection (both consumer and medical options).  We will then assess  PPE in terms of the CARES experience methodology:

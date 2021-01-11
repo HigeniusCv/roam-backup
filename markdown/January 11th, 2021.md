@@ -18,4 +18,31 @@
     - Roof eyelids before summer time
     - Improve air quality indoors - IQAir $900
     - Sound filtration indoors
-    - 
+- OVERVIEW ON EVITE https://www.eventbrite.com/e/workshop-to-improve-protective-equipment-design-tickets-136323937567
+- ## HMW improve mask comfort, sociability AND Safety?
+    - __Mgurfle mnenting beez eyen... Sorry, let me take off my mask to describe this  workshop__
+    - Human Centered Design will be crucial for our "New Norms" of PPE (personal protective equipment)
+    - Behavioral scientist Paul Sas founded Higeni.us to assess and design protection for daily comfort and sociability. Masks today are merely good-enough for outdoor exposure, with perhaps a nod to fashionable accessorizing.
+    - This workshop will provide design researchers with an introductory assessment of the landscape of current options in terms of the__** CARES experience methodology**__
+- ###   __Comfort__
+- ###   __Audibility__ of speech
+- ###   __Risk__ calibration
+- ###   __Ease__ of using correctly for sustained time
+- ###   __Sociable__ - going from smize to full facial expression
+- ## In this introductory workshop, you receive
+    - **1-page tool to qualitatively assess 5 CARES dimensions** in the field
+    - **Invite to publish your field observations **for inclusion & recognition in forthcoming white paper
+    - Info on **future HCD workshops to prototype next-generation PPE**
+- Confirmation page
+- ## This workshop will provide Designers & UXResearchers with the information and tools to start improving masks
+    - A human-centered design focus will make masks more comfortable, sociable AND safer than current options. __If you have  worn facial protection anytime in the past year, you are qualified to participate__.
+    - We will survey the landscape of current facial protection (both consumer and medical options).  We will then assess  PPE in terms of the CARES experience methodology:
+- ### Comfort
+- ### Audibility of speech
+- ### Risk calibration
+- ### Ease of using correctly for sustained time
+- ### Sociable - going from smize to full facial expression will receive
+- ## Attendees will get
+    - **1-page tool to qualitatively assess 5 CARES dimensions in the field**
+    - **Invite to include your own field observations for inclusion & recognition in forthcoming published white paper**
+    - **Opportunity to contribute to HCD workshops prototyping next-generation PPE**

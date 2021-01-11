@@ -4,7 +4,7 @@
     - List of desired roles: Project Mgt, Product M, SEO, Data Science - Advanced CS to build private, sharable data protocol
 - Set up design workshops on Evite
     - PPE for '21
-        - Consider paying Luca, Talia and Tanya $40 to join
+        - Consider paying Luca, Talia and Tanya to join
     - IDEO-style EFS: HCD for working 
     - Measuring Flow ($50 per seat)
     - Emotions and Delight metrics

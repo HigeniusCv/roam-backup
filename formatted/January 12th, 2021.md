@@ -1,4 +1,4 @@
-- I'm leading a "Human Centered Design Workshop for #PPE" 
+- I'm leading a "Human Centered Design Workshop for [PPE](<PPE.md>)" 
     - https://www.eventbrite.com/e/human-centered-design-workshop-for-ppe-tickets-136323937567
 - Our current focus for 2020-21: **Crowdsourcing Behavioral Responses to COVID**
 - Human centered design workshop [on the CARES protocol (Comfort; Audibility; Risk; Ease; Sociable)](https://www.eventbrite.com/e/human-centered-design-workshop-for-ppe-tickets-136323937567,)

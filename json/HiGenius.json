@@ -39276,10 +39276,159 @@
     "title": "January 11th, 2021"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "wHiGMpkCT"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610479358173,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610479358173,
+            "string": "https://www.eventbrite.com/e/human-centered-design-workshop-for-ppe-tickets-136323937567",
+            "uid": "GlYHAfCez"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610479347494,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610479358181,
+        "refs": [
+          {
+            "uid": "wHiGMpkCT"
+          }
+        ],
+        "string": "I'm leading a \"Human Centered Design Workshop for #PPE\" ",
+        "uid": "pytyCUE0T"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610480159056,
+        "string": "Our current focus for 2020-21: **Crowdsourcing Behavioral Responses to COVID**",
+        "uid": "ISaxUd9xa"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610480159055,
+        "string": "Human centered design workshop [on the CARES protocol (Comfort; Audibility; Risk; Ease; Sociable)](https://www.eventbrite.com/e/human-centered-design-workshop-for-ppe-tickets-136323937567,)",
+        "uid": "Bedmdw9AL"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610480159055,
+        "string": "Redesigning Work Spaces in the Home: [Empirical Feng Shui ](https://medium.com/@hormetic/empirical-feng-shui-4ef5869f3808)(Lights, Sound Filtration, Action)",
+        "uid": "Uy_2LtZde"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610480159055,
+        "string": "Astonishing Story Design Fiction Contest: Quaranteeny Homes & Self-Surveillance ([Yak Collective](https://www.yakcollective.org/join/))",
+        "uid": "Y9IEPjbWw"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480603118,
+            "heading": 3,
+            "string": "__Comfortable__",
+            "uid": "iKypxyBxU"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480612182,
+            "heading": 3,
+            "string": "__Audible__  speech",
+            "uid": "iLNWbN-Xc"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480620733,
+            "heading": 3,
+            "string": "__Risk__ reduction",
+            "uid": "aFfVfPHoU"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480623664,
+            "heading": 3,
+            "string": "__Easy__ to correctly wear for sustained time",
+            "uid": "mSjguzsDo"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480626709,
+            "heading": 3,
+            "string": "__Sociable__ - taking smize toward full facial expression",
+            "uid": "t48p3W8ml"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610480284955,
+        "string": "__**CARES experience methodology**__",
+        "uid": "00KTo7Vto"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610480573295,
+        "heading": 2,
+        "string": "",
+        "uid": "8FTY1pzRy"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480159055,
+            "string": "Co-design workshops and product sprints (for [example](https://paul-sas.squarespace.com/workshops))",
+            "uid": "4Brx2ogOM"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480159056,
+            "string": "Qualitative research to surface best customer-centered bets ([example](https://docs.google.com/presentation/d/e/2PACX-1vQmecSISO9vznC6_-WuTRrVwX6LFqXCkGAsbRwNVpavi3OHAVHruOuTy9cHSqqR_g_0kRvNpEyWkuwV/pub?delayms=3000&loop=false&start=false))",
+            "uid": "svVYFK9vC"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480159056,
+            "string": "Mixed-method approaches (in-lab studies, interviews, field ethnographies, wizard of oz simulations)  ([example](https://docs.google.com/presentation/d/e/2PACX-1vQmecSISO9vznC6_-WuTRrVwX6LFqXCkGAsbRwNVpavi3OHAVHruOuTy9cHSqqR_g_0kRvNpEyWkuwV/pub?delayms=3000&loop=false&start=false))",
+            "uid": "KaMglFhyY"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480159056,
+            "string": "Statistically rigorous quantitative surveys. Deploy[ metrics for experience, emotional engagement, flow](https://www.linkedin.com/pulse/brief-index-flow-motivation-paul-sas/) ([example](https://www.linkedin.com/pulse/brief-index-flow-motivation-paul-sas/))",
+            "uid": "H_3vwn0Ck"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610480159056,
+            "string": "Rapidly iterate on research insights cashed out in behavioral impacts ([example](https://docs.google.com/presentation/d/e/2PACX-1vQmecSISO9vznC6_-WuTRrVwX6LFqXCkGAsbRwNVpavi3OHAVHruOuTy9cHSqqR_g_0kRvNpEyWkuwV/pub?delayms=3000&loop=false&start=false))",
+            "uid": "UZmzTMEcq"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610480159056,
+        "string": "We research, strategize, & design for behavioral impact:",
+        "uid": "4RRYfUrI5"
+      }
+    ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610414486691,
     "edit-email": "psas@motivationengineers.com",
     "edit-time": 1610414486692,
     "title": "January 12th, 2021"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610479348489,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610479348490,
+    "title": "PPE"
   }
 ]

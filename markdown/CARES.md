@@ -1,0 +1,8 @@
+- CARES 
+- Micro-morts updated to micro-covids risk calculator https://www.wired.com/story/group-house-covid-risk-points/
+- https://www.theatlantic.com/health/archive/2021/01/why-arent-we-wearing-better-masks/617656/
+- https://www.youtube.com/watch?v=mgCkgBgSY6s&feature=youtu.be
+- An evidence review of face masks against COVID-19 https://www.pnas.org/content/118/4/e2014564118
+- Observational CARES protocol
+- Face
+- 

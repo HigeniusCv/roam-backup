@@ -39481,28 +39481,412 @@
         "uid": "jmFZ-9eW6"
       },
       {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1610567895727,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610568046687,
+        "edit-time": 1610577554360,
         "string": "Observational CARES protocol",
-        "uid": "gjFwgQnjm"
+        "uid": "8A6nLq386"
       },
       {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1610568048690,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610568061046,
-        "string": "Face",
-        "uid": "S__lTTFK8"
+        "edit-time": 1610577554360,
+        "string": "Primary objective is to visually collect data. Interview questions are time-intensive / entirely optional",
+        "uid": "r1lNCcwJ2"
       },
       {
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1610568061094,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610568061094,
-        "string": "",
-        "uid": "i4_nGJSs3"
+        "edit-time": 1610577554360,
+        "string": "**Face**",
+        "uid": "odOl8_fgk"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554360,
+        "string": "Cloth",
+        "uid": "4oj59ao3Y"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554360,
+        "string": "Gaiter (neck pull up)",
+        "uid": "thuprrmIi"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Surgical paper",
+        "uid": "zHKpjTjHm"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "N95 - no valve",
+        "uid": "BvZcf0eSi"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Valved",
+        "uid": "flpZOUaQ5"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "NONE",
+        "uid": "Hi84R6EMr"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Other:",
+        "uid": "14sx4BPWT"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "**Correctness**",
+        "uid": "uRPY7bKLo"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Nose & Mouth",
+        "uid": "k_oMx-xkE"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Mouth only",
+        "uid": "V9lbUXr4g"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Chin only",
+        "uid": "pBDFNJ_nb"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Dangling - no coverage",
+        "uid": "1l709gigU"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Other:",
+        "uid": "qUM--i7CQ"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "**Fit**",
+        "uid": "osbhEi2re"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Snug at Nose & Mouth",
+        "uid": "-gIjENjPN"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Fitted",
+        "uid": "ABhjOB707"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Loose but full coverage",
+        "uid": "3F3jF-nTh"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Barely hanging on",
+        "uid": "BP5m9wKgJ"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Facial hair breaks seal",
+        "uid": "CJ5aKYFXB"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Other:",
+        "uid": "TPYEoYGJk"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "**Face Shield?**",
+        "uid": "1eUGHU8bb"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Supplemental",
+        "uid": "lYP842Z9s"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Sole protection",
+        "uid": "avQR02nqu"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Other:",
+        "uid": "CzfZzwoeL"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "**Frequency of Touching Face**",
+        "uid": "yZhqWylnK"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Not observed in 1 minute",
+        "uid": "qT8XKv9M0"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "1x/minute",
+        "uid": "v_c02epLP"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "2 or more/min",
+        "uid": "u5tgnYc4S"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Moved mask down off lips",
+        "uid": "nwHbVbTrP"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Moved mask down & up again 2+x",
+        "uid": "DJpRMwT3B"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "**Social Distance (minimum)**",
+        "uid": "SIg0C957N"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "2 ft or less",
+        "uid": "L1EFHPkat"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "3 ft",
+        "uid": "LnPcteGK-"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "Under 6 ft",
+        "uid": "CnJMA0Yy_"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "6 approximately",
+        "uid": "8miBTxIye"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554361,
+        "string": "6+",
+        "uid": "zaH7iVNwI"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "9+",
+        "uid": "-_I8M2yF-"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "**Mask Wearer Interview?**",
+        "uid": "gPzG53gcF"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Yes",
+        "uid": "0nyZ6thbU"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "No",
+        "uid": "JgqFzOvbh"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Interview Questions (optional): \"Would you be willing to take 2 minutes to help us study mask wearing? Do you have a preferred form of mask protection?",
+        "uid": "G6fc815oc"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "**Audibility - [Based on Legibility of Answers to Permission Seeking]**",
+        "uid": "wIQMUw3rI"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Clear",
+        "uid": "qrZzVPvtC"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Muffled",
+        "uid": "670vwlQp7"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Required repetition to be understood",
+        "uid": "jbQljvSJu"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Other:",
+        "uid": "zgbwK_gpe"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "**Comfort Level**",
+        "uid": "1SfkvD6cC"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Most comfortable of masks owned",
+        "uid": "ZGG_s211P"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Comfortable",
+        "uid": "ZAzzX8A60"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Adequate",
+        "uid": "q2yC5uta6"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Not very comfortable",
+        "uid": "vtkBKKIZ6"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Other:",
+        "uid": "WdkGQtMzV"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "**How would you rate the Safety (wearer self assess)**",
+        "uid": "fDlHJ-eBg"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "99%",
+        "uid": "bzkSXWnAN"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "90+%",
+        "uid": "WE0NHke0X"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "~75%",
+        "uid": "63qn8Xv5a"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "50+%",
+        "uid": "UVVpdQPHM"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "25+%",
+        "uid": "6WPmXXFGL"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Other:",
+        "uid": "DbzGemGAH"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "**How easy is this mask for you to wear 20+ minutes?**",
+        "uid": "02h55BMHU"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Not at all easy",
+        "uid": "gsJYk1JuX"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "1",
+        "uid": "wz-IHobaJ"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "2",
+        "uid": "kvHsSYe5D"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "3",
+        "uid": "LVMh6y-5e"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610577554362,
+        "string": "Easy",
+        "uid": "fnxLgBBhe"
       }
     ],
     "create-email": "psas@motivationengineers.com",

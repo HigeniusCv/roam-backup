@@ -39565,12 +39565,70 @@
         "uid": "eVA_kgc7f"
       },
       {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658321946,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610658330134,
+            "string": "Vacuum pull through",
+            "uid": "Az6CHRlu_"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658769434,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610658774717,
+            "string": "Blow out a candle?",
+            "uid": "ThDkfAcZx"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658330125,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610658345034,
+            "string": "Incense burning or cigarette ",
+            "uid": "aWHUW2d7h"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658347162,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610658358067,
+            "string": "Scent of a solvent",
+            "uid": "iK4mTBu8U"
+          }
+        ],
         "create-email": "psas@motivationengineers.com",
         "create-time": 1610655682574,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610655682574,
-        "string": "",
+        "edit-time": 1610658321964,
+        "string": "Tests at home",
         "uid": "f_AzmsGpE"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610658485235,
+        "string": "Particulate Filter Efficiency Testing",
+        "uid": "vL7R__--6"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610658485235,
+        "string": "The maximum and minimum penetration value will be reported for the set of 10 respirators. If valves are\npresent on the respirator, they will be sealed for testing. Each respirator will be tested on a TSI 8130 and/or\n8130A Automated Filter Tester, set to the following parameters:",
+        "uid": "KQJ27WxUc"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610658485235,
+        "string": "6|Page",
+        "uid": "A-HuoEAG9"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610658485235,
+        "string": "While some of the test parameters listed are consistent with NIOSH Standard Test Procedure TEB-APR-STP-0059\n(STP-0059), this modified test is different. Respirators assessed to this modified test plan do not meet the\nrequirements of STP-0059, and therefore cannot be considered equivalent to N95 respirators that were tested\nto STP-0059. The values reported are only to provide an indication of filter efficiency and are not a confirmation\nthat the product conforms with the requirements of the certification mark. This assessment provides useful\ninformation about the filter efficiency of respirators that may be used by healthcare workers in national\nemergency situations.",
+        "uid": "8W8pasXmO"
       }
     ],
     "create-email": "psas@motivationengineers.com",

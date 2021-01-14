@@ -14,4 +14,20 @@
     - Aerosolisation of respiratory pathogens is highly variable, at least partly due to the log-normal distribution of infectious aerosols, consistent with so-called super-spreading.
     - Airborne infection isolation rooms and other infection control measures against airborne infection are indicated for virulent respiratory pathogens such as SARS-CoV-2.
 - An evidence review of face masks against COVID-19 https://www.pnas.org/content/118/4/e2014564118
-- 
+- Tests at home
+    - Vacuum pull through
+    - Blow out a candle?
+    - Incense burning or cigarette 
+    - Scent of a solvent
+- Particulate Filter Efficiency Testing
+- The maximum and minimum penetration value will be reported for the set of 10 respirators. If valves are
+present on the respirator, they will be sealed for testing. Each respirator will be tested on a TSI 8130 and/or
+8130A Automated Filter Tester, set to the following parameters:
+- 6|Page
+- While some of the test parameters listed are consistent with NIOSH Standard Test Procedure TEB-APR-STP-0059
+(STP-0059), this modified test is different. Respirators assessed to this modified test plan do not meet the
+requirements of STP-0059, and therefore cannot be considered equivalent to N95 respirators that were tested
+to STP-0059. The values reported are only to provide an indication of filter efficiency and are not a confirmation
+that the product conforms with the requirements of the certification mark. This assessment provides useful
+information about the filter efficiency of respirators that may be used by healthcare workers in national
+emergency situations.

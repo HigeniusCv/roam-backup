@@ -37947,13 +37947,51 @@
         "edit-time": 1608732405212,
         "string": "Different resources (land costs to remove from source; architectural capital investment to control the chosen space;  legal infrastructure to regulate the neighborhood; interior decor to modulate the ambient sound; technological modifications, such as headphones and muzak; psychological adjustments, such as mindfulness and CBT frustration tolerance).  Reminds me of Coase, who claimed that externalities (e.g. pollution) would be negotiated away by affected parties",
         "uid": "c5FjkJXkC"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610651923238,
+        "string": "My proposal for EFS would be parallel, and entails the following sequence of steps:  1- Hold a zoom workshop to outline evidence on problem space. Tentative title: __Lights, sound, action for optimizing portable work spaces__",
+        "uid": "57KAW25s8"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610651859701,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610651923239,
+        "string": "2- Open up a contest for house proud / home office proud McGyvers, seeking submissions for personally hacked improvements re: Sound filtration, lighting improvement, ergonomic adaptations, work flow design wrt their Built Environment",
+        "uid": "8TAVwdXeH"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610651851867,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610651923239,
+        "string": "3- Run a 2-3 hour Design workshop, assimilating and factor-weighting ideas that stream in, both from participants and from the Contest on Lights, Sound, Action",
+        "uid": "Wxt85Fsv6"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610651876421,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610651923239,
+        "string": "4- If the first 3 steps uncover a coalition, open a second call, for pilot participants in hacking their work spaces. While not an actual experiment, it pilots the opportunities & challenges in rolling out conditions to be experimentally evaluated",
+        "uid": "VRdUBzPVR"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610651883873,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610651923239,
+        "string": "By step 4, there would be roles for: HCI (human computer interaction) pros, Industrial Designers, Data Scientists, as well as the more traditional parts of a startup (Product Managers, Project Mgt, SEO, Marketing experts, Visual Designers, Ergonomics.  For those people who don't directly identify a match with any of these roles, we can crowdsource additional apprentice on-ramps. Literature search, competitive analysis, and elementary web-site building as examples",
+        "uid": "H_rTTTJHb"
       }
     ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1608729800508,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1608729800509,
-    "title": "empirical feng shui"
+    "edit-time": 1610651937630,
+    "title": "empirical feng shui EFS"
   },
   {
     "create-email": "psas@motivationengineers.com",
@@ -39425,6 +39463,116 @@
     "title": "January 12th, 2021"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610655521185,
+            "string": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30323-4/fulltext.  Published:July 24, 2020",
+            "uid": "JN90MTiqj"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653733848,
+            "string": "Infectious aerosols are particles with potentially pathogenic viruses, bacteria, and fungi suspended in the air, which are subject to the same physical laws as other airborne particulate matter. The biology of the pathogens predicts their airborne survival, infectivity, virulence, and other characteristics.",
+            "uid": "ACaTJ4QuE"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653756436,
+            "string": "Particle size is the most important determinant of aerosol behaviour",
+            "uid": "62O-1oQ-Y"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653760939,
+            "string": "Small aerosol particles smaller than 5 \u03bcm in aerodynamic size are most likely to remain airborne for indefinite periods (unless there is removal due to air currents or dilution ventilation), and to be deposited in the lower respiratory tract",
+            "uid": "ElLcV-AqY"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653733849,
+            "string": "Infection control guidelines have stated that most respiratory infections are transmitted by respiratory droplets\u2014ie, particles larger than 5\u201310 \u03bcm in size. Airborne transmission has been attributed to only a few pathogens, notably\u00a0__Mycobacterium tuberculosis__, via infectious droplet nuclei that are particles sized 5 \u03bcm or smaller. The use of airborne infection isolation rooms and respirator masks has been recommended only to protect against airborne transmission.",
+            "uid": "tjWtSfJoe"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653733849,
+            "string": "These recommendations have been based on old data and inferences. Over the past two decades, investigators have collected and directly measured the particle sizes of infectious aerosols emitted from individuals with respiratory infections from aerosols generated by cough and from exhaled breath.",
+            "uid": "gPrGW6BFw"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653775615,
+            "string": "The studies reviewed in this paper consistently show that humans produce infectious aerosols in a wide range of particle sizes, but pathogens predominate in small particles (<5 \u03bcm that are immediately respirable by exposed individuals",
+            "uid": "-v9VLexvK"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653733849,
+            "string": "Data are accumulating that severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus that causes COVID-19, is transmitted by both small and large particle aerosols.",
+            "uid": "jlA7sMxwf"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610655487345,
+            "string": "Filtering facepiece respirators offer more respiratory protection than surgical masks, and powered air purifying respirator (PAPRs) hoods offer the best protection for most health-care settings.",
+            "uid": "-QOpcs53O"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610655469185,
+            "string": "Face shields can help decrease exposures to and contamination from large particle aerosols, but they do not offer inhalation protection against small particle aerosols",
+            "uid": "kN7w2bCw6"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610655495523,
+            "string": "PAPRs have built-in eye protection. Surgical masks and other respirators require a face shield or goggles to protect the eyes to prevent infection",
+            "uid": "F5SefCX5f"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653733850,
+            "string": "Masking of patients can help to partly reduce infectious aerosol exposures to health-care workers, but are not a substitute for physical distancing and other infection control measures.",
+            "uid": "raCOdlL7y"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653733850,
+            "string": "Aerosolisation of respiratory pathogens is highly variable, at least partly due to the log-normal distribution of infectious aerosols, consistent with so-called super-spreading.",
+            "uid": "pXhu87ENN"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610653733850,
+            "string": "Airborne infection isolation rooms and other infection control measures against airborne infection are indicated for virulent respiratory pathogens such as SARS-CoV-2.",
+            "uid": "_WtxgMexp"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610655699797,
+        "string": "**Key messages** Lancet on Particle Size in 2020",
+        "uid": "HS4yRHw0E"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610655582958,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610655681638,
+        "string": "An evidence review of face masks against COVID-19 https://www.pnas.org/content/118/4/e2014564118",
+        "uid": "eVA_kgc7f"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610655682574,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610655682574,
+        "string": "",
+        "uid": "f_AzmsGpE"
+      }
+    ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610479348489,
     "edit-email": "psas@motivationengineers.com",
@@ -39896,6 +40044,14 @@
     "title": "CARES"
   },
   {
+    "children": [
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610651972434,
+        "string": "No explanation is needed for why things haven't been active here. The democrapocalypse isn't even a distraction, it's just a more urgent priority, probably until at least next week...",
+        "uid": "Jljf6Fvjc"
+      }
+    ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610588213260,
     "edit-email": "psas@motivationengineers.com",

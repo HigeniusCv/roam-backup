@@ -1,0 +1,15 @@
+- Room to breathe
+- Mine Your Peace & Quiet
+- Lungs for your Brain 
+- Hamster Wheel for Knowledge Wheezers
+- Movable Nest 
+- HVAC translated to flat-packed shoji screen 
+    - dry wall is usu 4' x 8'
+    - Duct work air filtering could be converted to tubes that line the dry wall sheets
+- For all living accommodations: 1- Adapt environment to occupants OR 2- Train occupants to adapt to environment. The equilibrium depends on who's paying. 
+- Different resources (land costs to remove from source; architectural capital investment to control the chosen space;  legal infrastructure to regulate the neighborhood; interior decor to modulate the ambient sound; technological modifications, such as headphones and muzak; psychological adjustments, such as mindfulness and CBT frustration tolerance).  Reminds me of Coase, who claimed that externalities (e.g. pollution) would be negotiated away by affected parties
+- My proposal for EFS would be parallel, and entails the following sequence of steps:  1- Hold a zoom workshop to outline evidence on problem space. Tentative title: __Lights, sound, action for optimizing portable work spaces__
+- 2- Open up a contest for house proud / home office proud McGyvers, seeking submissions for personally hacked improvements re: Sound filtration, lighting improvement, ergonomic adaptations, work flow design wrt their Built Environment
+- 3- Run a 2-3 hour Design workshop, assimilating and factor-weighting ideas that stream in, both from participants and from the Contest on Lights, Sound, Action
+- 4- If the first 3 steps uncover a coalition, open a second call, for pilot participants in hacking their work spaces. While not an actual experiment, it pilots the opportunities & challenges in rolling out conditions to be experimentally evaluated
+- By step 4, there would be roles for: HCI (human computer interaction) pros, Industrial Designers, Data Scientists, as well as the more traditional parts of a startup (Product Managers, Project Mgt, SEO, Marketing experts, Visual Designers, Ergonomics.  For those people who don't directly identify a match with any of these roles, we can crowdsource additional apprentice on-ramps. Literature search, competitive analysis, and elementary web-site building as examples

@@ -140,8 +140,13 @@ water.
     - breathe through slightly open mouth with tongue
 extended, and report if the sweet saccharin is tasted
 - BITREX testing
+- no statistically significant differences between the commercial and homemade solutions representing that participants detected the bitter taste of the BitrexTM and sweettaste of the saccharin solutions
 - PAPRs do not depend on a tight seal with the face so do not need to be fit tested. more comfortable, since they are not tight-fitting. more protective than N95s, having a higher assigned protection factor (25 compared to 10)
 - 
+- self-testing https://www.reddit.com/r/medicine/comments/fuwr74/has_anyone_attempted_a_diy_n95_fit_test/
+    - wearing glasses easy way to see if fit is ok. most fit issues are around the nose/upper cheeks
+    - Block paths for air exit while exhaling. With a good fit, the mask is slightly pressurized before outward leakage.
+    - Block paths for air entry while inhaling. With a good fit, the mask slightly collapses under negative pressure (for valved masks).
 - SmellTracker website https://smelltracker.org/take-test/your-sense-smell
 - Items at home include honey, peanut butter, vinegar, freshly chopped garlic, vanilla, toothpaste, hand soap
 - 

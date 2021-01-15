@@ -40011,6 +40011,14 @@
         "uid": "q3xCS8yFP"
       },
       {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610753582779,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610753590587,
+        "string": "no statistically significant differences between the commercial and homemade solutions representing that participants detected the bitter taste of the BitrexTM and sweettaste of the saccharin solutions",
+        "uid": "tvK6rAqL-"
+      },
+      {
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1610739466036,
         "string": "PAPRs do not depend on a tight seal with the face so do not need to be fit tested. more comfortable, since they are not tight-fitting. more protective than N95s, having a higher assigned protection factor (25 compared to 10)",
@@ -40018,11 +40026,39 @@
       },
       {
         "create-email": "psas@motivationengineers.com",
-        "create-time": 1610740274403,
+        "create-time": 1610753229710,
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610740274403,
+        "edit-time": 1610753229710,
         "string": "",
-        "uid": "dfJgJDMl2"
+        "uid": "wcPIJl-Gw"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610753307196,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610753329692,
+            "string": "wearing glasses easy way to see if fit is ok. most fit issues are around the nose/upper cheeks",
+            "uid": "TICz4LK_w"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610753231985,
+            "string": "Block paths for air exit while exhaling. With a good fit, the mask is slightly pressurized before outward leakage.",
+            "uid": "-M8RJfwF4"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610753673217,
+            "string": "Block paths for air entry while inhaling. With a good fit, the mask slightly collapses under negative pressure (for valved masks).",
+            "uid": "ylxYwF5mW"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610753246567,
+        "string": "self-testing https://www.reddit.com/r/medicine/comments/fuwr74/has_anyone_attempted_a_diy_n95_fit_test/",
+        "uid": "hq-ZtLEsD"
       },
       {
         "create-email": "psas@motivationengineers.com",

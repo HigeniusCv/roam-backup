@@ -39467,6 +39467,598 @@
       {
         "children": [
           {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658321946,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736418669,
+            "string": "Vacuum pull through",
+            "uid": "Az6CHRlu_"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658769434,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736418669,
+            "string": "Blow out a candle?",
+            "uid": "ThDkfAcZx"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658330125,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736418669,
+            "string": "Incense burning or cigarette ",
+            "uid": "aWHUW2d7h"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610658347162,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736418669,
+            "string": "Scent of a solvent (vanilla)",
+            "uid": "iK4mTBu8U"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610736387271,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610736426751,
+        "string": "Efficacy Tests at home",
+        "uid": "p0E3wPQzy"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736471505,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736476531,
+            "string": "Flowrate (LPM)",
+            "uid": "DeGNrIvlt"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736479442,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736497751,
+            "string": "Initial Filter Resistance (mmH2O)",
+            "uid": "dxhO9T8cW"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736499863,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736506682,
+            "string": "Initial Percent Leakage",
+            "uid": "9YEtGtzpf"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736506676,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736516023,
+            "string": "Maximum Percent Leakage",
+            "uid": "ZK4I-abcW"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736516016,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736522243,
+            "string": "Filter Efficiency",
+            "uid": "i3nG6zJCz"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610736428862,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610736471512,
+        "string": "Metrics used",
+        "uid": "n_9L1ZMh5"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736571412,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736610140,
+            "string": "**Assigned Protection Factor (APF) **means the work-\nplace level of respiratory protection that a respirator\nor class of respirators is expected to provide",
+            "uid": "q4ui_-XpL"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736635828,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736654637,
+            "string": "**Maximum Use Concentration (MUC) **means the\nmaximum atmospheric concentration X PEL (permissible exposure limit)",
+            "uid": "ee2AMamHC"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610736556339,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610736571417,
+        "string": "**Assigned Protection Factors - OSHA**",
+        "uid": "t8_hKcFNF"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736811524,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736820189,
+            "string": "Half mask (APF 10)",
+            "uid": "lDrjbgffM"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736821217,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736834465,
+            "string": "Half mask (elastomeric) (APF 10)",
+            "uid": "YFjwi2eiF"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736835590,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736848396,
+            "string": "Full facepiece (elastomeric) (APF 50)",
+            "uid": "5EASesBRj"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736849137,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736893523,
+            "string": "Loose fitting Powered Air-Purifying Respirator (PAPR) (APF 25)",
+            "uid": "okp4zdbZN"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610736894053,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736905281,
+            "string": "Hood Powered Air-Purifying Respirator (PAPR) (APF 25)",
+            "uid": "WA_zazyd4"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610736801289,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FHiGenius%2FMVE-Kjv_Tm.png?alt=media&token=7ca301e9-fe53-4a54-a083-65c49a2eb103)",
+            "uid": "9WAGVtflV"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610736756723,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610736811531,
+        "string": "Types",
+        "uid": "zLCEJwfC9"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737073056,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FHiGenius%2FB_xfH_yVjN.png?alt=media&token=87497d63-ae77-47a4-9c45-9e488b82fee4)",
+            "uid": "LNojTm_EU"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610736922468,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737052614,
+        "string": "Atmosphere supplying Supplied Air-Purifying Respirators (SAR)",
+        "uid": "YRdOPDqJd"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610737080304,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737143766,
+        "string": "***High efficiency particulate air filter (HEPA): **A filter\nthat is at least 99.97% efficient in removing monodis-\nperse particles of 0.3 micrometers in diameter. The\nequivalent NIOSH 42 CFR 84 particulate filters are the\nN100, R100, and P100 filters",
+        "uid": "I8ci-m2v_"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737173057,
+        "string": "**Continuous flow respirator: **An atmosphere-supply-\ning respirator that provides a continuous flow of\nbreathable air to the respirator facepiece.",
+        "uid": "jHcCbYvSo"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737173057,
+        "string": "***Demand respirator: **An atmosphere-supplying res-\npirator that admits breathing air to the facepiece only\nwhen a negative pressure is created inside the face-\npiece by inhalation.",
+        "uid": "GfuzQVxBL"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737204495,
+        "string": "***Positive pressure respirator: **A respirator in which\nthe pressure inside the respiratory inlet covering ex-\nceeds the ambient air pressure outside the respirator.",
+        "uid": "Se86lqxnf"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737204495,
+        "string": "***Powered air-purifying respirator (PAPR): **An air-puri-\nfying respirator that uses a blower to force the ambi-\nent air through air-purifying elements to the inlet\ncovering.",
+        "uid": "3XGKE1kvG"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737204495,
+        "string": "***Pressure demand respirator: **A positive pressure at-\nmosphere-supplying respirator that admits breathing\nair to the facepiece when the positive pressure is re-\nduced inside the facepiece by inhalation.",
+        "uid": "QIE9qrTw0"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737250482,
+        "string": "***Qualitative fit test (QLFT): **A pass/fail fit test to as-\nsess the adequacy of respirator fit that relies on the\nindividual\u2019s response to the test agent.",
+        "uid": "7TUq4A-Wu"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737250481,
+        "string": "***Quantitative fit test (QNFT): **An assessment of the\nadequacy of respirator fit by numerically measuring\nthe amount of leakage into the respirator.",
+        "uid": "02InBjmpb"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737274240,
+        "string": "***Self-contained breathing apparatus (SCBA): **An at-\nmosphere-supplying respirator for which the breath-\ning air source is designed to be carried by the user.",
+        "uid": "MhuoVYe1Y"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "Compressed breathing air shall meet at least the re-\nquirements for Grade D breathing air described in\nANSI/Compressed Gas Association Commodity\nSpecification for Air, G-7.1-1989, to include:",
+            "uid": "nXjJdnYnU"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536639,
+            "string": "**1910.134(i)(1)(ii)(A)\n**",
+            "uid": "MzDDbcSm8"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536639,
+            "string": "Oxygen content (v/v) of 19.5-23.5%;",
+            "uid": "lUnJnHZ3C"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "**1910.134(i)(1)(ii)(B)\n**",
+            "uid": "C3RI9yKTG"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "Hydrocarbon (condensed) content of 5 milligrams\nper cubic meter of air or less;",
+            "uid": "IYcuXsn-j"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "**1910.134(i)(1)(ii)(C)\n**",
+            "uid": "arZ-w_xzB"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "Carbon monoxide (CO) content of 10 ppm or less;",
+            "uid": "bLMQuEDdH"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "**1910.134(i)(1)(ii)(D)\n**",
+            "uid": "DVj8LynZ_"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "Carbon dioxide content of 1,000 ppm or less; and",
+            "uid": "h2tZ_2jZm"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "**1910.134(i)(1)(ii)(E)\n**",
+            "uid": "09R6kaWLI"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737536640,
+            "string": "Lack of noticeable odor.",
+            "uid": "NRmM3E3P2"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737285384,
+        "string": "***Supplied-air respirator (or airline) respirator (SAR):\n** An atmosphere-supplying respirator for which the\nsource of breathing air is not designed to be carried\nby the user.",
+        "uid": "Dtmy86kuB"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737609421,
+            "string": "The following criteria shall be used to help deter-\nmine the adequacy of the respirator fit:",
+            "uid": "YeZinZdgp"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737616690,
+            "string": "(a) Chin properly placed;\n(b) Adequate strap tension, not overly tightened;\n(c) Fit across nose bridge;\n(d) Respirator of proper size to span distance from\nnose to chin;\n(e) Tendency of respirator to slip;\n(f) Self-observation in mirror to evaluate fit and\nrespirator position.",
+            "uid": "eRjPJseHP"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610737481684,
+                "string": "The employer shall not permit respirators with tight-\nfitting facepieces to be worn by employees who have: ",
+                "uid": "3pWwyNaqi"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1610737482249,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610737482736,
+                "string": "Facial hair that comes between the sealing surface of\nthe facepiece and the face or that interferes with\nvalve function; or",
+                "uid": "dlsmNn_Bu"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737451623,
+            "string": "**Facepiece seal protection. 1910.134(g)(1)(i)**",
+            "uid": "7JqOhYxAD"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610737287535,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737338641,
+        "string": "**Fit factor **means a quantitative estimate of the fit of a\nparticular respirator to a specific individual, and typi-\ncally estimates the ratio of the concentration of a\nsubstance in ambient air to its concentration inside\nthe respirator when worn.",
+        "uid": "dHFiilp52"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737782809,
+            "string": "(a) Position of the mask on the nose\n(b) Room for eye protection\n(c) Room to talk\n(d) Position of mask on face and cheeks",
+            "uid": "2wscl3QpB"
+          }
+        ],
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737797786,
+        "string": "Assessment of comfort:",
+        "uid": "BBKUKf0ed"
+      },
+      {
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610737659645,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737728051,
+            "string": "Before conducting the negative and\npositive pressure checks, the subject shall be told to\nseat the mask on the face by moving the head from\nside-to-side and up and down slowly while taking in\na few slow deep breaths. Replace facepiece if subject fails the user\nseal check tests",
+            "uid": "n9lD9Uvu0"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610737677954,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737684589,
+        "string": "test subject shall conduct a user seal check, either the negative and positive pressure seal checks\n",
+        "uid": "_FDM_u8Gf"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610737839574,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737870217,
+        "string": "The respirator tested shall first be worn for at least 5 minutes\nbefore fit test.",
+        "uid": "oZrGjH2wt"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737922774,
+            "string": "1) Normal breathing ",
+            "uid": "d30NRsAJt"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737927797,
+            "string": "(2) Deep breathing ",
+            "uid": "OgQFAli5y"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610738120816,
+            "string": "(3) Turn head side to side  The head shall be held at each extreme momentarily so the subject can inhale at each side.",
+            "uid": "hl3gQIZDc"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737963854,
+            "string": "(4) Moving head up and down inhale in the up position (i.e., when\nlooking toward the ceiling).",
+            "uid": "v3AU2b0mR"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610738142562,
+            "string": "(5) Talking. Talk out loud slowly and loud enough so as to be heard clearly. The subject can read from a prepared text such as the Rainbow Passage, count backward from 100, or recite a memorized poem or song.",
+            "uid": "MWapshjp3"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610738021480,
+                "string": "When the sunlight strikes raindrops in the air, they act like a prism and form a rainbow. The rainbow is a division of white light into many beautiful colors. These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. There is, according to legend, a boiling pot of gold at one end. People look, but no one ever finds it. When a man looks for something beyond reach, his friends say he is looking for the pot of gold at the end of the rainbow.",
+                "uid": "KTG0nlmRb"
+              }
+            ],
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610737909134,
+            "string": "**Rainbow Passage\n**",
+            "uid": "ueZPH9tLv"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610738148558,
+            "string": "(6) Grimace by smiling or frowning (only 4 QNFT)",
+            "uid": "PfOzxAxvt"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610738164672,
+            "string": "(7) Bend over. Bend at waist to touch toes. Jog in place substituted if units do not permit bending at waist.",
+            "uid": "Nowvwg3Zk"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610738109225,
+            "string": "(8) Normal breathing again",
+            "uid": "egsa2lNoj"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610737872367,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610737887103,
+        "string": "Test Exercises",
+        "uid": "yjF87m3pg"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610738550149,
+                "string": "Fit test chamber: 55-gallon drum liner suspended so top of chamber 6 inches above head",
+                "uid": "yTodABp-K"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1610738550341,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610738579177,
+                "string": "Hang absorbent paper towel with 0.75 ml pure IAA in drum for 2 mins",
+                "uid": "oUkBXG6I9"
+              },
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1610738314561,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610738930120,
+                "string": "ONLY for vaporous chemical exposures, not viruses. Even with fully sealed N95, the banana odor is noticeable",
+                "uid": "qNBmLBN5t"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610738195428,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610738939308,
+            "string": "Isoamyl Acetate IAA Protocol threshold test - banana oil **NOT for Virus**",
+            "uid": "FTef-sAtO"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610738941707,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610738943785,
+            "string": "Saccharin Solution Aerosol Protocol",
+            "uid": "93VL4rBq2"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610739053559,
+            "string": "83 grams of sodium saccharin to 100 ml of warm\nwater.",
+            "uid": "EpTc_P8oH"
+          },
+          {
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610739093559,
+            "string": "breathe through slightly open mouth with tongue\nextended, and report if the sweet saccharin is tasted",
+            "uid": "jEWo9FLb5"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610738186403,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610738194440,
+        "string": "**Qualitative Fit Test (QLFT) Protocols **",
+        "uid": "gttic8eJP"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610739468430,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610739477195,
+        "string": "BITREX testing",
+        "uid": "q3xCS8yFP"
+      },
+      {
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610739466036,
+        "string": "PAPRs do not depend on a tight seal with the face so do not need to be fit tested. more comfortable, since they are not tight-fitting. more protective than N95s, having a higher assigned protection factor (25 compared to 10)",
+        "uid": "tXu22ADDO"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610740274403,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610740274403,
+        "string": "",
+        "uid": "dfJgJDMl2"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610740274781,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610740283198,
+        "string": "SmellTracker website https://smelltracker.org/take-test/your-sense-smell",
+        "uid": "0hrBgqw-S"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610740274781,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610740288115,
+        "string": "Items at home include honey, peanut butter, vinegar, freshly chopped garlic, vanilla, toothpaste, hand soap",
+        "uid": "b4nL_Pcn3"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610739466482,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610739466482,
+        "string": "",
+        "uid": "Lo8mxmK-V"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610739466025,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610739466025,
+        "string": "",
+        "uid": "xH2nagMn0"
+      },
+      {
+        "children": [
+          {
             "edit-email": "psas@motivationengineers.com",
             "edit-time": 1610655521185,
             "string": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30323-4/fulltext.  Published:July 24, 2020",
@@ -39565,48 +40157,6 @@
         "uid": "eVA_kgc7f"
       },
       {
-        "children": [
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1610658321946,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1610658330134,
-            "string": "Vacuum pull through",
-            "uid": "Az6CHRlu_"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1610658769434,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1610658774717,
-            "string": "Blow out a candle?",
-            "uid": "ThDkfAcZx"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1610658330125,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1610658345034,
-            "string": "Incense burning or cigarette ",
-            "uid": "aWHUW2d7h"
-          },
-          {
-            "create-email": "psas@motivationengineers.com",
-            "create-time": 1610658347162,
-            "edit-email": "psas@motivationengineers.com",
-            "edit-time": 1610658358067,
-            "string": "Scent of a solvent",
-            "uid": "iK4mTBu8U"
-          }
-        ],
-        "create-email": "psas@motivationengineers.com",
-        "create-time": 1610655682574,
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610658321964,
-        "string": "Tests at home",
-        "uid": "f_AzmsGpE"
-      },
-      {
         "edit-email": "psas@motivationengineers.com",
         "edit-time": 1610658485235,
         "string": "Particulate Filter Efficiency Testing",
@@ -39614,15 +40164,9 @@
       },
       {
         "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610658485235,
-        "string": "The maximum and minimum penetration value will be reported for the set of 10 respirators. If valves are\npresent on the respirator, they will be sealed for testing. Each respirator will be tested on a TSI 8130 and/or\n8130A Automated Filter Tester, set to the following parameters:",
+        "edit-time": 1610736352319,
+        "string": "The maximum and minimum penetration value will be reported for the set of 10 respirators. If valves are present on the respirator, they will be sealed for testing. Each respirator will be tested on a TSI 8130 and/or 8130A Automated Filter Tester, set to the following parameters:",
         "uid": "KQJ27WxUc"
-      },
-      {
-        "edit-email": "psas@motivationengineers.com",
-        "edit-time": 1610658485235,
-        "string": "6|Page",
-        "uid": "A-HuoEAG9"
       },
       {
         "edit-email": "psas@motivationengineers.com",

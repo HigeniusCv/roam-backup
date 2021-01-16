@@ -4,3 +4,5 @@
 - ![](https://images-na.ssl-images-amazon.com/images/I/51X7zBMf9bL._SL200_.jpg)
 - ### Highlights first synced by #Readwise [[January 16th, 2021]]
     - “Well,” said Ford, brightly but slowly, “stop doing ([Location 872](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=872))
+- ### New highlights added [[January 16th, 2021]] at 2:14 PM
+    - perfectly well, but something in its bearing suggested that ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1049))

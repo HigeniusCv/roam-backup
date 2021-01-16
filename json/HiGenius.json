@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1610789380478,
+    "edit-time": 1610835289350,
     "title": "Readwise"
   },
   {
@@ -40707,7 +40707,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610760911222,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1610789380480,
+    "edit-time": 1610835289353,
     "title": "January 16th, 2021"
   },
   {
@@ -40937,12 +40937,41 @@
         ],
         "string": "Highlights first synced by #Readwise [[January 16th, 2021]]",
         "uid": "7aYuW-Agy"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "01-16-2021"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610835285189,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610835285198,
+            "string": "perfectly well, but something in its bearing suggested that ([Location\u00a01049](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1049))",
+            "uid": "sTuF_rh5I"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610835285188,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610835285198,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "01-16-2021"
+          }
+        ],
+        "string": "New highlights added [[January 16th, 2021]] at 2:14 PM",
+        "uid": "S74dS5tL_"
       }
     ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610789376886,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1610789376910,
+    "edit-time": 1610835285198,
     "title": "The Hitchhiker's Guide to the Galaxy (highlights)"
   },
   {

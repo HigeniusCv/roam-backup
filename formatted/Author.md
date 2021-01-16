@@ -87,6 +87,9 @@
 ## [Exact Thinking in Demented Times (highlights)](<Exact Thinking in Demented Times (highlights).md>)
 - **[Author](<Author.md>):**
 
+## [Find Layla (highlights)](<Find Layla (highlights).md>)
+- **[Author](<Author.md>):**
+
 ## [Flush (highlights)](<Flush (highlights).md>)
 - **[Author](<Author.md>):**
 
@@ -250,6 +253,9 @@
 - **[Author](<Author.md>):**
 
 ## [The Happiness Trap (highlights)](<The Happiness Trap (highlights).md>)
+- **[Author](<Author.md>):**
+
+## [The Hitchhiker's Guide to the Galaxy (highlights)](<The Hitchhiker's Guide to the Galaxy (highlights).md>)
 - **[Author](<Author.md>):**
 
 ## [The Hunger Games (highlights)](<The Hunger Games (highlights).md>)

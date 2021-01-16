@@ -116,6 +116,10 @@
 - **[Author](<Author.md>):** [Karl Sigmund](<Karl Sigmund.md>)
 - **[Full Title](<Full Title.md>):**
 
+## [Find Layla (highlights)](<Find Layla (highlights).md>)
+- **[Author](<Author.md>):** [Meg Elison](<Meg Elison.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [Flush (highlights)](<Flush (highlights).md>)
 - **[Author](<Author.md>):** [Carl Hiaasen](<Carl Hiaasen.md>)
 - **[Full Title](<Full Title.md>):**
@@ -334,6 +338,10 @@
 
 ## [The Happiness Trap (highlights)](<The Happiness Trap (highlights).md>)
 - **[Author](<Author.md>):** [Russ Harris and Steven Hayes](<Russ Harris and Steven Hayes.md>)
+- **[Full Title](<Full Title.md>):**
+
+## [The Hitchhiker's Guide to the Galaxy (highlights)](<The Hitchhiker's Guide to the Galaxy (highlights).md>)
+- **[Author](<Author.md>):** [Douglas Adams](<Douglas Adams.md>)
 - **[Full Title](<Full Title.md>):**
 
 ## [The Hunger Games (highlights)](<The Hunger Games (highlights).md>)

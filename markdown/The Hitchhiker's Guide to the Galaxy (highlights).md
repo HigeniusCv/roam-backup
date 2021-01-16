@@ -1,0 +1,6 @@
+- Author:: [[Douglas Adams]]
+- Full Title:: The Hitchhiker's Guide to the Galaxy
+- Category:: #books
+- ![](https://images-na.ssl-images-amazon.com/images/I/51X7zBMf9bL._SL200_.jpg)
+- ### Highlights first synced by #Readwise [[January 16th, 2021]]
+    - “Well,” said Ford, brightly but slowly, “stop doing ([Location 872](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=872))

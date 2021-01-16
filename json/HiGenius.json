@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1609646105649,
+    "edit-time": 1610789380478,
     "title": "Readwise"
   },
   {
@@ -40707,7 +40707,249 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610760911222,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1610760911223,
+    "edit-time": 1610789380480,
     "title": "January 16th, 2021"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Lpy3dFmee"
+          },
+          {
+            ":block/uid": "hspSgQl2w"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789372396,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789372416,
+        "refs": [
+          {
+            "uid": "Lpy3dFmee"
+          },
+          {
+            "uid": "hspSgQl2w"
+          }
+        ],
+        "string": "Author:: [[Meg Elison]]",
+        "uid": "hyOcFOz0m"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "HQqLUMN11"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789372398,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789372417,
+        "refs": [
+          {
+            "uid": "HQqLUMN11"
+          }
+        ],
+        "string": "Full Title:: Find Layla",
+        "uid": "sdtLcdEs4"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "nQe5Mxw8Q"
+          },
+          {
+            ":block/uid": "cq2xjmun4"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789372399,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789372417,
+        "refs": [
+          {
+            "uid": "nQe5Mxw8Q"
+          },
+          {
+            "uid": "cq2xjmun4"
+          }
+        ],
+        "string": "Category:: #books",
+        "uid": "hq96haJPT"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tQiZw77L3"
+          },
+          {
+            ":block/uid": "01-16-2021"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610789372400,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610789372417,
+            "string": "\u201cFine, then I\u2019ll do the project myself. Since you\u2019re ([Location\u00a0568](https://readwise.io/to_kindle?action=open&asin=B0811XMCWL&location=568))",
+            "uid": "atzATfnQv"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789372399,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789372417,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "tQiZw77L3"
+          },
+          {
+            "uid": "01-16-2021"
+          }
+        ],
+        "string": "Highlights first synced by #Readwise [[January 16th, 2021]]",
+        "uid": "zErcrqKaZ"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610789372404,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610789372441,
+    "title": "Find Layla (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610789372396,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610789372416,
+    "title": "Meg Elison"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Lpy3dFmee"
+          },
+          {
+            ":block/uid": "5fJS8cOWH"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789376877,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789376893,
+        "refs": [
+          {
+            "uid": "Lpy3dFmee"
+          },
+          {
+            "uid": "5fJS8cOWH"
+          }
+        ],
+        "string": "Author:: [[Douglas Adams]]",
+        "uid": "O2Hfi0nfD"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "HQqLUMN11"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789376878,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789376893,
+        "refs": [
+          {
+            "uid": "HQqLUMN11"
+          }
+        ],
+        "string": "Full Title:: The Hitchhiker's Guide to the Galaxy",
+        "uid": "NE5PtcPmC"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "nQe5Mxw8Q"
+          },
+          {
+            ":block/uid": "cq2xjmun4"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789376878,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789376893,
+        "refs": [
+          {
+            "uid": "nQe5Mxw8Q"
+          },
+          {
+            "uid": "cq2xjmun4"
+          }
+        ],
+        "string": "Category:: #books",
+        "uid": "tvh_p2WG4"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789376878,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789376893,
+        "string": "![](https://images-na.ssl-images-amazon.com/images/I/51X7zBMf9bL._SL200_.jpg)",
+        "uid": "gf7mhWOPg"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tQiZw77L3"
+          },
+          {
+            ":block/uid": "01-16-2021"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610789376879,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610789376893,
+            "string": "\u201cWell,\u201d said Ford, brightly but slowly, \u201cstop doing ([Location\u00a0872](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=872))",
+            "uid": "IfGHMcIB9"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610789376879,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610789376893,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "tQiZw77L3"
+          },
+          {
+            "uid": "01-16-2021"
+          }
+        ],
+        "string": "Highlights first synced by #Readwise [[January 16th, 2021]]",
+        "uid": "7aYuW-Agy"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610789376886,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610789376910,
+    "title": "The Hitchhiker's Guide to the Galaxy (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610789376877,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610789376893,
+    "title": "Douglas Adams"
   }
 ]

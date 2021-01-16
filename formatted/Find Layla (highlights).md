@@ -1,0 +1,5 @@
+- **[Author](<Author.md>):** [Meg Elison](<Meg Elison.md>)
+- **[Full Title](<Full Title.md>):** Find Layla
+- **[Category](<Category.md>):** [books](<books.md>)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [January 16th, 2021](<January 16th, 2021.md>)
+    - “Fine, then I’ll do the project myself. Since you’re ([Location 568](https://readwise.io/to_kindle?action=open&asin=B0811XMCWL&location=568))

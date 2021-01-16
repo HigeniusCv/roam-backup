@@ -116,6 +116,10 @@
 - **[Full Title](<Full Title.md>):** Exact Thinking in Demented Times
 - **[Category](<Category.md>):**
 
+## [Find Layla (highlights)](<Find Layla (highlights).md>)
+- **[Full Title](<Full Title.md>):** Find Layla
+- **[Category](<Category.md>):**
+
 ## [Flush (highlights)](<Flush (highlights).md>)
 - **[Full Title](<Full Title.md>):** Flush
 - **[Category](<Category.md>):**
@@ -334,6 +338,10 @@
 
 ## [The Happiness Trap (highlights)](<The Happiness Trap (highlights).md>)
 - **[Full Title](<Full Title.md>):** The Happiness Trap
+- **[Category](<Category.md>):**
+
+## [The Hitchhiker's Guide to the Galaxy (highlights)](<The Hitchhiker's Guide to the Galaxy (highlights).md>)
+- **[Full Title](<Full Title.md>):** The Hitchhiker's Guide to the Galaxy
 - **[Category](<Category.md>):**
 
 ## [The Hunger Games (highlights)](<The Hunger Games (highlights).md>)

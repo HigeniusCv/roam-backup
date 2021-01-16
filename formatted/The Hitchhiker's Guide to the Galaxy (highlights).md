@@ -1,0 +1,6 @@
+- **[Author](<Author.md>):** [Douglas Adams](<Douglas Adams.md>)
+- **[Full Title](<Full Title.md>):** The Hitchhiker's Guide to the Galaxy
+- **[Category](<Category.md>):** [books](<books.md>)
+- ![](https://images-na.ssl-images-amazon.com/images/I/51X7zBMf9bL._SL200_.jpg)
+- ### Highlights first synced by [Readwise](<Readwise.md>) [January 16th, 2021](<January 16th, 2021.md>)
+    - “Well,” said Ford, brightly but slowly, “stop doing ([Location 872](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=872))

@@ -970,7 +970,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1610835289350,
+    "edit-time": 1610879607128,
     "title": "Readwise"
   },
   {
@@ -40985,7 +40985,329 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610847327132,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1610847327132,
+    "edit-time": 1610879607130,
     "title": "January 17th, 2021"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Lpy3dFmee"
+          },
+          {
+            ":block/uid": "uA-LPUeiw"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879598884,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879598899,
+        "refs": [
+          {
+            "uid": "Lpy3dFmee"
+          },
+          {
+            "uid": "uA-LPUeiw"
+          }
+        ],
+        "string": "Author:: [[Max Frisch]]",
+        "uid": "aL9eFm5wi"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "HQqLUMN11"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879598886,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879598899,
+        "refs": [
+          {
+            "uid": "HQqLUMN11"
+          }
+        ],
+        "string": "Full Title:: I'm Not Stiller",
+        "uid": "jJtK1Bh-X"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "nQe5Mxw8Q"
+          },
+          {
+            ":block/uid": "cq2xjmun4"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879598886,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879598900,
+        "refs": [
+          {
+            "uid": "nQe5Mxw8Q"
+          },
+          {
+            "uid": "cq2xjmun4"
+          }
+        ],
+        "string": "Category:: #books",
+        "uid": "YrKHz8gRM"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tQiZw77L3"
+          },
+          {
+            ":block/uid": "01-17-2021"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1610879598888,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610879598900,
+                "string": "**Note**: Not me",
+                "uid": "5CHvElR4X"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879598887,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879598900,
+            "string": "he offered me a smoke, a Swiss cigar. I naturally refused it, since it was obviously offered not to me, but to a certain Herr Stiller. ([Location\u00a084](https://readwise.io/to_kindle?action=open&asin=B007CMM40I&location=84))",
+            "uid": "Cg0IhFLAK"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879598887,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879598900,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "tQiZw77L3"
+          },
+          {
+            "uid": "01-17-2021"
+          }
+        ],
+        "string": "Highlights first synced by #Readwise [[January 17th, 2021]]",
+        "uid": "3hVTFiCS3"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610879598891,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610879598918,
+    "title": "I'm Not Stiller (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610879598884,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610879598899,
+    "title": "Max Frisch"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Lpy3dFmee"
+          },
+          {
+            ":block/uid": "U1Hydl9l-"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879603546,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879603567,
+        "refs": [
+          {
+            "uid": "Lpy3dFmee"
+          },
+          {
+            "uid": "U1Hydl9l-"
+          }
+        ],
+        "string": "Author:: [[Martin Amis]]",
+        "uid": "qX6rSr_yz"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "HQqLUMN11"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879603547,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879603567,
+        "refs": [
+          {
+            "uid": "HQqLUMN11"
+          }
+        ],
+        "string": "Full Title:: Inside Story",
+        "uid": "ZkLxyrxhb"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "nQe5Mxw8Q"
+          },
+          {
+            ":block/uid": "cq2xjmun4"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879603547,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879603567,
+        "refs": [
+          {
+            "uid": "nQe5Mxw8Q"
+          },
+          {
+            "uid": "cq2xjmun4"
+          }
+        ],
+        "string": "Category:: #books",
+        "uid": "KtkUc8MIG"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tQiZw77L3"
+          },
+          {
+            ":block/uid": "01-17-2021"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1610879603549,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610879603567,
+                "string": "**Note**: Wrath Of dad ",
+                "uid": "YJp39zHGb"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879603548,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879603567,
+            "string": "What the hell is all this?\u2019 \u2018\u2026Oh,\u2019 said Nat, with a languid lift of his eyebrows. \u2018Taste the wrath of Daddy.\u2019 ([Location\u00a0139](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=139))",
+            "uid": "KaHIFB7mZ"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1610879603550,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610879603567,
+                "string": "**Note**: Cui bono anger",
+                "uid": "tRwQkLigG"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879603550,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879603568,
+            "string": "With anger \u2013 cui bono? Pity anger; pity those who radiate it as well as those on the other end of it. Anger: from Old Norse, angre \u2018vex\u2019, angr \u2018grief\u2019. Yes \u2013 grief. Anger is almost as transparently self-punitive as Envy. ([Location\u00a0143](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=143))",
+            "uid": "aNJ6C8_BJ"
+          },
+          {
+            "children": [
+              {
+                "create-email": "psas@motivationengineers.com",
+                "create-time": 1610879603551,
+                "edit-email": "psas@motivationengineers.com",
+                "edit-time": 1610879603568,
+                "string": "**Note**: Mmm",
+                "uid": "uhR5Cn0We"
+              }
+            ],
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879603551,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879603568,
+            "string": "an uncomfortable new thought, namely: Sixty\u2026Mm. Now this can\u2019t possibly turn out ([Location\u00a0229](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=229))",
+            "uid": "StVWm8qJt"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879603552,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879603568,
+            "string": "unlike poems, novels are limitlessly, indeed infinitely improvable. ([Location\u00a0289](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=289))",
+            "uid": "r2qm8Muh0"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879603552,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879603568,
+            "string": "convention about drunkenness, established in part by drunkards. The founding proposition was that consciousness is terrible. ([Location\u00a0442](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=442))",
+            "uid": "zsDU6Z3xm"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879603553,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879603568,
+            "string": "they were only reflexive anti-Semites. Not visceral. Being anti-Semitic was just one of the duties of being a snob.\u2019 ([Location\u00a0493](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=493))",
+            "uid": "MwzOdu83z"
+          },
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1610879603553,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1610879603568,
+            "string": "Morals is sex and ethics is money.\u2019 ([Location\u00a0523](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=523))",
+            "uid": "cnjSwT4cK"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1610879603548,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1610879603568,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "tQiZw77L3"
+          },
+          {
+            "uid": "01-17-2021"
+          }
+        ],
+        "string": "Highlights first synced by #Readwise [[January 17th, 2021]]",
+        "uid": "T1nNrxpn0"
+      }
+    ],
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610879603557,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610879603596,
+    "title": "Inside Story (highlights)"
+  },
+  {
+    "create-email": "psas@motivationengineers.com",
+    "create-time": 1610879603546,
+    "edit-email": "psas@motivationengineers.com",
+    "edit-time": 1610879603567,
+    "title": "Martin Amis"
   }
 ]

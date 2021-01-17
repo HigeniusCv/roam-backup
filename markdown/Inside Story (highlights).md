@@ -1,0 +1,14 @@
+- Author:: [[Martin Amis]]
+- Full Title:: Inside Story
+- Category:: #books
+- ### Highlights first synced by #Readwise [[January 17th, 2021]]
+    - What the hell is all this?’ ‘…Oh,’ said Nat, with a languid lift of his eyebrows. ‘Taste the wrath of Daddy.’ ([Location 139](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=139))
+        - **Note**: Wrath Of dad 
+    - With anger – cui bono? Pity anger; pity those who radiate it as well as those on the other end of it. Anger: from Old Norse, angre ‘vex’, angr ‘grief’. Yes – grief. Anger is almost as transparently self-punitive as Envy. ([Location 143](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=143))
+        - **Note**: Cui bono anger
+    - an uncomfortable new thought, namely: Sixty…Mm. Now this can’t possibly turn out ([Location 229](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=229))
+        - **Note**: Mmm
+    - unlike poems, novels are limitlessly, indeed infinitely improvable. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=289))
+    - convention about drunkenness, established in part by drunkards. The founding proposition was that consciousness is terrible. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=442))
+    - they were only reflexive anti-Semites. Not visceral. Being anti-Semitic was just one of the duties of being a snob.’ ([Location 493](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=493))
+    - Morals is sex and ethics is money.’ ([Location 523](https://readwise.io/to_kindle?action=open&asin=B0871M5RJJ&location=523))

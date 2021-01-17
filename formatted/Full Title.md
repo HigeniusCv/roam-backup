@@ -172,6 +172,10 @@
 - **[Author](<Author.md>):** [Elizabeth Grace Saunders](<Elizabeth Grace Saunders.md>)
 - **[Full Title](<Full Title.md>):**
 
+## [I'm Not Stiller (highlights)](<I'm Not Stiller (highlights).md>)
+- **[Author](<Author.md>):** [Max Frisch](<Max Frisch.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [If These Walls Could Talk (highlights)](<If These Walls Could Talk (highlights).md>)
 - **[Author](<Author.md>):** [Dave Wyman, Bob Condotta, and Dave Krieg](<Dave Wyman, Bob Condotta, and Dave Krieg.md>)
 - **[Full Title](<Full Title.md>):**
@@ -182,6 +186,10 @@
 
 ## [Inseparable (highlights)](<Inseparable (highlights).md>)
 - **[Author](<Author.md>):** [Mark  Schlabach](<Mark  Schlabach.md>)
+- **[Full Title](<Full Title.md>):**
+
+## [Inside Story (highlights)](<Inside Story (highlights).md>)
+- **[Author](<Author.md>):** [Martin Amis](<Martin Amis.md>)
 - **[Full Title](<Full Title.md>):**
 
 ## [Irresistible (highlights)](<Irresistible (highlights).md>)

@@ -1,3 +1,11 @@
+- SF Chronicle ridicules my space helmet [PPE](<PPE.md>) [https://www.sfgate.com/.../drew-magary-coronavirus-helmet...](https://www.sfgate.com/culture/editorspicks/article/drew-magary-coronavirus-helmet-microclimate-air-15867960.php?IPID=SFGate-HP-CP-Spotlight&fbclid=IwAR0C4g0V-gH6uVti2-1XVFTA0NM604WYyNxQCBdt2TqzCWQJ1ZHbOM0WG2I)
+    - "Dumbest" to me is [PPE](<PPE.md>) with nose exposed, or faceshield-only with complete wraparound air flow
+    - So, snarky SF reporters view my helmet as douche-man entitlement.
+    - Yes and there's serious problems with the $300 price
+    - Yet we could buy every teacher + healthworker in US one for less than $1B, and schools could re-open asap.
+    - Monday, I'm kickstarting a workshop on cheaper methods and McGyver solutions to help everyone trust one another
+    - Initially thought I'd only use this on public transport & airplanes, but Fri shopped in Berkeley. The only person who seemed to do a double-take was a little boy (who publicly expresses everyone's natural reaction).
+    - It's not just safe for me- I sensed that others acted less uptight if I passed near them in aisles. Reaching for a broccoli did not trigger typical stress responses.
 
 # Backlinks
 ## [I'm Not Stiller (highlights)](<I'm Not Stiller (highlights).md>)

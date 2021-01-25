@@ -8,3 +8,6 @@ Can [Fend](<Fend.md>)
 
 1- Can you [Fend](<Fend.md>)
 
+## [January 25th, 2021](<January 25th, 2021.md>)
+- Wormald et al., using 5 mL Tc99m-labeled irrigation solution, found better nasal cavity and sinus distribution with douche administration than nebulization or sprays [Fend](<Fend.md>)
+

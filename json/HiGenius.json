@@ -40076,6 +40076,14 @@
         "uid": "p0E3wPQzy"
       },
       {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1611613921402,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1611613946030,
+        "string": "[doi.org/10.1016/j.jhin.2013.07.011](https://doi.org/10.1016/j.jhin.2013.07.011) Winter et al. reported that, for\nany one of three widely used respirators, a satisfactory fit could\nbe achieved by fewer than half of the healthcare workers\ntested, and for 28% of the participants none of the masks gave a\nsatisfactory fit.29 Fit-testing is a laborious task, taking around\n30 min to do properly and comprises qualitative fit-testing\n(testing whether the respirator-wearing healthcare worker can\ntaste an intensely bitter or sweet substance sprayed into the\nambient air around the outside of the mask) or quantitative fit\ntesting (measuring the ratio of particles in the air inside and\noutside the breathing zone when wearing the respirator). Attempts have been made to circumvent the requirement for fit\ntesting, and it has been suggested that self-testing for a seal by\nthe respirator wearer (see http://youtu.be/pGXiUyAoEd8a for a\nvideo demonstration) is a sufficient substitute for fit-testing.\nHowever, self-checking for a seal has been demonstrated to be\na highly unreliable technique in two separate studies so that full\nfit-testing remains a necessary preliminary requirement before\nrespirators can be used in the healthcare setting",
+        "uid": "296CdZsGM"
+      },
+      {
         "children": [
           {
             "create-email": "psas@motivationengineers.com",
@@ -42016,10 +42024,46 @@
     "uid": "01-24-2021"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Yte_WxMAY"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1611612780225,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1611612984534,
+        "refs": [
+          {
+            "uid": "Yte_WxMAY"
+          }
+        ],
+        "string": "Wormald et al., using 5\u00a0mL Tc99m-labeled irrigation solution, found better nasal cavity and sinus distribution with douche administration than nebulization or sprays [[Fend]] https://www.sciencedirect.com/science/article/pii/S1879729615001003",
+        "uid": "EWXworh68"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1611612977580,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1611612977958,
+        "string": "__in vitro__\u00a0at least, it would seem that limited sodium chloride content is important for nasal irrigation solutions. Conversely, calcium provides an advantage in terms of restoring epithelial trophicity and mucociliary efficacy.",
+        "uid": "Oj1z1Mqjr"
+      },
+      {
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1611613562795,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1611613563139,
+        "string": "Ringer's lactate, which is rich in calcium and potassium and less rich in sodium and chloride ions than isotonic saline, provided a stronger increase in\u00a0[mucociliary transport](https://www.sciencedirect.com/topics/medicine-and-dentistry/mucociliary-transport)\u00a0than isotonic saline",
+        "uid": "mhV_ozj4U"
+      }
+    ],
     "create-email": "psas@motivationengineers.com",
-    "create-time": 1611538565743,
+    "create-time": 1611612779348,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1611538565745,
+    "edit-time": 1611612779348,
     "title": "January 25th, 2021",
     "uid": "01-25-2021"
   }

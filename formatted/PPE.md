@@ -26,6 +26,24 @@ median diameter of 0.5 lm) liquid particles that form as superheated vapor. gene
     - Blow out a candle? what does that test? 
     - Incense burning or cigarette  [too fine]
     - Scent of a solvent (vanilla)
+- [doi.org/10.1016/j.jhin.2013.07.011](https://doi.org/10.1016/j.jhin.2013.07.011) Winter et al. reported that, for
+any one of three widely used respirators, a satisfactory fit could
+be achieved by fewer than half of the healthcare workers
+tested, and for 28% of the participants none of the masks gave a
+satisfactory fit.29 Fit-testing is a laborious task, taking around
+30 min to do properly and comprises qualitative fit-testing
+(testing whether the respirator-wearing healthcare worker can
+taste an intensely bitter or sweet substance sprayed into the
+ambient air around the outside of the mask) or quantitative fit
+testing (measuring the ratio of particles in the air inside and
+outside the breathing zone when wearing the respirator). Attempts have been made to circumvent the requirement for fit
+testing, and it has been suggested that self-testing for a seal by
+the respirator wearer (see http://youtu.be/pGXiUyAoEd8a for a
+video demonstration) is a sufficient substitute for fit-testing.
+However, self-checking for a seal has been demonstrated to be
+a highly unreliable technique in two separate studies so that full
+fit-testing remains a necessary preliminary requirement before
+respirators can be used in the healthcare setting
 - Metrics used
     - Flowrate (LPM)
     - Initial Filter Resistance (mmH2O)

@@ -8,3 +8,5 @@
     - perfectly well, but something in its bearing suggested that ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1049))
 - ### New highlights added [[January 22nd, 2021]] at 2:02 AM
     - reminded unavoidably of the London Underground, though ([Location 1661](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=1661))
+- ### New highlights added [[January 28th, 2021]] at 3:38 AM
+    - work, a mere kid. I mean forget it, it was crazier than a mad monkey. ([Location 2144](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2144))

@@ -1010,7 +1010,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1599118946293,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1611309745654,
+    "edit-time": 1611833906058,
     "title": "Readwise",
     "uid": "tQiZw77L3"
   },
@@ -41544,12 +41544,41 @@
         ],
         "string": "New highlights added [[January 22nd, 2021]] at 2:02 AM",
         "uid": "tH29a569V"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "01-28-2021"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "psas@motivationengineers.com",
+            "create-time": 1611833902373,
+            "edit-email": "psas@motivationengineers.com",
+            "edit-time": 1611833902381,
+            "string": "work, a mere kid. I mean forget it, it was crazier than a mad monkey. ([Location\u00a02144](https://readwise.io/to_kindle?action=open&asin=B000XUBC2C&location=2144))",
+            "uid": "CODmJL-sZ"
+          }
+        ],
+        "create-email": "psas@motivationengineers.com",
+        "create-time": 1611833902371,
+        "edit-email": "psas@motivationengineers.com",
+        "edit-time": 1611833902381,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "01-28-2021"
+          }
+        ],
+        "string": "New highlights added [[January 28th, 2021]] at 3:38 AM",
+        "uid": "vh19ba5m6"
       }
     ],
     "create-email": "psas@motivationengineers.com",
     "create-time": 1610789376886,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1611309741668,
+    "edit-time": 1611833902381,
     "title": "The Hitchhiker's Guide to the Galaxy (highlights)",
     "uid": "tnNkW-kn6"
   },
@@ -42119,7 +42148,7 @@
     "create-email": "psas@motivationengineers.com",
     "create-time": 1611795603925,
     "edit-email": "psas@motivationengineers.com",
-    "edit-time": 1611795603926,
+    "edit-time": 1611833906061,
     "title": "January 28th, 2021",
     "uid": "01-28-2021"
   }

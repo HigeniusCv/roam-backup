@@ -55759,6 +55759,28 @@
     ":edit/user": {
       ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
     },
+    "children": [
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1612291745621,
+        "string": "\"Most discussions of the executive\u2019s task start with the advice to plan one\u2019s work. This sounds eminently plausible. The only thing wrong with it is that it rarely works. The plans always remain on paper, always remain good intentions. They seldom turn into achievement. Effective executives, in my observation, do not start with their tasks. They start with their time. And they do not start out with planning. They start by finding out where their time actually goes\"  Drucker, The Effective Executive [timebox]",
+        "uid": "lOztQ_Ihe"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612291748267,
+        "edit-time": 1612291748267,
+        "string": "",
+        "uid": "CV9FatrMT"
+      }
+    ],
     "create-time": 1612236645350,
     "edit-time": 1612236645350,
     "title": "February 2nd, 2021",

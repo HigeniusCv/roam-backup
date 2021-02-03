@@ -55923,6 +55923,18 @@
         ":edit/user": {
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
+        "create-time": 1612380954624,
+        "edit-time": 1612380978568,
+        "string": "[Principle of Least Action]",
+        "uid": "0kjaZCPKe"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
         "children": [
           {
             ":create/user": {
@@ -55989,9 +56001,21 @@
                 ":edit/user": {
                   ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
                 },
+                "create-time": 1612381106405,
+                "edit-time": 1612381112632,
+                "string": "That aspirational aspect is peeping into view",
+                "uid": "Ap72hTpxH"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
                 "create-time": 1612376749500,
-                "edit-time": 1612376774357,
-                "string": "That's the aspect that is peeping into view, and greet it with appreciative curiosity",
+                "edit-time": 1612381107638,
+                "string": "Greet it with appreciative curiosity",
                 "uid": "UMD7Y6qfz"
               },
               {
@@ -56101,8 +56125,8 @@
                       ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
                     },
                     "create-time": 1612378709020,
-                    "edit-time": 1612378709020,
-                    "string": "principle of least action",
+                    "edit-time": 1612381136628,
+                    "string": "principle of least action PLA",
                     "uid": "BHu1v3NGN"
                   }
                 ],
@@ -56123,10 +56147,24 @@
                 ":edit/user": {
                   ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
                 },
-                "create-time": 1612377257494,
-                "edit-time": 1612377580009,
-                "string": "How would you benefit from knowing the precise placement of every atom along the Mississippi delta over the past century? Are you, perchance, wondering whether there's any evidence disconfirming the Principle of Least Action? Could I persuade you to slake your curiosity by compressing all that mess into the image attached? (Or, if it's more familiar, little Jeffy's Family Circus path home)",
-                "uid": "Kk0KeLRuE"
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "create-time": 1612377257494,
+                    "edit-time": 1612381162669,
+                    "string": "More familiar, little Jeffy's Family Circus path home",
+                    "uid": "Kk0KeLRuE"
+                  }
+                ],
+                "create-time": 1612381148612,
+                "edit-time": 1612381148612,
+                "string": "How would you benefit from knowing the precise placement of every atom along the Mississippi delta over the past century? Are you, perchance, wondering whether there's any evidence disconfirming the Principle of Least Action? Could I persuade you to slake your curiosity by compressing all that mess into the image attached? ",
+                "uid": "GI9WhUt8y"
               }
             ],
             "create-time": 1612376840080,
@@ -56141,9 +56179,95 @@
             ":edit/user": {
               ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
             },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1612381170035,
+                "edit-time": 1612381202966,
+                "string": "Grab a post-it, or a blank piece of paper for this initial exercise",
+                "uid": "dhKYeEEcY"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1612381202962,
+                "edit-time": 1612381251180,
+                "string": "Write down the time at this moment",
+                "uid": "rX29pl-xd"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1612381251169,
+                "edit-time": 1612381301632,
+                "string": "Add the clock time at T-zero minus 5 (so, if it's 11:30 right now, put a line above it that's listed as 11:25 - 11:30)",
+                "uid": "ctImalyK7"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1612381346335,
+                "edit-time": 1612381346335,
+                "string": "For that initial time box, write down a label, like \"Begin time-boxing\"",
+                "uid": "ZU9G0c4md"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1612381357395,
+                "edit-time": 1612381357395,
+                "string": "Now, check it off!",
+                "uid": "WdxQp1UWg"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1612381219692,
+                "edit-time": 1612386995938,
+                "string": "How many people, when writing a to-do list, include at least one item that they've already completed? Poll saying about 2 out of 3 https://twitter.com/hormetic/status/1357052528265895937",
+                "uid": "yzEavLdIQ"
+              }
+            ],
+            "create-time": 1612380890564,
+            "edit-time": 1612380890564,
+            "string": "Let's get back to your box now. *Start here*",
+            "uid": "Pm0VO1bPm"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
             "create-time": 1612377510792,
-            "edit-time": 1612377537366,
-            "string": "Let's get back to your time now, and start with the ",
+            "edit-time": 1612380890572,
+            "string": " ",
             "uid": "Js7eQZF4T"
           }
         ],
@@ -56196,24 +56320,150 @@
             "edit-time": 1612375793778,
             "string": "~~Something you already got done today...~~ Draw gestures",
             "uid": "K6pg_9axK"
-          },
-          {
-            ":create/user": {
-              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
-            },
-            ":edit/user": {
-              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
-            },
-            "create-time": 1612375795899,
-            "edit-time": 1612375795899,
-            "string": "",
-            "uid": "j-ixcphka"
           }
         ],
         "edit-time": 1612375732165,
         "heading": 1,
         "string": "What do I want to accomplish today?",
         "uid": "a-zZ5OvvQ"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "**Try to visualize what a focused\u00a0__working__\u00a0life means for ME.**",
+            "uid": "pz_Er5wG5"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "__Which activities will make a difference five years from now? __Reading widely continues, but I bring a\u00a0higher level of systematic search & research: Regularly consulting academic journals; intentional about what I need from the pubs; Habitual note taking that feeds into sharing pith of the findings, daily on twitter and at least weekly in a blog",
+            "uid": "-GKvncKwB"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "Writing will be as serious and regular a practice as meditating and exercising is today. Difficulties and strains in tackling problems will be approached with curiosity and compassion.",
+            "uid": "SgL1ytLlJ"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "I will cultivate a zeal for the hardest path, and will celebrate every obstacle with a stoic's delight in growing stronger.",
+            "uid": "rszHzrSXS"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "__Which activities will I begin to omit?__",
+            "uid": "EFW5s-qU3"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "Desultory and anxious tracking of news & social media",
+            "uid": "gta9B0skf"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "FOMO about being on top of the current fads of the zeitgeist",
+            "uid": "W_GxIsRiZ"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "**Next, visualize what a focused life in my\u00a0__personal__\u00a0time will be**.",
+            "uid": "sRJgkrEGI"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "__What will I spend my free time doing?\u00a0__",
+            "uid": "mRddi_-z9"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "Tangling with unknown - As I zero my attention in on more deeply understanding important questions around motivation and behavior change, the shift in focus will be evident as I catalogue what's still uncertain.",
+            "uid": "3tJDAeYfx"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "People around me will have some sense of what's my problem. Those who are interested will share their own ideas, adding to the chances I'll have to reflect on and reconsider my own thoughts on my central question(s).",
+            "uid": "2QX514pZO"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "What distractions would you cut down on?",
+            "uid": "vtDxZslQY"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "Reading everything that's vaguely relevant. If I haven't identified how the reading meets an open question of my own curiosity, that book or article should be deferred.",
+            "uid": "3aoS3Gcg-"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "Trying to be interesting to people who don't share my interests.",
+            "uid": "EYTkf6ol6"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612388544029,
+            "string": "**Hit REPLY and tell me your vision of the focused life.**",
+            "uid": "NAYFi9AJM"
+          }
+        ],
+        "edit-time": 1612388544029,
+        "string": "To start making MY philosophy of focus explicit:",
+        "uid": "VgwFuggSb"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1612388544029,
+        "string": "PS - I enjoyed your deep dive on motivation, and absolutely count myself as a William James disciple https://www.scotthyoung.com/blog/2020/11/02/motivation/",
+        "uid": "jBNe3QC1n"
       }
     ],
     "create-time": 1612317189076,

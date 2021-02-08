@@ -11,7 +11,7 @@
     - capture the Best of from TapeWorm (may be killed someday by Google)
 - {{[[TODO]]}} Begin a list of Friends to whom I want to talk deliberately
 - {{[[DONE]]}} Set up 20 mins for tonight to reply to DPA
-- {{[[TODO]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days
+- {{[[DONE]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days
 - {{[[TODO]]}} Metta toward mir for at least 2 mins
 - {{[[TODO]]}} Write in blocks
 - {{[[TODO]]}} keep up portfolio work
@@ -52,7 +52,7 @@
             - How has Yak C fit into your ability to bill for consulting?
                 - Can you point to any work that leverages your Yak C?
             - What is the one thing you haven't done enough of to market your consultancy?
-- {{[[TODO]]}} Ride bike to top of Cedar before starting work
+- {{[[DONE]]}} Ride bike to top of Cedar before starting work
 - {{[[TODO]]}} Create experimental design for an assessment of flow for Salesforce next action evaluation
     - {{[[TODO]]}} Use guidedtrack to capture the data
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
@@ -68,7 +68,7 @@
     - [[December 2nd, 2020]]Finish a publishable piece
 - {{[[DONE]]}} Pull together a list of 15 people - contact 3 each day
 - {{[[DONE]]}} Ricardo zoom at 11;30am
-- {{[[TODO]]}} No news or twitter until after dinner
+- {{[[DONE]]}} No news or twitter until after dinner
 - {{[[DONE]]}} Tiny Habits when (via email) 
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - {{[[DONE]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize

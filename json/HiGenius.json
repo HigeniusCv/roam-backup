@@ -16289,7 +16289,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":create/user": {
@@ -16299,13 +16299,13 @@
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
         "create-time": 1604337895384,
-        "edit-time": 1604337917933,
+        "edit-time": 1612816882412,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days",
+        "string": "{{[[DONE]]}} Talk to Roger about harvesting my Garden - it's been 90-100 days",
         "uid": "06pLt9LeH"
       },
       {
@@ -17001,7 +17001,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":create/user": {
@@ -17011,13 +17011,13 @@
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
         "create-time": 1602609795527,
-        "edit-time": 1603387684811,
+        "edit-time": 1612817318643,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Ride bike to top of Cedar before starting work",
+        "string": "{{[[DONE]]}} Ride bike to top of Cedar before starting work",
         "uid": "_U25aldSR"
       },
       {
@@ -17311,7 +17311,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":create/user": {
@@ -17321,13 +17321,13 @@
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
         "create-time": 1602531291182,
-        "edit-time": 1604943188083,
+        "edit-time": 1612817327634,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} No news or twitter until after dinner",
+        "string": "{{[[DONE]]}} No news or twitter until after dinner",
         "uid": "eZwq47aAj"
       },
       {
@@ -52684,6 +52684,458 @@
         "uid": "TGsDbf7zW"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "Xs4LWBSqh"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612806823372,
+            "edit-time": 1612806845818,
+            "string": "Semi Finalists selected by March 15",
+            "uid": "mSfR5m_Hq"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612806845809,
+            "edit-time": 1612806934803,
+            "string": "Submission requires a prototype and at least 1 data point collecting of  CARES mask protocol",
+            "uid": "SpMAKQQqg"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612806934956,
+            "edit-time": 1612806970777,
+            "string": "OR, revision to CARES protocol 1.0, with at least 15 data points",
+            "uid": "gD3TCY1ww"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612806958935,
+            "edit-time": 1612807004651,
+            "string": "OR, submission of Beta method for Filtration efficacy",
+            "uid": "5cVeXYI3_"
+          }
+        ],
+        "create-time": 1612806812108,
+        "edit-time": 1612816023331,
+        "refs": [
+          {
+            "uid": "Xs4LWBSqh"
+          }
+        ],
+        "string": "[[Design Contest for Respiratory Protection]] Textile Technology Prize, in memory of Alycia Buckman",
+        "uid": "kr9k5kgks"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612807004780,
+        "edit-time": 1612807032678,
+        "string": "Submissions solicited via Design Workshop participation on Mondays 6;30-8",
+        "uid": "524HZCLvI"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807207813,
+            "edit-time": 1612807233498,
+            "string": "training in IDEO HCD methodological ",
+            "uid": "vMpSuAuiT"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807049385,
+            "edit-time": 1612807105063,
+            "string": "Design tools for Prototyping / 3D printing / textile craft",
+            "uid": "yxkrIDVtf"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807265979,
+            "edit-time": 1612807294939,
+            "string": "Research subjects for road-testing alpha/beta prototypes",
+            "uid": "vteWmOkuc"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807105681,
+            "edit-time": 1612807126151,
+            "string": "Business plan build out ",
+            "uid": "yzH8lAhSK"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807126297,
+            "edit-time": 1612807138451,
+            "string": "GoFundMe on-ramp",
+            "uid": "9sFnvN9nU"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807142122,
+            "edit-time": 1612807149847,
+            "string": "Supply chain consultation",
+            "uid": "xTUbMWOt9"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807156176,
+            "edit-time": 1612814489269,
+            "string": "Design teams will receive IP advice to fully control their work. Open source encouraged but not mandatory. ",
+            "uid": "wUsGiwajo"
+          }
+        ],
+        "create-time": 1612807039310,
+        "edit-time": 1612807063487,
+        "string": "Semi-finalists will all receive advisory board assistance with",
+        "uid": "36eIatSTr"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807367292,
+            "edit-time": 1612807538085,
+            "string": "Cross-partnership with other semi-finalists encouraged to concentrate skill sets for viable product launch ",
+            "uid": "kOr1ImFML"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807320240,
+            "edit-time": 1612807594248,
+            "string": "All PPE assessed to reach at least a 4.5 avg rating on CARES (minimum 35 trials) will be certified to participate in collaborative GoFundMe",
+            "uid": "M8wCf7Qya"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807597874,
+            "edit-time": 1612807647832,
+            "string": "Grand prize selected based on number of supporters who select the most demanded product",
+            "uid": "lDEGElkql"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612807980853,
+            "edit-time": 1612807987622,
+            "string": "GoFundMe funds allocated proportional to demand, so that multiple products can potentially receive sufficient prize money to develop and deliver their improved PPE",
+            "uid": "0lePYT-A1"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612815971647,
+            "string": "I've decided to run a design competition, with\u00a0semifinalist prizes denominated in skill building and finalists get monetary pay-in via GoFundMe response.",
+            "uid": "qIdIyonWz"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612815971647,
+            "string": "At present, the name for the contest aims to honor my mother's zeal for knitting, so I'm thinking of calling it the Textile Technology Prize, in memory of Alycia Buckman",
+            "uid": "2T773EQju"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612815971647,
+            "string": "Besides Stanford, I've friends at CCA, CMU, and maybe you can connect me with MIT?",
+            "uid": "ewJlunTkL"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612815971647,
+            "string": "I will also publicize this within the XD community.",
+            "uid": "VNyg2GEb4"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1612815971647,
+                "string": "[Design Contest for PPE]]",
+                "uid": "Ia0O7PGws"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1612815971647,
+                "string": "Submissions solicited via Design Workshop participation:",
+                "uid": "7_QkvWpG3"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Semi Finalists selected by ?March 15?",
+                    "uid": "tYFCu_FgY"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Submission requires a prototype and at least 1 data point using CARES mask protocol",
+                    "uid": "au_XErx0G"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "OR, revision to CARES protocol 1.0, with at least 15 data points",
+                    "uid": "SCPo_kZcd"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "OR, submission of Beta method for assessing Filtration efficacy",
+                    "uid": "k3vET7vzk"
+                  }
+                ],
+                "edit-time": 1612815971647,
+                "string": "Open invitation\u00a0Monday\u00a02/15\u00a0or\u00a03/1, Tues\u00a02/23, Weds\u00a03/3\u00a0&\u00a03/10",
+                "uid": "ixoJQXLa7"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "training in IDEO HCD methodological",
+                    "uid": "Icn8PhiEo"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Design tools for Prototyping / 3D printing / textile craft",
+                    "uid": "Ntgi_r2ZW"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Research subjects for road-testing alpha/beta prototypes",
+                    "uid": "TMmCdVqeZ"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Business plan build out",
+                    "uid": "mUNmndEr8"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "GoFundMe on-ramp",
+                    "uid": "8shYsyiYN"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Supply chain consultation",
+                    "uid": "ZIu_9yuBk"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Video or content strategy",
+                    "uid": "ZdYQHydkF"
+                  }
+                ],
+                "edit-time": 1612815971647,
+                "string": "Semi-finalists will all receive advisory board assistance with",
+                "uid": "8DvvOXyU-"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "children": [
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Cross-partnership with other semi-finalists encouraged to concentrate skill sets for viable product launch",
+                    "uid": "uiT5X0JEd"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "All PPE assessed to reach at least a 4.5 avg rating on CARES (minimum 35 trials) will be certified to participate in collaborative GoFundMe",
+                    "uid": "YjiscXSAU"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "Grand prize selected based on number of supporters who select the most demanded product",
+                    "uid": "FzLDVQB80"
+                  },
+                  {
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "edit-time": 1612815971647,
+                    "string": "GoFundMe funds will be allocated proportional to demand, so that multiple products can potentially receive sufficient prize money to develop and deliver their improved PPE",
+                    "uid": "4b9IccGtw"
+                  }
+                ],
+                "edit-time": 1612815971647,
+                "string": "Finalist selection criteria",
+                "uid": "MOXDFFDCH"
+              }
+            ],
+            "edit-time": 1612815971647,
+            "string": "Draft outline below, and before I convert it to a PDF and website, would appreciate any ideas you might add to getting this up and running. If you'd like to recommend anyone (or volunteer too) to contribute in some advisory\u00a0capacity for semifinalists, that'd be cool.",
+            "uid": "fRai9YRAZ"
+          }
+        ],
+        "create-time": 1612807299028,
+        "edit-time": 1612807395990,
+        "string": "Finalist selection criteria ",
+        "uid": "Xnlwrld6I"
+      },
+      {
         ":edit/user": {
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
@@ -56518,5 +56970,289 @@
     "edit-time": 1612664761170,
     "title": "February 7th, 2021",
     "uid": "02-07-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1612758265980,
+    "edit-time": 1612758265980,
+    "title": "February 8th, 2021",
+    "uid": "02-08-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805559622,
+        "edit-time": 1612805597318,
+        "string": "Every day this week: 8 - 9:30 Ramp up - Kids, coffee, pullups 30 sec, Swedish",
+        "uid": "JgYDQ-oO6"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805630391,
+        "edit-time": 1612805630391,
+        "string": "9:45 FocusMate 1: Contest Specification and collabs",
+        "uid": "K_Hd5V2kH"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805662993,
+        "edit-time": 1612805677293,
+        "string": "Bike up Marin",
+        "uid": "B6BD25cQu"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805649602,
+        "edit-time": 1612817435659,
+        "string": "11:15 - John Lee on Mask IP",
+        "uid": "sz5rzmvFf"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612818817626,
+            "edit-time": 1612818839598,
+            "string": "wordpress owns higenius.org (which higeni.us redirects)",
+            "uid": "gzhGHzDeV"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612817447492,
+            "edit-time": 1612817615130,
+            "string": "godaddy's unlocked to begin transfer",
+            "uid": "YHR2Ezj-8"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1612817577150,
+                "edit-time": 1612817597488,
+                "string": "also freebie zummercamp - redirected from zummercamp.org",
+                "uid": "cQM_up34C"
+              }
+            ],
+            "create-time": 1612817457270,
+            "edit-time": 1612817576204,
+            "string": "wix hosts a flavor of higenius - own 1 year of that",
+            "uid": "-s_pie2nH"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612817566822,
+            "edit-time": 1612817609953,
+            "string": "domain.com fixers",
+            "uid": "tOqgX0yBR"
+          }
+        ],
+        "create-time": 1612805711948,
+        "edit-time": 1612817446320,
+        "string": "11;45 FM 2: Domains & higenius",
+        "uid": "MXxDXrwbk"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805586720,
+        "edit-time": 1612805735630,
+        "string": " 12;45 FM3: Write PLA-ya",
+        "uid": "R2QUbei1P"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805735618,
+        "edit-time": 1612805783381,
+        "string": "2pm - Get boys out the door - Bike over to TO",
+        "uid": "BPWCDfEZM"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805769074,
+        "edit-time": 1612805822174,
+        "string": "2;30 - Master Mind support call out",
+        "uid": "n9pvJgxlh"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612805816675,
+            "edit-time": 1612805948858,
+            "string": "Twatch party on Community",
+            "uid": "GUfswO5V3"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612805949496,
+            "edit-time": 1612805998479,
+            "string": "Podcast interviews - Philip first",
+            "uid": "93pdqDWCg"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612805959882,
+            "edit-time": 1612805968424,
+            "string": "Permissionless Apprentice Hour",
+            "uid": "S4VqGS054"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612805968413,
+            "edit-time": 1612806037189,
+            "string": "Yak C's? Venkat for sure",
+            "uid": "Ct1Z18eQ1"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1612806037429,
+            "edit-time": 1612806037429,
+            "string": "",
+            "uid": "2CobRZQlC"
+          }
+        ],
+        "create-time": 1612805936500,
+        "edit-time": 1612805942467,
+        "string": "2;45 - Lassitude on lunes - topics for CH",
+        "uid": "7TwrFfwm0"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612805916457,
+        "edit-time": 1612805916457,
+        "string": "",
+        "uid": "cSbWWWqXZ"
+      }
+    ],
+    "create-time": 1612805557435,
+    "edit-time": 1612805557435,
+    "title": "Time Box",
+    "uid": "WVlvWw_0z"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1612816023334,
+    "edit-time": 1612816023335,
+    "title": "Design Contest for Respiratory Protection",
+    "uid": "Xs4LWBSqh"
   }
 ]

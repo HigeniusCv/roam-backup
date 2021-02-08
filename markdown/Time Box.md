@@ -1,0 +1,20 @@
+- Every day this week: 8 - 9:30 Ramp up - Kids, coffee, pullups 30 sec, Swedish
+- 9:45 FocusMate 1: Contest Specification and collabs
+- Bike up Marin
+- 11:15 - John Lee on Mask IP
+- 11;45 FM 2: Domains & higenius
+    - wordpress owns higenius.org (which higeni.us redirects)
+    - godaddy's unlocked to begin transfer
+    - wix hosts a flavor of higenius - own 1 year of that
+        - also freebie zummercamp - redirected from zummercamp.org
+    - domain.com fixers
+-  12;45 FM3: Write PLA-ya
+- 2pm - Get boys out the door - Bike over to TO
+- 2;30 - Master Mind support call out
+- 2;45 - Lassitude on lunes - topics for CH
+    - Twatch party on Community
+    - Podcast interviews - Philip first
+    - Permissionless Apprentice Hour
+    - Yak C's? Venkat for sure
+    - 
+- 

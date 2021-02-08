@@ -1,6 +1,50 @@
 - https://www.theatlantic.com/health/archive/2021/01/why-arent-we-wearing-better-masks/617656/
     - Strange equivalency of cloth or N95
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FHiGenius%2FWA6r-a9WOy.jpg?alt=media&token=af65b6b9-cc20-4511-a86f-2fdb35f4a5cb)
+- [[Design Contest for Respiratory Protection]] Textile Technology Prize, in memory of Alycia Buckman
+    - Semi Finalists selected by March 15
+    - Submission requires a prototype and at least 1 data point collecting of  CARES mask protocol
+    - OR, revision to CARES protocol 1.0, with at least 15 data points
+    - OR, submission of Beta method for Filtration efficacy
+- Submissions solicited via Design Workshop participation on Mondays 6;30-8
+- Semi-finalists will all receive advisory board assistance with
+    - training in IDEO HCD methodological 
+    - Design tools for Prototyping / 3D printing / textile craft
+    - Research subjects for road-testing alpha/beta prototypes
+    - Business plan build out 
+    - GoFundMe on-ramp
+    - Supply chain consultation
+    - Design teams will receive IP advice to fully control their work. Open source encouraged but not mandatory. 
+- Finalist selection criteria 
+    - Cross-partnership with other semi-finalists encouraged to concentrate skill sets for viable product launch 
+    - All PPE assessed to reach at least a 4.5 avg rating on CARES (minimum 35 trials) will be certified to participate in collaborative GoFundMe
+    - Grand prize selected based on number of supporters who select the most demanded product
+    - GoFundMe funds allocated proportional to demand, so that multiple products can potentially receive sufficient prize money to develop and deliver their improved PPE
+    - I've decided to run a design competition, with semifinalist prizes denominated in skill building and finalists get monetary pay-in via GoFundMe response.
+    - At present, the name for the contest aims to honor my mother's zeal for knitting, so I'm thinking of calling it the Textile Technology Prize, in memory of Alycia Buckman
+    - Besides Stanford, I've friends at CCA, CMU, and maybe you can connect me with MIT?
+    - I will also publicize this within the XD community.
+    - Draft outline below, and before I convert it to a PDF and website, would appreciate any ideas you might add to getting this up and running. If you'd like to recommend anyone (or volunteer too) to contribute in some advisory capacity for semifinalists, that'd be cool.
+        - [Design Contest for PPE]]
+        - Submissions solicited via Design Workshop participation:
+        - Open invitation Monday 2/15 or 3/1, Tues 2/23, Weds 3/3 & 3/10
+            - Semi Finalists selected by ?March 15?
+            - Submission requires a prototype and at least 1 data point using CARES mask protocol
+            - OR, revision to CARES protocol 1.0, with at least 15 data points
+            - OR, submission of Beta method for assessing Filtration efficacy
+        - Semi-finalists will all receive advisory board assistance with
+            - training in IDEO HCD methodological
+            - Design tools for Prototyping / 3D printing / textile craft
+            - Research subjects for road-testing alpha/beta prototypes
+            - Business plan build out
+            - GoFundMe on-ramp
+            - Supply chain consultation
+            - Video or content strategy
+        - Finalist selection criteria
+            - Cross-partnership with other semi-finalists encouraged to concentrate skill sets for viable product launch
+            - All PPE assessed to reach at least a 4.5 avg rating on CARES (minimum 35 trials) will be certified to participate in collaborative GoFundMe
+            - Grand prize selected based on number of supporters who select the most demanded product
+            - GoFundMe funds will be allocated proportional to demand, so that multiple products can potentially receive sufficient prize money to develop and deliver their improved PPE
 - “N95 have the worst filtration efficiency for particles around 0.3 If you’re smaller than that those are actually collected even better. It’s counterintuitive because masks do not work like sieving out larger particles. It’s not like pasta in a colander, and small ones don’t get through.”
     - “Brownian motion,” the name given to a physical phenomenon in which particles smaller than 0.3 microns move in an erratic, zig-zagging kind of motion. This motion greatly increases the chance they will be snared by the mask fibers.
     - Secondly, the N95 mask itself uses electrostatic absorption, meaning particles are drawn to the fiber and trapped, instead of just passing through.

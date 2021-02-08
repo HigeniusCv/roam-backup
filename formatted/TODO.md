@@ -11,7 +11,7 @@
     - capture the Best of from TapeWorm (may be killed someday by Google)
 - [ ] Begin a list of Friends to whom I want to talk deliberately
 - [x] Set up 20 mins for tonight to reply to DPA
-- [ ] Talk to Roger about harvesting my Garden - it's been 90-100 days
+- [x] Talk to Roger about harvesting my Garden - it's been 90-100 days
 - [ ] Metta toward mir for at least 2 mins
 - [ ] Write in blocks
 - [ ] keep up portfolio work
@@ -52,7 +52,7 @@
             - How has Yak C fit into your ability to bill for consulting?
                 - Can you point to any work that leverages your Yak C?
             - What is the one thing you haven't done enough of to market your consultancy?
-- [ ] Ride bike to top of Cedar before starting work
+- [x] Ride bike to top of Cedar before starting work
 - [ ] Create experimental design for an assessment of flow for Salesforce next action evaluation
     - [ ] Use guidedtrack to capture the data
     - [ ] Sandbox a small studies within Mturk account
@@ -68,7 +68,7 @@
     - [December 2nd, 2020](<December 2nd, 2020.md>)Finish a publishable piece
 - [x] Pull together a list of 15 people - contact 3 each day
 - [x] Ricardo zoom at 11;30am
-- [ ] No news or twitter until after dinner
+- [x] No news or twitter until after dinner
 - [x] Tiny Habits when (via email) 
 - [x] Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - [x] Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
@@ -171,12 +171,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

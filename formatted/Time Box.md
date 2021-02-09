@@ -8,13 +8,13 @@
     - wix hosts a flavor of higenius - own 1 year of that
         - also freebie zummercamp - redirected from zummercamp.org
     - domain.com fixers
--  12;45 FM3: Write PLA-ya
-- 2pm - Get boys out the door - Bike over to TO
-- 2;30 - Master Mind support call out
+-  12;45 footle around
+- 2pm - Get boys out the door
+- 2;30 - FM3: Write PLA-ya
 - 2;45 - Lassitude on lunes - topics for CH
     - Twatch party on Community
     - Podcast interviews - Philip first
     - Permissionless Apprentice Hour
     - Yak C's? Venkat for sure
     - 
-- 
+- 5pm Master Mind support call

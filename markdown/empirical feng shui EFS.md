@@ -1,3 +1,7 @@
+- Sensors are the path to the quantified work flow. In the pilot phase, participants can contribute AppleWatch, RescueTime  or other tracker data (appropriately anonymized)
+    - My current thinking on recruiting data collectors: Sponsor a prize, with well-specified constraints, with $ and Tech awards (e.g., AppleWatch to 1st place)
+    - My firm (higeni.us) would contribute enough to cover that prize, and others might sponsor.
+    - The other step toward MVP that I've started to consider: Recruit interior design/decorators, who would be interested in adding a certification validating some of their design methods as part of the EFS consortium
 - Room to breathe
 - Mine Your Peace & Quiet
 - Lungs for your Brain 

@@ -50459,6 +50459,40 @@
     },
     "children": [
       {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612979976735,
+            "string": "My current thinking on recruiting data collectors: Sponsor a prize, with well-specified constraints, with $ and Tech awards (e.g., AppleWatch to 1st place)",
+            "uid": "1YiwCL-bV"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612979976735,
+            "string": "My firm (higeni.us) would contribute enough to cover that prize, and others might sponsor.",
+            "uid": "hrRsYRZX1"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1612979976735,
+            "string": "The other step toward MVP that I've started to consider: Recruit interior design/decorators, who would be interested in adding a certification validating some of their design methods as part of the EFS consortium",
+            "uid": "yxao0e8At"
+          }
+        ],
+        "edit-time": 1612979976735,
+        "string": "Sensors are the path to the quantified work flow. In the pilot phase, participants can contribute AppleWatch, RescueTime  or other tracker data (appropriately anonymized)",
+        "uid": "JMRMjt3XD"
+      },
+      {
         ":create/user": {
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
@@ -57274,6 +57308,20 @@
     ":edit/user": {
       ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1612979969622,
+        "edit-time": 1612979969622,
+        "string": "",
+        "uid": "u2vexfBVw"
+      }
+    ],
     "create-time": 1612921393442,
     "edit-time": 1612921393442,
     "title": "February 10th, 2021",

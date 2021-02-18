@@ -52512,13 +52512,13 @@
           }
         ],
         "create-time": 1610479347494,
-        "edit-time": 1610479358181,
+        "edit-time": 1613588857639,
         "refs": [
           {
             "uid": "wHiGMpkCT"
           }
         ],
-        "string": "I'm leading a \"Human Centered Design Workshop for #PPE\" ",
+        "string": "I'm leading a \"Human Centered Design Workshop for #[[Respiratory Protection]]\" ",
         "uid": "pytyCUE0T"
       },
       {
@@ -52696,6 +52696,1914 @@
             ":edit/user": {
               ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
             },
+            "create-time": 1613677932080,
+            "edit-time": 1613677977128,
+            "string": "https://www.xprize.org/challenge/nextgenmask/articles/top-5-finalists-annoucement",
+            "uid": "4y0-diOdi"
+          }
+        ],
+        "create-time": 1613677931372,
+        "edit-time": 1613677931372,
+        "string": "https://www.xprize.org/prizes/nextgenmask/articles/million-dollar-mask",
+        "uid": "Wc_6y5mfr"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613678014371,
+            "edit-time": 1613678040432,
+            "string": "Started with paper to find shapes - silicon bras ",
+            "uid": "iN_A64En8"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613678137683,
+                "edit-time": 1613678441951,
+                "string": "Team used Breath test, especially in cold",
+                "uid": "4VhHAHXTH"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613678444683,
+                "edit-time": 1613678454309,
+                "string": "Recommend to test speaking",
+                "uid": "aTsdZNylW"
+              }
+            ],
+            "create-time": 1613678441940,
+            "edit-time": 1613678441940,
+            "string": "Kimberly Prather UCSD testing - ",
+            "uid": "CsnrQj1m9"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613678234647,
+            "edit-time": 1613678246252,
+            "string": "Heather Hughes - Walgreens - Facial hair",
+            "uid": "0S2ZLH-Sa"
+          }
+        ],
+        "create-time": 1613677992687,
+        "edit-time": 1613678011797,
+        "string": "TEAM ID - adhesive that peals off easily ",
+        "uid": "2UAZv0rkZ"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613678528678,
+            "edit-time": 1613678528678,
+            "string": "",
+            "uid": "LH0LpMzkb"
+          }
+        ],
+        "create-time": 1613678516061,
+        "edit-time": 1613678540493,
+        "string": "Team POLAIR - Johns Hopkins + ",
+        "uid": "smYnv6mkc"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683705157,
+                "edit-time": 1613683764370,
+                "string": "Big bold challenge statement: Develop respiratory protection as comfortable, sociable, and safe with the same power as your phone",
+                "uid": "o48awkwCp"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683768005,
+                "edit-time": 1613683792458,
+                "string": "Develop empathy map of mask-users",
+                "uid": "ZWozp1QcG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683792450,
+                "edit-time": 1613683813576,
+                "string": "Find HMW questions via wild analogies",
+                "uid": "2C-TH8Jxd"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683828804,
+                "edit-time": 1613683838589,
+                "string": "Get some vitamin D - or at least movement",
+                "uid": "Gsallo3-o"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683838580,
+                "edit-time": 1613683881079,
+                "string": "DJ the brainstorming session: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74",
+                "uid": "p3NyseDLG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "create-time": 1613683409506,
+                    "edit-time": 1613683919522,
+                    "string": "https://jamboard.google.com/u/0/ ",
+                    "uid": "oytK3uXwu"
+                  }
+                ],
+                "create-time": 1613683881331,
+                "edit-time": 1613683921676,
+                "string": "Virtual sticky notes - Use their sticky notes feature",
+                "uid": "gSEQwaDqY"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683870679,
+                "edit-time": 1613683946132,
+                "string": "Sketch on paper, share on slack",
+                "uid": "q09_cOkaB"
+              }
+            ],
+            "create-time": 1613683704160,
+            "edit-time": 1613683704691,
+            "string": "https://uxdesign.cc/how-to-run-an-energizing-inspiring-design-thinking-workshop-remotely-48f5513c124f",
+            "uid": "diJRZN2vv"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613683272877,
+            "edit-time": 1613684076100,
+            "string": "Logistics of communication and agenda setting https://careerfoundry.com/en/blog/ux-design/how-to-run-a-remote-design-thinking-workshop/#2-how-to-run-a-remote-design-thinking-workshop-a-step-by-step-guide. ",
+            "uid": "NlNa9spku"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613684477361,
+                "edit-time": 1613684482785,
+                "string": "SessionLab. https://app.sessionlab.com/sessions/rbnozo?tab=info",
+                "uid": "pMg8U3nXQ"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613685607184,
+                "string": "[Empathize]: Zoom, \u00a0[Miro](https://miro.com/),\u00a0[Mural](https://mural.co/),\u00a0[Stormboard](https://stormboard.com/)\u00a0and\u00a0[Conceptboard](https://conceptboard.com/).",
+                "uid": "0l3R01g4o"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613685235243,
+                "string": "[Define]: journey mapping by Smaply, Userforge creates personas",
+                "uid": "RWKeXUHjf"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613685350328,
+                "string": "[Ideate]: SessionLab, Stormboard postits, IdeaFlip online stickies",
+                "uid": "eorziL9jo"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613685588859,
+                "string": "[Prototype]: story-boarding Boords, wireframing Mockingbird, POP prototyping on paper into an app",
+                "uid": "icWz_FjRz"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613685595979,
+                "string": "[Test]: UserTesting, HotJar, PingPong",
+                "uid": "N5PTpilIe"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613684115558,
+                "string": "[For the complete process](https://www.sessionlab.com/blog/design-thinking-online-tools/#design-thinking-tools-for-the-complete-process): Sprintbase, InVision, Mural, Miro",
+                "uid": "_5wTvOaKy"
+              }
+            ],
+            "create-time": 1613684078456,
+            "edit-time": 1613684869152,
+            "string": "20 tools for online https://www.sessionlab.com/blog/design-thinking-online-tools/ Different stages  Empathy; Define ; Ideate; Prototype ; Test",
+            "uid": "6fiFMVNvq"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613683274334,
+            "edit-time": 1613683409514,
+            "string": "Zoom whiteboard",
+            "uid": "__e-sdqoY"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683508718,
+                "edit-time": 1613683662717,
+                "string": "Define challenge: Make your challenge statement big and bold.",
+                "uid": "e8FpCAYfC"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683548733,
+                "edit-time": 1613683585323,
+                "string": "sketch it for paper prototyping",
+                "uid": "-dSF_SHf5"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683562916,
+                "edit-time": 1613683593855,
+                "string": "digitally faking it",
+                "uid": "gCj1DnOW_"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683593848,
+                "edit-time": 1613683600104,
+                "string": "Testing prototypes",
+                "uid": "HhYK9d8rS"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683600550,
+                "edit-time": 1613683607860,
+                "string": "Make it: Physical object",
+                "uid": "WOw6OwC_j"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613683618591,
+                "edit-time": 1613683633482,
+                "string": "Activate it: making it interactive",
+                "uid": "WA3BCbiVu"
+              }
+            ],
+            "create-time": 1613683410687,
+            "edit-time": 1613683666724,
+            "string": "https://iversity.org/en/courses/prototyping-interaction   Levels of prototyping",
+            "uid": "Qf2iHdr14"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613682910838,
+                "edit-time": 1613682912511,
+                "string": "Email all past workshoppers with info",
+                "uid": "0lFWEuNB-"
+              }
+            ],
+            "create-time": 1613589017959,
+            "edit-time": 1613589032295,
+            "string": "Design considerations: Email last deck to sign ups",
+            "uid": "P7ZzPpltd"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613682925014,
+                "edit-time": 1613682948462,
+                "string": "Poll: What areas do people feel need most to be improved?",
+                "uid": "ibf6YdXKT"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613682949417,
+                "edit-time": 1613682961917,
+                "string": "What tools do they feel comfortable using ",
+                "uid": "i20I-d9rq"
+              }
+            ],
+            "create-time": 1613682913854,
+            "edit-time": 1613682924439,
+            "string": "Prototyping over Zoom -",
+            "uid": "srlfglG7v"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613589033166,
+            "edit-time": 1613682591491,
+            "string": "Pursue interview Richard Amster",
+            "uid": "daC_gZdWq"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613589046914,
+            "edit-time": 1613682909769,
+            "string": "",
+            "uid": "9jt2q_-Bm"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589074838,
+                "edit-time": 1613589080031,
+                "string": "Sara Dean with CCA",
+                "uid": "M-qVkyPt4"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589085130,
+                "edit-time": 1613589171543,
+                "string": "IIT Chicago (Jamie Jansson)",
+                "uid": "VviZioW0O"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589220978,
+                "edit-time": 1613589233125,
+                "string": "MIT Media Lab (David Rose)",
+                "uid": "lcXdPZ0lG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613598321758,
+                "edit-time": 1613598326940,
+                "string": "Leslie Witt",
+                "uid": "mYcf34vD-"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613590006765,
+                "edit-time": 1613602785020,
+                "string": "RISD (Matthew Yapchaian)[yapchaian@gmail.com](mailto:yapchaian@gmail.com)",
+                "uid": "DRz7c_TXr"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589899456,
+                "edit-time": 1613589908631,
+                "string": "Jared Spool centre center",
+                "uid": "NtlLWzsG8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613598824186,
+                "edit-time": 1613598835038,
+                "string": "Jeanette Mellinger [jmellinger@gmail.com](mailto:jmellinger@gmail.com)",
+                "uid": "6N6RKzpSC"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599027408,
+                "edit-time": 1613599028729,
+                "string": "[hello@vivienpark.com](mailto:hello@vivienpark.com)",
+                "uid": "62O2gU25y"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599028702,
+                "edit-time": 1613599114994,
+                "string": "[harrykim0119@gmail.com](mailto:harrykim0119@gmail.com)",
+                "uid": "r_W9TPxWF"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599115265,
+                "edit-time": 1613599128614,
+                "string": "[becky.buck@gmail.com](mailto:becky.buck@gmail.com)",
+                "uid": "oZILj4IoN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599272384,
+                "edit-time": 1613599277635,
+                "string": "[don@jnd.org](mailto:don@jnd.org)",
+                "uid": "UnkBHbyRb"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599277936,
+                "edit-time": 1613599379098,
+                "string": "[bjfogg@gmail.com](mailto:bjfogg@gmail.com)",
+                "uid": "Eu4iZLaAZ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599379407,
+                "edit-time": 1613599475093,
+                "string": "dan@danariely.com",
+                "uid": "NLjxu4k2Z"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600048570,
+                "edit-time": 1613600212313,
+                "string": "tap & niti parikh",
+                "uid": "pTRU3eUrR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599822719,
+                "edit-time": 1613607256482,
+                "string": "BATCH BELOW 2:10 - 16;15",
+                "uid": "Zz0AWblhv"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599753567,
+                "edit-time": 1613599754696,
+                "string": "[chetwajda@gmail.com](mailto:chetwajda@gmail.com)",
+                "uid": "9Jx-qu_2T"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599754863,
+                "edit-time": 1613599821839,
+                "string": "[dadamgrant@gmail.com](mailto:dadamgrant@gmail.com)",
+                "uid": "Zeo4t7iKD"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599838447,
+                "edit-time": 1613599854435,
+                "string": "[shoeblade@gmail.com](mailto:shoeblade@gmail.com) ALEX REBEN",
+                "uid": "4FhmXAvgA"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599899934,
+                "edit-time": 1613599911284,
+                "string": "[abbegaildon@gmail.com](mailto:abbegaildon@gmail.com)",
+                "uid": "-qk7Rx4xZ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599911465,
+                "edit-time": 1613599919365,
+                "string": "[cliffkuang@gmail.com](mailto:cliffkuang@gmail.com)",
+                "uid": "Oa2pTFmd_"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599919328,
+                "edit-time": 1613599973874,
+                "string": "[tobiastoft@gmail.com](mailto:tobiastoft@gmail.com) Copenhagen?",
+                "uid": "_lL_OUZAn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599973856,
+                "edit-time": 1613599991987,
+                "string": "[neemamoraveji@gmail.com](mailto:neemamoraveji@gmail.com)",
+                "uid": "_s1pQ8oc9"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613599991968,
+                "edit-time": 1613600014145,
+                "string": "[shoshana.berger@gmail.com](mailto:shoshana.berger@gmail.com)",
+                "uid": "1xzHEGk4g"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600014347,
+                "edit-time": 1613600031334,
+                "string": "[wendyju@gmail.com](mailto:wendyju@gmail.com) cornell tech",
+                "uid": "tO-x87yaw"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600024931,
+                "edit-time": 1613600048142,
+                "string": "[steve@portigal.com](mailto:steve@portigal.com)",
+                "uid": "09DoAoQi8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600230061,
+                "edit-time": 1613600231270,
+                "string": "[robfab@gmail.com](mailto:robfab@gmail.com)",
+                "uid": "En1ZsYPla"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600231802,
+                "edit-time": 1613600268581,
+                "string": "[benrubin@earstudio.com](mailto:benrubin@earstudio.com)",
+                "uid": "NA3NYXOYY"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600268780,
+                "edit-time": 1613600278692,
+                "string": "[marcdavis@alum.mit.edu](mailto:marcdavis@alum.mit.edu)",
+                "uid": "1VipLtab8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600476564,
+                "edit-time": 1613600477869,
+                "string": "[nicholas.andre.sung@gmail.com](mailto:nicholas.andre.sung@gmail.com)",
+                "uid": "xVAQBCtj0"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600477926,
+                "edit-time": 1613600543187,
+                "string": "[mpearson76@gmail.com](mailto:mpearson76@gmail.com)",
+                "uid": "sghqYHYx8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600543395,
+                "edit-time": 1613600550799,
+                "string": "[boris.fedorov@gmail.com](mailto:boris.fedorov@gmail.com)",
+                "uid": "YJD4YKykw"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600550785,
+                "edit-time": 1613600582188,
+                "string": "[michael@naimark.net](mailto:michael@naimark.net) NYU Shanghai",
+                "uid": "wT0Ou3e4r"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600582368,
+                "edit-time": 1613600684519,
+                "string": "[david.c.janssens@gmail.com](mailto:david.c.janssens@gmail.com) Detroit/Ann Arbor",
+                "uid": "cSDJoIJmR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600562003,
+                "edit-time": 1613600799128,
+                "string": "[sap.ved.eri@gmail.com](mailto:sap.ved.eri@gmail.com) carbon capture",
+                "uid": "3ClIzoRbC"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600799365,
+                "edit-time": 1613600844739,
+                "string": "[beck@becktench.com](mailto:beck@becktench.com) UW grad stud to facilitate contemplative practice",
+                "uid": "CFQ8isGB8"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600876625,
+                "edit-time": 1613600882022,
+                "string": "[juliemelton@gmail.com](mailto:juliemelton@gmail.com) NYT cooking UX",
+                "uid": "sFjSjw1nK"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600882008,
+                "edit-time": 1613600950691,
+                "string": "[gwustrack@gmail.com](mailto:gwustrack@gmail.com) Ytube & Museum of Craft & Design",
+                "uid": "j8YPIZqB1"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600942090,
+                "edit-time": 1613600967609,
+                "string": "[aaron.marcus@bamanda.com](mailto:aaron.marcus@bamanda.com) on Euclid",
+                "uid": "FnmUAQ4zE"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600968109,
+                "edit-time": 1613601031221,
+                "string": "[cdjsato@gmail.com](mailto:cdjsato@gmail.com) Olin + Health at Twitter",
+                "uid": "14cBMhoke"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601031206,
+                "edit-time": 1613601088004,
+                "string": "[irene.au@gmail.com](mailto:irene.au@gmail.com) Khosla",
+                "uid": "sOI0w_xAj"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601087984,
+                "edit-time": 1613601183903,
+                "string": "[linkedin@jofish.com](mailto:linkedin@jofish.com) post-Mozilla",
+                "uid": "WHh66xAfG"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601183885,
+                "edit-time": 1613601232224,
+                "string": "[egoodman@confectious.net](mailto:egoodman@confectious.net) Govt service UX",
+                "uid": "fiQ2r38jU"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601223175,
+                "edit-time": 1613601266760,
+                "string": "[maiorana.tom@gmail.com](mailto:maiorana.tom@gmail.com) UCD / dschool",
+                "uid": "23ahfgXO3"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601215982,
+                "edit-time": 1613601333488,
+                "string": "[erika@muledesign.com](mailto:erika@muledesign.com)",
+                "uid": "g1T-PAAPm"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601409998,
+                "edit-time": 1613601468403,
+                "string": "[xian@pobox.com](mailto:xian@pobox.com) California Office of Digital Innov",
+                "uid": "3P0GOuGS9"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601468502,
+                "edit-time": 1613601616908,
+                "string": "[bradlau@hey.com](mailto:bradlau@hey.com) forme posture gear",
+                "uid": "Ef1YksVDi"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601616888,
+                "edit-time": 1613601692928,
+                "string": "[metacool@gmail.com](mailto:metacool@gmail.com) Diego r (left Intuit in Jan 21)",
+                "uid": "FXpJAAA3d"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601407658,
+                "edit-time": 1613601720259,
+                "string": "[justin@unit3a.nu](mailto:justin@unit3a.nu) Now Uber since 7/20",
+                "uid": "R__1Rlsu2"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601720238,
+                "edit-time": 1613601739261,
+                "string": "[lionel.mohri@gmail.com](mailto:lionel.mohri@gmail.com)",
+                "uid": "sffrvr6TL"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601404742,
+                "edit-time": 1613601802576,
+                "string": "[trish_powell@msn.com](mailto:trish_powell@msn.com)",
+                "uid": "oKODC0HfI"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601803607,
+                "edit-time": 1613601822699,
+                "string": "[beverlytfreeman@gmail.com](mailto:beverlytfreeman@gmail.com) google health",
+                "uid": "3zTutpieM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601822795,
+                "edit-time": 1613601924311,
+                "string": "[bennett_blank@intuit.com](mailto:bennett_blank@intuit.com)",
+                "uid": "khTu9s1-G"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601924290,
+                "edit-time": 1613601986158,
+                "string": "[pkh@pkhalvorsen.com](mailto:pkh@pkhalvorsen.com)",
+                "uid": "gy3SlYSQ9"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601993445,
+                "edit-time": 1613602093336,
+                "string": "[linkedin@hughie.com](mailto:linkedin@hughie.com) molotsi",
+                "uid": "f9UqeNoAA"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602093317,
+                "edit-time": 1613602107657,
+                "string": "[emfagan2020@gmail.com](mailto:emfagan2020@gmail.com) Blue Shield",
+                "uid": "9SgKy271V"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602107759,
+                "edit-time": 1613602124523,
+                "string": "[stephenrgay@gmail.com](mailto:stephenrgay@gmail.com)",
+                "uid": "jhvUpzH-N"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602124840,
+                "edit-time": 1613602182381,
+                "string": "[susie@dschool.stanford.edu](mailto:susie@dschool.stanford.edu)",
+                "uid": "UY_vE-l8z"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602182362,
+                "edit-time": 1613602278539,
+                "string": "[aaroneden77@gmail.com](mailto:aaroneden77@gmail.com)",
+                "uid": "NrI1IpPhF"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602278517,
+                "edit-time": 1613602313209,
+                "string": "[thisislarrycheng@gmail.com](mailto:thisislarrycheng@gmail.com) back at Intuit",
+                "uid": "fye6rNxRv"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602313309,
+                "edit-time": 1613607319261,
+                "string": "[ellen@siliconvalleyconnect.com](mailto:ellen@siliconvalleyconnect.com) esp Arizona State ",
+                "uid": "o2pZz8eGL"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602487055,
+                "edit-time": 1613602677791,
+                "string": "[hetalsoni@gmail.com](mailto:hetalsoni@gmail.com) & [dolly.parikh@gmail.com](mailto:dolly.parikh@gmail.com) maybe your twins?",
+                "uid": "6rXnUxCWn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602086510,
+                "edit-time": 1613602708444,
+                "string": "[klh.holloway@gmail.com](mailto:klh.holloway@gmail.com) VMware",
+                "uid": "rxrbQTWOq"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613602709026,
+                "edit-time": 1613607231307,
+                "string": "[lkates@linkedin.com](mailto:lkates@linkedin.com) linked in - Georgia Tech (intern Uber)",
+                "uid": "U5-rL_S82"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613601986138,
+                "edit-time": 1613607784400,
+                "string": "[ed.h.chi@gmail.com](mailto:ed.h.chi@gmail.com)",
+                "uid": "yMQZH7IC6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613607839509,
+                "edit-time": 1613610012995,
+                "string": "[scott@snibbe.com](mailto:scott@snibbe.com) & ahna",
+                "uid": "vfr6m07WY"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613609968943,
+                "edit-time": 1613609971130,
+                "string": "[ellen@izix.com](mailto:ellen@izix.com)",
+                "uid": "RLPjDhGjd"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610021558,
+                "edit-time": 1613610035057,
+                "string": "[ppirolli@ihmc.us](mailto:ppirolli@ihmc.us)",
+                "uid": "Mk9pcqSTQ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610035040,
+                "edit-time": 1613610287528,
+                "string": "[ramana@alum.mit.edu](mailto:ramana@alum.mit.edu)",
+                "uid": "KMFZir31X"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610287508,
+                "edit-time": 1613610340141,
+                "string": "[marni.gasn@gmail.com](mailto:marni.gasn@gmail.com) taking a break",
+                "uid": "qSKoJjKgs"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610340340,
+                "edit-time": 1613610380399,
+                "string": "[adriennestaubin@gmail.com](mailto:adriennestaubin@gmail.com)",
+                "uid": "_37ZVdoQt"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613609971112,
+                "edit-time": 1613610408456,
+                "string": "[melodytiangu@gmail.com](mailto:melodytiangu@gmail.com)",
+                "uid": "cz2fRYNgq"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610414816,
+                "edit-time": 1613610491948,
+                "string": "[manas.mittal@gmail.com](mailto:manas.mittal@gmail.com) now Uber Eats",
+                "uid": "lUEnTkHmR"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610491930,
+                "edit-time": 1613610582797,
+                "string": "[yarivr@yahoo.com](mailto:yarivr@yahoo.com)",
+                "uid": "S1UjMQAd9"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610592607,
+                "edit-time": 1613610593843,
+                "string": "[whoisylvia@aol.com](mailto:whoisylvia@aol.com)",
+                "uid": "WUVsv9DBi"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610614110,
+                "edit-time": 1613610615253,
+                "string": "https://www.linkedin.com/in/cravitz/",
+                "uid": "LUeaNrQRz"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610583199,
+                "edit-time": 1613610666662,
+                "string": "[kfarnady@gmail.com](mailto:kfarnady@gmail.com)",
+                "uid": "eDtWuR_go"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610683628,
+                "edit-time": 1613610685073,
+                "string": "[kelly@gotoresearch.com](mailto:kelly@gotoresearch.com)",
+                "uid": "qWVk1Bb4g"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610666637,
+                "edit-time": 1613610715645,
+                "string": "[matt@morelab.com](mailto:matt@morelab.com)",
+                "uid": "YgaiC4eCN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610715611,
+                "edit-time": 1613610736372,
+                "string": "[david@sifry.com](mailto:david@sifry.com) ADL",
+                "uid": "_U-rvrfe5"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610736526,
+                "edit-time": 1613673612598,
+                "string": "",
+                "uid": "LohB1_R4k"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610748427,
+                "edit-time": 1613610761029,
+                "string": "[joy@joymountford.com](mailto:joy@joymountford.com)",
+                "uid": "JJhIoKWkY"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610761009,
+                "edit-time": 1613610780306,
+                "string": "[lena.belkor@gmail.com](mailto:lena.belkor@gmail.com)",
+                "uid": "Pa2hCjKOz"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610780295,
+                "edit-time": 1613610791055,
+                "string": "[marccanter@gmail.com](mailto:marccanter@gmail.com)",
+                "uid": "MQTUIPS-m"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610791045,
+                "edit-time": 1613610803114,
+                "string": "[mark@goodexperience.com](mailto:mark@goodexperience.com)",
+                "uid": "_OPRcchp4"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610820682,
+                "edit-time": 1613610854376,
+                "string": "[benwidlus@gmail.com](mailto:benwidlus@gmail.com)",
+                "uid": "CDED5WdK9"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610854357,
+                "edit-time": 1613610865889,
+                "string": "[john@magnatune.com](mailto:john@magnatune.com)",
+                "uid": "1Axxdw0gc"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610865877,
+                "edit-time": 1613610885331,
+                "string": "[david@postobject.com](mailto:david@postobject.com) CH",
+                "uid": "tf-FfhWdu"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610885313,
+                "edit-time": 1613610908801,
+                "string": "[landay@gmail.com](mailto:landay@gmail.com)",
+                "uid": "IPtYchs5d"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610908783,
+                "edit-time": 1613610924956,
+                "string": "[blaurel@tauzero.com](mailto:blaurel@tauzero.com)",
+                "uid": "-BKYnF3H5"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610925064,
+                "edit-time": 1613610939692,
+                "string": "[drandydong@gmail.com](mailto:drandydong@gmail.com)",
+                "uid": "zVu0kI9wS"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610939803,
+                "edit-time": 1613610964408,
+                "string": "judy kim https://www.linkedin.com/in/multihyphenate/",
+                "uid": "gqx03-gmD"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610964391,
+                "edit-time": 1613673636601,
+                "string": "jeff ubois",
+                "uid": "yWfEIH6qn"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610412455,
+                "edit-time": 1613610412455,
+                "string": "",
+                "uid": "Z873PkE-V"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613610408559,
+                "edit-time": 1613610408559,
+                "string": "",
+                "uid": "Mlx3a2hrp"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589080023,
+                "edit-time": 1613589552701,
+                "string": "Dental Schools (David Yue)",
+                "uid": "Vt9YY47Sm"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600245036,
+                "edit-time": 1613600246284,
+                "string": "[richard.amster@gmail.com](mailto:richard.amster@gmail.com)",
+                "uid": "y-sL_lfhM"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613600246678,
+                "edit-time": 1613600246678,
+                "string": "",
+                "uid": "HQ2mJz1wh"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589157185,
+                "edit-time": 1613589262035,
+                "string": "Other design schools: https://topuxschool.com/program/us",
+                "uid": "m63Ua2Ukh"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589168747,
+                "edit-time": 1613589168747,
+                "string": "San Jose ; ",
+                "uid": "Ubcv6-u-H"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589171534,
+                "edit-time": 1613589171534,
+                "string": "CMU ; ",
+                "uid": "4LTuzr5rC"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589234067,
+                "edit-time": 1613589255165,
+                "string": "UC Berkeley - I School ; ",
+                "uid": "5wDgN9zWH"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589279893,
+                "edit-time": 1613589285914,
+                "string": "School of Visual Arts ",
+                "uid": "avCj2G9Iq"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589285905,
+                "edit-time": 1613589295064,
+                "string": "Indiana HCI",
+                "uid": "dMkd79aaJ"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589295055,
+                "edit-time": 1613589310589,
+                "string": "Ball State",
+                "uid": "wn1nkbipK"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589310581,
+                "edit-time": 1613589314662,
+                "string": "Purdue",
+                "uid": "neD3iPRGe"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589329504,
+                "edit-time": 1613589344597,
+                "string": "Madison (Scott Cook)",
+                "uid": "EGCk5cito"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589363971,
+                "edit-time": 1613589376300,
+                "string": "San Jose (HFE)",
+                "uid": "N1kbfanQk"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589389466,
+                "edit-time": 1613589396797,
+                "string": "NU (EDI) - Allan Collins",
+                "uid": "_e37KJ_LD"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589396787,
+                "edit-time": 1613589425217,
+                "string": "UCLA (Luca, Tanya)",
+                "uid": "4mpnuWCvx"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589435392,
+                "edit-time": 1613589439007,
+                "string": "Northeastern",
+                "uid": "0B79wwNm6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589499911,
+                "edit-time": 1613589503262,
+                "string": "Michigan ()",
+                "uid": "2vZLogkrl"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589449903,
+                "edit-time": 1613589477040,
+                "string": "Rensselaer (Nick Cassimatis)",
+                "uid": "seOSNCC9Z"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1613589487224,
+                "edit-time": 1613589492509,
+                "string": "Art Center (pasadena)",
+                "uid": "BP3dXrRUI"
+              }
+            ],
+            "create-time": 1613589068170,
+            "edit-time": 1613599402858,
+            "string": "Publicize Design Contest within your world(s)?",
+            "uid": "o77v_72_G"
+          }
+        ],
+        "create-time": 1613589004131,
+        "edit-time": 1613589017984,
+        "string": "Prototyping Workshop for 2/23",
+        "uid": "odaK6izT_"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1613601399347,
+        "edit-time": 1613601399347,
+        "string": "",
+        "uid": "rbjoNAFot"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
             "children": [
               {
                 ":edit/user": {
@@ -52718,6 +54626,90 @@
         "uid": "TGsDbf7zW"
       },
       {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1613597584551,
+        "edit-time": 1613597585482,
+        "string": "There's\u00a0__still\u00a0__an unmet\u00a0need for better respiratory protection. IndieGoGo lists several bubble-heads that've raised hundreds of thousands, and they're nowhere near perfect.",
+        "uid": "oPyat8J86"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "[The 2021 Alycia Buckman Competition in Textile Technology](https://higenius.org/abc2021/)\u00a0calling for submissions for Designs of Respiratory Protection for Your Generation",
+        "uid": "00Pm6NaBR"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "Participations solicited via online Design Workshops",
+        "uid": "5mf6KFdkI"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "Contest Submissions \u2013\u2013\u2013\u2013 deadline April 3, 2021",
+        "uid": "nbgZ81mEu"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "Eligible Designs for Smart Materials cover any of the following:",
+        "uid": "I2uCjBqD5"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "1- Functional prototype for N95-level respiratory protection, &/or",
+        "uid": "bZmAt4NXK"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "2- Methodology for assessing mask efficacy in the home, &/or",
+        "uid": "VrdRcY5qO"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "3- Revised CARES protocol: Comfort, Audibility, Risk-reduction, Ease, Sociability",
+        "uid": "v62jbPbr4"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "Semi-finalists (selected 4/3/21) receive funding & advisory board assistance for materials to 3D print or textile craft prototypes; payment to research participants for testing; business planning for video and content strategy for online funding campaign; supply chain consultation; open source licensing with protection of intellectual property",
+        "uid": "xc850oPaL"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613597624405,
+        "string": "Details https://higenius.org/abc2021/\u00a0 or via text 510-972-8522",
+        "uid": "w_7RWcRol"
+      },
+      {
         ":block/refs": [
           {
             ":block/uid": "Xs4LWBSqh"
@@ -52738,8 +54730,8 @@
               ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
             },
             "create-time": 1612806823372,
-            "edit-time": 1612806845818,
-            "string": "Semi Finalists selected by March 15",
+            "edit-time": 1613588866953,
+            "string": "Semi Finalists selected by 4/3/21",
             "uid": "mSfR5m_Hq"
           },
           {
@@ -54343,8 +56335,8 @@
       }
     ],
     "create-time": 1610479348489,
-    "edit-time": 1610479348490,
-    "title": "PPE",
+    "edit-time": 1613588857639,
+    "title": "Respiratory Protection",
     "uid": "wHiGMpkCT"
   },
   {
@@ -55467,13 +57459,13 @@
             ":edit/user": {
               ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
             },
-            "edit-time": 1610907100860,
+            "edit-time": 1613588857639,
             "refs": [
               {
                 "uid": "wHiGMpkCT"
               }
             ],
-            "string": "\"Dumbest\" to me is #PPE with nose exposed, or faceshield-only with complete wraparound air flow",
+            "string": "\"Dumbest\" to me is #[[Respiratory Protection]] with nose exposed, or faceshield-only with complete wraparound air flow",
             "uid": "ywKQv0rEU"
           },
           {
@@ -55525,13 +57517,13 @@
             "uid": "GWtwtLVCk"
           }
         ],
-        "edit-time": 1610907109029,
+        "edit-time": 1613588857639,
         "refs": [
           {
             "uid": "wHiGMpkCT"
           }
         ],
-        "string": "SF Chronicle ridicules my space helmet #PPE [https://www.sfgate.com/.../drew-magary-coronavirus-helmet...](https://www.sfgate.com/culture/editorspicks/article/drew-magary-coronavirus-helmet-microclimate-air-15867960.php?IPID=SFGate-HP-CP-Spotlight&fbclid=IwAR0C4g0V-gH6uVti2-1XVFTA0NM604WYyNxQCBdt2TqzCWQJ1ZHbOM0WG2I)",
+        "string": "SF Chronicle ridicules my space helmet #[[Respiratory Protection]] [https://www.sfgate.com/.../drew-magary-coronavirus-helmet...](https://www.sfgate.com/culture/editorspicks/article/drew-magary-coronavirus-helmet-microclimate-air-15867960.php?IPID=SFGate-HP-CP-Spotlight&fbclid=IwAR0C4g0V-gH6uVti2-1XVFTA0NM604WYyNxQCBdt2TqzCWQJ1ZHbOM0WG2I)",
         "uid": "DJ4bbijF2"
       }
     ],
@@ -57420,9 +59412,536 @@
     ":edit/user": {
       ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
     },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613588957418,
+            "edit-time": 1613588963979,
+            "string": "RescueTime pro intro",
+            "uid": "-KThI7IBm"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613588963968,
+            "edit-time": 1613588983036,
+            "string": "TIL roam does interstitial time ",
+            "uid": "K3vWmpREy"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1613588991228,
+            "edit-time": 1613588991228,
+            "string": "",
+            "uid": "6BYrUDxtM"
+          }
+        ],
+        "create-time": 1613588935261,
+        "edit-time": 1613588956182,
+        "string": "10:30 to ",
+        "uid": "5O3K5RGSt"
+      }
+    ],
     "create-time": 1613522951091,
     "edit-time": 1613522951091,
     "title": "February 17th, 2021",
     "uid": "02-17-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1613682545925,
+        "edit-time": 1613682558508,
+        "string": "Plans for Respiratory Protection",
+        "uid": "oE6pDeQc4"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613677548159,
+        "string": "This helps me\u00a0think about risks, now that some people are getting vaccinated. tl;dr - If the grandparents are vaccinated, it's going to be possible for kids to visit them w/o unacceptable risks.",
+        "uid": "_gLNhUpZd"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613677364833,
+        "string": "---------- Forwarded message ---------",
+        "uid": "pAnNbK15j"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1613677364833,
+        "string": "From: **Emily Oster from ParentData** <emilyoster@substack.com>",
+        "uid": "lYJ5ik71U"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "**Post-Vaccine: Science & Behavior**",
+            "uid": "DcIz6c6rD"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "The[ CDC recently announced](https://email.mg2.substack.com/c/eJwlkcuurCAQRb-mmbXhIagDBmdyf8PwKG1yFLxQtPHvD3YnFdhQj00WziCsKV_6SAXJvcx4HaAjnGUDRMikFshz8JpNYy-ZIF73no1yJKHMSwbYTdg05grkqHYLzmBI8W7g0zBQ8tJM0F4o5QxTVqppXCyzbhgnoajzaqJfW1N9gOhAwxvylSKQTb8Qj_IQPw_-r8V5nt0LzIavzqW9XbgUfbjdmg5xAdd0LU8fCpgC5VORUzTvkOvn5N3zbZwLEZ7_q8kmYpMkaE45azHSSap-6FjnpPV8YdQLO1DrQY6it0KC7T0FYdmjp_vKu1JtQeN-7_eQrFPFM2B3tKGtYL3BfDKNy9z2vcaA1wzR2A38Fxl-wX8gzitEyO1D_GxQM8WE6jnnjCvxRdSYCq7kJBklzdqn1hU17GG7WhryH_GwnOY) that people who are fully vaccinated (2 doses) do not need to quarantine after exposure to someone with COVID-19.  Simultaneously, messages are coming on strong that vaccination [doesn\u2019t mean](https://email.mg2.substack.com/c/eJwlkUmOxCAMRU9T7IjCkGnBojd9jYjBSVATiMB0Kbdv0iVZ9uLb_vKz1Qh7yre6UkHypBXvC1SEdwmACJnUAnn1TrFllgMTxCnp2DzMxJd1ywCn9kFhrkCuaoK3Gn2KzwBfpqknh9JsGhfo51FMk3QGJGNMcme3mc92M9vHVlfnIVpQ8Av5ThFIUAfiVV7i68W_WxygAx6dDa0j6Ohs8NHbLuW9iTpk0O6mv9paH9tVjh6QodD3cdM7VVqOVIOLSAumi75BZx_3R8l00xboqcsPvQHbLuIV7zlrMffLMMqpY50djOMb650wU28cDLOQRgxgpOtBGPaS_bnzrlRTUNufzqaTZJUqvj12l4_QGvYH1b_SSK2tnjV6vFeI2gRwH4j4ecU_1nWHCPk5ZtWo2MjEKDnnjI_iA61RFnwcloH1pFm71KaigtOHu8mQ_wD-1aRk) you can stop wearing masks and social distancing. We\u2019re [still being told](https://email.mg2.substack.com/c/eJwlkTmOwzAMRU8TdTa0eilUTDPXMLTQiTCyZEh0DN9-5AQgyOLz44OPziA8c7n0niuSuy147aATnDUCIhRyVChL8JrNk1RMEK-lZ5OaSKjLWgA2E6LGcgDZDxuDMxhyug18HkdKXtqKFUZLp5kDk6sYpQM50XWgajTWK_eNNYcPkBxoeEO5cgIS9Qtxrw_x8-C_rc7z7G_thBhfYCK-epe3Jrj8Dr5jc_c2zoUEXTUrdJi7CtDl6KF0q9lCvDpF51FySYLmlLNWE53VIMee9U5Zz1dGvbAjtR7UJKQVCqz0FIRlD0m3J-_rYSsa93dHk6LzgWfAfm-pbeF5s_goDcXS5nakgNcCydgI_ksJv6w_3JYnJCjtB34xqNnAxCA554wP4kulYRR8ULNilLRon5srabiPaTKUfzTFlwE) that if you want to see vaccinated grandparents, it\u2019s best to do it outside with masks.",
+            "uid": "HgWPP3s99"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "This is confusing. Do vaccines work, or not? Can we return to normal after people are vaccinated?  If we can\u2019t, why are we getting vaccines? __What is going on?__",
+            "uid": "1hbFIIwPV"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "I\u2019m going to try to break it down below, in three parts.",
+            "uid": "0m3LqyXvp"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "First: What are we learning about the real-world efficacy of vaccines in terms of both protecting vaccinated people and preventing them from spreading?",
+            "uid": "39CrkgZAf"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Second: a meditation on learning to live __with__ COVID risk.",
+            "uid": "3RHSnuKbL"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Third: Some numbers on that grandparent question. (I kind of feel like I have written a lot of this part before, but it remains very confusing so you get it again, slightly differently).",
+            "uid": "yACVRPnH9"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "**Vaccines: New Science**",
+            "uid": "rGxEeILL1"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "There are two big questions on the vaccines.  One is how well they will protect people from serious illness in the real world (i.e. will we replicate the success of the trials) and the second is whether they protect against infection and transmission.",
+            "uid": "wi77VZ973"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "On the first point, the data coming out from Israel (where they have done the most vaccination and monitoring) is very encouraging.  [Preliminary data](https://email.mg2.substack.com/c/eJwtUcuOpDAM_JrODUReQB9ymMv-BsrDNNGGgBLTLPP1Y6ZXslxOHKdKZW8RXlu5zL5VZHea8NrBZDhrAkQo7KhQphgMf45Kc8mCUYGPemSxTnMBWG1MBssBbD9cit5i3PI9IJ7D0LGFEMZBce_drPSsvNMjn_2slYXgZis_tPYIEbIHA28o15aBJbMg7vUhvx7iD8V5nq3PufXbSifRCU7QCUpcU1rAJlyo2Of4DaVxJAPBL43f3jE0b-t9zNAUCIeH2sQ8g7-lUlmLhdRUPMJF95jok5gD_GsXXBOL5uaiGLun7tXQ8tZrF8TMuyDd0LkAepTKSQ1OhQ6k4w_VrS_R1sNVtP7vLZkVsx14Rmx3kkEPXrdxvx3ybSJcjxzxmiBblyB8LMXPYn5Nnl6QodDCwmTR8J7LXgkhuOj_W0ieS9Hrp-YdI-qw0VQ2sMZ0URvKDxRHp1k) (not yet peer reviewed) is showing 94% reduction in symptomatic COVID with two vaccine doses.  We will learn more about this protection in data from the UK and parts of the US, likely in the next month or two. But it\u2019s looking very reassuring that those who are fully vaccinated are much, much, much, much less likely to be seriously ill.",
+            "uid": "hskzJ9tx0"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Less certain is the question of infection and transmission.  The Phase 3 vaccine trials weren\u2019t designed to detect __infection__ so we are still unsure the extent to which people who are vaccinated can be infected and spread disease, even while not being sick. We are starting to get some picture, though, so I wanted to run through it (and thanks here due to A. Marm Kilpatrick for a [great Tweet storm](https://email.mg2.substack.com/c/eJwlkMluxCAMhp9mOEbsCQcOldq-BmLxpKgJRCwd5e1LJpJlMLb57c_bBmsupz5ybehypp0H6ASvukFrUFCvUEwMmqiFC8JQ0DyQRSwoVvMsALuNm26lAzq626K3LeZ0NVA1zxj9aIWxxeoZpCVMBmI9VdhJ6RVIFhSBW9b2ECF50PAH5cwJ0KZ_Wjvqg3086Pew9orXQJPP-4g-YwVb4cvnLa_neKjNtl7HhTChKGEzE5zyZaZcYBQ1xZQMW7ASks8TmbxwgT4JDszN2AUQC-OOCXA8YGCOPDjeVzrV7sbP_veSRUXnfo0xHTHBKFiv5d-ZsbsZ595TbKeBZN0G4cbSbrhvUGaFBGVAD8Y2TeQgwimlhEp2YxjcGJVCCYLRkA55dCUNe9zOkYbyD9V9jxw) on this).",
+            "uid": "lxuFWdcDx"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "__Question 1: Are vaccinated people less likely to be infected? __To learn about this, we need to observe measures of infection (likely, nasal swabs) in vaccinated people.  That is: if you vaccinated people and then tracked their nasal swabs every day, alongside a control group unvaccinated people, you\u2019d pick up even asymptomatic infections and be able to tell if they were lower in the vaccine group.",
+            "uid": "UGATtE-Gm"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "We have a bit of this from the Phase 3 trials. One small piece of data from Moderna[ is here.](https://email.mg2.substack.com/c/eJwlkUluxCAQRU_TLC1mw4JFpCTXsBjKbhQbLIa0fPvgtFRiqF-l-jy8bbDlcpkz14buZWnXCSbBq-7QGhTUK5QlBkO04oIwFAwPRAmFYl3WAnDYuJtWOqCzuz1622JOdwPV84zR02i5CudVsF54yh1oq0hY5RqI8zM49R5re4iQPBj4hXLlBGg3z9bO-mAfD_o9or3ibWjy-Ri3z1jBVvjyec_bNRK12dbrOBDGNNaMYkkolULMfB7Z85lbvlUUDcWUjFBYC8nniUxeuEBXggNzM3YBhGLcMQGOBwzMkQfHx0an2t2Y4n9uC6iY3G9L0xkTjILtBvGvDA7L2I-eYrsWSNbtEN6I2hv0P7RlgwRlfEBYbDNEEiY5pZRQyd5IBkM2HqAFwWiMDnl0JQNH3K8hQ_kD4QST4Q)  At the time of the second dose, there were see 60% fewer asymptomatic infections in the vaccinated than non-vaccinated group. This sample is small, but it is encouraging.  (And this is only after the first dose, also).",
+            "uid": "_kA3HWMdM"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "[Preliminary data from Israel ](https://email.mg2.substack.com/c/eJwlkNuOhCAMhp9muBvDUfGCi7nZ1zAcOg5ZRQNljW-_OCZNoZTm7_95izBv-TT7VpBcacJzB5PgKAsgQia1QJ5iMGzUUjFBgpGBaaVJLNM7A6w2LgZzBbJXt0RvMW7pGuDjMFDyMRaU5kx5pz04R4MYmeaeOjm-gx7EcMvaGiIkDwb-IJ9bArKYD-JeHuL14D8tjuPoksWaofPb2h5sxugXKO0aJFO6f1LOnpQySZ8HiYa3soWmo-rl0LHOKxf4m7UV3EBdaHsJ6YQCJwMF4dhD0nXmXamuoPW_lwzJZqt4ROz2mKB9mC-_306zO7VzrSniOUGyboFwk8Cb55fNNEOC3DiHyaJhPRO95Jwz3ovbeUMleK9GxShp0mFrU8nAGpeztSH_A8Skiv8)also shows a 33% reduction in the chance of infection 2 weeks after the first vaccine dose.  Again, this is just one dose, and a shorter time frame than the Moderna data.",
+            "uid": "z6e0w2VH7"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Along with our basic understanding of vaccines, this generates some confidence that infection rates will be reduced with the vaccine.  Exactly how much remains uncertain, but this question isn\u2019t that difficult to answer and we\u2019ll know more about this in the next few weeks (I think).",
+            "uid": "kNsEjZLqT"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "__Question 2: Are Vaccinated People less likely to spread the virus? __This is harder to answer. If people who are vaccinated cannot be infected at all, then the answer is clear.  But if they may still have asymptomatic infection, they could spread the virus.",
+            "uid": "PSSFKceIA"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "The \u201cideal\u201d way to answer this would be with detailed contact tracing data on infection spread by vaccinated and unvaccinated people, but this isn\u2019t likely given our infrastructure.  Instead, we will rely on indirect evidence.  Specifically: we know that those with asymptomatic infection and those with [lower viral load](https://email.mg2.substack.com/c/eJwlkctq7DAMhp8m3jX4EifxwotuCt0dOA8QfNHMuHWc4MgnJ29fTQeE9aNfQuZTcAj3rV523w5kz2fBawdb4DwyIEJl7YC6pGiFmQctFIt2iGLWM0vHcqsAq0vZYm3A9uZzCg7TVp4D0kwTZw8r_GSm6CehtAQzcxe0lkFw7riOzpvXWtdighLAwj-o11aAZftA3I9OvXfyg-I8zx4fkB11YR-2lWpfW6vF5YMk1VO5kXAVU8hA6s_n518xTOpNcWM6OUveSUN61m-K7FvLGeE_smQll4Ji5kaPw9SLPmgf5U3wqPzEfQQ9q8ErDX6IHJQX3cDXu-yP5g904fv5HVbt1vBM2O-pADXcn2h-HSKzUF5bSXgtUJzPEF_Q8IX-F-NyhwKVThIXh1aMQo2DlFLIUb0gEVUlR2204IxWx42mioU15YtsqD_Gsph2) are less likely to spread the virus. If the vaccine lowers viral load and reduces symptomatic infection, then that would be informative.",
+            "uid": "u5MRw89pF"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "We already know the virus reduces symptomatic infection, and asymptomatic infections are a lot less likely ([maybe 75 to 80% less likely](https://email.mg2.substack.com/c/eJwlkMuOhCAQRb-m2bWheIguWMxmfsPwqO4ho2igHOPfD7ZJBSoUt27uCY7wvZbTbmsldh0TnRvajEedkQgL2yuWKUUL46A0SBatijDogaU6vQri4tJsqezItt3PKThKa74EYjSGsx8L3IXBgNCGoxfmhVHzsS2TQoZoONy2bo8Jc0CLf1jONSOb7Q_RVh_y6yG-Wx3H0WVHe8EurEt7cIVSmLG2NirQQ__kgj-5BAVPyZIVXECrgY-6V6aDLmgfxQt4lN5wH1EPUnmp0avIUXp4KL68RVd3X8mF38uGFbvudCTqtpSxfXhfeT-TFndq97LnROeE2fkZ402Cbp4fNtMbM5bGOU6OLPQgeyWEANHLO3lDJUWvRw2cNeu4NlW2uKT5bGMs_6AIifY)) to spread. We also are now seeing [data from Israel ](https://email.mg2.substack.com/c/eJwlkMGOhSAMRb_msSQURHHBYjbzGwakOmQUDNbn-PeDz6Rpm97etDmjI5xzueyWd2J3Guja0CY89wWJsLBjxzLEYKE3jQbFgm0CGG1Y3IepIK4uLpbKgWw7_BJHRzGn2yD7rhPsx0LjNGjwXhnRCtN1Rk9q8tBN0jnp5HPWHSFiGtHiG8uVE7LF_hBt-0t9veR3jfM8-Yqh_MU3z2WukzEnwkS1A8EBBNROCglcSC4MlyDrw7J_A5-OZeFbmFi090INI3rdNh0HPmof5AQiKN8JH1Ab1Xil0TdBoPLwasQ6S74ffic3_vIxr6zYfNAZiW8xYV2YbwofpUIYal2PFOkaMDm_YHj40EP5Q2yYMWGp9MPgyEILqm2krB-36uFRASrZ6l6DYPV0yNWVLK5xuaqM5R_h-pAZ)showing evidence of lower viral load in more heavily vaccinated groups.",
+            "uid": "6FV5zl0pD"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Putting this all together \u2014 reduction in infection rates, reduction in chance of spread given infection based on viral load and symptomatic infection levels \u2014 the evidence suggests vaccinated people are a lot less likely to transmit the virus. The tweet thread I mentioned above goes with a 90% reduction all in; we\u2019ll get more precise going forward.",
+            "uid": "5ODV37Smb"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "It\u2019s 90%, not 100%.  And my sense is that we will not get to 100% reduction in spread from vaccinated people; there will be some remaining risk __as there is with nearly all vaccines for all diseases__ of spreading the virus. Variants play into this, too.  There is much that remains uncertain about them (see a [whole discussion here](https://email.mg2.substack.com/c/eJw9kMluhDAMhp9mcivKCuSQQy99DZTFw0SFBCWGKW_fzKBWsmzLvxf58xZhzuU0W65IXm7CcwOT4FkXQIRC9gplisEwPUrFBAlGBjaqkcQ63QvAauNisOxAtt0t0VuMOb0GuB4GSh5mDMFRL5kFbjW1WmmugSou6N16T-E6a_cQIXkwcEA5cwKymAfiVm_i88a_mvl8xGA9pvzscpn_Kh_wsy02Jgj_lcOWaBPWlnjflEqi4ZSzZiPVqpdDxzqvXOB3RoNwA3UB1CikEwqcDBSEYzdJ15l3dXcVrf_ufF5JMXnHZ8Rua1tbw_x6_q2036cW1z1FPCdI1i0QLix4wX2DmmZIUBr0MFk0rGeil5xzxntxYWjcBO-VVoySdjrkNpUMrHE5mwzlF6Cvk3k) from COVID Act Now and COVID-Explained) but the vaccines are likely to be slightly less effective, which may lower both the disease prevention rates and the transmission reductions a bit in the long term.",
+            "uid": "pT0KMfBio"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "What I think we can say about the science at this point is: vaccination has a huge impact on severe disease and it reduces transmission by a lot. Neither number is 100%.  But both are very, very high.",
+            "uid": "emoqGckMW"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "So what does that mean for behavior?",
+            "uid": "9O45mJRZk"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "**A Meditation on Risk**",
+            "uid": "U7qTxDwo2"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "A detour.",
+            "uid": "Z440CQ-7r"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Back in March and April 2020, there was talk of \u201cflattening the curve\u201d.  The idea was that if we locked down, paused everything, we could lower the speed of viral spread, increase hospital capacity and get to a situation where when we opened back up, hospitals wouldn\u2019t be over-whelmed.",
+            "uid": "YYUGTI6ou"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Perhaps driven by the tremendous vaccine efficacy, the conversation has (to my reading) shifted away from the \u201cflatten the curve\u201d toward \u201celiminate the virus.\u201d  And with this frame, we have arrived at a place where any risk is too much. As long as there is some risk from vaccinated people to others, or some risk to them, we should maintain __all__ of the same precautions we had before.",
+            "uid": "JABTjHdhe"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "It may be feasible to do this in the short term, until vaccination rates are higher and disease rates go down more, but this isn\u2019t feasible in the long term, at least not without tremendous costs to mental health, economic health and physical health. We can\u2019t eliminate the virus completely, at least not in any reasonable time frame (smallpox took about 100 years).  The next phase of this pandemic is going to be learning to live more normally __with some risk of COVID-19__.  We do this every day with other risks, but it\u2019s going to be hard to make this mental shift.",
+            "uid": "vfZBq3MH7"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "This doesn\u2019t mean being cavalier about COVID, but it is going to mean consciously shifting ourselves into weighing this risk against other risks and benefits. This is especially true as we vaccinate more and more high risk people so the serious diseases risks diminish substantially.",
+            "uid": "B5SdiqNMA"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "**Behavior**",
+            "uid": "CesekFLzb"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Back to the data and evaluating risks of some of the things you\u2019d (possibly) like to do.",
+            "uid": "cenK8xI8U"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "This is a parenting newsletter, so the main question I\u2019m getting these days is: the grandparents are vaccinated, but we are not and the kids are not. Can we see them indoor without masks?",
+            "uid": "8iVF6pAIn"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "The risk evaluation frame here is the same as it was before, but with different numbers. If you get together, there is a risk that someone will arrive with the virus to your gathering. There is a risk they will spread it. Then there is a risk that someone will get seriously ill.  Exactly how to combine these varies with your setting.",
+            "uid": "AAKryEqK1"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "The US currently reports an average of 30 cases per 100,000 people per day. If we assume 7 days of infectiousness and a detection rate of 50%, this means the randomly chosen person has a viral risk of 0.42%.",
+                "uid": "vDUJ6uGI2"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Chance of transmission.  Household transmission risk from an infected person is 10 to 15%, let\u2019s average to 12%.",
+                "uid": "87KcytEoZ"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Now let\u2019s assume a 90% reduction in risk of transmission from an infected person, combining the lower infection rate and the lower transmission rate.",
+                "uid": "YjU5VOsQ6"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Risk of transmission from grandparent to someone else is now 0.42% X 12% X 10% = 0.0050% (about 1 in 20,000).",
+                "uid": "n_fJlpkIu"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Risk of serious illness for healthy adults & child are very, very small (especially for children). If this was 1%, that would put the risk of hospitalization from this activity at 1 in 2,000,000.",
+                "uid": "25poCwJX1"
+              }
+            ],
+            "edit-time": 1613677364833,
+            "string": "__Example: vaccinated grandparents, parents unvaccinated but very, very isolated with 8 month old baby.  The concern is grandparents bring disease on their visit. __",
+            "uid": "WtbTuMatX"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "This is a quite low risk situation.",
+            "uid": "BJ8nkW1jF"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Same prevalence estimates as above. Let\u2019s assume independence, so between two parents and two kids there is about a 2% chance someone has COVID.  (Note that these risks will increase if your area is still higher prevalence).",
+                "uid": "QNoMnCE5N"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Risk of transmission in the household estimated at 12%, but let\u2019s say if grandparents are vaccinated their risk of any infection is lower by 50%.  So the risk of transmitting virus to grandparents is 2% X 12% X 50% = 0.12% (about 1.2 in 1000).",
+                "uid": "QGmdG_yvU"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Risk of any symptomatic illness given vaccination efficacy is 5%; risk of serious illness is effectively 0%.",
+                "uid": "qnkw9maWV"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "Overall risk of symptomatic illness is 0.12% x 5% = 0.006% or about 1 in 16,000.",
+                "uid": "ayiUQN2tr"
+              }
+            ],
+            "edit-time": 1613677364833,
+            "string": "__Example: Vaccinated grandparents, parents unvaccinated and work outside the home. Kids go to in-person school.  Concern: grandparents might still get sick.__",
+            "uid": "B5-g92OC1"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "I realize there\u2019s a lot here, but I would encourage you to think about these numbers as you contemplate this. You can look at COVID levels in your own area to think about the risk of bringing the virus in, and use your own sense of the reductions in risk. You may decide a 1 in 20,000 risk of transmission to a child is too high, but I think a reasonable person might also think this is acceptable, especially given the low risk of serious illness for most kids and healthy adults.",
+            "uid": "HX8Jm1P_t"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "What you shouldn\u2019t do \u2014 and I think this is really the key to the continued caution in messaging \u2014 is get together with all your vaccinated friends in a damp, hot basement and have a singing party.  If you have close contact with 1000 people __even if they are all vaccinated__ there is a reasonable chance someone\u2019s carrying some virus around, and they could then carry it out to the rest of us who are waiting on vaccines. In another few months, when cases are lower, this will not be true anymore and we\u2019ll be able to do our hot basement singing.",
+            "uid": "NZpb_tlJr"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "edit-time": 1613677364833,
+            "string": "Part of learning to live with COVID-19 in the long hall is going to be making these kind of nuanced choices, and thinking through the numbers.  Now may be the time to start.",
+            "uid": "6wpjnX-BR"
+          },
+          {
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "The data is increasingly encouraging on efficacy of vaccines and on their role in reducing viral spread.",
+                "uid": "JMFfk88Qd"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "We are not going to get to zero COVID any time soon, and we are going to need to learn to adapt to that while eventually taking steps to normalcy",
+                "uid": "-yxh5Ii96"
+              },
+              {
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "edit-time": 1613677364833,
+                "string": "It might be safe to see grandparents if they are vaccinated, so do some multiplication.",
+                "uid": "8Ac6LOdTb"
+              }
+            ],
+            "edit-time": 1613677364833,
+            "string": "Today\u2019s bottom line:",
+            "uid": "bWV9DstRI"
+          }
+        ],
+        "edit-time": 1613677364833,
+        "heading": 1,
+        "string": "[Vaccines & Transmission Redux Redux](https://email.mg2.substack.com/c/eJxVktuO2jAQhp-G3CXyIceLXKAttNBNEFu6wFXkw8A6BydKnM2Gp6-BSlUleyzP_OOx5hvBDFzbfk67djDO3RRm7iDVMA01GAO9Mw7QF0qmOIn9AFNHpr7EcRA7aiguPUDDVJ2afgSnG3mtBDOq1fcEkkQRcj5ShHkU04iJMBAiDBMJzA-RuBDuA-XUf5Zlo1SgBaTwCf3canDq9MOYbljQ5YKs7YJG1bOVQu8NIx8ME5Un2sZGOrs_mRBKw-AyLV3TMz00ahjsV9we5Pj1tAu6Nm0FekG_wbzFgrzPJ1JXm7L92h2uKD-sbq8v24nTHP3137LyjHeH31_Zy6TYcY3u2rxc3fJyP2flZrL6TtBM7dR2kseNycqK5relsv6bvT_89_deT9v6fMwROybjRiPv_Iud1tWhdc9VsS-S_c85wmp8674nP-LQddXmjbvt8t3PVq2jUoIItitGSRD6kYc9EXBJLhhJyiPEJQQx9TkNgPsS2a7ihY-aK_mvUU6ftqOZlPE62ygruN7RPSKWXGHPZtTKzAVoxmuQT6jmORoPzMUVNPR2ZGTBTIpDTEOfEIJJSJ8QLXVKwiAJMHJsadnaLJ3-A_cHIZDTFA)",
+        "uid": "d7HSp8DYy"
+      }
+    ],
+    "create-time": 1613671235132,
+    "edit-time": 1613671235132,
+    "title": "February 18th, 2021",
+    "uid": "02-18-2021"
   }
 ]

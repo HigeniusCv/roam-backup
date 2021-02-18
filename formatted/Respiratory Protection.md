@@ -1,8 +1,177 @@
+- https://www.xprize.org/prizes/nextgenmask/articles/million-dollar-mask
+    - https://www.xprize.org/challenge/nextgenmask/articles/top-5-finalists-annoucement
+- TEAM ID - adhesive that peals off easily 
+    - Started with paper to find shapes - silicon bras 
+    - Kimberly Prather UCSD testing - 
+        - Team used Breath test, especially in cold
+        - Recommend to test speaking
+    - Heather Hughes - Walgreens - Facial hair
+- Team POLAIR - Johns Hopkins + 
+    - 
+- Prototyping Workshop for 2/23
+    - https://uxdesign.cc/how-to-run-an-energizing-inspiring-design-thinking-workshop-remotely-48f5513c124f
+        - Big bold challenge statement: Develop respiratory protection as comfortable, sociable, and safe with the same power as your phone
+        - Develop empathy map of mask-users
+        - Find HMW questions via wild analogies
+        - Get some vitamin D - or at least movement
+        - DJ the brainstorming session: https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74
+        - Virtual sticky notes - Use their sticky notes feature
+            - https://jamboard.google.com/u/0/ 
+        - Sketch on paper, share on slack
+    - Logistics of communication and agenda setting https://careerfoundry.com/en/blog/ux-design/how-to-run-a-remote-design-thinking-workshop/[2-how-to-run-a-remote-design-thinking-workshop-a-step-by-step-guide](<2-how-to-run-a-remote-design-thinking-workshop-a-step-by-step-guide.md>). 
+    - 20 tools for online https://www.sessionlab.com/blog/design-thinking-online-tools/ Different stages  Empathy; Define ; Ideate; Prototype ; Test
+        - SessionLab. https://app.sessionlab.com/sessions/rbnozo?tab=info
+        - [Empathize]: Zoom,  [Miro](https://miro.com/), [Mural](https://mural.co/), [Stormboard](https://stormboard.com/) and [Conceptboard](https://conceptboard.com/).
+        - [Define]: journey mapping by Smaply, Userforge creates personas
+        - [Ideate]: SessionLab, Stormboard postits, IdeaFlip online stickies
+        - [Prototype]: story-boarding Boords, wireframing Mockingbird, POP prototyping on paper into an app
+        - [Test]: UserTesting, HotJar, PingPong
+        - [For the complete process](https://www.sessionlab.com/blog/design-thinking-online-tools/[design-thinking-tools-for-the-complete-process](<design-thinking-tools-for-the-complete-process.md>)): Sprintbase, InVision, Mural, Miro
+    - Zoom whiteboard
+    - https://iversity.org/en/courses/prototyping-interaction   Levels of prototyping
+        - Define challenge: Make your challenge statement big and bold.
+        - sketch it for paper prototyping
+        - digitally faking it
+        - Testing prototypes
+        - Make it: Physical object
+        - Activate it: making it interactive
+    - Design considerations: Email last deck to sign ups
+        - Email all past workshoppers with info
+    - Prototyping over Zoom -
+        - Poll: What areas do people feel need most to be improved?
+        - What tools do they feel comfortable using 
+    - Pursue interview Richard Amster
+    - 
+    - Publicize Design Contest within your world(s)?
+        - Sara Dean with CCA
+        - IIT Chicago (Jamie Jansson)
+        - MIT Media Lab (David Rose)
+        - Leslie Witt
+        - RISD (Matthew Yapchaian)[yapchaian@gmail.com](mailto:yapchaian@gmail.com)
+        - Jared Spool centre center
+        - Jeanette Mellinger [jmellinger@gmail.com](mailto:jmellinger@gmail.com)
+        - [hello@vivienpark.com](mailto:hello@vivienpark.com)
+        - [harrykim0119@gmail.com](mailto:harrykim0119@gmail.com)
+        - [becky.buck@gmail.com](mailto:becky.buck@gmail.com)
+        - [don@jnd.org](mailto:don@jnd.org)
+        - [bjfogg@gmail.com](mailto:bjfogg@gmail.com)
+        - dan@danariely.com
+        - tap & niti parikh
+        - BATCH BELOW 2:10 - 16;15
+        - [chetwajda@gmail.com](mailto:chetwajda@gmail.com)
+        - [dadamgrant@gmail.com](mailto:dadamgrant@gmail.com)
+        - [shoeblade@gmail.com](mailto:shoeblade@gmail.com) ALEX REBEN
+        - [abbegaildon@gmail.com](mailto:abbegaildon@gmail.com)
+        - [cliffkuang@gmail.com](mailto:cliffkuang@gmail.com)
+        - [tobiastoft@gmail.com](mailto:tobiastoft@gmail.com) Copenhagen?
+        - [neemamoraveji@gmail.com](mailto:neemamoraveji@gmail.com)
+        - [shoshana.berger@gmail.com](mailto:shoshana.berger@gmail.com)
+        - [wendyju@gmail.com](mailto:wendyju@gmail.com) cornell tech
+        - [steve@portigal.com](mailto:steve@portigal.com)
+        - [robfab@gmail.com](mailto:robfab@gmail.com)
+        - [benrubin@earstudio.com](mailto:benrubin@earstudio.com)
+        - [marcdavis@alum.mit.edu](mailto:marcdavis@alum.mit.edu)
+        - [nicholas.andre.sung@gmail.com](mailto:nicholas.andre.sung@gmail.com)
+        - [mpearson76@gmail.com](mailto:mpearson76@gmail.com)
+        - [boris.fedorov@gmail.com](mailto:boris.fedorov@gmail.com)
+        - [michael@naimark.net](mailto:michael@naimark.net) NYU Shanghai
+        - [david.c.janssens@gmail.com](mailto:david.c.janssens@gmail.com) Detroit/Ann Arbor
+        - [sap.ved.eri@gmail.com](mailto:sap.ved.eri@gmail.com) carbon capture
+        - [beck@becktench.com](mailto:beck@becktench.com) UW grad stud to facilitate contemplative practice
+        - [juliemelton@gmail.com](mailto:juliemelton@gmail.com) NYT cooking UX
+        - [gwustrack@gmail.com](mailto:gwustrack@gmail.com) Ytube & Museum of Craft & Design
+        - [aaron.marcus@bamanda.com](mailto:aaron.marcus@bamanda.com) on Euclid
+        - [cdjsato@gmail.com](mailto:cdjsato@gmail.com) Olin + Health at Twitter
+        - [irene.au@gmail.com](mailto:irene.au@gmail.com) Khosla
+        - [linkedin@jofish.com](mailto:linkedin@jofish.com) post-Mozilla
+        - [egoodman@confectious.net](mailto:egoodman@confectious.net) Govt service UX
+        - [maiorana.tom@gmail.com](mailto:maiorana.tom@gmail.com) UCD / dschool
+        - [erika@muledesign.com](mailto:erika@muledesign.com)
+        - [xian@pobox.com](mailto:xian@pobox.com) California Office of Digital Innov
+        - [bradlau@hey.com](mailto:bradlau@hey.com) forme posture gear
+        - [metacool@gmail.com](mailto:metacool@gmail.com) Diego r (left Intuit in Jan 21)
+        - [justin@unit3a.nu](mailto:justin@unit3a.nu) Now Uber since 7/20
+        - [lionel.mohri@gmail.com](mailto:lionel.mohri@gmail.com)
+        - [trish_powell@msn.com](mailto:trish_powell@msn.com)
+        - [beverlytfreeman@gmail.com](mailto:beverlytfreeman@gmail.com) google health
+        - [bennett_blank@intuit.com](mailto:bennett_blank@intuit.com)
+        - [pkh@pkhalvorsen.com](mailto:pkh@pkhalvorsen.com)
+        - [linkedin@hughie.com](mailto:linkedin@hughie.com) molotsi
+        - [emfagan2020@gmail.com](mailto:emfagan2020@gmail.com) Blue Shield
+        - [stephenrgay@gmail.com](mailto:stephenrgay@gmail.com)
+        - [susie@dschool.stanford.edu](mailto:susie@dschool.stanford.edu)
+        - [aaroneden77@gmail.com](mailto:aaroneden77@gmail.com)
+        - [thisislarrycheng@gmail.com](mailto:thisislarrycheng@gmail.com) back at Intuit
+        - [ellen@siliconvalleyconnect.com](mailto:ellen@siliconvalleyconnect.com) esp Arizona State 
+        - [hetalsoni@gmail.com](mailto:hetalsoni@gmail.com) & [dolly.parikh@gmail.com](mailto:dolly.parikh@gmail.com) maybe your twins?
+        - [klh.holloway@gmail.com](mailto:klh.holloway@gmail.com) VMware
+        - [lkates@linkedin.com](mailto:lkates@linkedin.com) linked in - Georgia Tech (intern Uber)
+        - [ed.h.chi@gmail.com](mailto:ed.h.chi@gmail.com)
+        - [scott@snibbe.com](mailto:scott@snibbe.com) & ahna
+        - [ellen@izix.com](mailto:ellen@izix.com)
+        - [ppirolli@ihmc.us](mailto:ppirolli@ihmc.us)
+        - [ramana@alum.mit.edu](mailto:ramana@alum.mit.edu)
+        - [marni.gasn@gmail.com](mailto:marni.gasn@gmail.com) taking a break
+        - [adriennestaubin@gmail.com](mailto:adriennestaubin@gmail.com)
+        - [melodytiangu@gmail.com](mailto:melodytiangu@gmail.com)
+        - [manas.mittal@gmail.com](mailto:manas.mittal@gmail.com) now Uber Eats
+        - [yarivr@yahoo.com](mailto:yarivr@yahoo.com)
+        - [whoisylvia@aol.com](mailto:whoisylvia@aol.com)
+        - https://www.linkedin.com/in/cravitz/
+        - [kfarnady@gmail.com](mailto:kfarnady@gmail.com)
+        - [kelly@gotoresearch.com](mailto:kelly@gotoresearch.com)
+        - [matt@morelab.com](mailto:matt@morelab.com)
+        - [david@sifry.com](mailto:david@sifry.com) ADL
+        - 
+        - [joy@joymountford.com](mailto:joy@joymountford.com)
+        - [lena.belkor@gmail.com](mailto:lena.belkor@gmail.com)
+        - [marccanter@gmail.com](mailto:marccanter@gmail.com)
+        - [mark@goodexperience.com](mailto:mark@goodexperience.com)
+        - [benwidlus@gmail.com](mailto:benwidlus@gmail.com)
+        - [john@magnatune.com](mailto:john@magnatune.com)
+        - [david@postobject.com](mailto:david@postobject.com) CH
+        - [landay@gmail.com](mailto:landay@gmail.com)
+        - [blaurel@tauzero.com](mailto:blaurel@tauzero.com)
+        - [drandydong@gmail.com](mailto:drandydong@gmail.com)
+        - judy kim https://www.linkedin.com/in/multihyphenate/
+        - jeff ubois
+        - 
+        - 
+        - Dental Schools (David Yue)
+        - [richard.amster@gmail.com](mailto:richard.amster@gmail.com)
+        - 
+        - Other design schools: https://topuxschool.com/program/us
+        - San Jose ; 
+        - CMU ; 
+        - UC Berkeley - I School ; 
+        - School of Visual Arts 
+        - Indiana HCI
+        - Ball State
+        - Purdue
+        - Madison (Scott Cook)
+        - San Jose (HFE)
+        - NU (EDI) - Allan Collins
+        - UCLA (Luca, Tanya)
+        - Northeastern
+        - Michigan ()
+        - Rensselaer (Nick Cassimatis)
+        - Art Center (pasadena)
+- 
 - https://www.theatlantic.com/health/archive/2021/01/why-arent-we-wearing-better-masks/617656/
     - Strange equivalency of cloth or N95
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FHiGenius%2FWA6r-a9WOy.jpg?alt=media&token=af65b6b9-cc20-4511-a86f-2fdb35f4a5cb)
+- There's __still __an unmet need for better respiratory protection. IndieGoGo lists several bubble-heads that've raised hundreds of thousands, and they're nowhere near perfect.
+- [The 2021 Alycia Buckman Competition in Textile Technology](https://higenius.org/abc2021/) calling for submissions for Designs of Respiratory Protection for Your Generation
+- Participations solicited via online Design Workshops
+- Contest Submissions –––– deadline April 3, 2021
+- Eligible Designs for Smart Materials cover any of the following:
+- 1- Functional prototype for N95-level respiratory protection, &/or
+- 2- Methodology for assessing mask efficacy in the home, &/or
+- 3- Revised CARES protocol: Comfort, Audibility, Risk-reduction, Ease, Sociability
+- Semi-finalists (selected 4/3/21) receive funding & advisory board assistance for materials to 3D print or textile craft prototypes; payment to research participants for testing; business planning for video and content strategy for online funding campaign; supply chain consultation; open source licensing with protection of intellectual property
+- Details https://higenius.org/abc2021/  or via text 510-972-8522
 - [Design Contest for Respiratory Protection](<Design Contest for Respiratory Protection.md>) Textile Technology Prize, in memory of Alycia Buckman
-    - Semi Finalists selected by March 15
+    - Semi Finalists selected by 4/3/21
     - Submission requires a prototype and at least 1 data point collecting of  CARES mask protocol
     - OR, revision to CARES protocol 1.0, with at least 15 data points
     - OR, submission of Beta method for Filtration efficacy
@@ -255,3 +424,13 @@ to STP-0059. The values reported are only to provide an indication of filter eff
 that the product conforms with the requirements of the certification mark. This assessment provides useful
 information about the filter efficiency of respirators that may be used by healthcare workers in national
 emergency situations.
+
+# Backlinks
+## [January 12th, 2021](<January 12th, 2021.md>)
+- I'm leading a "Human Centered Design Workshop for #[Respiratory Protection](<Respiratory Protection.md>)"
+
+## [January 17th, 2021](<January 17th, 2021.md>)
+- SF Chronicle ridicules my space helmet #[Respiratory Protection](<Respiratory Protection.md>)
+
+- "Dumbest" to me is #[Respiratory Protection](<Respiratory Protection.md>)
+

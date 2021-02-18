@@ -1,5 +1,5 @@
-- SF Chronicle ridicules my space helmet [PPE](<PPE.md>) [https://www.sfgate.com/.../drew-magary-coronavirus-helmet...](https://www.sfgate.com/culture/editorspicks/article/drew-magary-coronavirus-helmet-microclimate-air-15867960.php?IPID=SFGate-HP-CP-Spotlight&fbclid=IwAR0C4g0V-gH6uVti2-1XVFTA0NM604WYyNxQCBdt2TqzCWQJ1ZHbOM0WG2I)
-    - "Dumbest" to me is [PPE](<PPE.md>) with nose exposed, or faceshield-only with complete wraparound air flow
+- SF Chronicle ridicules my space helmet #[Respiratory Protection](<Respiratory Protection.md>) [https://www.sfgate.com/.../drew-magary-coronavirus-helmet...](https://www.sfgate.com/culture/editorspicks/article/drew-magary-coronavirus-helmet-microclimate-air-15867960.php?IPID=SFGate-HP-CP-Spotlight&fbclid=IwAR0C4g0V-gH6uVti2-1XVFTA0NM604WYyNxQCBdt2TqzCWQJ1ZHbOM0WG2I)
+    - "Dumbest" to me is #[Respiratory Protection](<Respiratory Protection.md>) with nose exposed, or faceshield-only with complete wraparound air flow
     - So, snarky SF reporters view my helmet as douche-man entitlement.
     - Yes and there's serious problems with the $300 price
     - Yet we could buy every teacher + healthworker in US one for less than $1B, and schools could re-open asap.

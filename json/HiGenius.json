@@ -52700,6 +52700,18 @@
             "edit-time": 1613677977128,
             "string": "https://www.xprize.org/challenge/nextgenmask/articles/top-5-finalists-annoucement",
             "uid": "4y0-diOdi"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614129823875,
+            "edit-time": 1614129836224,
+            "string": "Survey of Pain Points https://www.youtube.com/watch?v=rT0WhtSdD8I&feature=emb_logo",
+            "uid": "zYJaN4hmw"
           }
         ],
         "create-time": 1613677931372,
@@ -52742,6 +52754,32 @@
                 ":edit/user": {
                   ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
                 },
+                "create-time": 1614016482262,
+                "edit-time": 1614016485513,
+                "string": "Leak tight",
+                "uid": "GrawZykM6"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "children": [
+                  {
+                    ":create/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                    },
+                    "create-time": 1614016496520,
+                    "edit-time": 1614016510981,
+                    "string": "air doesn't go around, upward",
+                    "uid": "eCex31qyF"
+                  }
+                ],
                 "create-time": 1613678137683,
                 "edit-time": 1613678441951,
                 "string": "Team used Breath test, especially in cold",
@@ -52758,6 +52796,42 @@
                 "edit-time": 1613678454309,
                 "string": "Recommend to test speaking",
                 "uid": "aTsdZNylW"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614016534481,
+                "edit-time": 1614016545991,
+                "string": "n80 consumer, n95 medical - Talking",
+                "uid": "GtLiHHb1X"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614016546416,
+                "edit-time": 1614016573429,
+                "string": "Adjust to make it sticky over multiple removes",
+                "uid": "RY5Dd5lVi"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614016640268,
+                "edit-time": 1614016659419,
+                "string": "Thicken liners around edges",
+                "uid": "QpqvJ8JdK"
               }
             ],
             "create-time": 1613678441940,
@@ -52798,16 +52872,226 @@
             ":edit/user": {
               ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
             },
+            "create-time": 1614016752797,
+            "edit-time": 1614016753339,
+            "string": "Flared, with magnets to hold snap out",
+            "uid": "I6eqcl7zv"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
             "create-time": 1613678528678,
-            "edit-time": 1613678528678,
-            "string": "",
+            "edit-time": 1614016885035,
+            "string": "Publicly available data on 2000 facial sizes https://www.face-rec.org/databases/",
             "uid": "LH0LpMzkb"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614016980476,
+            "edit-time": 1614016986677,
+            "string": "Size of filter choice? ",
+            "uid": "TWpf8kDas"
           }
         ],
         "create-time": 1613678516061,
-        "edit-time": 1613678540493,
-        "string": "Team POLAIR - Johns Hopkins + ",
+        "edit-time": 1614016686807,
+        "string": "Team POLAIR - 25 Johns Hopkins  - Changeable parts",
         "uid": "smYnv6mkc"
+      },
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614017345850,
+            "edit-time": 1614017414344,
+            "string": "Inspired by the nose",
+            "uid": "3x56mAJ_q"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614017489427,
+            "edit-time": 1614017515525,
+            "string": "Distance from lips - voice plosive and sibilants",
+            "uid": "9L2awzFCU"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017534167,
+                "edit-time": 1614017538638,
+                "string": "Feeling cold",
+                "uid": "PV2oumHRu"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017539441,
+                "edit-time": 1614017549569,
+                "string": "Expense of testing hood ",
+                "uid": "yCRy7KHDv"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017551740,
+                "edit-time": 1614017563967,
+                "string": "Robust seal doesn't fog glasses",
+                "uid": "D2Vi1FbHg"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017573501,
+                "edit-time": 1614017584515,
+                "string": "Corrugations concentrate down and low",
+                "uid": "x603Cp0zN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017631191,
+                "edit-time": 1614017640875,
+                "string": "Human factors to test acceptance ",
+                "uid": "YInfSei1o"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017663419,
+                "edit-time": 1614017669204,
+                "string": "Train user to refold",
+                "uid": "RwRpqJEKx"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017669193,
+                "edit-time": 1614017680084,
+                "string": "Cleaning and persistence",
+                "uid": "-VGBCALzU"
+              }
+            ],
+            "create-time": 1614017520650,
+            "edit-time": 1614017529937,
+            "string": "Leak test - Match or candle",
+            "uid": "CR7scd6gH"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614017414337,
+            "edit-time": 1614017426383,
+            "string": "Sustainability - lower waste",
+            "uid": "Vv1i5fytf"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614017707512,
+                "edit-time": 1614028121133,
+                "string": "Wasn't aware of political instability there, but it's inspiring that they got to this stage",
+                "uid": "rqRwJJPAT"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614028121121,
+                "edit-time": 1614028135802,
+                "string": "Barriers to materials have slowed their ability to test ideas",
+                "uid": "93gde-Ay4"
+              }
+            ],
+            "create-time": 1614017698922,
+            "edit-time": 1614017707184,
+            "string": "Naija Force from Nigeria",
+            "uid": "9SKoHNBRF"
+          }
+        ],
+        "create-time": 1614017331361,
+        "edit-time": 1614017441617,
+        "string": "Merlin in HI - breathability via origamic cone - sinusoidal cut corrugation",
+        "uid": "ZvRBnPFXZ"
       },
       {
         ":create/user": {
@@ -59967,5 +60251,645 @@
     "edit-time": 1613802142627,
     "title": "February 20th, 2021",
     "uid": "02-20-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1613877672132,
+    "edit-time": 1613877672132,
+    "title": "February 21st, 2021",
+    "uid": "02-21-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1614015799280,
+    "edit-time": 1614015799280,
+    "title": "February 22nd, 2021",
+    "uid": "02-22-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614099546786,
+            "edit-time": 1614099546786,
+            "string": "Challenge: 5 distinct BUs faced existential threat to payments income stream. Billions in opportunity. ",
+            "uid": "JYMaTnWiv"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614099493569,
+            "edit-time": 1614099595437,
+            "string": "Problem in part traced to legacy 1st-to-market (akin to the Blackberry), which was losing market share to Square's iPhone revolution.",
+            "uid": "P19tiEKfi"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614099596896,
+            "edit-time": 1614099639977,
+            "string": "Opportunity: Bring comprehensive, design-centered strategic vision. ",
+            "uid": "9sRABhmnK"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614099649457,
+            "edit-time": 1614099676250,
+            "string": "Obstacles: Each of the 5 BUs wanted 1/3 of the potential upside",
+            "uid": "fLm4hf1y7"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614099676236,
+            "edit-time": 1614099804075,
+            "string": "Early on, discovered duplicative BCG-style strategy team was independently developing a payments strategy",
+            "uid": "YLkoCuiD2"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614099804063,
+            "edit-time": 1614099974097,
+            "string": "Key GM (for Quickbooks) was a Cheshire cat, always unavailable to even the other C-level executive meetings",
+            "uid": "LkQlPOKoU"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614099974086,
+            "edit-time": 1614100057315,
+            "string": "My role: Sole UXR, on a team with one other Design Strategist and added liaison to strategy group, plus 3 IDEO designers",
+            "uid": "bvg12qIEm"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614100046843,
+            "edit-time": 1614102320836,
+            "string": "Business question: How can a diverse set of BUs align on to a synergistic vision",
+            "uid": "cliTzhsj5"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614100123824,
+            "edit-time": 1614100351937,
+            "string": "Research design: Bring methodological rigor over 3 months of exploration. First 2-3 weeks were DEO-inspired probes with extreme edge cases, sampling an opportunistic network of niche hipsters. ",
+            "uid": "KXYtlsbKs"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614100231771,
+            "edit-time": 1614100382186,
+            "string": "First contribution: In 3rd week, scheduled & ran Paper prototype interactions in Sacramento Central Valley with 10 (small businesses)",
+            "uid": "caOue5TG9"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614102331799,
+            "edit-time": 1614102379093,
+            "string": "Enrolled in 3 day payments bootcamp to deepen domain expertise, shared out with full team.",
+            "uid": "4zN6nSuOG"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614100395708,
+            "edit-time": 1614101229520,
+            "string": "2d month: Designed script and scheduled interviews in the heartland. Difficult conversation took field trip in St Louis, requiring IDEO cancel dream of Aspen trip to embed in a designer's family bike shop. Set up 2-3 hour observational field interviews with 8 SMBs (range of service-oriented, inventory intensive, professional health practice, construction, small factory)",
+            "uid": "ExYcYOqDn"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614101255596,
+            "edit-time": 1614102540829,
+            "string": "Led synthesis workshops with full team to extract key insights in preparation for mid-project share out. Collaborated with IDEO designers to craft gallery of 8 foot foam core boards. ",
+            "uid": "p76-ZaPKO"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614100686889,
+            "edit-time": 1614102763155,
+            "string": "Quant Experiment: Host online prototypes. Heatmaps tracked interaction understandability. MaxDiff assessed least and most important functionality. Factor analysis of preferences shaped personas. Relative appeal of different variants narrowed consideration set. ",
+            "uid": "jkQJgBm0P"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614101099669,
+            "edit-time": 1614102607953,
+            "string": "3rd Month: Deck with quotes, brief video clips and presentation of insights shared within Design Innovation Group and key stakeholders. ",
+            "uid": "Ijm1LR1-O"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1614102724367,
+            "edit-time": 1614102724367,
+            "string": "Final shareout: IDEO delivered gorgeous presentation - foam core boards, tiny movies, lusciously expensive book of recipes.",
+            "uid": "CZMawRgWz"
+          },
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614102483690,
+                "edit-time": 1614102891317,
+                "string": "Transformed executive POV on payments' power as an attractive, non-transactional personalized expression of relationships",
+                "uid": "QRAyNBLfN"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614102869596,
+                "edit-time": 1614103059894,
+                "string": "Invoice tools directly incorporated in cloud migration of accounting, contributing to $62MM revenue lift, winning over absent GM by alliances with PM team",
+                "uid": "E5WicaaZg"
+              },
+              {
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614102961958,
+                "edit-time": 1614103082910,
+                "string": "Payments streamlined sign up with smart defaults that generated $2MM",
+                "uid": "F-SZcvtlN"
+              }
+            ],
+            "create-time": 1614102781011,
+            "edit-time": 1614102781011,
+            "string": "Impacts: ",
+            "uid": "gdG7U9WbP"
+          }
+        ],
+        "create-time": 1614099480650,
+        "edit-time": 1614099492197,
+        "string": "AMZN Writing Task (Max 2 hours)",
+        "uid": "5YNC0Cj7b"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "**Paul Sas, Research Project Description for Amazon 02/23/2021**",
+        "uid": "fNdX2xJfL"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "**__\u00a0\u00a0__**I\u2019d like to describe one project where I learned a lot about setting strategy through research. My objective was to\u00a0**map the payments landscape for 5 distinct business units**. The company faced an existential threat. Their product had been first-to-market with a Mobile point of sale device. By analogy, they looked like Blackberry, when Square had just revolutionized retail payments with an iPhone-level solution.",
+        "uid": "YmyuoFHe8"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "**\u00a0\u00a0The opportunity**\u00a0offered a huge upside\u00a0__if__\u00a0__we built a coherent, design-centered strategy.__\u00a0Small business banking, accounting, payroll, and taxes used separate payment channels. Five BUs each wanted ~1/3 of potential profits, undermining any coherent plan. In my second week as the company\u2019s Behavioral Economist, our CEO summoned all his General Managers. Design had been explicitly invited to the board room table. Our task was to humanize the future of payments over the next 3 months.",
+        "uid": "j9oeBczqk"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "**\u00a0\u00a0My role on the team**: I was the __sole researcher__ alongside an internal Design Strategist plus 3 IDEO designers. We eventually connected with the internal strategy group, to form a core X-team of 5 + 1 liaison.\u00a0__My job was to bring methodological rigor__\u00a0to answer\u00a0**our business question**: How might key insights enable diverse business units to align on a shared payment strategy?",
+        "uid": "VjXCWmTWX"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "**\u00a0\u00a0My research design**: I\u2019d never collaborated before with such a storied design agency. For the first 2 weeks, I developed domain expertise while observing their method of searching out extreme users. Sampling draws on an opportunistic network of interesting niches.\u00a0__By the third week, I began more systematic explorations to complement their cool-hunting__. I scheduled & facilitated paper prototype sessions with 10 representative small business owners in the Central Valley. I also enrolled in a multi-day payments boot camp. This greatly deepened my knowledge base. I then shared the intricacies of payment pipes with our full team.",
+        "uid": "_HALsG30B"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "\u00a0As they prepped the gallery walk,__\u00a0I designed a quantitative survey/experiment in Qualtrics.__\u00a0A panel of 500 small business owners used online versions of prototypes, now in beta.\u00a0__Heatmaps__\u00a0revealed where people first clicked to perform tasks.\u00a0__Max diff questions__\u00a0assessed least and most important attributes.\u00a0__A principal component analysis__\u00a0identified key dimensions (e.g., marketing channels, repeat business, reputation).\u00a0__\u00a0I then used a factor analysis to pull out patterns for personas__. I presented results in a deck, first to the Design Group, and then to key stakeholders. For our final deliverables, the agency grew the team temporarily to 10 designers. Life-size foam core boards conveyed qualitative & quantitative insights. Tiny movies showed our personas using the tools. The pi\u00e8ce de r\u00e9sistance was a takeaway cookbook. Functioning as a souvenir, this ensured that our ideas persisted long after the meeting.",
+        "uid": "fS7U5K3as"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "**\u00a0\u00a0Business Impacts**: Most immediately, this__ successfully transformed executives' world view__. The Chief Product Officer said, \u201cI\u2019d never seen before that prosaic transactions could be beautiful.\u201d Every product team adopted our approach. Formerly transactional payments were now seen as personalized expressions of relationships.",
+        "uid": "GRM3Bs1Jx"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "\u00a0When accounting prepared to migrate to the cloud, their product adopted several invoice features. Launched the next year, this __helped lift revenues by $62MM__. Later, our partnership streamlined payment sign-up. Smart behavioral defaults resulted in an __incremental $2MM/year in premium enrollment,__ with no impact on drop-offs.",
+        "uid": "-mC7GxXa5"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614119839172,
+        "string": "__\u00a0The design research methodologies explored here have informed all of my subsequent research projects.__",
+        "uid": "WSwEClKl-"
+      }
+    ],
+    "create-time": 1614099240664,
+    "edit-time": 1614099240664,
+    "title": "February 23rd, 2021",
+    "uid": "02-23-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "children": [
+      {
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1614378831175,
+        "edit-time": 1614378836206,
+        "string": "https://groups.google.com/g/design-user-research/c/Ujp8MQp_lAo/m/FKE9jz0MAgAJ my post",
+        "uid": "uPpxzBBlL"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Inspired by Nhi's\u00a0[Frequently asked questions about quantitative user research](https://groups.google.com/g/design-user-research/c/3so4MeclWK0/m/Nf49w2pGAwAJ)",
+        "uid": "R3vgEUsfo"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "This nudged me to host a zoom call\u00a0Monday Mar 1 - 10amPT",
+        "uid": "1IlT6MJpo"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "https://us02web.zoom.us/j/2020201511",
+        "uid": "92-j3ZtxB"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "I looked over this list, and this topic comes up multiple times every year, penultimately\u00a0[Michele Ronsen put together a list of 13 resources last Nov](https://groups.google.com/g/design-user-research/c/5zb1oYHvvD0/m/QvQ-sidTAwAJ)",
+        "uid": "nH65mid7S"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Here's a preview of what to consider discussing this Monday",
+        "uid": "5HTvo8TWm"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**Answers to a lot of recurrent questions (w links to posts from here)**",
+        "uid": "vRrmufHfR"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "****",
+        "uid": "JZpZwoSJ2"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**What survey skills should I definitely possess?**",
+        "uid": "NzFbzH1Ux"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Master everything Annie Steele outlines in \u201c[Principles of Effective Survey Design](https://stripe.com/atlas/guides/survey-design-principles)\u201d",
+        "uid": "xl7TZoees"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Note: Well-designed surveys give insight even with basic bar charts and cross-tabs (ie, the comparisons that come from contrasting say iOS v Android users)",
+        "uid": "8aIigaAKd"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**What's the way UXRs with qualitative expertise collaborate withQuant Research?**",
+        "uid": "MZrlQpjRo"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Who and why are people do things gets greatly\u00a0enriched by thick contextual understanding. Data science shows\u00a0__activities__, but can't single handedly flesh out user\u00a0assumptions, backgrounds, motivations, emotions, etc",
+        "uid": "RCLFL771E"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Surveys and experiments then leverage these insights. Even thick ethnographic details (assumptions, backgrounds, motivations, emotions) can eventually be quantified. Translating qualitative insights into structured questions can reveal the proportion of customers who think or feel X, relative weighting of differences. By online experiments, you can even learn whether interface A vs B has greater impact on shifting attitudes/preferences.",
+        "uid": "3IYh_S7Uy"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**How much should UXRs who are trained in qualitative learn about Quant Research?**",
+        "uid": "Xc-uV10T2"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**Basic questions with cheat sheet answers**",
+        "uid": "2cXBshuME"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**__Sample Size\u00a0__**\u00a0Magic number of responses?\u00a0[Qualtrics](https://www.qualtrics.com/experience-management/research/determine-sample-size/)\u00a0has a handy calculator, without needing to think in detail (about the standard deviation of the population) by 385 is a conservative 95% confidence level, Margin of error +/- 5%",
+        "uid": "DfWD1INfm"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**__Personas and Data__**",
+        "uid": "99OGeLG2v"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Segmentation versus personas\u00a0\u00a0Alan Cooper (inventor of the persona concept) on\u00a0[difference between personas & segmentation](https://groups.google.com/g/design-user-research/c/zMqkH1Vt-lA/m/AfRcqPSKBwAJ)",
+        "uid": "6KN-2oVEn"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**__Visualizing User Journeys__**__\u00a0f__rom big data-\u00a0Zachary Sam Zaiss.\u00a0[Using Data Science to Quantify User Journeys](https://slideslive.com/38906336/using-data-science-to-quantify-user-journeys?subdomain=false)",
+        "uid": "HRL6IeepS"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**__Statistical significance\u00a0__**- Most people who reference p-values mis-use them. (Sam Zaiss collects some\u00a0[Problems with P values\u00a0](https://www.slideshare.net/ZacharySamZaiss/uxpa-2016-mixed-methods-research-in-the-age-of-big-data/21?src=clipshare)) - Until you've been trained in all the way p-values are misused, don't use them.",
+        "uid": "z4mrGYP-y"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**__Outsourcing to a consulting firm__**\u00a0\u00a0[If you want to hire a consulting firm\u00a0](https://groups.google.com/g/design-user-research/c/oK8wOMrPBM0/m/pImUHShms8EJ)\u00a0Peerless Insights' Young Ko is praised",
+        "uid": "Rburtciv_"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "**__Hiring a quant researcher\u00a0__**Simply assess if they're good at helping you understand.",
+        "uid": "PTqgnNgce"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Good deas from Jan Dittrich\u00a0on\u00a0[Interviewing Quant Candidates](https://groups.google.com/g/design-user-research/c/m9wmXnNoaUA/m/egzQpmx4AgAJ)\u00a0:\u00a0How do they deal with tricky statistical/methodological questions such as, Explain what \"statistical significance\" means (most people get this wrong, maybe me, too. The answers are interesting)",
+        "uid": "QFQIi_kEA"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "If you've read all this in time, consider this UXR Conf talk at 3pm PT",
+        "uid": "f-PRhA4-I"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "[UX in a number-heavy world: Strategies for better quant-and-qual collaborations](https://uxrconference.com/talks/jenny-lo-will-monge/)",
+        "uid": "vx6dwFIAE"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Reach out directly to me if you've any ideas or questions",
+        "uid": "4O2mzLa77"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "Paul Sas\u00a0 ([ps...@baychi.org](https://groups.google.com/))",
+        "uid": "1gp_msJHH"
+      },
+      {
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "edit-time": 1614378690481,
+        "string": "https://www.motivationengineers.com/",
+        "uid": "xvMixcvJW"
+      }
+    ],
+    "create-time": 1614378687972,
+    "edit-time": 1614378687972,
+    "title": "February 26th, 2021",
+    "uid": "02-26-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1614587157607,
+    "edit-time": 1614587157607,
+    "title": "March 1st, 2021",
+    "uid": "03-01-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1614705685790,
+    "edit-time": 1614705685790,
+    "title": "March 2nd, 2021",
+    "uid": "03-02-2021"
   }
 ]

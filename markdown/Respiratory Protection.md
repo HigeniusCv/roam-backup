@@ -1,13 +1,36 @@
 - https://www.xprize.org/prizes/nextgenmask/articles/million-dollar-mask
     - https://www.xprize.org/challenge/nextgenmask/articles/top-5-finalists-annoucement
+    - Survey of Pain Points https://www.youtube.com/watch?v=rT0WhtSdD8I&feature=emb_logo
 - TEAM ID - adhesive that peals off easily 
     - Started with paper to find shapes - silicon bras 
     - Kimberly Prather UCSD testing - 
+        - Leak tight
         - Team used Breath test, especially in cold
+            - air doesn't go around, upward
         - Recommend to test speaking
+        - n80 consumer, n95 medical - Talking
+        - Adjust to make it sticky over multiple removes
+        - Thicken liners around edges
     - Heather Hughes - Walgreens - Facial hair
-- Team POLAIR - Johns Hopkins + 
-    - 
+- Team POLAIR - 25 Johns Hopkins  - Changeable parts
+    - Flared, with magnets to hold snap out
+    - Publicly available data on 2000 facial sizes https://www.face-rec.org/databases/
+    - Size of filter choice? 
+- Merlin in HI - breathability via origamic cone - sinusoidal cut corrugation
+    - Inspired by the nose
+    - Distance from lips - voice plosive and sibilants
+    - Leak test - Match or candle
+        - Feeling cold
+        - Expense of testing hood 
+        - Robust seal doesn't fog glasses
+        - Corrugations concentrate down and low
+        - Human factors to test acceptance 
+        - Train user to refold
+        - Cleaning and persistence
+    - Sustainability - lower waste
+    - Naija Force from Nigeria
+        - Wasn't aware of political instability there, but it's inspiring that they got to this stage
+        - Barriers to materials have slowed their ability to test ideas
 - Prototyping Workshop for 2/23
     - https://uxdesign.cc/how-to-run-an-energizing-inspiring-design-thinking-workshop-remotely-48f5513c124f
         - Big bold challenge statement: Develop respiratory protection as comfortable, sociable, and safe with the same power as your phone

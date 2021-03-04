@@ -1320,7 +1320,7 @@
       }
     ],
     "create-time": 1599118946293,
-    "edit-time": 1611833906058,
+    "edit-time": 1614778920482,
     "title": "Readwise",
     "uid": "tQiZw77L3"
   },
@@ -60900,8 +60900,191 @@
       ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
     },
     "create-time": 1614738649545,
-    "edit-time": 1614738649545,
+    "edit-time": 1614778920488,
     "title": "March 3rd, 2021",
     "uid": "03-03-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Lpy3dFmee"
+          },
+          {
+            ":block/uid": "cPK1TxJ1U"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1614778915805,
+        "edit-time": 1614778915816,
+        "refs": [
+          {
+            "uid": "Lpy3dFmee"
+          },
+          {
+            "uid": "cPK1TxJ1U"
+          }
+        ],
+        "string": "Author:: [[William O Selig PsyD MFA]]",
+        "uid": "DG7HLRyRk"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "HQqLUMN11"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1614778915806,
+        "edit-time": 1614778915816,
+        "refs": [
+          {
+            "uid": "HQqLUMN11"
+          }
+        ],
+        "string": "Full Title:: When Your Partner Has Bipolar Disorder",
+        "uid": "GcIgTz5JO"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "nQe5Mxw8Q"
+          },
+          {
+            ":block/uid": "cq2xjmun4"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "create-time": 1614778915807,
+        "edit-time": 1614778915816,
+        "refs": [
+          {
+            "uid": "nQe5Mxw8Q"
+          },
+          {
+            "uid": "cq2xjmun4"
+          }
+        ],
+        "string": "Category:: #books",
+        "uid": "z1_8duwZL"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tQiZw77L3"
+          },
+          {
+            ":block/uid": "03-03-2021"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1614778915808,
+                "edit-time": 1614778915816,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "cnfDB10Ng"
+              }
+            ],
+            "create-time": 1614778915808,
+            "edit-time": 1614778915816,
+            "string": "may have more of a lasting impact ([Location\u00a01631](https://readwise.io/to_kindle?action=open&asin=B08WRN8XZ6&location=1631))",
+            "uid": "7ir-Jl2s1"
+          }
+        ],
+        "create-time": 1614778915807,
+        "edit-time": 1614778915816,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "tQiZw77L3"
+          },
+          {
+            "uid": "03-03-2021"
+          }
+        ],
+        "string": "Highlights first synced by #Readwise [[March 3rd, 2021]]",
+        "uid": "ILcVwFNvO"
+      }
+    ],
+    "create-time": 1614778915811,
+    "edit-time": 1614778915855,
+    "title": "When Your Partner Has Bipolar Disorder (highlights)",
+    "uid": "EXuIP2YUC"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1614778915805,
+    "edit-time": 1614778915816,
+    "title": "William O Selig PsyD MFA",
+    "uid": "cPK1TxJ1U"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1614879096280,
+    "edit-time": 1614879096280,
+    "title": "March 4th, 2021",
+    "uid": "03-04-2021"
   }
 ]

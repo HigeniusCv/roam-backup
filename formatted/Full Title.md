@@ -468,6 +468,10 @@
 - **[Author](<Author.md>):** [Allan Collins](<Allan Collins.md>)
 - **[Full Title](<Full Title.md>):**
 
+## [When Your Partner Has Bipolar Disorder (highlights)](<When Your Partner Has Bipolar Disorder (highlights).md>)
+- **[Author](<Author.md>):** [William O Selig PsyD MFA](<William O Selig PsyD MFA.md>)
+- **[Full Title](<Full Title.md>):**
+
 ## [Where There Is No Doctor (highlights)](<Where There Is No Doctor (highlights).md>)
 - **[Author](<Author.md>):** [David Werner, Carol Thuman, Jane Maxwell](<David Werner, Carol Thuman, Jane Maxwell.md>)
 - **[Full Title](<Full Title.md>):**

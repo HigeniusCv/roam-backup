@@ -468,6 +468,10 @@
 - **[Full Title](<Full Title.md>):** What&[39](<39.md>);s Worth Teaching?
 - **[Category](<Category.md>):**
 
+## [When Your Partner Has Bipolar Disorder (highlights)](<When Your Partner Has Bipolar Disorder (highlights).md>)
+- **[Full Title](<Full Title.md>):** When Your Partner Has Bipolar Disorder
+- **[Category](<Category.md>):**
+
 ## [Where There Is No Doctor (highlights)](<Where There Is No Doctor (highlights).md>)
 - **[Full Title](<Full Title.md>):** Where There Is No Doctor
 - **[Category](<Category.md>):**

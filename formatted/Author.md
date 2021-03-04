@@ -351,6 +351,9 @@
 ## [What&[39](<39.md>);s Worth Teaching? (highlights)](<What&[39](<39.md>);s Worth Teaching? (highlights).md>)
 - **[Author](<Author.md>):**
 
+## [When Your Partner Has Bipolar Disorder (highlights)](<When Your Partner Has Bipolar Disorder (highlights).md>)
+- **[Author](<Author.md>):**
+
 ## [Where There Is No Doctor (highlights)](<Where There Is No Doctor (highlights).md>)
 - **[Author](<Author.md>):**
 

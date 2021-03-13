@@ -213,6 +213,8 @@
 ## [When Your Partner Has Bipolar Disorder (highlights)](<When Your Partner Has Bipolar Disorder (highlights).md>)
 - **Tags**: #[blue](<blue.md>)
 
+- **Tags**: #[blue](<blue.md>)
+
 ## [William James (highlights)](<William James (highlights).md>)
 - **Tags**: #[blue](<blue.md>)
 

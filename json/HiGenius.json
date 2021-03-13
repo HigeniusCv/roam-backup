@@ -1320,7 +1320,7 @@
       }
     ],
     "create-time": 1599118946293,
-    "edit-time": 1614778920482,
+    "edit-time": 1615443306140,
     "title": "Readwise",
     "uid": "tQiZw77L3"
   },
@@ -61056,10 +61056,71 @@
         ],
         "string": "Highlights first synced by #Readwise [[March 3rd, 2021]]",
         "uid": "ILcVwFNvO"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "03-10-2021"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        ":edit/user": {
+          ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+        },
+        "children": [
+          {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "maU-uSas2"
+                  }
+                ],
+                ":create/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                ":edit/user": {
+                  ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+                },
+                "create-time": 1615443302118,
+                "edit-time": 1615443302125,
+                "refs": [
+                  {
+                    "uid": "maU-uSas2"
+                  }
+                ],
+                "string": "**Tags**: #[[blue]]",
+                "uid": "0DS3aXhGx"
+              }
+            ],
+            "create-time": 1615443302117,
+            "edit-time": 1615443302125,
+            "string": "Timberlawn Couple and Family Evaluation Scales\u2013Self-Report (TCFES-SR). ([Location\u00a01914](https://readwise.io/to_kindle?action=open&asin=B08WRN8XZ6&location=1914))",
+            "uid": "UjYIa70ef"
+          }
+        ],
+        "create-time": 1615443302115,
+        "edit-time": 1615443302125,
+        "heading": 3,
+        "refs": [
+          {
+            "uid": "03-10-2021"
+          }
+        ],
+        "string": "New highlights added [[March 10th, 2021]] at 10:15 PM",
+        "uid": "aMn-k_osc"
       }
     ],
     "create-time": 1614778915811,
-    "edit-time": 1614778915855,
+    "edit-time": 1615443302125,
     "title": "When Your Partner Has Bipolar Disorder (highlights)",
     "uid": "EXuIP2YUC"
   },
@@ -61158,5 +61219,29 @@
     "edit-time": 1615414967480,
     "title": "March 10th, 2021",
     "uid": "03-10-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1615443293374,
+    "edit-time": 1615443306146,
+    "title": "March 11th, 2021",
+    "uid": "03-11-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1615645286287,
+    "edit-time": 1615645286287,
+    "title": "March 13th, 2021",
+    "uid": "03-13-2021"
   }
 ]

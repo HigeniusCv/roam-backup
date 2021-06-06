@@ -37,6 +37,10 @@
 
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 ## [October 26th, 2020](<October 26th, 2020.md>)
 - {{[DONE](<DONE.md>)}
 
@@ -166,6 +170,12 @@
 - {{[DONE](<DONE.md>)}
 
 ## [TODO](<TODO.md>)
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
+- {{[DONE](<DONE.md>)}
+
 - {{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}

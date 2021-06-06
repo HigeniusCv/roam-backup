@@ -31,7 +31,7 @@
     - [October 28th, 2020](<October 28th, 2020.md>)Baby Beckett photo
     - [October 29th, 2020](<October 29th, 2020.md>)mannikin
     - [December 2nd, 2020](<December 2nd, 2020.md>)Penrose Triangles
-- [ ] Update my website Portfolio 
+- [x] Update my website Portfolio 
     - Add exegesis (inspired by Ollie Khakwani)
     - Refine Portfolio to include more BEcon examples, and put up
     - publish to G-docs 
@@ -53,14 +53,15 @@
                 - Can you point to any work that leverages your Yak C?
             - What is the one thing you haven't done enough of to market your consultancy?
 - [x] Ride bike to top of Cedar before starting work
-- [ ] Create experimental design for an assessment of flow for Salesforce next action evaluation
+- [ ] Create experimental design for an assessment of ((flow)) next action evaluation
+    - flow
     - [ ] Use guidedtrack to capture the data
     - [ ] Sandbox a small studies within Mturk account
     - [ ] Run ten hits with a simple flow metric
     - [x] Reactivate my MTurk
     - Write letter to 5 LinkedIn on Flow benchmark  ((frog))
     - [ ] Prioritize from the list of topics next top 3 ideas to write about
-- [ ] Write for an hour per day
+- [x] Write for an hour per day
     - [October 13th, 2020](<October 13th, 2020.md>) equals publish to LinkedIn and fix Medium
     - [October 14th, 2020](<October 14th, 2020.md>) equals describe method for experiment with Instacart
     - [October 15th, 2020](<October 15th, 2020.md>) equals tweet storm
@@ -72,7 +73,7 @@
 - [x] Tiny Habits when (via email) 
 - [x] Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - [x] Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
-- [ ] Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak 
+- [x] Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak 
 
 # Backlinks
 ## [Apologies](<Apologies.md>)
@@ -146,10 +147,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 ## [October 26th, 2020](<October 26th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -171,12 +168,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

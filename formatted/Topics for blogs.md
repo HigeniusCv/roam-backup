@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [Autobio 0 Draft](<Autobio 0 Draft.md>)
-- building on "[Topics for blogs](<Topics for blogs.md>)"
+- building on [Topics for blogs](<Topics for blogs.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [Topics for blogs](<Topics for blogs.md>)

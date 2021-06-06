@@ -31,7 +31,7 @@
     - [[October 28th, 2020]]Baby Beckett photo
     - [[October 29th, 2020]]mannikin
     - [[December 2nd, 2020]]Penrose Triangles
-- {{[[TODO]]}} Update my website Portfolio 
+- {{[[DONE]]}} Update my website Portfolio 
     - Add exegesis (inspired by Ollie Khakwani)
     - Refine Portfolio to include more BEcon examples, and put up
     - publish to G-docs 
@@ -53,14 +53,15 @@
                 - Can you point to any work that leverages your Yak C?
             - What is the one thing you haven't done enough of to market your consultancy?
 - {{[[DONE]]}} Ride bike to top of Cedar before starting work
-- {{[[TODO]]}} Create experimental design for an assessment of flow for Salesforce next action evaluation
+- {{[[TODO]]}} Create experimental design for an assessment of ((flow)) next action evaluation
+    - flow
     - {{[[TODO]]}} Use guidedtrack to capture the data
     - {{[[TODO]]}} Sandbox a small studies within Mturk account
     - {{[[TODO]]}} Run ten hits with a simple flow metric
     - {{[[DONE]]}} Reactivate my MTurk
     - Write letter to 5 LinkedIn on Flow benchmark  ((frog))
     - {{[[TODO]]}} Prioritize from the list of topics next top 3 ideas to write about
-- {{[[TODO]]}} Write for an hour per day
+- {{[[DONE]]}} Write for an hour per day
     - [[October 13th, 2020]] equals publish to LinkedIn and fix Medium
     - [[October 14th, 2020]] equals describe method for experiment with Instacart
     - [[October 15th, 2020]] equals tweet storm
@@ -72,4 +73,4 @@
 - {{[[DONE]]}} Tiny Habits when (via email) 
 - {{[[DONE]]}} Publish by 10/12 3pm the Apologies blog to LikedIn & Medium
 - {{[[DONE]]}} Allocate 30 mins a day to Roam: keep daily notes in Roam - figure out how to templatize
-- {{[[TODO]]}} Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak 
+- {{[[DONE]]}} Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak 

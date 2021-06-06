@@ -16725,7 +16725,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":create/user": {
@@ -16805,13 +16805,13 @@
           }
         ],
         "create-time": 1607535673195,
-        "edit-time": 1607535674187,
+        "edit-time": 1616191908197,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Update my website Portfolio ",
+        "string": "{{[[DONE]]}} Update my website Portfolio ",
         "uid": "YA1dSNPcM"
       },
       {
@@ -17031,6 +17031,18 @@
         },
         "children": [
           {
+            ":create/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            ":edit/user": {
+              ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+            },
+            "create-time": 1616191940136,
+            "edit-time": 1616191940136,
+            "string": "flow",
+            "uid": "lLJ35liR2"
+          },
+          {
             ":block/refs": [
               {
                 ":block/uid": "QimQgkMaw"
@@ -17133,19 +17145,19 @@
             "uid": "4tEbJOK9L"
           }
         ],
-        "edit-time": 1606930911938,
+        "edit-time": 1616191953219,
         "refs": [
           {
             "uid": "QimQgkMaw"
           }
         ],
-        "string": "{{[[TODO]]}} Create experimental design for an assessment of flow for Salesforce next action evaluation",
+        "string": "{{[[TODO]]}} Create experimental design for an assessment of ((flow)) next action evaluation",
         "uid": "aMR7YRdmI"
       },
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":edit/user": {
@@ -17259,13 +17271,13 @@
             "uid": "zVCoofMj6"
           }
         ],
-        "edit-time": 1603387703262,
+        "edit-time": 1616191974896,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Write for an hour per day",
+        "string": "{{[[DONE]]}} Write for an hour per day",
         "uid": "RUKuRG_xu"
       },
       {
@@ -17391,7 +17403,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":create/user": {
@@ -17401,13 +17413,13 @@
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
         "create-time": 1602779811814,
-        "edit-time": 1604943240295,
+        "edit-time": 1616191981262,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak ",
+        "string": "{{[[DONE]]}} Plan dinners (use 4 hour chef) Fettucine Monday, Taco Tues,  Weds in Jerusalem, Thurs Lasagna, Fri stir fry, sat steak ",
         "uid": "avJMFC_33"
       }
     ],
@@ -28884,7 +28896,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":create/user": {
@@ -28894,13 +28906,13 @@
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
         "create-time": 1603296133736,
-        "edit-time": 1603296240841,
+        "edit-time": 1616192007953,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Frog: Collect feedback and draft a second round on apologies. I've harshed on the illusion that a company has a human face. Neither of the comments assimilates my grim assessment, exemplifying my claim that people seek a way out rather than a way into that constraint.",
+        "string": "{{[[DONE]]}} Frog: Collect feedback and draft a second round on apologies. I've harshed on the illusion that a company has a human face. Neither of the comments assimilates my grim assessment, exemplifying my claim that people seek a way out rather than a way into that constraint.",
         "uid": "PkXGhBfJS"
       },
       {
@@ -28986,7 +28998,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "QimQgkMaw"
+            ":block/uid": "KO2QaIgrP"
           }
         ],
         ":create/user": {
@@ -28996,13 +29008,13 @@
           ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
         },
         "create-time": 1603296533258,
-        "edit-time": 1603296598971,
+        "edit-time": 1616192019384,
         "refs": [
           {
-            "uid": "QimQgkMaw"
+            "uid": "KO2QaIgrP"
           }
         ],
-        "string": "{{[[TODO]]}} Contact multiple people in the Yak for 'how I billed this.' Start with the New Plagued Home deck yaks, to inquire if their visibility there was motivated by getting gigs, and if that's generated calls or other leads.",
+        "string": "{{[[DONE]]}} Contact multiple people in the Yak for 'how I billed this.' Start with the New Plagued Home deck yaks, to inquire if their visibility there was motivated by getting gigs, and if that's generated calls or other leads.",
         "uid": "NZvBVuROm"
       },
       {
@@ -61255,5 +61267,113 @@
     "edit-time": 1615703005926,
     "title": "March 14th, 2021",
     "uid": "03-14-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1616190659327,
+    "edit-time": 1616190659327,
+    "title": "March 19th, 2021",
+    "uid": "03-19-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1616308959898,
+    "edit-time": 1616308959898,
+    "title": "March 20th, 2021",
+    "uid": "03-20-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1617333906166,
+    "edit-time": 1617333906166,
+    "title": "April 1st, 2021",
+    "uid": "04-01-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1617334404044,
+    "edit-time": 1617334404044,
+    "title": "April 2nd, 2021",
+    "uid": "04-02-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1617524807199,
+    "edit-time": 1617524807199,
+    "title": "April 4th, 2021",
+    "uid": "04-04-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1617712369341,
+    "edit-time": 1617712369341,
+    "title": "April 6th, 2021",
+    "uid": "04-06-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1617780292285,
+    "edit-time": 1617780292285,
+    "title": "April 7th, 2021",
+    "uid": "04-07-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1617863377362,
+    "edit-time": 1617863377362,
+    "title": "April 8th, 2021",
+    "uid": "04-08-2021"
+  },
+  {
+    ":create/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    ":edit/user": {
+      ":user/uid": "7YOvcJoyd5cWowek0e4bzaTB06M2"
+    },
+    "create-time": 1619582547973,
+    "edit-time": 1619582547973,
+    "title": "April 27th, 2021",
+    "uid": "04-27-2021"
   }
 ]

@@ -24,7 +24,7 @@
         - If you're curious about what's blocking you, don't look for the reason
         - I just gave you the reason: Your mind will flow toward attraction. Even the slightest uphill gradient will redirect your movement.
         - Psycho-analyzing, ratiocination, rooting for the antecedent causes is just a blocking behavior. Sure, it feels better than moving along the path you're posing as attractive. 
-        - The "principle of least action PLA" is one of the deepest levels of explanatory analysis. Beautifully, it's happening at so many different scales. There's surely a welter of contextual facts that shape the path of an electron through a field, a wave of light moving through water or air, a phone falling to the ground, or the movement of a crowd through a stadium gate.
+        - The principle of least action PLA is one of the deepest levels of explanatory analysis. Beautifully, it's happening at so many different scales. There's surely a welter of contextual facts that shape the path of an electron through a field, a wave of light moving through water or air, a phone falling to the ground, or the movement of a crowd through a stadium gate.
             - principle of least action PLA
         - How would you benefit from knowing the precise placement of every atom along the Mississippi delta over the past century? Are you, perchance, wondering whether there's any evidence disconfirming the Principle of Least Action? Could I persuade you to slake your curiosity by compressing all that mess into the image attached? 
             - More familiar, little Jeffy's Family Circus path home

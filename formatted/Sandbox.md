@@ -14,8 +14,8 @@
 
 - The referenced block only "lives'' in one place: its other instantiations (block references) reflect the very process of thinking by recalling, embedding, abstracting, or remixing the original thought.
 - **Ways to reference blocks**
-    - Right-click on the bullet of the block, then click **Copy block ref **from the dropdown menu. Paste it in another location (even inline another block!) "**Challenge II**"
-    - "Hold **fn/option **on your keyboard as you drag the block you want to reference in another location and a block reference will automatically be created. This option also applies to all the children of the original block."
+    - Right-click on the bullet of the block, then click **Copy block ref **from the dropdown menu. Paste it in another location (even inline another block!) **Challenge II**
+    - Hold **fn/option **on your keyboard as you drag the block you want to reference in another location and a block reference will automatically be created. This option also applies to all the children of the original block.
     - In the location, you want to reference a block, type **(( **, then search for it by writing keywords from that block
     - Hold **fn/option **on your keyboard as you drag the block you want to reference in another location and a block reference will automatically be created. This option also applies to all the children of the original block.
     - **Challenge III**
